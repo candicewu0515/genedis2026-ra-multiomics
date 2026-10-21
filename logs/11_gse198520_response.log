@@ -1,0 +1,48 @@
+Signature genes available: 13 -> MT1H, MT1G, MT2A, MT1F, MT1X, PKM, APOL6, MT1E, PFKP, MT1M, IL4I1, SLAMF7, GBP5
+R2 of signature score ~ log library size + mito fraction (all samples): 0.43
+                          predictor  n  auc_good_vs_non  ci_low  ci_high  perm_p  random_geneset_median_auc  random_geneset_pct_ge_obs
+                    signature score 33            0.726   0.532    0.890   0.026                      0.147                      0.001
+                     baseline DAS28 33            0.289   0.113    0.485   0.042                        NaN                        NaN
+                homeostatic program 33            0.774   0.597    0.926   0.007                        NaN                        NaN
+               inflammatory program 33            0.583   0.367    0.793   0.466                        NaN                        NaN
+       log library size (technical) 33            0.838   0.679    0.956   0.001                        NaN                        NaN
+          mito fraction (technical) 33            0.797   0.610    0.941   0.001                        NaN                        NaN
+signature score, technical residual 33            0.515   0.297    0.722   0.897                        NaN                        NaN
+                     majority class 33            0.500     NaN      NaN     NaN                        NaN                        NaN
+ hypothesis                                                                                 test  statistic      p  n                                                                                            note
+         H1                                               Spearman score vs baseline das28 score    -0.1875 0.2120 46                                                                                                
+         H1                                        Spearman score vs baseline inflammatory score     0.3973 0.0092 42                                                                                                
+         H1                                                       Spearman score vs baseline crp    -0.1388 0.3576 46                                                                                                
+         H1                                                            Kruskal score ~ pathotype     3.6979 0.1574 46                                Fibroid median -0.16; Lymphoid median 0.34; Myeloid median -0.18
+         H2                                                       Mann-Whitney score good vs non   193.0000 0.0302 33                                                                     median good 0.22, non -0.25
+         H2                               Spearman score vs ordinal response (non<moderate<good)     0.3480 0.0178 46                                                                                                
+         H2                      Spearman baseline score vs delta DAS28 (negative = improvement)    -0.3379 0.0216 46                                                                                                
+   confound                                                       Spearman baseline score vs RIN     0.5696 0.0004 35                                                                                                
+         H2                        Logistic good vs non ~ score + biologic: OR per 1 SD of score     4.7812 0.0194 33                                                                                                
+         H2                  Logistic good vs non ~ score + biologic + RIN: OR per 1 SD of score     2.2388 0.2572 24                                                                                                
+   confound                                    Spearman baseline log_libsize vs ordinal response     0.4805 0.0007 46                                                                                                
+   confound                                     Spearman baseline log_libsize vs signature score     0.7203 0.0000 46                                                                                                
+   confound                                       Spearman baseline pct_mito vs ordinal response     0.4625 0.0012 46                                                                                                
+   confound                                        Spearman baseline pct_mito vs signature score     0.4859 0.0006 46                                                                                                
+H2-adjusted         Logistic good vs non ~ score + log library size + mito: OR per 1 SD of score     1.1365 0.8676 33                                                                                                
+H2-adjusted                                Spearman technical-residual score vs ordinal response     0.0236 0.8762 46                                                                                                
+   confound                         Spearman histological inflammatory score vs log library size     0.4607 0.0021 42 library size may partly reflect tissue cellularity, so the technical adjustment is conservative
+H1-adjusted                 Spearman technical-residual score vs histological inflammatory score     0.2409 0.1243 42                                                                                                
+   confound                               Spearman baseline PC1 (57% of variance) vs log_libsize    -0.8387 0.0000 46                                                                                                
+   confound                                  Spearman baseline PC1 (57% of variance) vs pct_mito    -0.8092 0.0000 46                                                                                                
+   confound                                       Spearman baseline PC1 (57% of variance) vs rin    -0.6355 0.0000 35                                                                                                
+   confound                              Spearman baseline PC1 (57% of variance) vs response_ord    -0.6421 0.0000 46                                                                                                
+   confound                           Spearman baseline PC1 (57% of variance) vs signature_score    -0.7062 0.0000 46                                                                                                
+   confound Mean per-gene rho with log library size: signature vs expression-matched random sets     0.4188 0.0005 13                                                                             random median -0.24
+         H3                                                           Wilcoxon post vs pre (all)   197.0000 0.0001 46                                                                             median change -0.35
+         H3                                                          Wilcoxon post vs pre (good)    23.0000 0.0024 19                                                                             median change -0.60
+         H3                                                      Wilcoxon post vs pre (moderate)    19.0000 0.0681 13                                                                             median change -0.55
+         H3                                                           Wilcoxon post vs pre (non)    25.0000 0.0906 14                                                                             median change -0.19
+         H3                                                Mann-Whitney score change good vs non    71.0000 0.0251 33                                                                                                
+         H3                                                Spearman score change vs DAS28 change     0.1941 0.1962 46                                                                                                
+H3-adjusted                                              Wilcoxon log library size change (good)    57.0000 0.1336 19                                                                             median change -0.20
+H3-adjusted                                               Wilcoxon log library size change (non)    50.0000 0.9032 14                                                                             median change -0.13
+H3-adjusted                                      Wilcoxon technical-residual score change (good)    35.0000 0.0141 19                                                                             median change -0.70
+H3-adjusted                                  Wilcoxon technical-residual score change (moderate)    17.0000 0.0479 13                                                                             median change -0.25
+H3-adjusted                                       Wilcoxon technical-residual score change (non)    26.0000 0.1040 14                                                                             median change -0.27
+H3-adjusted                                   Mann-Whitney technical-residual change good vs non    91.0000 0.1306 33                                                                                                

@@ -1,0 +1,2 @@
+Knowledge graph: 464 nodes ({'Gene': 178, 'CellState': 70, 'TF': 65, 'Drug': 58, 'Variant': 53, 'Pathway': 36, 'Disease': 3, 'Score': 1}), 736 edges ({'in_state_specific_peak': 108, 'fine_mapped_variant_in_state_specific_peak': 62, 'nearest_protein_coding_gene': 53, 'leading_edge_member': 46, 'marks_cell_state': 40, 'late_stage_inhibitor_of': 38, 'associated_with': 37, 'up_in_active_RA_macrophages': 35})
+Viewer: <project>/results/knowledge_graph/kg_viewer.html

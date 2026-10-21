@@ -1,0 +1,9 @@
+graph	level	mean_neighbour_label_agreement	note
+RNA	cell type	0.964	
+RNA	subtype	0.515	
+ATAC	cell type	0.965	
+ATAC	subtype	0.45	
+WNN	cell type	0.968	
+WNN	subtype	0.503	
+WNN leiden	subtype	0.414	ARI
+RNA leiden (step 02)	subtype	0.382	ARI

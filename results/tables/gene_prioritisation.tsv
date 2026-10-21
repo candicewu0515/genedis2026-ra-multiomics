@@ -1,0 +1,116 @@
+gene	L1_scRNA_disease	L2_tissue_M6	L3_treatment	L4_chromatin	L5_genetics	L6_variant_motif	L7_pathway	L8_communication	L9_protein	L10_coloc	L11_finemap	evidence_score	n_layers_with_evidence	sources	category	ot_ra_score	RA_drugs	late_stage_inhibitors	novelty	protein_p_best
+CD40	0.5	1.0	0.5	0.5	1.0	0.0	1.0	0.0	0.0	1.0	0.5	6.0	8	gwas,pathway	tested in RA, not approved	0.615	ISCALIMAB (PHASE_2)		established	
+STAT4	0.5	1.0	0.0	1.0	0.5	0.0	1.0	0.0	0.0	1.0	0.0	5.0	6	pathway	no tractability evidence	0.609			established	
+SOD2	0.5	1.0	1.0	0.5	0.0	0.0	1.0	0.0	1.0	0.0	0.0	5.0	6	pathway	no tractability evidence	0.0			new to RA (OT < 0.1)	0.024
+TNFAIP3	0.0	1.0	0.5	0.5	1.0	1.0	0.0	0.0	0.0	0.0	0.5	4.5	6	gwas	no tractability evidence	0.512			established	
+IRF8	0.0	0.0	0.5	0.5	1.0	1.0	1.0	0.0	0.0	0.0	0.5	4.5	6	gwas,pathway	no tractability evidence	0.253			weakly known	1.0
+CD2	0.0	0.0	0.5	1.0	1.0	1.0	0.0	0.0	0.0	0.0	1.0	4.5	5	gwas	late-stage inhibitor, direction to verify (GWAS gene)	0.442		ALEFACEPT	established	1.0
+SLAMF7	1.0	1.0	0.5	0.5	0.0	0.0	1.0	0.0	0.0	0.0	0.0	4.0	5	pathway,signature	repurposing lead: late-stage inhibitor of a disease-up gene	0.084		ELOTUZUMAB	new to RA (OT < 0.1)	
+CXCL10	0.5	1.0	0.5	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	4.0	5	communication,pathway	tested in RA, not approved	0.136	ELDELUMAB (PHASE_2)		weakly known	
+FCGR2A	0.0	0.0	1.0	0.5	0.5	0.0	0.0	1.0	0.0	1.0	0.0	4.0	5	communication	tractable, no late-stage drug	0.494			established	1.0
+STAT1	0.5	1.0	0.5	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	4.0	5	pathway	tractable, no late-stage drug	0.146			weakly known	0.024
+CXCL9	0.5	1.0	0.5	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	4.0	5	communication,pathway	tractable, no late-stage drug	0.102			weakly known	
+LAP3	0.5	1.0	0.5	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	4.0	5	pathway	tractable, no late-stage drug	0.043			new to RA (OT < 0.1)	0.024
+APOL6	1.0	1.0	0.5	0.5	0.0	0.0	1.0	0.0	0.0	0.0	0.0	4.0	5	pathway,signature	tractable, no late-stage drug	0.014			new to RA (OT < 0.1)	
+ANKRD55	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	1.0	4.0	4	gwas	no tractability evidence	0.486			established	
+RPLP1	0.0	0.0	1.0	0.0	1.0	1.0	0.0	0.0	1.0	0.0	0.0	4.0	4	gwas	tractable, no late-stage drug	0.323			established	0.024
+CTLA4	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.5	3.5	4	gwas	late-stage inhibitor, direction to verify (GWAS gene)	0.618		CADONILIMAB; ERFONRILIMAB; IPILIMUMAB; QUAVONLIMAB	established	
+PHF19	0.0	1.0	0.0	0.5	1.0	0.0	0.0	0.0	0.0	1.0	0.0	3.5	4	gwas	no tractability evidence	0.27			weakly known	
+IFNGR2	0.0	0.0	0.0	0.5	0.5	0.0	0.0	1.0	0.0	1.0	0.0	3.0	4	communication	late-stage drug, activating/unclear direction	0.466			established	
+SERPING1	0.0	1.0	0.5	0.5	0.0	0.0	1.0	0.0	0.0	0.0	0.0	3.0	4	pathway	late-stage drug, activating/unclear direction	0.048			new to RA (OT < 0.1)	1.0
+IRF1	0.5	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	3.0	4	pathway	no tractability evidence	0.108			weakly known	
+MT2A	1.0	0.0	0.5	0.5	0.0	0.0	1.0	0.0	0.0	0.0	0.0	3.0	4	pathway,signature	no tractability evidence	0.036			new to RA (OT < 0.1)	
+LCP2	0.0	0.0	0.5	0.5	0.0	0.0	1.0	0.0	1.0	0.0	0.0	3.0	4	pathway	no tractability evidence	0.011			new to RA (OT < 0.1)	0.024
+TRIM25	0.5	0.0	0.0	0.5	0.0	0.0	1.0	0.0	1.0	0.0	0.0	3.0	4	pathway	no tractability evidence	0.0			new to RA (OT < 0.1)	0.048
+C1S	0.5	0.0	0.5	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	3.0	4	pathway	repurposing lead: late-stage inhibitor of a disease-up gene	0.044		HUMAN C1-ESTERASE INHIBITOR; SUTIMLIMAB	new to RA (OT < 0.1)	1.0
+ARID5B	0.5	0.0	0.0	0.5	1.0	0.0	0.0	0.0	0.0	0.0	1.0	3.0	4	gwas	tractable, no late-stage drug	0.531			established	
+CXCL13	0.5	0.0	0.5	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	3.0	4	gwas	tractable, no late-stage drug	0.419			established	
+STAT3	0.5	0.0	0.0	0.5	0.0	0.0	1.0	0.0	1.0	0.0	0.0	3.0	4	pathway	tractable, no late-stage drug	0.225			weakly known	0.024
+STAT2	0.5	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	3.0	4	pathway	tractable, no late-stage drug	0.042			new to RA (OT < 0.1)	1.0
+UBE2L6	0.5	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	3.0	4	pathway	tractable, no late-stage drug	0.005			new to RA (OT < 0.1)	1.0
+RNF213	0.5	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	3.0	4	pathway	tractable, no late-stage drug	0.004			new to RA (OT < 0.1)	0.071
+VAMP5	0.5	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	3.0	4	pathway	tractable, no late-stage drug	0.002			new to RA (OT < 0.1)	
+CCR6	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	3.0	3	gwas	tractable, no late-stage drug	0.524			established	
+PLD4	0.0	1.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	3.0	3	gwas	tractable, no late-stage drug	0.417			established	
+NAB1	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	1.0	0.0	3.0	3	gwas	tractable, no late-stage drug	0.406			established	
+CIITA	0.0	0.0	0.5	0.5	0.5	0.0	1.0	0.0	0.0	0.0	0.0	2.5	4	pathway	no tractability evidence	0.434			established	
+NLRC5	0.5	0.0	0.5	0.5	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	4	pathway	no tractability evidence	0.043			new to RA (OT < 0.1)	
+TLR4	0.0	0.0	0.5	0.5	0.5	0.0	0.0	1.0	0.0	0.0	0.0	2.5	4	communication	repurposing lead: late-stage inhibitor of a disease-up gene	0.376		ERITORAN; ERITORAN TETRASODIUM; RESATORVID	established	
+SIRPA	0.5	0.0	0.5	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.5	4	communication	tractable, no late-stage drug	0.074			new to RA (OT < 0.1)	1.0
+TNIP1	0.0	0.0	0.5	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	2.5	3	gwas	no tractability evidence	0.466			established	
+ETV7	0.5	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	2.5	3	gwas	no tractability evidence	0.429			established	
+EPSTI1	0.5	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	no tractability evidence	0.12			weakly known	
+TRAFD1	0.0	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	no tractability evidence	0.082			new to RA (OT < 0.1)	1.0
+ADAR	0.0	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	no tractability evidence	0.078			new to RA (OT < 0.1)	0.071
+SAMD9L	0.0	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	no tractability evidence	0.044			new to RA (OT < 0.1)	1.0
+CD38	0.5	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	repurposing lead: late-stage inhibitor of a disease-up gene	0.117		DARATUMUMAB; FELZARTAMAB; ISATUXIMAB	weakly known	1.0
+CCR5	0.5	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.5	3	communication	tested in RA, not approved	0.165	MARAVIROC (PHASE_2); AZD5672 (PHASE_2)	APLAVIROC; APLAVIROC HYDROCHLORIDE; CENICRIVIROC; LERONLIMAB; MARAVIROC; VICRIVIROC	weakly known	
+ITGB2	0.0	0.0	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.5	3	communication	tested in RA, not approved	0.134	EFALIZUMAB (PHASE_2)	LIFITEGRAST	weakly known	0.071
+IFIH1	0.0	1.0	0.0	0.0	0.5	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	tractable, no late-stage drug	0.403			established	1.0
+PFKFB3	0.0	0.0	0.0	0.5	1.0	0.0	0.0	0.0	0.0	1.0	0.0	2.5	3	gwas	tractable, no late-stage drug	0.255			weakly known	
+NRP2	0.0	1.0	0.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.5	3	communication	tractable, no late-stage drug	0.156			weakly known	1.0
+TLR2	0.0	0.0	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.5	3	communication	tractable, no late-stage drug	0.114			weakly known	1.0
+TRIM21	0.0	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	tractable, no late-stage drug	0.092			new to RA (OT < 0.1)	1.0
+PTPN1	0.5	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	tractable, no late-stage drug	0.059			new to RA (OT < 0.1)	1.0
+CXCL11	0.5	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.5	3	communication	tractable, no late-stage drug	0.045			new to RA (OT < 0.1)	
+TSPAN32	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.5	0.0	2.5	3	gwas	tractable, no late-stage drug	0.031			new to RA (OT < 0.1)	
+GBP5	1.0	1.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.5	3	signature	tractable, no late-stage drug	0.03			new to RA (OT < 0.1)	1.0
+ISG20	0.0	1.0	0.0	0.5	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	tractable, no late-stage drug	0.027			new to RA (OT < 0.1)	1.0
+LGALS3BP	0.0	0.0	0.5	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	2.5	3	pathway	tractable, no late-stage drug	0.01			new to RA (OT < 0.1)	0.024
+PARP14	0.0	1.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.5	3	pathway	tractable, no late-stage drug	0.004			new to RA (OT < 0.1)	1.0
+FCGR3A	0.0	0.0	0.5	0.5	1.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	3	gwas	late-stage drug, activating/unclear direction	0.125			weakly known	1.0
+MT1E	1.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	3	signature	no tractability evidence	0.017			new to RA (OT < 0.1)	
+BTG1	0.0	0.0	0.5	0.5	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.0	3	pathway	no tractability evidence	0.003			new to RA (OT < 0.1)	
+CCR1	0.0	0.0	0.5	0.0	0.5	0.0	0.0	1.0	0.0	0.0	0.0	2.0	3	communication	tested in RA, not approved	0.377	BMS-817399 (PHASE_2); CCX354 (PHASE_2)		established	0.071
+RUNX1	0.0	0.0	0.0	0.5	1.0	0.0	0.0	0.0	0.0	0.0	0.5	2.0	3	gwas	tractable, no late-stage drug	0.526			established	1.0
+IL18BP	0.5	0.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.0	3	pathway	tractable, no late-stage drug	0.068			new to RA (OT < 0.1)	
+TNFSF4	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	2.0	2	gwas	late-stage inhibitor, direction to verify (GWAS gene)	0.466		AMLITELIMAB	established	
+IRF5	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	2.0	2	gwas	no tractability evidence	0.638			established	1.0
+AL355916.3	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	2.0	2	gwas	no tractability evidence	0.0			new to RA (OT < 0.1)	
+ZNF629	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	2.0	2	gwas	no tractability evidence	0.0			new to RA (OT < 0.1)	
+VWF	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	2.0	2	communication	repurposing lead: late-stage inhibitor of a disease-up gene	0.083		CAPLACIZUMAB	new to RA (OT < 0.1)	0.048
+CSF2	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	2.0	2	gwas	tested in RA, not approved	0.411	OTILIMAB (PHASE_3); NAMILUMAB (PHASE_2); LENZILUMAB (PHASE_2); GIMSILUMAB (PHASE_1); PLONMARLIMAB (PHASE_1)	LENZILUMAB; OTILIMAB; PLONMARLIMAB	established	
+CXCR5	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	2.0	2	gwas	tractable, no late-stage drug	0.13			weakly known	
+TNFSF10	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.0	2	pathway	tractable, no late-stage drug	0.111			weakly known	
+PKM	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	2.0	2	signature	tractable, no late-stage drug	0.105			weakly known	0.024
+THY1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	0.0	0.0	2.0	2	communication	tractable, no late-stage drug	0.086			new to RA (OT < 0.1)	0.024
+LILRB2	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	2	communication	tractable, no late-stage drug	0.073			new to RA (OT < 0.1)	1.0
+PIM1	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.0	2	pathway	tractable, no late-stage drug	0.063			new to RA (OT < 0.1)	
+MX1	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.0	2	pathway	tractable, no late-stage drug	0.056			new to RA (OT < 0.1)	1.0
+MVP	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	0.0	0.0	2.0	2	pathway	tractable, no late-stage drug	0.051			new to RA (OT < 0.1)	0.024
+IL4I1	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	2	signature	tractable, no late-stage drug	0.042			new to RA (OT < 0.1)	1.0
+OAS3	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.0	2	pathway	tractable, no late-stage drug	0.036			new to RA (OT < 0.1)	1.0
+ISG15	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	2.0	2	pathway	tractable, no late-stage drug	0.02			new to RA (OT < 0.1)	0.071
+JAK1	0.0	0.0	0.5	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.5	1.5	3	control	approved in RA	0.719	TOFACITINIB CITRATE (APPROVAL); FILGOTINIB MALEATE (APPROVAL); UPADACITINIB (APPROVAL); UPADACITINIB HEMIHYDRATE (APPROVAL); BARICITINIB (APPROVAL); FILGOTINIB (APPROVAL); TOFACITINIB (APPROVAL); PEFICITINIB (PHASE_3); ITACITINIB (PHASE_2); INCB-0479	ABROCITINIB; BARICITINIB; BREPOCITINIB; DELGOCITINIB; DEURUXOLITINIB PHOSPHATE; FILGOTINIB; FILGOTINIB MALEATE; GOLIDOCITINIB; ITACITINIB; MOMELOTINIB; MOMELOTINIB DIHYDROCHLORIDE MONOHYDRATE; PEFICIT	established	1.0
+LBH	0.0	0.0	0.0	0.5	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	2	gwas	no tractability evidence	0.546			established	
+MT1M	1.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	2	signature	no tractability evidence	0.015			new to RA (OT < 0.1)	
+MT1F	1.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	2	signature	no tractability evidence	0.01			new to RA (OT < 0.1)	
+TDRD10	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.5	0.0	1.5	2	gwas	no tractability evidence	0.0			new to RA (OT < 0.1)	
+VEGFC	0.0	0.0	0.5	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.5	2	communication	repurposing lead: late-stage inhibitor of a disease-up gene	0.073		CONBERCEPT	new to RA (OT < 0.1)	
+PTPN2	0.0	0.0	0.5	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	2	gwas	tractable, no late-stage drug	0.48			established	
+CCDC88B	0.0	0.0	0.0	0.5	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	2	gwas	tractable, no late-stage drug	0.332			established	1.0
+MYD88	0.0	0.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.5	2	pathway	tractable, no late-stage drug	0.112			weakly known	1.0
+PLSCR1	0.0	0.0	0.0	0.5	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.5	2	pathway	tractable, no late-stage drug	0.07			new to RA (OT < 0.1)	1.0
+SOCS3	0.0	0.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.5	2	pathway	tractable, no late-stage drug	0.06			new to RA (OT < 0.1)	
+ANGPTL2	0.0	0.0	0.0	0.5	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.5	2	communication	tractable, no late-stage drug	0.027			new to RA (OT < 0.1)	1.0
+LGMN	0.0	0.0	0.0	0.5	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.5	2	gwas	tractable, no late-stage drug	0.013			new to RA (OT < 0.1)	1.0
+RARRES1	0.0	0.0	0.5	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.5	2	communication	tractable, no late-stage drug	0.0			new to RA (OT < 0.1)	
+IL6R	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	1.0	2	control	approved in RA	0.752	TOCILIZUMAB (APPROVAL); SARILUMAB (APPROVAL); SATRALIZUMAB (PHASE_3); LEVILIMAB (PHASE_3); VOBARILIZUMAB (PHASE_2)	LEVILIMAB; SARILUMAB; SATRALIZUMAB; TOCILIZUMAB	established	
+IFNGR1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1	communication	late-stage drug, activating/unclear direction	0.049			new to RA (OT < 0.1)	
+GATA3	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1	gwas	no tractability evidence	0.549			established	
+MT1X	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1	signature	no tractability evidence	0.012			new to RA (OT < 0.1)	
+MT1H	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1	signature	no tractability evidence	0.005			new to RA (OT < 0.1)	
+MT1G	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1	signature	no tractability evidence	0.004			new to RA (OT < 0.1)	
+MT1L	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1	signature	no tractability evidence	0.0			new to RA (OT < 0.1)	
+PALM2AKAP2	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1	signature	no tractability evidence	0.0			new to RA (OT < 0.1)	
+IFNG	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1	communication	tested in RA, not approved	0.148	FONTOLIZUMAB (PHASE_2)	EMAPALUMAB	weakly known	
+CXCR3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1	communication	tractable, no late-stage drug	0.122			weakly known	
+SEMA3A	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1	communication	tractable, no late-stage drug	0.108			weakly known	
+ITGAX	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1	communication	tractable, no late-stage drug	0.1			new to RA (OT < 0.1)	1.0
+BGN	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1	communication	tractable, no late-stage drug	0.058			new to RA (OT < 0.1)	1.0
+CCL14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	1.0	1	communication	tractable, no late-stage drug	0.054			new to RA (OT < 0.1)	
+PLGRKT	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1	gwas	tractable, no late-stage drug	0.019			new to RA (OT < 0.1)	
+PFKP	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1	signature	tractable, no late-stage drug	0.016			new to RA (OT < 0.1)	0.262
+PARP12	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	1.0	1	pathway	tractable, no late-stage drug	0.007			new to RA (OT < 0.1)	1.0
+TNF	0.0	0.0	0.0	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	1	control	approved in RA	0.716	ETANERCEPT (APPROVAL); INFLIXIMAB (APPROVAL); OZORALIZUMAB (APPROVAL); CERTOLIZUMAB PEGOL (APPROVAL); GOLIMUMAB (APPROVAL); ADALIMUMAB (APPROVAL); NERELIMOMAB (PHASE_3); PLACULUMAB (PHASE_2); REMTOLUMAB (PHASE_2); ABBV-3373 (PHASE_2); PEGSUNERCEPT (P	AFELIMOMAB; CERTOLIZUMAB PEGOL; GOLIMUMAB; INFLIXIMAB; LENERCEPT; NERELIMOMAB; ONERCEPT; OZORALIZUMAB	established	
+MS4A1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	control	approved in RA	0.613	RITUXIMAB (APPROVAL); OFATUMUMAB (PHASE_3); OCRELIZUMAB (PHASE_3); TRU-015 (PHASE_2); VELTUZUMAB (PHASE_2)		established	1.0

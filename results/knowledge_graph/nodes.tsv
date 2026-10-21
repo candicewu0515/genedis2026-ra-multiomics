@@ -1,0 +1,465 @@
+id	type	label	evidence_score	druggability	novelty	location
+RA	Disease	Rheumatoid arthritis				
+NSCLC	Disease	Non-small cell lung cancer				
+score:S2_IFN10	Score	S2 predefined 10-gene IFN score				
+gene:CXCL9	Gene	CXCL9				
+gene:CXCL10	Gene	CXCL10				
+gene:CXCL11	Gene	CXCL11				
+gene:STAT1	Gene	STAT1				
+gene:GBP1	Gene	GBP1				
+gene:GBP5	Gene	GBP5				
+gene:IDO1	Gene	IDO1				
+gene:IRF1	Gene	IRF1				
+gene:CD274	Gene	CD274				
+gene:APOL6	Gene	APOL6				
+gene:CD40	Gene	CD40	6.0	tested in RA, not approved	established	
+gene:STAT4	Gene	STAT4	5.0	no tractability evidence	established	
+gene:SOD2	Gene	SOD2	5.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:TNFAIP3	Gene	TNFAIP3	4.5	no tractability evidence	established	
+gene:IRF8	Gene	IRF8	4.5	no tractability evidence	weakly known	
+gene:CD2	Gene	CD2	4.5	late-stage inhibitor, direction to verify (GWAS gene)	established	
+gene:SLAMF7	Gene	SLAMF7	4.0	repurposing lead: late-stage inhibitor of a disease-up gene	new to RA (OT < 0.1)	
+gene:FCGR2A	Gene	FCGR2A	4.0	tractable, no late-stage drug	established	
+gene:LAP3	Gene	LAP3	4.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:ANKRD55	Gene	ANKRD55	4.0	no tractability evidence	established	
+gene:RPLP1	Gene	RPLP1	4.0	tractable, no late-stage drug	established	
+gene:CTLA4	Gene	CTLA4	3.5	late-stage inhibitor, direction to verify (GWAS gene)	established	
+gene:PHF19	Gene	PHF19	3.5	no tractability evidence	weakly known	
+gene:IFNGR2	Gene	IFNGR2	3.0	late-stage drug, activating/unclear direction	established	
+gene:SERPING1	Gene	SERPING1	3.0	late-stage drug, activating/unclear direction	new to RA (OT < 0.1)	
+gene:MT2A	Gene	MT2A	3.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:LCP2	Gene	LCP2	3.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:TRIM25	Gene	TRIM25	3.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:C1S	Gene	C1S	3.0	repurposing lead: late-stage inhibitor of a disease-up gene	new to RA (OT < 0.1)	
+gene:ARID5B	Gene	ARID5B	3.0	tractable, no late-stage drug	established	
+gene:CXCL13	Gene	CXCL13	3.0	tractable, no late-stage drug	established	
+gene:STAT3	Gene	STAT3	3.0	tractable, no late-stage drug	weakly known	
+gene:STAT2	Gene	STAT2	3.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:UBE2L6	Gene	UBE2L6	3.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:RNF213	Gene	RNF213	3.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:VAMP5	Gene	VAMP5	3.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:CCR6	Gene	CCR6	3.0	tractable, no late-stage drug	established	
+gene:PLD4	Gene	PLD4	3.0	tractable, no late-stage drug	established	
+gene:NAB1	Gene	NAB1	3.0	tractable, no late-stage drug	established	
+gene:CIITA	Gene	CIITA	2.5	no tractability evidence	established	
+gene:NLRC5	Gene	NLRC5	2.5	no tractability evidence	new to RA (OT < 0.1)	
+gene:TLR4	Gene	TLR4	2.5	repurposing lead: late-stage inhibitor of a disease-up gene	established	
+gene:SIRPA	Gene	SIRPA	2.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:TNIP1	Gene	TNIP1	2.5	no tractability evidence	established	
+gene:ETV7	Gene	ETV7	2.5	no tractability evidence	established	
+gene:EPSTI1	Gene	EPSTI1	2.5	no tractability evidence	weakly known	
+gene:TRAFD1	Gene	TRAFD1	2.5	no tractability evidence	new to RA (OT < 0.1)	
+gene:ADAR	Gene	ADAR	2.5	no tractability evidence	new to RA (OT < 0.1)	
+gene:SAMD9L	Gene	SAMD9L	2.5	no tractability evidence	new to RA (OT < 0.1)	
+gene:CD38	Gene	CD38	2.5	repurposing lead: late-stage inhibitor of a disease-up gene	weakly known	
+gene:CCR5	Gene	CCR5	2.5	tested in RA, not approved	weakly known	
+gene:ITGB2	Gene	ITGB2	2.5	tested in RA, not approved	weakly known	
+gene:IFIH1	Gene	IFIH1	2.5	tractable, no late-stage drug	established	
+gene:PFKFB3	Gene	PFKFB3	2.5	tractable, no late-stage drug	weakly known	
+gene:NRP2	Gene	NRP2	2.5	tractable, no late-stage drug	weakly known	
+gene:TLR2	Gene	TLR2	2.5	tractable, no late-stage drug	weakly known	
+gene:TRIM21	Gene	TRIM21	2.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:PTPN1	Gene	PTPN1	2.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:TSPAN32	Gene	TSPAN32	2.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:ISG20	Gene	ISG20	2.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:LGALS3BP	Gene	LGALS3BP	2.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:PARP14	Gene	PARP14	2.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:FCGR3A	Gene	FCGR3A	2.0	late-stage drug, activating/unclear direction	weakly known	
+gene:MT1E	Gene	MT1E	2.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:BTG1	Gene	BTG1	2.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:CCR1	Gene	CCR1	2.0	tested in RA, not approved	established	
+gene:RUNX1	Gene	RUNX1	2.0	tractable, no late-stage drug	established	
+gene:IL18BP	Gene	IL18BP	2.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:TNFSF4	Gene	TNFSF4	2.0	late-stage inhibitor, direction to verify (GWAS gene)	established	
+gene:IRF5	Gene	IRF5	2.0	no tractability evidence	established	
+gene:AL355916.3	Gene	AL355916.3	2.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:ZNF629	Gene	ZNF629	2.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:VWF	Gene	VWF	2.0	repurposing lead: late-stage inhibitor of a disease-up gene	new to RA (OT < 0.1)	
+gene:CSF2	Gene	CSF2	2.0	tested in RA, not approved	established	
+gene:CXCR5	Gene	CXCR5	2.0	tractable, no late-stage drug	weakly known	
+gene:TNFSF10	Gene	TNFSF10	2.0	tractable, no late-stage drug	weakly known	
+gene:PKM	Gene	PKM	2.0	tractable, no late-stage drug	weakly known	
+gene:THY1	Gene	THY1	2.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:LILRB2	Gene	LILRB2	2.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:PIM1	Gene	PIM1	2.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:MX1	Gene	MX1	2.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:MVP	Gene	MVP	2.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:IL4I1	Gene	IL4I1	2.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:OAS3	Gene	OAS3	2.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:ISG15	Gene	ISG15	2.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:JAK1	Gene	JAK1	1.5	approved in RA	established	
+gene:LBH	Gene	LBH	1.5	no tractability evidence	established	
+gene:MT1M	Gene	MT1M	1.5	no tractability evidence	new to RA (OT < 0.1)	
+gene:MT1F	Gene	MT1F	1.5	no tractability evidence	new to RA (OT < 0.1)	
+gene:TDRD10	Gene	TDRD10	1.5	no tractability evidence	new to RA (OT < 0.1)	
+gene:VEGFC	Gene	VEGFC	1.5	repurposing lead: late-stage inhibitor of a disease-up gene	new to RA (OT < 0.1)	
+gene:PTPN2	Gene	PTPN2	1.5	tractable, no late-stage drug	established	
+gene:CCDC88B	Gene	CCDC88B	1.5	tractable, no late-stage drug	established	
+gene:MYD88	Gene	MYD88	1.5	tractable, no late-stage drug	weakly known	
+gene:PLSCR1	Gene	PLSCR1	1.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:SOCS3	Gene	SOCS3	1.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:ANGPTL2	Gene	ANGPTL2	1.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:LGMN	Gene	LGMN	1.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:RARRES1	Gene	RARRES1	1.5	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:IL6R	Gene	IL6R	1.0	approved in RA	established	
+gene:IFNGR1	Gene	IFNGR1	1.0	late-stage drug, activating/unclear direction	new to RA (OT < 0.1)	
+gene:GATA3	Gene	GATA3	1.0	no tractability evidence	established	
+gene:MT1X	Gene	MT1X	1.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:MT1H	Gene	MT1H	1.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:MT1G	Gene	MT1G	1.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:MT1L	Gene	MT1L	1.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:PALM2AKAP2	Gene	PALM2AKAP2	1.0	no tractability evidence	new to RA (OT < 0.1)	
+gene:IFNG	Gene	IFNG	1.0	tested in RA, not approved	weakly known	
+gene:CXCR3	Gene	CXCR3	1.0	tractable, no late-stage drug	weakly known	
+gene:SEMA3A	Gene	SEMA3A	1.0	tractable, no late-stage drug	weakly known	
+gene:ITGAX	Gene	ITGAX	1.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:BGN	Gene	BGN	1.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:CCL14	Gene	CCL14	1.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:PLGRKT	Gene	PLGRKT	1.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:PFKP	Gene	PFKP	1.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:PARP12	Gene	PARP12	1.0	tractable, no late-stage drug	new to RA (OT < 0.1)	
+gene:TNF	Gene	TNF	0.5	approved in RA	established	
+gene:MS4A1	Gene	MS4A1	0.0	approved in RA	established	
+M-6: STAT1+ CXCL10+	CellState	M-6 STAT1+ CXCL10+ macrophage				
+Tcell	CellState	Tcell				
+Bcell	CellState	Bcell				
+NK-1: CD56dim CD16+ IFNG+CD160+	CellState	NK-1: CD56dim CD16+ IFNG+CD160+				
+T-10: CD4+ OX40+NR3C1+	CellState	T-10: CD4+ OX40+NR3C1+				
+T-9: CD4+ CD25-low Treg	CellState	T-9: CD4+ CD25-low Treg				
+snp:rs479777	Variant	rs479777				11:64340005
+snp:rs3093023	Variant	rs3093023				6:167120802
+snp:rs4810485	Variant	rs4810485				20:46119308
+snp:rs3807306	Variant	rs3807306				7:128940626
+snp:rs2582532	Variant	rs2582532				14:104926500
+snp:rs117068593	Variant	rs117068593				14:92651884
+NK	CellState	NK				
+snp:rs2275806	Variant	rs2275806				10:8053377
+snp:rs3802604	Variant	rs3802604				10:8060309
+snp:rs734094	Variant	rs734094				11:2301990
+snp:rs3087243	Variant	rs3087243				2:203874196
+snp:rs798000	Variant	rs798000				1:116738074
+snp:rs4341355	Variant	rs4341355				1:154463928
+snp:rs9927316	Variant	rs9927316				16:85982795
+myeloid	CellState	myeloid				
+snp:rs7731626	Variant	rs7731626				5:56148856
+plasma	CellState	plasma				
+snp:rs66922517	Variant	rs66922517				21:35342683
+snp:rs2192008	Variant	rs2192008				2:190680421
+snp:rs6859219	Variant	rs6859219				5:56142753
+snp:rs117605225	Variant	rs117605225				4:77587043
+B-0: CD24+CD27+CD11b+ switched memory	CellState	B-0: CD24+CD27+CD11b+ switched memory				
+snp:rs881375	Variant	rs881375				9:120890620
+B-1: CD24++CD27+IgM+ unswitched memory	CellState	B-1: CD24++CD27+IgM+ unswitched memory				
+snp:rs2234067	Variant	rs2234067				6:36387877
+B-5: CD11c+LAMP1+ ABC	CellState	B-5: CD11c+LAMP1+ ABC				
+snp:rs911760	Variant	rs911760				9:5438435
+B-6: IgM+ plasma	CellState	B-6: IgM+ plasma				
+snp:rs10872479	Variant	rs10872479				6:137945111
+B-7: HLA-DR+IgG+ plasmablast	CellState	B-7: HLA-DR+IgG+ plasmablast				
+snp:rs7117261	Variant	rs7117261				11:118870448
+B-8: IgG1+IgG3+ plasma	CellState	B-8: IgG1+IgG3+ plasma				
+snp:rs657075	Variant	rs657075				5:132094425
+E-0: SPARC+ capillary	CellState	E-0: SPARC+ capillary				
+E-2: ICAM1+ venular	CellState	E-2: ICAM1+ venular				
+snp:rs61828284	Variant	rs61828284				1:173330604
+E-3: NOTCH4+ arteriolar	CellState	E-3: NOTCH4+ arteriolar				
+F-0: PRG4+ CLIC5+ lining	CellState	F-0: PRG4+ CLIC5+ lining				
+F-1: PRG4+ lining	CellState	F-1: PRG4+ lining				
+snp:rs906868	Variant	rs906868				2:30225478
+F-2: CD34+ sublining	CellState	F-2: CD34+ sublining				
+F-3: POSTN+ sublining	CellState	F-3: POSTN+ sublining				
+F-4: DKK3+ sublining	CellState	F-4: DKK3+ sublining				
+snp:rs71508903	Variant	rs71508903				10:62020112
+F-6: CXCL12+ SFRP1+ sublining	CellState	F-6: CXCL12+ SFRP1+ sublining				
+F-7: NOTCH3+ sublining	CellState	F-7: NOTCH3+ sublining				
+F-8: RSPO3+ intermediate	CellState	F-8: RSPO3+ intermediate				
+snp:rs34480360	Variant	rs34480360				16:30787368
+snp:rs10152591	Variant	rs10152591				15:69755818
+M-10: DC2	CellState	M-10: DC2				
+snp:rs947474	Variant	rs947474				10:6348488
+snp:rs10152590	Variant	rs10152590				15:69755777
+M-1: MERTK+ SELENOP+ LYVE1-	CellState	M-1: MERTK+ SELENOP+ LYVE1-				
+M-3: MERTK+ HBEGF+	CellState	M-3: MERTK+ HBEGF+				
+M-4: SPP1+	CellState	M-4: SPP1+				
+M-7: IL1B+ FCN1+	CellState	M-7: IL1B+ FCN1+				
+M-8: PLCG2+	CellState	M-8: PLCG2+				
+snp:rs3783782	Variant	rs3783782				14:61473957
+snp:rs1422673	Variant	rs1422673				5:151059427
+M-9: DC3	CellState	M-9: DC3				
+snp:rs10917571	Variant	rs10917571				1:161549621
+snp:rs7241016	Variant	rs7241016				18:12880207
+NK-9: MT-high	CellState	NK-9: MT-high				
+T-0: CD4+ IL7R+ memory	CellState	T-0: CD4+ IL7R+ memory				
+T-11: CD4+ CD146+ memory	CellState	T-11: CD4+ CD146+ memory				
+T-13: CD8+ GZMK/B+ memory	CellState	T-13: CD8+ GZMK/B+ memory				
+snp:rs10175798	Variant	rs10175798				2:30226728
+T-15: CD8+ GZMB+/TEMRA	CellState	T-15: CD8+ GZMB+/TEMRA				
+T-16: CD8+ CD45ROlow/naive	CellState	T-16: CD8+ CD45ROlow/naive				
+T-18: Proliferating	CellState	T-18: Proliferating				
+snp:rs1883832	Variant	rs1883832				20:46118343
+T-19: MT-high (low quality)	CellState	T-19: MT-high (low quality)				
+T-1: CD4+ CD161+ memory	CellState	T-1: CD4+ CD161+ memory				
+T-20: CD38+	CellState	T-20: CD38+				
+T-23: Vdelta2	CellState	T-23: Vdelta2				
+T-2: CD4+ IL7R+CCR5+ memory	CellState	T-2: CD4+ IL7R+CCR5+ memory				
+T-3: CD4+ Tfh/Tph	CellState	T-3: CD4+ Tfh/Tph				
+T-4: CD4+ naive	CellState	T-4: CD4+ naive				
+T-6: CD4+ memory	CellState	T-6: CD4+ memory				
+T-7: CD4+ Tph	CellState	T-7: CD4+ Tph				
+T-8: CD4+ CD25-high Treg	CellState	T-8: CD4+ CD25-high Treg				
+tf:MXI1	TF	MXI1				
+tf:NACC2	TF	NACC2				
+tf:TCF4	TF	TCF4				
+tf:ZEB2	TF	ZEB2				
+tf:ZEB1	TF	ZEB1				
+tf:TCF3	TF	TCF3				
+tf:TCF12	TF	TCF12				
+tf:CGGBP1	TF	CGGBP1				
+tf:Plagl1	TF	Plagl1				
+tf:KLF13	TF	KLF13				
+tf:Stat2	TF	Stat2				
+tf:Vdr	TF	Vdr				
+tf:TCF7L2	TF	TCF7L2				
+tf:MAZ	TF	MAZ				
+tf:ARNT::HIF1A	TF	ARNT::HIF1A				
+tf:Sox5	TF	Sox5				
+tf:EGR3	TF	EGR3				
+tf:EGR1	TF	EGR1				
+tf:Ahr::Arnt	TF	Ahr::Arnt				
+tf:EGR2	TF	EGR2				
+tf:Ddit3::Cebpa	TF	Ddit3::Cebpa				
+tf:STAT1::STAT2	TF	STAT1::STAT2				
+tf:STAT3	TF	STAT3				
+tf:NFIA	TF	NFIA				
+tf:NFIX	TF	NFIX				
+tf:MEIS3	TF	MEIS3				
+tf:MEIS1	TF	MEIS1				
+tf:Foxj3	TF	Foxj3				
+tf:MEIS2	TF	MEIS2				
+tf:Stat5b	TF	Stat5b				
+tf:BCL6B	TF	BCL6B				
+tf:RBPJ	TF	RBPJ				
+tf:ELF1	TF	ELF1				
+tf:ETV6	TF	ETV6				
+tf:Ikzf3	TF	Ikzf3				
+tf:IKZF2	TF	IKZF2				
+tf:NFIB	TF	NFIB				
+tf:RREB1	TF	RREB1				
+tf:PPARD	TF	PPARD				
+tf:MEF2D	TF	MEF2D				
+tf:KLF6	TF	KLF6				
+tf:KLF12	TF	KLF12				
+tf:SP4	TF	SP4				
+tf:KLF10	TF	KLF10				
+tf:KLF7	TF	KLF7				
+tf:KLF2	TF	KLF2				
+tf:KLF4	TF	KLF4				
+tf:Zfx	TF	Zfx				
+tf:IRF7	TF	IRF7				
+tf:REL	TF	REL				
+tf:RELA	TF	RELA				
+tf:IRF4	TF	IRF4				
+tf:IRF5	TF	IRF5				
+tf:Runx1	TF	Runx1				
+tf:RELB	TF	RELB				
+tf:IRF8	TF	IRF8				
+tf:Atf1	TF	Atf1				
+tf:IRF2	TF	IRF2				
+E-1: LIFR+ venular	CellState	E-1: LIFR+ venular				
+F-5: CD74-hi sublining	CellState	F-5: CD74-hi sublining				
+NK-2: CD56dim CD16+ IFNG+CD160-	CellState	NK-2: CD56dim CD16+ IFNG+CD160-				
+T-22: Vdelta1	CellState	T-22: Vdelta1				
+pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	Pathway	INTERFERON_GAMMA_RESPONSE				
+pw:HALLMARK_INTERFERON_ALPHA_RESPONSE	Pathway	INTERFERON_ALPHA_RESPONSE				
+pw:HALLMARK_GLYCOLYSIS	Pathway	GLYCOLYSIS				
+pw:HALLMARK_IL6_JAK_STAT3_SIGNALING	Pathway	IL6_JAK_STAT3_SIGNALING				
+pw:HALLMARK_HYPOXIA	Pathway	HYPOXIA				
+pw:HALLMARK_MTORC1_SIGNALING	Pathway	MTORC1_SIGNALING				
+pw:HALLMARK_UNFOLDED_PROTEIN_RESPONSE	Pathway	UNFOLDED_PROTEIN_RESPONSE				
+pw:HALLMARK_CHOLESTEROL_HOMEOSTASIS	Pathway	CHOLESTEROL_HOMEOSTASIS				
+pw:HALLMARK_PI3K_AKT_MTOR_SIGNALING	Pathway	PI3K_AKT_MTOR_SIGNALING				
+pw:HALLMARK_IL2_STAT5_SIGNALING	Pathway	IL2_STAT5_SIGNALING				
+pw:HALLMARK_COMPLEMENT	Pathway	COMPLEMENT				
+pw:HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY	Pathway	REACTIVE_OXYGEN_SPECIES_PATHWAY				
+pw:HALLMARK_INFLAMMATORY_RESPONSE	Pathway	INFLAMMATORY_RESPONSE				
+pw:HALLMARK_UV_RESPONSE_UP	Pathway	UV_RESPONSE_UP				
+pw:HALLMARK_ALLOGRAFT_REJECTION	Pathway	ALLOGRAFT_REJECTION				
+pw:HALLMARK_ANDROGEN_RESPONSE	Pathway	ANDROGEN_RESPONSE				
+pw:HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION	Pathway	EPITHELIAL_MESENCHYMAL_TRANSITION				
+pw:HALLMARK_ANGIOGENESIS	Pathway	ANGIOGENESIS				
+pw:HALLMARK_TNFA_SIGNALING_VIA_NFKB	Pathway	TNFA_SIGNALING_VIA_NFKB				
+pw:HALLMARK_PROTEIN_SECRETION	Pathway	PROTEIN_SECRETION				
+pw:HALLMARK_BILE_ACID_METABOLISM	Pathway	BILE_ACID_METABOLISM				
+pw:HALLMARK_HEDGEHOG_SIGNALING	Pathway	HEDGEHOG_SIGNALING				
+pw:HALLMARK_G2M_CHECKPOINT	Pathway	G2M_CHECKPOINT				
+anti-TNF good responders	Disease	Anti-TNF cohort: good responders				
+pw:HALLMARK_ADIPOGENESIS	Pathway	ADIPOGENESIS				
+pw:HALLMARK_APICAL_JUNCTION	Pathway	APICAL_JUNCTION				
+pw:HALLMARK_TGF_BETA_SIGNALING	Pathway	TGF_BETA_SIGNALING				
+pw:HALLMARK_E2F_TARGETS	Pathway	E2F_TARGETS				
+pw:HALLMARK_HEME_METABOLISM	Pathway	HEME_METABOLISM				
+pw:HALLMARK_DNA_REPAIR	Pathway	DNA_REPAIR				
+pw:HALLMARK_MYC_TARGETS_V2	Pathway	MYC_TARGETS_V2				
+pw:HALLMARK_KRAS_SIGNALING_UP	Pathway	KRAS_SIGNALING_UP				
+pw:HALLMARK_P53_PATHWAY	Pathway	P53_PATHWAY				
+pw:HALLMARK_OXIDATIVE_PHOSPHORYLATION	Pathway	OXIDATIVE_PHOSPHORYLATION				
+pw:HALLMARK_COAGULATION	Pathway	COAGULATION				
+pw:HALLMARK_APOPTOSIS	Pathway	APOPTOSIS				
+pw:HALLMARK_MYC_TARGETS_V1	Pathway	MYC_TARGETS_V1				
+drug:LEVILIMAB	Drug	LEVILIMAB				
+drug:SARILUMAB	Drug	SARILUMAB				
+drug:SATRALIZUMAB	Drug	SATRALIZUMAB				
+drug:TOCILIZUMAB	Drug	TOCILIZUMAB				
+drug:ABROCITINIB	Drug	ABROCITINIB				
+drug:BARICITINIB	Drug	BARICITINIB				
+drug:BREPOCITINIB	Drug	BREPOCITINIB				
+drug:DELGOCITINIB	Drug	DELGOCITINIB				
+drug:TOFACITINIB CITRATE	Drug	TOFACITINIB CITRATE				
+drug:FILGOTINIB MALEATE	Drug	FILGOTINIB MALEATE				
+drug:UPADACITINIB	Drug	UPADACITINIB				
+drug:UPADACITINIB HEMIHYDRATE	Drug	UPADACITINIB HEMIHYDRATE				
+drug:AFELIMOMAB	Drug	AFELIMOMAB				
+drug:CERTOLIZUMAB PEGOL	Drug	CERTOLIZUMAB PEGOL				
+drug:GOLIMUMAB	Drug	GOLIMUMAB				
+drug:INFLIXIMAB	Drug	INFLIXIMAB				
+drug:ETANERCEPT	Drug	ETANERCEPT				
+drug:OZORALIZUMAB	Drug	OZORALIZUMAB				
+drug:RITUXIMAB	Drug	RITUXIMAB				
+drug:OFATUMUMAB	Drug	OFATUMUMAB				
+drug:OCRELIZUMAB	Drug	OCRELIZUMAB				
+drug:TRU-015	Drug	TRU-015				
+drug:CADONILIMAB	Drug	CADONILIMAB				
+drug:ERFONRILIMAB	Drug	ERFONRILIMAB				
+drug:IPILIMUMAB	Drug	IPILIMUMAB				
+drug:QUAVONLIMAB	Drug	QUAVONLIMAB				
+drug:AMLITELIMAB	Drug	AMLITELIMAB				
+drug:ALEFACEPT	Drug	ALEFACEPT				
+drug:ERITORAN	Drug	ERITORAN				
+drug:ERITORAN TETRASODIUM	Drug	ERITORAN TETRASODIUM				
+drug:RESATORVID	Drug	RESATORVID				
+drug:DARATUMUMAB	Drug	DARATUMUMAB				
+drug:FELZARTAMAB	Drug	FELZARTAMAB				
+drug:ISATUXIMAB	Drug	ISATUXIMAB				
+drug:ELOTUZUMAB	Drug	ELOTUZUMAB				
+drug:CAPLACIZUMAB	Drug	CAPLACIZUMAB				
+drug:CONBERCEPT	Drug	CONBERCEPT				
+drug:HUMAN C1-ESTERASE INHIBITOR	Drug	HUMAN C1-ESTERASE INHIBITOR				
+drug:SUTIMLIMAB	Drug	SUTIMLIMAB				
+drug:ISCALIMAB	Drug	ISCALIMAB				
+drug:LENZILUMAB	Drug	LENZILUMAB				
+drug:OTILIMAB	Drug	OTILIMAB				
+drug:PLONMARLIMAB	Drug	PLONMARLIMAB				
+drug:NAMILUMAB	Drug	NAMILUMAB				
+drug:GIMSILUMAB	Drug	GIMSILUMAB				
+drug:BMS-817399	Drug	BMS-817399				
+drug:CCX354	Drug	CCX354				
+drug:APLAVIROC	Drug	APLAVIROC				
+drug:APLAVIROC HYDROCHLORIDE	Drug	APLAVIROC HYDROCHLORIDE				
+drug:CENICRIVIROC	Drug	CENICRIVIROC				
+drug:LERONLIMAB	Drug	LERONLIMAB				
+drug:MARAVIROC	Drug	MARAVIROC				
+drug:AZD5672	Drug	AZD5672				
+drug:EMAPALUMAB	Drug	EMAPALUMAB				
+drug:FONTOLIZUMAB	Drug	FONTOLIZUMAB				
+drug:ELDELUMAB	Drug	ELDELUMAB				
+drug:LIFITEGRAST	Drug	LIFITEGRAST				
+drug:EFALIZUMAB	Drug	EFALIZUMAB				
+gene:SPP1	Gene	SPP1				
+snp:rs77509998	Variant	rs77509998				10_62054031_G_T
+snp:rs143365361	Variant	rs143365361				21_35045948_T_A
+gene:CLIC6	Gene	CLIC6				
+snp:rs55773945	Variant	rs55773945				7_100444790_T_C
+gene:PPP1R35	Gene	PPP1R35				
+endothelial	CellState	endothelial				
+snp:rs78295726	Variant	rs78295726				19_10315836_C_T
+M-5: C1QA+	CellState	M-5: C1QA+				
+gene:AC011511.1	Gene	AC011511.1				
+snp:rs10821948	Variant	rs10821948				10_62049865_C_A
+snp:rs6927172	Variant	rs6927172				6_137681038_C_G
+NK-12: IL7R+ ILC	CellState	NK-12: IL7R+ ILC				
+snp:rs3740355	Variant	rs3740355				10_62050699_C_A
+snp:rs6479787	Variant	rs6479787				10_62167213_G_A
+gene:RTKN2	Gene	RTKN2				
+snp:rs749933	Variant	rs749933				2_203782538_A_G
+gene:CD28	Gene	CD28				
+M-2: MERTK+ S100A8+	CellState	M-2: MERTK+ S100A8+				
+snp:rs7251031	Variant	rs7251031				19_11156017_T_G
+gene:SPC24	Gene	SPC24				
+snp:rs72922276	Variant	rs72922276				1_64963636_G_A
+snp:rs10995019	Variant	rs10995019				10_62056072_C_T
+Mu-0: Mural	CellState	Mu-0: Mural				
+snp:rs10995020	Variant	rs10995020				10_62056318_C_G
+snp:rs7746803	Variant	rs7746803				6_137699029_T_G
+snp:rs16916931	Variant	rs16916931				10_62053985_A_T
+snp:rs671484	Variant	rs671484				8_101446287_C_T
+mural	CellState	mural				
+gene:GRHL2	Gene	GRHL2				
+gene:RHD	Gene	RHD				
+gene:TUFM	Gene	TUFM				
+gene:ATXN2L	Gene	ATXN2L				
+gene:RSRP1	Gene	RSRP1				
+gene:BLK	Gene	BLK				
+gene:RPS26	Gene	RPS26				
+gene:ORMDL3	Gene	ORMDL3				
+gene:GSDMB	Gene	GSDMB				
+gene:SUOX	Gene	SUOX				
+gene:TMEM50A	Gene	TMEM50A				
+gene:IL6ST	Gene	IL6ST				
+gene:BACH2	Gene	BACH2				
+gene:MMEL1	Gene	MMEL1				
+gene:ENSG00000284825	Gene	ENSG00000284825				
+gene:FAM167A	Gene	FAM167A				
+gene:SH2B1	Gene	SH2B1				
+gene:AFF3	Gene	AFF3				
+gene:CCRL2	Gene	CCRL2				
+gene:RAB5B	Gene	RAB5B				
+gene:EIF3C	Gene	EIF3C				
+gene:IKZF3	Gene	IKZF3				
+gene:IL12RB2	Gene	IL12RB2				
+gene:PSMB7	Gene	PSMB7				
+gene:TNPO3	Gene	TNPO3				
+gene:TXNDC11	Gene	TXNDC11				
+gene:ZGLP1	Gene	ZGLP1				
+gene:REL	Gene	REL				
+gene:CCR5AS	Gene	CCR5AS				
+gene:COG6	Gene	COG6				
+gene:TTC34	Gene	TTC34				
+gene:ENSG00000251417	Gene	ENSG00000251417				
+gene:PHLDB1	Gene	PHLDB1				
+gene:TMEM187	Gene	TMEM187				
+gene:ALDH2	Gene	ALDH2				
+gene:ATP5MG	Gene	ATP5MG				
+gene:ENSG00000259598	Gene	ENSG00000259598				
+gene:ENSG00000283265	Gene	ENSG00000283265				
+gene:ENSG00000284957	Gene	ENSG00000284957				
+gene:ENSG00000285012	Gene	ENSG00000285012				
+gene:FDX2	Gene	FDX2				
+gene:ICAM4	Gene	ICAM4				
+gene:ICAM5	Gene	ICAM5				
+gene:ILF3-DT	Gene	ILF3-DT				
+gene:IRAK1	Gene	IRAK1				
+gene:MACO1	Gene	MACO1				
+gene:POU3F1	Gene	POU3F1				
+gene:PVT1	Gene	PVT1				
+gene:SNN	Gene	SNN				
+tf:NFKB1	TF	NFKB1				
+tf:NFKB2	TF	NFKB2				
+tf:STAT1	TF	STAT1				
+tf:IRF9	TF	IRF9				
+tf:CREB3	TF	CREB3				
+tf:STAT5B	TF	STAT5B				
+tf:CREM	TF	CREM				
+gene:ATP2A1	Gene	ATP2A1				
+gene:BCL2L11	Gene	BCL2L11				
+gene:PADI4	Gene	PADI4				
+gene:ZPBP2	Gene	ZPBP2				
+M-12: DC1	CellState	M-12: DC1				
+NK-11: MKI67+ Proliferating	CellState	NK-11: MKI67+ Proliferating				
+T-14: CD8+ GZMK+ memory	CellState	T-14: CD8+ GZMK+ memory				
+T-17: CD8+ activated/NK-like	CellState	T-17: CD8+ activated/NK-like				
+T-21: Innate-like	CellState	T-21: Innate-like				
+T-5: CD4+ GZMK+ memory	CellState	T-5: CD4+ GZMK+ memory				
+CXCL13-positive T cells (Xenium)	CellState	CXCL13-positive T cells (Xenium)				
+B cells (Xenium)	CellState	B cells (Xenium)				
+IFNG-positive T/NK cells (Xenium)	CellState	IFNG-positive T/NK cells (Xenium)				
+S2 IFN-scored macrophages (Xenium)	CellState	S2 IFN-scored macrophages (Xenium)				

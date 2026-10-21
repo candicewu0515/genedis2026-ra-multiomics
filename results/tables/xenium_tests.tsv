@@ -1,0 +1,3 @@
+test	n_sections	n_positive	n_perm_p_lt_0_05	summary_method	mann_whitney_p
+H1 IFNG+ neighbour effect on macrophage IFN score (RA 5K sections)	4	3	3	section effects and empirical P; no combined tail P	
+Secondary CXCL9/10-high macrophage share RA vs NH/OA (480 panel)	11			Mann-Whitney	0.6623

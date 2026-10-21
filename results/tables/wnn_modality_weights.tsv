@@ -1,0 +1,75 @@
+cell_type	subtype	n	median_rna_weight
+fibroblast	F-5: CD74-hi sublining	258	0.461
+fibroblast	F-8: RSPO3+ intermediate	112	0.463
+fibroblast	F-0: PRG4+ CLIC5+ lining	4656	0.465
+fibroblast	F-1: PRG4+ lining	188	0.469
+fibroblast	F-6: CXCL12+ SFRP1+ sublining	2472	0.47
+myeloid	M-2: MERTK+ S100A8+	296	0.47
+fibroblast	F-3: POSTN+ sublining	716	0.471
+fibroblast	F-2: CD34+ sublining	873	0.473
+mural	F-6: CXCL12+ SFRP1+ sublining	99	0.473
+myeloid	M-9: DC3	103	0.474
+fibroblast	F-4: DKK3+ sublining	199	0.475
+myeloid	M-0: MERTK+ SELENOP+ LYVE1+	961	0.476
+fibroblast	F-7: NOTCH3+ sublining	407	0.476
+myeloid	M-4: SPP1+	770	0.478
+Tcell	T-4: CD4+ naive	236	0.478
+myeloid	M-1: MERTK+ SELENOP+ LYVE1-	1330	0.481
+Tcell	T-22: Vdelta1	183	0.482
+mural	F-7: NOTCH3+ sublining	114	0.482
+Tcell	T-1: CD4+ CD161+ memory	649	0.482
+Tcell	T-2: CD4+ IL7R+CCR5+ memory	527	0.482
+Tcell	T-0: CD4+ IL7R+ memory	996	0.482
+mural	F-0: PRG4+ CLIC5+ lining	81	0.482
+myeloid	M-3: MERTK+ HBEGF+	243	0.483
+Tcell	T-14: CD8+ GZMK+ memory	482	0.483
+Tcell	T-6: CD4+ memory	245	0.483
+Tcell	T-16: CD8+ CD45ROlow/naive	195	0.484
+Tcell	T-5: CD4+ GZMK+ memory	472	0.484
+Tcell	T-21: Innate-like	187	0.484
+myeloid	M-7: IL1B+ FCN1+	1167	0.484
+Tcell	T-23: Vdelta2	115	0.484
+Tcell	T-15: CD8+ GZMB+/TEMRA	109	0.484
+Tcell	T-12: CD4+ GNLY+	59	0.485
+Tcell	T-10: CD4+ OX40+NR3C1+	217	0.485
+Tcell	T-13: CD8+ GZMK/B+ memory	631	0.485
+myeloid	M-5: C1QA+	570	0.485
+Tcell	T-19: MT-high (low quality)	168	0.486
+NK	NK-13: IL7R+CD161+ ILC	45	0.486
+Tcell	T-3: CD4+ Tfh/Tph	908	0.487
+endothelial	E-1: LIFR+ venular	656	0.487
+myeloid	M-8: PLCG2+	447	0.487
+Bcell	B-5: CD11c+LAMP1+ ABC	113	0.487
+endothelial	E-0: SPARC+ capillary	706	0.487
+Tcell	T-9: CD4+ CD25-low Treg	327	0.488
+plasma	B-8: IgG1+IgG3+ plasma	716	0.488
+endothelial	E-2: ICAM1+ venular	202	0.488
+myeloid	M-6: STAT1+ CXCL10+	65	0.488
+Tcell	T-17: CD8+ activated/NK-like	35	0.488
+NK	NK-2: CD56dim CD16+ IFNG+CD160-	46	0.489
+Bcell	B-0: CD24+CD27+CD11b+ switched memory	461	0.489
+Tcell	T-20: CD38+	154	0.489
+Bcell	B-3: IgM+IgD+CD1c+ MZ-like	186	0.489
+myeloid	M-11: DC4	44	0.49
+Tcell	T-7: CD4+ Tph	285	0.49
+plasma	B-6: IgM+ plasma	247	0.49
+myeloid	M-10: DC2	1178	0.49
+Bcell	B-2: IgM+IgD+TCL1A+ naive	457	0.49
+Tcell	T-11: CD4+ CD146+ memory	249	0.491
+Bcell	B-1: CD24++CD27+IgM+ unswitched memory	271	0.491
+Tcell	T-8: CD4+ CD25-high Treg	390	0.491
+NK	NK-9: MT-high	203	0.491
+NK	NK-7: CD56bright CD16- GNLY+CD69+	95	0.491
+plasma	B-7: HLA-DR+IgG+ plasmablast	204	0.492
+endothelial	E-3: NOTCH4+ arteriolar	364	0.492
+NK	NK-1: CD56dim CD16+ IFNG+CD160+	125	0.495
+NK	NK-0: CD56dim CD16+ IFNG-	88	0.496
+NK	NK-5: CD56bright CD16- GZMA+CD69+	92	0.498
+mural	Mu-0: Mural	333	0.499
+NK	NK-12: IL7R+ ILC	127	0.499
+plasma	B-0: CD24+CD27+CD11b+ switched memory	55	0.501
+myeloid	M-14: LAMP3+	59	0.501
+Tcell	T-18: Proliferating	128	0.501
+endothelial	E-4: Lymphatic	35	0.507
+NK	NK-11: MKI67+ Proliferating	55	0.511
+myeloid	M-12: DC1	90	0.522

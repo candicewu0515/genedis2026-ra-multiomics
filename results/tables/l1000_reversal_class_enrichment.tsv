@@ -1,0 +1,3 @@
+query	observed_share	random_median	random_max	empirical_p
+Q1_active_vs_remission	0.2571	0.1355	0.3077	0.09524
+Q2_IFNg_vs_homeostatic	0.1364	0.1355	0.3077	0.5238

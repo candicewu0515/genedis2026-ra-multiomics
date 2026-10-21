@@ -1,0 +1,37 @@
+Step 28: waiting for the concurrent invocation in this project
+Nuclei: 31520
+  RNA PCA (uncorrected): NMI_author_ct 0.861, ARI_author_ct 0.795, NMI_author_subtype 0.608, ARI_author_subtype 0.288, NMI_ATAC_leiden 0.788, ARI_ATAC_leiden 0.598, knn_agreement_subtype 0.536, M6_neighbour_purity 0.195, M6_best_cluster_F1 0.041, batch_neighbour_entropy 0.424, batch_graph_connectivity 0.979, jaccard_with_RNA_graph 0.266, jaccard_with_ATAC_graph 0.057
+  RNA PCA + Harmony: NMI_author_ct 0.873, ARI_author_ct 0.813, NMI_author_subtype 0.636, ARI_author_subtype 0.407, NMI_ATAC_leiden 0.800, ARI_ATAC_leiden 0.645, knn_agreement_subtype 0.535, M6_neighbour_purity 0.237, M6_best_cluster_F1 0.037, batch_neighbour_entropy 0.829, batch_graph_connectivity 0.976, jaccard_with_RNA_graph 1.000, jaccard_with_ATAC_graph 0.056
+  ATAC LSI + Harmony: NMI_author_ct 0.888, ARI_author_ct 0.879, NMI_author_subtype 0.618, ARI_author_subtype 0.369, NMI_ATAC_leiden 0.918, ARI_ATAC_leiden 0.829, knn_agreement_subtype 0.481, M6_neighbour_purity 0.097, M6_best_cluster_F1 0.040, batch_neighbour_entropy 0.873, batch_graph_connectivity 0.981, jaccard_with_RNA_graph 0.056, jaccard_with_ATAC_graph 1.000
+  Concatenation + Harmony: NMI_author_ct 0.938, ARI_author_ct 0.954, NMI_author_subtype 0.640, ARI_author_subtype 0.418, NMI_ATAC_leiden 0.846, ARI_ATAC_leiden 0.748, knn_agreement_subtype 0.524, M6_neighbour_purity 0.190, M6_best_cluster_F1 0.041, batch_neighbour_entropy 0.813, batch_graph_connectivity 0.983, jaccard_with_RNA_graph 0.210, jaccard_with_ATAC_graph 0.203
+  WNN (step 07): NMI_author_ct 0.888, ARI_author_ct 0.828, NMI_author_subtype 0.640, ARI_author_subtype 0.414, NMI_ATAC_leiden 0.854, ARI_ATAC_leiden 0.733, knn_agreement_subtype 0.502, M6_neighbour_purity 0.091, M6_best_cluster_F1 0.039, batch_neighbour_entropy 0.818, batch_graph_connectivity 0.985, jaccard_with_RNA_graph 0.155, jaccard_with_ATAC_graph 0.269
+  MOFA+ + Harmony: NMI_author_ct 0.886, ARI_author_ct 0.827, NMI_author_subtype 0.606, ARI_author_subtype 0.240, NMI_ATAC_leiden 0.801, ARI_ATAC_leiden 0.605, knn_agreement_subtype 0.496, M6_neighbour_purity 0.073, M6_best_cluster_F1 0.028, batch_neighbour_entropy 0.865, batch_graph_connectivity 0.975, jaccard_with_RNA_graph 0.091, jaccard_with_ATAC_graph 0.075
+method                    Concatenation + Harmony  WNN (step 07)  ATAC LSI + Harmony  RNA PCA + Harmony  RNA PCA (uncorrected)  MOFA+ + Harmony
+NMI_author_ct                               0.938          0.888               0.888              0.873                  0.861            0.886
+ARI_author_ct                               0.954          0.828               0.879              0.813                  0.795            0.827
+NMI_author_subtype                          0.640          0.640               0.618              0.636                  0.608            0.606
+ARI_author_subtype                          0.418          0.414               0.369              0.407                  0.288            0.240
+NMI_ATAC_leiden                             0.846          0.854               0.918              0.800                  0.788            0.801
+ARI_ATAC_leiden                             0.748          0.733               0.829              0.645                  0.598            0.605
+knn_agreement_subtype                       0.524          0.502               0.481              0.535                  0.536            0.496
+M6_neighbour_purity                         0.190          0.091               0.097              0.237                  0.195            0.073
+M6_best_cluster_F1                          0.041          0.039               0.040              0.037                  0.041            0.028
+batch_neighbour_entropy                     0.813          0.818               0.873              0.829                  0.424            0.865
+batch_graph_connectivity                    0.983          0.985               0.981              0.976                  0.979            0.975
+jaccard_with_RNA_graph                      0.210          0.155               0.056              1.000                  0.266            0.091
+jaccard_with_ATAC_graph                     0.203          0.269               1.000              0.056                  0.057            0.075
+bio_score                                   0.844          0.552               0.560              0.566                  0.343            0.103
+batch_score                                 0.829          0.938               0.812              0.496                  0.206            0.490
+overall_scIB_weights                        0.838          0.706               0.660              0.538                  0.288            0.258
+
+MOFA+ factor tracking the IFN programme in myeloid nuclei: Factor20 (r = 0.27); median score M-6 0.73 vs other myeloid 0.01
+  top genes: THEMIS, HLA-DRB1, GZMK, CD74, HLA-DPB1, BCL11B, CYTOR, SMCHD1, IGHG4, HLA-DRA, DOCK4, CCL5, TRIM69, CAMK4, AP001011.1
+  top peaks' nearest genes: MSC, CAMK4, AIM2, RAB44, GPR137B, CENPM, IFNLR1, BMP10, POLR2E, PBX4, SMG9, ZC3H12D, WNT10A, CARS, ZBTB7A
+Variance explained (%) by Factor20: {'rna': 0.25, 'atac': 0.02} ; first 6 factors:
+            rna  atac
+Factor1  14.93  1.56
+Factor2   7.14  0.67
+Factor3   2.84  0.18
+Factor4   2.09  0.09
+Factor5   1.64  0.14
+Factor6   1.11  0.07

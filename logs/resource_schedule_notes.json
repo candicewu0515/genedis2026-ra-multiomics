@@ -1,0 +1,6 @@
+{
+  "time": "2026-10-20 14:21:43",
+  "action": "Stopped optional early step-36 branch after all three MAGMA gene tables had completed.",
+  "reason": "Prevent memory oversubscription during concurrent MOFA/LD-score validation.",
+  "continuation": "The ordered driver will run step36 to completion later, using MAGMA tables generated from raw inputs in this same clean validation project. No prior-run intermediate data are substituted."
+}

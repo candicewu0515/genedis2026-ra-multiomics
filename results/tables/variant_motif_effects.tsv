@@ -1,0 +1,803 @@
+rs_id	location	ref	alt	risk_allele	risk_is	state	tf	jaspar_id	score_ref	score_alt	delta_alt_minus_ref	effect	tf_detected_frac_in_state	tf_expressed_in_state	risk_allele_effect
+rs10152590	chr15:69755777	A	T	A	ref	M-10: DC2	MXI1	MA1108.3	0.1	8.12	8.02	alt gains motif	0.10611205432937182	True	risk loses motif
+rs10152590	chr15:69755777	A	T	A	ref	M-7: IL1B+ FCN1+	MXI1	MA1108.3	0.1	8.12	8.02	alt gains motif	0.11225364181662383	True	risk loses motif
+rs10152590	chr15:69755777	A	T	A	ref	M-7: IL1B+ FCN1+	NACC2	MA2559.1	-1.84	6.68	8.52	alt gains motif	0.14824335904027422	True	risk loses motif
+rs10175798	chr2:30226728	G	T	A	alt	T-15: CD8+ GZMB+/TEMRA	ZNF827	MA2572.1	1.9	6.11	4.21	alt gains motif	0.24770642201834864	True	risk gains motif
+rs10175798	chr2:30226728	G	T	A	alt	T-7: CD4+ Tph	ZNF827	MA2572.1	1.9	6.11	4.21	alt gains motif	0.19298245614035087	True	risk gains motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	TCF4	MA0830.3	8.51	3.78	-4.73	alt loses motif	0.5833333333333334	True	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	ZEB2	MA2686.1	7.79	3.48	-4.32	alt loses motif	0.17105263157894737	True	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	ZEB1	MA0103.4	8.12	4.34	-3.78	alt loses motif	0.5921052631578947	True	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	TCF3	MA0522.4	9.04	5.77	-3.27	alt loses motif	0.3157894736842105	True	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	TCF12	MA1648.2	8.91	5.92	-2.99	alt loses motif	0.5482456140350878	True	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	ZKSCAN1	MA1585.2	-2.07	8.26	10.33	alt gains motif	0.21052631578947367	True	risk gains motif
+rs117605225	chr4:77587043	T	G	T	ref	plasma	CGGBP1	MA2538.1	-0.13	2.62	2.75	alt gains motif	0.29239302694136293	True	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	M-10: DC2	CGGBP1	MA2538.1	-0.13	2.62	2.75	alt gains motif	0.2835314091680815	True	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	M-1: MERTK+ SELENOP+ LYVE1-	CGGBP1	MA2538.1	-0.13	2.62	2.75	alt gains motif	0.2932330827067669	True	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	T-13: CD8+ GZMK/B+ memory	CGGBP1	MA2538.1	-0.13	2.62	2.75	alt gains motif	0.22979397781299524	True	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	T-18: Proliferating	CGGBP1	MA2538.1	-0.13	2.62	2.75	alt gains motif	0.390625	True	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	T-3: CD4+ Tfh/Tph	CGGBP1	MA2538.1	-0.13	2.62	2.75	alt gains motif	0.2786343612334802	True	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	T-7: CD4+ Tph	CGGBP1	MA2538.1	-0.13	2.62	2.75	alt gains motif	0.3719298245614035	True	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	plasma	ZNF460	MA1596.1	2.26	6.59	4.33	alt gains motif	0.14183835182250396	True	risk loses motif
+rs1422673	chr5:151059427	C	A	T	alt	M-8: PLCG2+	ZNF331	MA1726.2	8.1	2.9	-5.2	alt loses motif	0.5816554809843401	True	risk loses motif
+rs1422673	chr5:151059427	C	A	T	alt	T-23: Vdelta2	ZNF331	MA1726.2	8.1	2.9	-5.2	alt loses motif	0.6086956521739131	True	risk loses motif
+rs1422673	chr5:151059427	C	A	T	alt	T-6: CD4+ memory	ZNF331	MA1726.2	8.1	2.9	-5.2	alt loses motif	0.49795918367346936	True	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	M-8: PLCG2+	ZNF331	MA1726.2	8.1	3.4	-4.7	alt loses motif	0.5816554809843401	True	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	T-23: Vdelta2	ZNF331	MA1726.2	8.1	3.4	-4.7	alt loses motif	0.6086956521739131	True	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	T-6: CD4+ memory	ZNF331	MA1726.2	8.1	3.4	-4.7	alt loses motif	0.49795918367346936	True	risk loses motif
+rs1422673	chr5:151059427	C	T	T	alt	M-8: PLCG2+	ZNF331	MA1726.2	8.1	3.86	-4.24	alt loses motif	0.5816554809843401	True	risk loses motif
+rs1422673	chr5:151059427	C	T	T	alt	T-23: Vdelta2	ZNF331	MA1726.2	8.1	3.86	-4.24	alt loses motif	0.6086956521739131	True	risk loses motif
+rs1422673	chr5:151059427	C	T	T	alt	T-6: CD4+ memory	ZNF331	MA1726.2	8.1	3.86	-4.24	alt loses motif	0.49795918367346936	True	risk loses motif
+rs1422673	chr5:151059427	C	A	T	alt	M-8: PLCG2+	Plagl1	MA1615.2	5.25	8.12	2.87	alt gains motif	0.2662192393736018	True	risk gains motif
+rs1422673	chr5:151059427	C	T	T	alt	M-8: PLCG2+	KLF13	MA0657.2	0.18	5.54	5.36	alt gains motif	0.25279642058165547	True	risk gains motif
+rs1422673	chr5:151059427	C	T	T	alt	T-23: Vdelta2	KLF13	MA0657.2	0.18	5.54	5.36	alt gains motif	0.2956521739130435	True	risk gains motif
+rs1422673	chr5:151059427	C	T	T	alt	T-6: CD4+ memory	KLF13	MA0657.2	0.18	5.54	5.36	alt gains motif	0.23673469387755103	True	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	M-3: MERTK+ HBEGF+	ZNF675	MA1714.2	4.7	6.94	2.24	alt gains motif	0.11934156378600823	True	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	T-18: Proliferating	ZNF675	MA1714.2	4.7	6.94	2.24	alt gains motif	0.140625	True	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	plasma	Stat2	MA1623.2	4.07	7.91	3.84	alt gains motif	0.3082408874801902	True	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	M-3: MERTK+ HBEGF+	Stat2	MA1623.2	4.07	7.91	3.84	alt gains motif	0.3333333333333333	True	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	T-18: Proliferating	Stat2	MA1623.2	4.07	7.91	3.84	alt gains motif	0.140625	True	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	plasma	Vdr	MA0693.4	4.81	8.82	4.01	alt gains motif	0.17274167987321712	True	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	M-3: MERTK+ HBEGF+	Vdr	MA0693.4	4.81	8.82	4.01	alt gains motif	0.34156378600823045	True	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	M-3: MERTK+ HBEGF+	TCF7L2	MA0523.2	-2.56	7.39	9.95	alt gains motif	0.3374485596707819	True	risk gains motif
+rs2234067	chr6:36387877	A	C	A	ref	E-2: ICAM1+ venular	ZNF423	MA0116.2	4.89	7.19	2.31	alt gains motif	0.46534653465346537	True	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	F-8: RSPO3+ intermediate	ZNF423	MA0116.2	4.89	7.19	2.31	alt gains motif	0.36283185840707965	True	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	Bcell	ZNF148	MA1653.2	6.1	9.16	3.06	alt gains motif	0.3011658031088083	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	plasma	ZNF148	MA1653.2	6.1	9.16	3.06	alt gains motif	0.3232963549920761	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	E-2: ICAM1+ venular	ZNF148	MA1653.2	6.1	9.16	3.06	alt gains motif	0.40594059405940597	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	M-10: DC2	ZNF148	MA1653.2	6.1	9.16	3.06	alt gains motif	0.3777589134125637	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	plasma	ZBED4	MA2328.1	4.16	7.51	3.35	alt gains motif	0.12836767036450078	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	E-2: ICAM1+ venular	ZBED4	MA2328.1	4.16	7.51	3.35	alt gains motif	0.11386138613861387	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	M-10: DC2	ZBED4	MA2328.1	4.16	7.51	3.35	alt gains motif	0.13752122241086587	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	plasma	ZNF281	MA1630.3	-0.34	6.38	6.72	alt gains motif	0.1109350237717908	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	E-2: ICAM1+ venular	ZNF281	MA1630.3	-0.34	6.38	6.72	alt gains motif	0.13366336633663367	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	E-2: ICAM1+ venular	MAZ	MA1522.2	-2.38	8.84	11.22	alt gains motif	0.15841584158415842	True	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	M-10: DC2	MAZ	MA1522.2	-2.38	8.84	11.22	alt gains motif	0.13242784380305603	True	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-7: CD4+ Tph	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.14035087719298245	True	risk loses motif
+rs3087243	chr2:203874196	G	T	A	alt	T-7: CD4+ Tph	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.14035087719298245	True	risk loses motif
+rs3087243	chr2:203874196	G	A	A	alt	Tcell	ZNF652	MA1657.2	3.71	7.3	3.58	alt gains motif	0.13464200327167486	True	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	B-0: CD24+CD27+CD11b+ switched memory	ZNF652	MA1657.2	3.71	7.3	3.58	alt gains motif	0.15891472868217055	True	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF652	MA1657.2	3.71	7.3	3.58	alt gains motif	0.10599078341013825	True	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-7: CD4+ Tph	ZNF652	MA1657.2	3.71	7.3	3.58	alt gains motif	0.14035087719298245	True	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-8: CD4+ CD25-high Treg	ZNF652	MA1657.2	3.71	7.3	3.58	alt gains motif	0.13076923076923078	True	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	Sox5	MA0087.3	4.27	7.57	3.3	alt gains motif	0.25	True	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	Sox5	MA0087.3	4.27	7.57	3.3	alt gains motif	0.7747035573122529	True	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	Sox5	MA0087.3	4.27	7.57	3.3	alt gains motif	0.11278195488721804	True	risk gains motif
+rs34480360	chr16:30787368	G	A	A	alt	F-8: RSPO3+ intermediate	EGR3	MA0732.2	6.27	-0.48	-6.75	alt loses motif	0.23893805309734514	True	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	T-16: CD8+ CD45ROlow/naive	EGR3	MA0732.2	6.27	-0.48	-6.75	alt loses motif	0.14358974358974358	True	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	F-8: RSPO3+ intermediate	EGR1	MA0162.5	7.99	3.18	-4.82	alt loses motif	0.7964601769911505	True	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	T-16: CD8+ CD45ROlow/naive	EGR1	MA0162.5	7.99	3.18	-4.82	alt loses motif	0.1794871794871795	True	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	F-8: RSPO3+ intermediate	Ahr::Arnt	MA0006.2	6.68	1.93	-4.75	alt loses motif	0.22123893805309736	True	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	F-8: RSPO3+ intermediate	EGR2	MA0472.2	9.03	4.81	-4.22	alt loses motif	0.22123893805309736	True	risk loses motif
+rs3783782	chr14:61473957	G	A	A	alt	M-8: PLCG2+	Ddit3::Cebpa	MA0019.2	8.4	5.69	-2.71	alt loses motif	0.1029082774049217	True	risk loses motif
+rs4341355	chr1:154463928	C	G	G	alt	M-3: MERTK+ HBEGF+	ZNF493	MA2555.1	5.83	0.95	-4.88	alt loses motif	0.102880658436214	True	risk loses motif
+rs4341355	chr1:154463928	C	G	G	alt	Tcell	ZNF75D	MA1601.2	2.17	7.43	5.26	alt gains motif	0.14986787466968668	True	risk gains motif
+rs4341355	chr1:154463928	C	G	G	alt	M-1: MERTK+ SELENOP+ LYVE1-	ZNF75D	MA1601.2	2.17	7.43	5.26	alt gains motif	0.14962406015037594	True	risk gains motif
+rs4341355	chr1:154463928	C	G	G	alt	M-3: MERTK+ HBEGF+	ZNF75D	MA1601.2	2.17	7.43	5.26	alt gains motif	0.1522633744855967	True	risk gains motif
+rs4341355	chr1:154463928	C	G	G	alt	T-3: CD4+ Tfh/Tph	ZNF75D	MA1601.2	2.17	7.43	5.26	alt gains motif	0.1817180616740088	True	risk gains motif
+rs61828284	chr1:173330604	C	T	G	unknown	E-2: ICAM1+ venular	STAT1::STAT2	MA0517.2	6.04	1.06	-4.98	alt loses motif	0.23267326732673269	True	risk allele unresolved
+rs61828284	chr1:173330604	C	T	G	unknown	F-7: NOTCH3+ sublining	STAT1::STAT2	MA0517.2	6.04	1.06	-4.98	alt loses motif	0.272552783109405	True	risk allele unresolved
+rs61828284	chr1:173330604	C	T	G	unknown	E-2: ICAM1+ venular	STAT3	MA0144.3	-4.02	7.54	11.56	alt gains motif	0.8663366336633663	True	risk allele unresolved
+rs61828284	chr1:173330604	C	T	G	unknown	F-7: NOTCH3+ sublining	STAT3	MA0144.3	-4.02	7.54	11.56	alt gains motif	0.6391554702495201	True	risk allele unresolved
+rs61828284	chr1:173330604	C	T	G	unknown	T-0: CD4+ IL7R+ memory	STAT3	MA0144.3	-4.02	7.54	11.56	alt gains motif	0.6124497991967871	True	risk allele unresolved
+rs61828284	chr1:173330604	C	T	G	unknown	T-2: CD4+ IL7R+CCR5+ memory	STAT3	MA0144.3	-4.02	7.54	11.56	alt gains motif	0.5692599620493358	True	risk allele unresolved
+rs61828284	chr1:173330604	C	T	G	unknown	T-4: CD4+ naive	STAT3	MA0144.3	-4.02	7.54	11.56	alt gains motif	0.7033898305084746	True	risk allele unresolved
+rs657075	chr5:132094425	G	A	A	alt	E-0: SPARC+ capillary	NFIA	MA0670.2	8.32	-4.74	-13.06	alt loses motif	0.8470254957507082	True	risk loses motif
+rs657075	chr5:132094425	G	A	A	alt	F-3: POSTN+ sublining	NFIA	MA0670.2	8.32	-4.74	-13.06	alt loses motif	0.8515950069348127	True	risk loses motif
+rs657075	chr5:132094425	G	A	A	alt	T-2: CD4+ IL7R+CCR5+ memory	NFIA	MA0670.2	8.32	-4.74	-13.06	alt loses motif	0.16129032258064516	True	risk loses motif
+rs657075	chr5:132094425	G	A	A	alt	F-3: POSTN+ sublining	NFIX	MA0671.2	7.06	0.04	-7.03	alt loses motif	0.5755894590846047	True	risk loses motif
+rs657075	chr5:132094425	G	A	A	alt	F-3: POSTN+ sublining	MEIS3	MA0775.2	5.3	8.06	2.76	alt gains motif	0.12482662968099861	True	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	F-3: POSTN+ sublining	MEIS1	MA0498.3	3.21	6.49	3.28	alt gains motif	0.18169209431345354	True	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	E-0: SPARC+ capillary	Foxj3	MA0851.2	4.66	8.45	3.79	alt gains motif	0.5368271954674221	True	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	F-3: POSTN+ sublining	Foxj3	MA0851.2	4.66	8.45	3.79	alt gains motif	0.36754507628294036	True	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	T-2: CD4+ IL7R+CCR5+ memory	Foxj3	MA0851.2	4.66	8.45	3.79	alt gains motif	0.27703984819734345	True	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	F-3: POSTN+ sublining	MEIS2	MA0774.1	5.35	9.34	3.98	alt gains motif	0.289875173370319	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	plasma	Stat5b	MA1625.2	3.67	8.0	4.33	alt gains motif	0.1045958795562599	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	E-3: NOTCH4+ arteriolar	Stat5b	MA1625.2	3.67	8.0	4.33	alt gains motif	0.29120879120879123	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-20: CD38+	Stat5b	MA1625.2	3.67	8.0	4.33	alt gains motif	0.4025974025974026	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-3: CD4+ Tfh/Tph	Stat5b	MA1625.2	3.67	8.0	4.33	alt gains motif	0.4801762114537445	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-7: CD4+ Tph	Stat5b	MA1625.2	3.67	8.0	4.33	alt gains motif	0.519298245614035	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-9: CD4+ CD25-low Treg	Stat5b	MA1625.2	3.67	8.0	4.33	alt gains motif	0.4036697247706422	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	E-3: NOTCH4+ arteriolar	BCL6B	MA0731.1	-11.97	-5.0	6.97	alt gains motif	0.1346153846153846	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	plasma	RBPJ	MA1116.2	-1.2	8.18	9.38	alt gains motif	0.33438985736925514	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	E-3: NOTCH4+ arteriolar	RBPJ	MA1116.2	-1.2	8.18	9.38	alt gains motif	0.2802197802197802	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-20: CD38+	RBPJ	MA1116.2	-1.2	8.18	9.38	alt gains motif	0.37662337662337664	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-3: CD4+ Tfh/Tph	RBPJ	MA1116.2	-1.2	8.18	9.38	alt gains motif	0.6332599118942731	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-7: CD4+ Tph	RBPJ	MA1116.2	-1.2	8.18	9.38	alt gains motif	0.7017543859649122	True	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-9: CD4+ CD25-low Treg	RBPJ	MA1116.2	-1.2	8.18	9.38	alt gains motif	0.40672782874617736	True	risk gains motif
+rs7117261	chr11:118870448	T	G	T	ref	B-8: IgG1+IgG3+ plasma	ELF1	MA0473.4	5.04	7.54	2.51	alt gains motif	0.6757493188010899	True	risk loses motif
+rs7117261	chr11:118870448	T	G	T	ref	M-4: SPP1+	ELF1	MA0473.4	5.04	7.54	2.51	alt gains motif	0.9077922077922078	True	risk loses motif
+rs7117261	chr11:118870448	T	C	T	ref	B-8: IgG1+IgG3+ plasma	ETV6	MA0645.2	5.28	7.81	2.53	alt gains motif	0.6253405994550408	True	risk loses motif
+rs7117261	chr11:118870448	T	C	T	ref	M-4: SPP1+	ETV6	MA0645.2	5.28	7.81	2.53	alt gains motif	0.8285714285714286	True	risk loses motif
+rs7117261	chr11:118870448	T	G	T	ref	B-8: IgG1+IgG3+ plasma	Ikzf3	MA1992.2	5.01	7.98	2.97	alt gains motif	0.40735694822888285	True	risk loses motif
+rs7117261	chr11:118870448	T	G	T	ref	B-8: IgG1+IgG3+ plasma	ZBTB11	MA2329.1	5.02	8.12	3.1	alt gains motif	0.21389645776566757	True	risk loses motif
+rs7117261	chr11:118870448	T	G	T	ref	M-4: SPP1+	ZBTB11	MA2329.1	5.02	8.12	3.1	alt gains motif	0.2714285714285714	True	risk loses motif
+rs7117261	chr11:118870448	T	A	T	ref	B-8: IgG1+IgG3+ plasma	RBPJ	MA1116.2	1.2	8.18	6.99	alt gains motif	0.33242506811989103	True	risk loses motif
+rs7117261	chr11:118870448	T	A	T	ref	M-4: SPP1+	RBPJ	MA1116.2	1.2	8.18	6.99	alt gains motif	0.9038961038961039	True	risk loses motif
+rs734094	chr11:2301990	G	T	A	alt	NK	Ikzf3	MA1992.2	4.42	7.25	2.83	alt gains motif	0.3039742212674543	True	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	B-5: CD11c+LAMP1+ ABC	Ikzf3	MA1992.2	4.42	7.25	2.83	alt gains motif	0.4473684210526316	True	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	NK	IKZF2	MA2326.1	4.25	8.22	3.98	alt gains motif	0.2975295381310419	True	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	F-3: POSTN+ sublining	IKZF2	MA2326.1	4.25	8.22	3.98	alt gains motif	0.15811373092926492	True	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	F-3: POSTN+ sublining	ZNF680	MA1729.2	4.72	9.21	4.5	alt gains motif	0.2274618585298197	True	risk gains motif
+rs734094	chr11:2301990	G	A	A	alt	F-3: POSTN+ sublining	NFIB	MA1643.2	0.46	5.15	4.69	alt gains motif	0.7905686546463245	True	risk gains motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	ZNF281	MA1630.3	8.22	3.13	-5.09	alt loses motif	0.1109350237717908	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF281	MA1630.3	8.22	3.13	-5.09	alt loses motif	0.1382488479262673	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	ZNF281	MA1630.3	8.22	3.13	-5.09	alt loses motif	0.17070484581497797	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	ZNF281	MA1630.3	8.22	3.13	-5.09	alt loses motif	0.20350877192982456	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	ZNF148	MA1653.2	7.45	3.14	-4.31	alt loses motif	0.3232963549920761	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF148	MA1653.2	7.45	3.14	-4.31	alt loses motif	0.33640552995391704	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	ZNF148	MA1653.2	7.45	3.14	-4.31	alt loses motif	0.34140969162995594	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	ZNF148	MA1653.2	7.45	3.14	-4.31	alt loses motif	0.40350877192982454	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	RREB1	MA0073.2	8.16	4.23	-3.93	alt loses motif	0.3304278922345483	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	RREB1	MA0073.2	8.16	4.23	-3.93	alt loses motif	0.15668202764976957	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	RREB1	MA0073.2	8.16	4.23	-3.93	alt loses motif	0.1751101321585903	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	RREB1	MA0073.2	8.16	4.23	-3.93	alt loses motif	0.2	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	RREB1	MA0073.2	8.16	4.23	-3.93	alt loses motif	0.3304278922345483	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	RREB1	MA0073.2	8.16	4.23	-3.93	alt loses motif	0.15668202764976957	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	RREB1	MA0073.2	8.16	4.23	-3.93	alt loses motif	0.1751101321585903	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	RREB1	MA0073.2	8.16	4.23	-3.93	alt loses motif	0.2	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	ZNF281	MA1630.3	8.22	4.5	-3.72	alt loses motif	0.1109350237717908	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF281	MA1630.3	8.22	4.5	-3.72	alt loses motif	0.1382488479262673	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	ZNF281	MA1630.3	8.22	4.5	-3.72	alt loses motif	0.17070484581497797	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	ZNF281	MA1630.3	8.22	4.5	-3.72	alt loses motif	0.20350877192982456	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	ZNF148	MA1653.2	7.45	5.43	-2.02	alt loses motif	0.3232963549920761	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF148	MA1653.2	7.45	5.43	-2.02	alt loses motif	0.33640552995391704	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	ZNF148	MA1653.2	7.45	5.43	-2.02	alt loses motif	0.34140969162995594	True	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	ZNF148	MA1653.2	7.45	5.43	-2.02	alt loses motif	0.40350877192982454	True	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	ZNF215	MA2547.1	3.9	7.23	3.33	alt gains motif	0.45641838351822506	True	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	ZNF652	MA1657.2	7.04	10.62	3.58	alt gains motif	0.21236133122028525	True	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF652	MA1657.2	7.04	10.62	3.58	alt gains motif	0.10599078341013825	True	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	ZNF652	MA1657.2	7.04	10.62	3.58	alt gains motif	0.14035087719298245	True	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	PPARD	MA1550.2	2.0	6.47	4.46	alt gains motif	0.11172741679873217	True	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	PPARD	MA1550.2	2.0	6.47	4.46	alt gains motif	0.11059907834101383	True	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	PPARD	MA1550.2	2.0	6.47	4.46	alt gains motif	0.1277533039647577	True	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	PPARD	MA1550.2	2.0	6.47	4.46	alt gains motif	0.1824561403508772	True	risk gains motif
+rs798000	chr1:116738074	C	T	T	alt	F-0: PRG4+ CLIC5+ lining	ZNF766	MA2098.1	10.05	5.45	-4.6	alt loses motif	0.121173738653156	True	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	F-0: PRG4+ CLIC5+ lining	Stat2	MA1623.2	9.07	5.87	-3.19	alt loses motif	0.31538948701709946	True	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	Tcell	MEF2D	MA0773.1	3.57	0.73	-2.84	alt loses motif	0.20473134516169625	True	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	F-0: PRG4+ CLIC5+ lining	MEF2D	MA0773.1	3.57	0.73	-2.84	alt loses motif	0.19801562170149883	True	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	F-0: PRG4+ CLIC5+ lining	ZNF251	MA2687.1	1.8	5.83	4.03	alt gains motif	0.1317289423685877	True	risk gains motif
+rs947474	chr10:6348488	G	C	A	alt	M-10: DC2	ZNF146	MA2458.1	4.45	-2.17	-6.61	alt loses motif	0.10101867572156197	True	risk loses motif
+rs947474	chr10:6348488	G	T	A	alt	M-10: DC2	ZNF146	MA2458.1	4.45	0.85	-3.6	alt loses motif	0.10101867572156197	True	risk loses motif
+rs947474	chr10:6348488	G	C	A	alt	M-10: DC2	ZNF721	MA2526.1	6.32	3.34	-2.98	alt loses motif	0.1774193548387097	True	risk loses motif
+rs947474	chr10:6348488	G	C	A	alt	M-7: IL1B+ FCN1+	ZNF721	MA2526.1	6.32	3.34	-2.98	alt loses motif	0.1456726649528706	True	risk loses motif
+rs947474	chr10:6348488	G	A	A	alt	M-10: DC2	ZNF146	MA2458.1	4.45	1.48	-2.97	alt loses motif	0.10101867572156197	True	risk loses motif
+rs947474	chr10:6348488	G	T	A	alt	M-10: DC2	ZNF721	MA2526.1	6.32	4.31	-2.01	alt loses motif	0.1774193548387097	True	risk loses motif
+rs947474	chr10:6348488	G	T	A	alt	M-7: IL1B+ FCN1+	ZNF721	MA2526.1	6.32	4.31	-2.01	alt loses motif	0.1456726649528706	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF6	MA1517.2	7.58	-1.72	-9.3	alt loses motif	0.8640644192711887	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF6	MA1517.2	7.58	-1.72	-9.3	alt loses motif	0.648	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF6	MA1517.2	7.58	-1.72	-9.3	alt loses motif	0.8640644192711887	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF6	MA1517.2	7.58	-1.72	-9.3	alt loses motif	0.648	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF12	MA0742.2	9.62	2.55	-7.07	alt loses motif	0.13129520949911286	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF12	MA0742.2	9.62	2.55	-7.07	alt loses motif	0.68	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF12	MA0742.2	9.62	2.55	-7.07	alt loses motif	0.13129520949911286	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF12	MA0742.2	9.62	2.55	-7.07	alt loses motif	0.68	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	SP4	MA0685.2	9.74	2.71	-7.03	alt loses motif	0.14043947045175378	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	SP4	MA0685.2	9.74	2.71	-7.03	alt loses motif	0.208	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	SP4	MA0685.2	9.74	2.71	-7.03	alt loses motif	0.14043947045175378	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	SP4	MA0685.2	9.74	2.71	-7.03	alt loses motif	0.208	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF10	MA1511.2	9.07	2.17	-6.9	alt loses motif	0.25262726900504984	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF10	MA1511.2	9.07	2.17	-6.9	alt loses motif	0.25262726900504984	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF7	MA1959.2	10.06	3.34	-6.72	alt loses motif	0.5045721304763204	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF7	MA1959.2	10.06	3.34	-6.72	alt loses motif	0.136	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF7	MA1959.2	10.06	3.34	-6.72	alt loses motif	0.5045721304763204	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF7	MA1959.2	10.06	3.34	-6.72	alt loses motif	0.136	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF2	MA1515.2	8.56	3.22	-5.34	alt loses motif	0.42991674628087895	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF2	MA1515.2	8.56	3.22	-5.34	alt loses motif	0.6	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF2	MA1515.2	8.56	4.02	-4.54	alt loses motif	0.42991674628087895	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF2	MA1515.2	8.56	4.02	-4.54	alt loses motif	0.6	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	ZNF148	MA1653.2	6.99	2.62	-4.37	alt loses motif	0.4649924935171284	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZNF148	MA1653.2	6.99	2.62	-4.37	alt loses motif	0.264	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF4	MA0039.5	8.17	4.34	-3.84	alt loses motif	0.6713525317319503	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	ZBED4	MA2328.1	8.45	4.7	-3.75	alt loses motif	0.12815613484372868	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZBED4	MA2328.1	8.45	4.7	-3.75	alt loses motif	0.176	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF4	MA0039.5	8.17	4.6	-3.57	alt loses motif	0.6713525317319503	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	ZBED4	MA2328.1	8.45	5.42	-3.03	alt loses motif	0.12815613484372868	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZBED4	MA2328.1	8.45	5.42	-3.03	alt loses motif	0.176	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	ZNF148	MA1653.2	6.99	4.91	-2.07	alt loses motif	0.4649924935171284	True	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZNF148	MA1653.2	6.99	4.91	-2.07	alt loses motif	0.264	True	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	Zfx	MA0146.3	3.65	8.65	5.0	alt gains motif	0.32168691142350214	True	risk gains motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	Zfx	MA0146.3	3.65	8.65	5.0	alt gains motif	0.248	True	risk gains motif
+rs10152590	chr15:69755777	A	G	A	ref	M-10: DC2	NR2F6	MA1539.1	-1.69	4.24	5.93	alt gains motif	0.006791171477079796	False	risk loses motif
+rs10152590	chr15:69755777	A	G	A	ref	M-7: IL1B+ FCN1+	NR2F6	MA1539.1	-1.69	4.24	5.93	alt gains motif	0.009425878320479864	False	risk loses motif
+rs10152590	chr15:69755777	A	T	A	ref	M-10: DC2	NACC2	MA2559.1	-1.84	6.68	8.52	alt gains motif	0.09168081494057725	False	risk loses motif
+rs10175798	chr2:30226728	G	A	A	alt	T-15: CD8+ GZMB+/TEMRA	CASZ1	MA2508.1	6.17	8.29	2.12	alt gains motif	0.045871559633027525	False	risk gains motif
+rs10175798	chr2:30226728	G	A	A	alt	T-7: CD4+ Tph	CASZ1	MA2508.1	6.17	8.29	2.12	alt gains motif	0.031578947368421054	False	risk gains motif
+rs10175798	chr2:30226728	G	T	A	alt	T-15: CD8+ GZMB+/TEMRA	CASZ1	MA2508.1	6.17	8.44	2.27	alt gains motif	0.045871559633027525	False	risk gains motif
+rs10175798	chr2:30226728	G	T	A	alt	T-7: CD4+ Tph	CASZ1	MA2508.1	6.17	8.44	2.27	alt gains motif	0.031578947368421054	False	risk gains motif
+rs10175798	chr2:30226728	G	A	A	alt	T-15: CD8+ GZMB+/TEMRA	ZNF558	MA2335.1	-3.59	-0.51	3.08	alt gains motif	0.009174311926605505	False	risk gains motif
+rs10175798	chr2:30226728	G	A	A	alt	T-7: CD4+ Tph	ZNF558	MA2335.1	-3.59	-0.51	3.08	alt gains motif	0.03859649122807018	False	risk gains motif
+rs10175798	chr2:30226728	G	T	A	alt	T-15: CD8+ GZMB+/TEMRA	Hmga1	MA2124.1	4.43	8.37	3.94	alt gains motif	0.027522935779816515	False	risk gains motif
+rs10175798	chr2:30226728	G	T	A	alt	T-7: CD4+ Tph	Hmga1	MA2124.1	4.43	8.37	3.94	alt gains motif	0.07719298245614035	False	risk gains motif
+rs10175798	chr2:30226728	G	A	A	alt	T-15: CD8+ GZMB+/TEMRA	ZNF780B	MA2532.1	1.46	5.62	4.15	alt gains motif	0.03669724770642202	False	risk gains motif
+rs10175798	chr2:30226728	G	A	A	alt	T-7: CD4+ Tph	ZNF780B	MA2532.1	1.46	5.62	4.15	alt gains motif	0.08771929824561403	False	risk gains motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	SCRT1	MA0743.3	7.07	1.45	-5.62	alt loses motif		False	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	SNAI3	MA1559.2	9.0	3.82	-5.18	alt loses motif	0.06578947368421052	False	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	ASCL1	MA1631.2	9.0	4.11	-4.89	alt loses motif		False	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	ZNF780B	MA2532.1	6.19	1.5	-4.69	alt loses motif	0.09649122807017543	False	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	SNAI1	MA1558.2	8.81	4.74	-4.07	alt loses motif	0.04824561403508772	False	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	PRDM13	MA2536.1	10.35	6.42	-3.94	alt loses motif		False	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	FIGLA	MA0820.2	7.73	3.83	-3.9	alt loses motif	0.0	False	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	ZNF134	MA2491.1	6.46	2.96	-3.5	alt loses motif	0.013157894736842105	False	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	Zic3	MA0697.3	9.17	5.75	-3.42	alt loses motif		False	risk loses motif
+rs10872479	chr6:137945111	G	A	A	alt	B-7: HLA-DR+IgG+ plasmablast	Zic1::Zic2	MA1628.2	9.31	6.24	-3.08	alt loses motif		False	risk loses motif
+rs10917571	chr1:161549621	C	T	A	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZNF286B	MA2551.1	3.01	0.34	-2.66	alt loses motif		False	risk loses motif
+rs10917571	chr1:161549621	C	A	A	alt	NK-1: CD56dim CD16+ IFNG+CD160+	POU6F1	MA1549.2	2.48	8.92	6.44	alt gains motif	0.016	False	risk gains motif
+rs10917571	chr1:161549621	C	A	A	alt	NK-1: CD56dim CD16+ IFNG+CD160+	HOXD4	MA1507.2	-2.43	7.31	9.74	alt gains motif	0.0	False	risk gains motif
+rs10917571	chr1:161549621	C	A	A	alt	NK-1: CD56dim CD16+ IFNG+CD160+	HOXC4	MA1504.2	-3.37	7.31	10.69	alt gains motif	0.0	False	risk gains motif
+rs10917571	chr1:161549621	C	A	A	alt	NK-1: CD56dim CD16+ IFNG+CD160+	HOXB4	MA1499.2	-3.19	7.54	10.72	alt gains motif	0.032	False	risk gains motif
+rs117068593	chr14:92651884	C	T	T	alt	NK	SP8	MA0747.2	7.57	0.84	-6.73	alt loses motif		False	risk loses motif
+rs117068593	chr14:92651884	C	T	T	alt	B-5: CD11c+LAMP1+ ABC	SP8	MA0747.2	7.57	0.84	-6.73	alt loses motif		False	risk loses motif
+rs117068593	chr14:92651884	C	T	T	alt	NK	ZBTB14	MA1650.2	7.55	3.27	-4.28	alt loses motif	0.022556390977443608	False	risk loses motif
+rs117068593	chr14:92651884	C	T	T	alt	B-5: CD11c+LAMP1+ ABC	ZBTB14	MA1650.2	7.55	3.27	-4.28	alt loses motif	0.02631578947368421	False	risk loses motif
+rs117068593	chr14:92651884	C	T	T	alt	NK	ZBTB7B	MA0694.2	7.19	3.66	-3.53	alt loses motif	0.021482277121374866	False	risk loses motif
+rs117068593	chr14:92651884	C	T	T	alt	B-5: CD11c+LAMP1+ ABC	ZBTB7B	MA0694.2	7.19	3.66	-3.53	alt loses motif	0.03508771929824561	False	risk loses motif
+rs117068593	chr14:92651884	C	T	T	alt	NK	ZIC1	MA0696.1	2.82	5.55	2.74	alt gains motif	0.00322234156820623	False	risk gains motif
+rs117068593	chr14:92651884	C	T	T	alt	B-5: CD11c+LAMP1+ ABC	ZIC1	MA0696.1	2.82	5.55	2.74	alt gains motif	0.0	False	risk gains motif
+rs117068593	chr14:92651884	C	T	T	alt	NK	ZNF549	MA1728.2	4.63	7.83	3.2	alt gains motif	0.023630504833512353	False	risk gains motif
+rs117068593	chr14:92651884	C	T	T	alt	B-5: CD11c+LAMP1+ ABC	ZNF549	MA1728.2	4.63	7.83	3.2	alt gains motif	0.017543859649122806	False	risk gains motif
+rs117605225	chr4:77587043	T	G	T	ref	M-10: DC2	ZNF460	MA1596.1	2.26	6.59	4.33	alt gains motif	0.07555178268251274	False	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	M-1: MERTK+ SELENOP+ LYVE1-	ZNF460	MA1596.1	2.26	6.59	4.33	alt gains motif	0.0518796992481203	False	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	T-13: CD8+ GZMK/B+ memory	ZNF460	MA1596.1	2.26	6.59	4.33	alt gains motif	0.042789223454833596	False	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	T-18: Proliferating	ZNF460	MA1596.1	2.26	6.59	4.33	alt gains motif	0.09375	False	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	T-3: CD4+ Tfh/Tph	ZNF460	MA1596.1	2.26	6.59	4.33	alt gains motif	0.06277533039647577	False	risk loses motif
+rs117605225	chr4:77587043	T	G	T	ref	T-7: CD4+ Tph	ZNF460	MA1596.1	2.26	6.59	4.33	alt gains motif	0.07719298245614035	False	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	M-8: PLCG2+	ZBTB41	MA2510.1	9.1	3.09	-6.01	alt loses motif	0.06711409395973154	False	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	T-23: Vdelta2	ZBTB41	MA2510.1	9.1	3.09	-6.01	alt loses motif	0.02608695652173913	False	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	T-6: CD4+ memory	ZBTB41	MA2510.1	9.1	3.09	-6.01	alt loses motif	0.04897959183673469	False	risk loses motif
+rs1422673	chr5:151059427	C	T	T	alt	M-8: PLCG2+	ZBTB41	MA2510.1	9.1	4.46	-4.64	alt loses motif	0.06711409395973154	False	risk loses motif
+rs1422673	chr5:151059427	C	T	T	alt	T-23: Vdelta2	ZBTB41	MA2510.1	9.1	4.46	-4.64	alt loses motif	0.02608695652173913	False	risk loses motif
+rs1422673	chr5:151059427	C	T	T	alt	T-6: CD4+ memory	ZBTB41	MA2510.1	9.1	4.46	-4.64	alt loses motif	0.04897959183673469	False	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	M-8: PLCG2+	ZNF676	MA2569.1	4.41	0.15	-4.26	alt loses motif	0.0044742729306487695	False	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	T-23: Vdelta2	ZNF676	MA2569.1	4.41	0.15	-4.26	alt loses motif	0.0	False	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	T-6: CD4+ memory	ZNF676	MA2569.1	4.41	0.15	-4.26	alt loses motif	0.0	False	risk loses motif
+rs1422673	chr5:151059427	C	A	T	alt	M-8: PLCG2+	ZBTB41	MA2510.1	9.1	6.01	-3.09	alt loses motif	0.06711409395973154	False	risk loses motif
+rs1422673	chr5:151059427	C	A	T	alt	T-23: Vdelta2	ZBTB41	MA2510.1	9.1	6.01	-3.09	alt loses motif	0.02608695652173913	False	risk loses motif
+rs1422673	chr5:151059427	C	A	T	alt	T-6: CD4+ memory	ZBTB41	MA2510.1	9.1	6.01	-3.09	alt loses motif	0.04897959183673469	False	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	M-8: PLCG2+	PLAGL2	MA1548.2	10.04	7.01	-3.03	alt loses motif	0.017897091722595078	False	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	T-23: Vdelta2	PLAGL2	MA1548.2	10.04	7.01	-3.03	alt loses motif	0.02608695652173913	False	risk loses motif
+rs1422673	chr5:151059427	C	G	T	alt	T-6: CD4+ memory	PLAGL2	MA1548.2	10.04	7.01	-3.03	alt loses motif	0.02857142857142857	False	risk loses motif
+rs1422673	chr5:151059427	C	T	T	alt	M-8: PLCG2+	PLAGL2	MA1548.2	10.04	7.01	-3.03	alt loses motif	0.017897091722595078	False	risk loses motif
+rs1422673	chr5:151059427	C	T	T	alt	T-23: Vdelta2	PLAGL2	MA1548.2	10.04	7.01	-3.03	alt loses motif	0.02608695652173913	False	risk loses motif
+rs1422673	chr5:151059427	C	T	T	alt	T-6: CD4+ memory	PLAGL2	MA1548.2	10.04	7.01	-3.03	alt loses motif	0.02857142857142857	False	risk loses motif
+rs1422673	chr5:151059427	C	A	T	alt	T-23: Vdelta2	Plagl1	MA1615.2	5.25	8.12	2.87	alt gains motif	0.008695652173913044	False	risk gains motif
+rs1422673	chr5:151059427	C	A	T	alt	T-6: CD4+ memory	Plagl1	MA1615.2	5.25	8.12	2.87	alt gains motif	0.0163265306122449	False	risk gains motif
+rs1422673	chr5:151059427	C	A	T	alt	M-8: PLCG2+	RARG	MA1553.2	0.89	6.45	5.56	alt gains motif	0.024608501118568233	False	risk gains motif
+rs1422673	chr5:151059427	C	A	T	alt	T-23: Vdelta2	RARG	MA1553.2	0.89	6.45	5.56	alt gains motif	0.017391304347826087	False	risk gains motif
+rs1422673	chr5:151059427	C	A	T	alt	T-6: CD4+ memory	RARG	MA1553.2	0.89	6.45	5.56	alt gains motif	0.0163265306122449	False	risk gains motif
+rs1422673	chr5:151059427	C	A	T	alt	M-8: PLCG2+	RARB	MA1552.2	-0.4	6.98	7.38	alt gains motif	0.013422818791946308	False	risk gains motif
+rs1422673	chr5:151059427	C	A	T	alt	T-23: Vdelta2	RARB	MA1552.2	-0.4	6.98	7.38	alt gains motif	0.017391304347826087	False	risk gains motif
+rs1422673	chr5:151059427	C	A	T	alt	T-6: CD4+ memory	RARB	MA1552.2	-0.4	6.98	7.38	alt gains motif	0.00816326530612245	False	risk gains motif
+rs1883832	chr20:46118343	T	G	C	alt	T-19: MT-high (low quality)	ZBTB33	MA0527.2	-0.36	7.81	8.17	alt gains motif	0.02976190476190476	False	risk gains motif
+rs1883832	chr20:46118343	T	G	C	alt	T-4: CD4+ naive	ZBTB33	MA0527.2	-0.36	7.81	8.17	alt gains motif	0.0211864406779661	False	risk gains motif
+rs2192008	chr2:190680421	G	A	A	alt	plasma	Pou5f1::Sox2	MA0142.1	6.7	1.9	-4.8	alt loses motif	0.001584786053882726	False	risk loses motif
+rs2192008	chr2:190680421	G	A	A	alt	M-3: MERTK+ HBEGF+	Pou5f1::Sox2	MA0142.1	6.7	1.9	-4.8	alt loses motif	0.0	False	risk loses motif
+rs2192008	chr2:190680421	G	A	A	alt	T-18: Proliferating	Pou5f1::Sox2	MA0142.1	6.7	1.9	-4.8	alt loses motif	0.0	False	risk loses motif
+rs2192008	chr2:190680421	G	C	A	alt	plasma	Pou5f1::Sox2	MA0142.1	6.7	2.37	-4.34	alt loses motif	0.001584786053882726	False	risk loses motif
+rs2192008	chr2:190680421	G	C	A	alt	M-3: MERTK+ HBEGF+	Pou5f1::Sox2	MA0142.1	6.7	2.37	-4.34	alt loses motif	0.0	False	risk loses motif
+rs2192008	chr2:190680421	G	C	A	alt	T-18: Proliferating	Pou5f1::Sox2	MA0142.1	6.7	2.37	-4.34	alt loses motif	0.0	False	risk loses motif
+rs2192008	chr2:190680421	G	T	A	alt	plasma	Pou5f1::Sox2	MA0142.1	6.7	4.23	-2.48	alt loses motif	0.001584786053882726	False	risk loses motif
+rs2192008	chr2:190680421	G	T	A	alt	M-3: MERTK+ HBEGF+	Pou5f1::Sox2	MA0142.1	6.7	4.23	-2.48	alt loses motif	0.0	False	risk loses motif
+rs2192008	chr2:190680421	G	T	A	alt	T-18: Proliferating	Pou5f1::Sox2	MA0142.1	6.7	4.23	-2.48	alt loses motif	0.0	False	risk loses motif
+rs2192008	chr2:190680421	G	T	A	alt	plasma	ZNF675	MA1714.2	4.7	6.94	2.24	alt gains motif	0.058637083993660855	False	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	T-18: Proliferating	Vdr	MA0693.4	4.81	8.82	4.01	alt gains motif	0.0703125	False	risk gains motif
+rs2192008	chr2:190680421	G	C	A	alt	plasma	ZNF135	MA1587.1	1.04	5.36	4.33	alt gains motif	0.002377179080824089	False	risk gains motif
+rs2192008	chr2:190680421	G	C	A	alt	M-3: MERTK+ HBEGF+	ZNF135	MA1587.1	1.04	5.36	4.33	alt gains motif	0.0	False	risk gains motif
+rs2192008	chr2:190680421	G	C	A	alt	T-18: Proliferating	ZNF135	MA1587.1	1.04	5.36	4.33	alt gains motif	0.015625	False	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	plasma	Rarb	MA0857.1	-12.2	-3.24	8.96	alt gains motif	0.01584786053882726	False	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	M-3: MERTK+ HBEGF+	Rarb	MA0857.1	-12.2	-3.24	8.96	alt gains motif	0.00411522633744856	False	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	T-18: Proliferating	Rarb	MA0857.1	-12.2	-3.24	8.96	alt gains motif	0.0390625	False	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	plasma	TCF7L2	MA0523.2	-2.56	7.39	9.95	alt gains motif	0.042789223454833596	False	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	T-18: Proliferating	TCF7L2	MA0523.2	-2.56	7.39	9.95	alt gains motif	0.09375	False	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	plasma	NR1I3	MA1534.2	-3.78	8.62	12.4	alt gains motif	0.002377179080824089	False	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	M-3: MERTK+ HBEGF+	NR1I3	MA1534.2	-3.78	8.62	12.4	alt gains motif	0.037037037037037035	False	risk gains motif
+rs2192008	chr2:190680421	G	T	A	alt	T-18: Proliferating	NR1I3	MA1534.2	-3.78	8.62	12.4	alt gains motif	0.0	False	risk gains motif
+rs2234067	chr6:36387877	A	C	A	ref	B-5: CD11c+LAMP1+ ABC	ZNF423	MA0116.2	4.89	7.19	2.31	alt gains motif	0.017543859649122806	False	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	B-5: CD11c+LAMP1+ ABC	TFAP2C	MA0524.3	3.73	9.21	5.49	alt gains motif	0.0	False	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	E-2: ICAM1+ venular	TFAP2C	MA0524.3	3.73	9.21	5.49	alt gains motif	0.0	False	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	F-8: RSPO3+ intermediate	TFAP2C	MA0524.3	3.73	9.21	5.49	alt gains motif	0.0	False	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	B-5: CD11c+LAMP1+ ABC	TFAP2B	MA0811.2	1.55	9.43	7.88	alt gains motif		False	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	E-2: ICAM1+ venular	TFAP2B	MA0811.2	1.55	9.43	7.88	alt gains motif		False	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	F-8: RSPO3+ intermediate	TFAP2B	MA0811.2	1.55	9.43	7.88	alt gains motif		False	risk loses motif
+rs2234067	chr6:36387877	A	T	A	ref	B-5: CD11c+LAMP1+ ABC	ZNF66	MA2581.1	1.72	9.94	8.22	alt gains motif	0.08771929824561403	False	risk loses motif
+rs2234067	chr6:36387877	A	T	A	ref	E-2: ICAM1+ venular	ZNF66	MA2581.1	1.72	9.94	8.22	alt gains motif	0.09900990099009901	False	risk loses motif
+rs2234067	chr6:36387877	A	T	A	ref	F-8: RSPO3+ intermediate	ZNF66	MA2581.1	1.72	9.94	8.22	alt gains motif	0.07079646017699115	False	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	B-5: CD11c+LAMP1+ ABC	TFAP2A	MA0810.2	0.11	9.66	9.56	alt gains motif	0.0	False	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	E-2: ICAM1+ venular	TFAP2A	MA0810.2	0.11	9.66	9.56	alt gains motif	0.0	False	risk loses motif
+rs2234067	chr6:36387877	A	C	A	ref	F-8: RSPO3+ intermediate	TFAP2A	MA0810.2	0.11	9.66	9.56	alt gains motif	0.0	False	risk loses motif
+rs2275806	chr10:8053377	G	A	A	alt	NK	FOXH1	MA0479.2	8.43	-2.19	-10.62	alt loses motif	0.0010741138560687433	False	risk loses motif
+rs2275806	chr10:8053377	G	A	A	alt	Tcell	FOXH1	MA0479.2	8.43	-2.19	-10.62	alt loses motif	0.00012583364791745311	False	risk loses motif
+rs2275806	chr10:8053377	G	A	A	alt	F-4: DKK3+ sublining	FOXH1	MA0479.2	8.43	-2.19	-10.62	alt loses motif	0.0	False	risk loses motif
+rs2275806	chr10:8053377	G	C	A	alt	NK	FOXH1	MA0479.2	8.43	-2.19	-10.62	alt loses motif	0.0010741138560687433	False	risk loses motif
+rs2275806	chr10:8053377	G	C	A	alt	Tcell	FOXH1	MA0479.2	8.43	-2.19	-10.62	alt loses motif	0.00012583364791745311	False	risk loses motif
+rs2275806	chr10:8053377	G	C	A	alt	F-4: DKK3+ sublining	FOXH1	MA0479.2	8.43	-2.19	-10.62	alt loses motif	0.0	False	risk loses motif
+rs2275806	chr10:8053377	G	A	A	alt	NK	ZNF354C	MA0130.1	6.86	2.53	-4.33	alt loses motif	0.021482277121374866	False	risk loses motif
+rs2275806	chr10:8053377	G	A	A	alt	Tcell	ZNF354C	MA0130.1	6.86	2.53	-4.33	alt loses motif	0.016358374229268908	False	risk loses motif
+rs2275806	chr10:8053377	G	A	A	alt	F-4: DKK3+ sublining	ZNF354C	MA0130.1	6.86	2.53	-4.33	alt loses motif	0.04	False	risk loses motif
+rs2275806	chr10:8053377	G	C	A	alt	NK	ZNF354C	MA0130.1	6.86	4.32	-2.54	alt loses motif	0.021482277121374866	False	risk loses motif
+rs2275806	chr10:8053377	G	C	A	alt	Tcell	ZNF354C	MA0130.1	6.86	4.32	-2.54	alt loses motif	0.016358374229268908	False	risk loses motif
+rs2275806	chr10:8053377	G	C	A	alt	F-4: DKK3+ sublining	ZNF354C	MA0130.1	6.86	4.32	-2.54	alt loses motif	0.04	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	Bcell	ZNF768	MA1731.2	7.64	0.93	-6.71	alt loses motif	0.009715025906735751	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	plasma	ZNF768	MA1731.2	7.64	0.93	-6.71	alt loses motif	0.020602218700475437	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	E-2: ICAM1+ venular	ZNF768	MA1731.2	7.64	0.93	-6.71	alt loses motif	0.0297029702970297	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	M-10: DC2	ZNF768	MA1731.2	7.64	0.93	-6.71	alt loses motif	0.030560271646859084	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	Bcell	ZNF850	MA2591.1	0.73	-3.37	-4.1	alt loses motif	0.018134715025906734	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	plasma	ZNF850	MA2591.1	0.73	-3.37	-4.1	alt loses motif	0.011093502377179081	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	E-2: ICAM1+ venular	ZNF850	MA2591.1	0.73	-3.37	-4.1	alt loses motif	0.08415841584158416	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	M-10: DC2	ZNF850	MA2591.1	0.73	-3.37	-4.1	alt loses motif	0.011035653650254669	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	Bcell	ZNF707	MA1715.1	7.03	4.17	-2.85	alt loses motif	0.011658031088082901	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	plasma	ZNF707	MA1715.1	7.03	4.17	-2.85	alt loses motif	0.017432646592709985	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	E-2: ICAM1+ venular	ZNF707	MA1715.1	7.03	4.17	-2.85	alt loses motif	0.0049504950495049506	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	M-10: DC2	ZNF707	MA1715.1	7.03	4.17	-2.85	alt loses motif	0.015280135823429542	False	risk loses motif
+rs2582532	chr14:104926500	T	C	C	alt	Bcell	ZBED4	MA2328.1	4.16	7.51	3.35	alt gains motif	0.052461139896373056	False	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	Bcell	PATZ1	MA1961.2	3.14	9.87	6.72	alt gains motif	0.03562176165803109	False	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	plasma	PATZ1	MA1961.2	3.14	9.87	6.72	alt gains motif	0.01664025356576862	False	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	E-2: ICAM1+ venular	PATZ1	MA1961.2	3.14	9.87	6.72	alt gains motif	0.054455445544554455	False	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	M-10: DC2	PATZ1	MA1961.2	3.14	9.87	6.72	alt gains motif	0.029711375212224108	False	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	Bcell	ZNF281	MA1630.3	-0.34	6.38	6.72	alt gains motif	0.038860103626943004	False	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	M-10: DC2	ZNF281	MA1630.3	-0.34	6.38	6.72	alt gains motif	0.07979626485568761	False	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	Bcell	MAZ	MA1522.2	-2.38	8.84	11.22	alt gains motif	0.027849740932642485	False	risk gains motif
+rs2582532	chr14:104926500	T	C	C	alt	plasma	MAZ	MA1522.2	-2.38	8.84	11.22	alt gains motif	0.09270998415213946	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	Tcell	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.05649930791493645	False	risk loses motif
+rs3087243	chr2:203874196	G	A	A	alt	B-0: CD24+CD27+CD11b+ switched memory	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.031007751937984496	False	risk loses motif
+rs3087243	chr2:203874196	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.04608294930875576	False	risk loses motif
+rs3087243	chr2:203874196	G	A	A	alt	T-8: CD4+ CD25-high Treg	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.07692307692307693	False	risk loses motif
+rs3087243	chr2:203874196	G	A	A	alt	T-9: CD4+ CD25-low Treg	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.04281345565749235	False	risk loses motif
+rs3087243	chr2:203874196	G	T	A	alt	Tcell	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.05649930791493645	False	risk loses motif
+rs3087243	chr2:203874196	G	T	A	alt	B-0: CD24+CD27+CD11b+ switched memory	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.031007751937984496	False	risk loses motif
+rs3087243	chr2:203874196	G	T	A	alt	T-10: CD4+ OX40+NR3C1+	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.04608294930875576	False	risk loses motif
+rs3087243	chr2:203874196	G	T	A	alt	T-8: CD4+ CD25-high Treg	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.07692307692307693	False	risk loses motif
+rs3087243	chr2:203874196	G	T	A	alt	T-9: CD4+ CD25-low Treg	ARNT::HIF1A	MA0259.2	6.61	0.35	-6.26	alt loses motif	0.04281345565749235	False	risk loses motif
+rs3087243	chr2:203874196	G	A	A	alt	Tcell	ZBTB47	MA2543.1	4.91	8.45	3.53	alt gains motif	0.003900843085441047	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	B-0: CD24+CD27+CD11b+ switched memory	ZBTB47	MA2543.1	4.91	8.45	3.53	alt gains motif	0.001937984496124031	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	ZBTB47	MA2543.1	4.91	8.45	3.53	alt gains motif	0.004608294930875576	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-7: CD4+ Tph	ZBTB47	MA2543.1	4.91	8.45	3.53	alt gains motif	0.0035087719298245615	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-8: CD4+ CD25-high Treg	ZBTB47	MA2543.1	4.91	8.45	3.53	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-9: CD4+ CD25-low Treg	ZBTB47	MA2543.1	4.91	8.45	3.53	alt gains motif	0.0030581039755351682	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-9: CD4+ CD25-low Treg	ZNF652	MA1657.2	3.71	7.3	3.58	alt gains motif	0.08868501529051988	False	risk gains motif
+rs3087243	chr2:203874196	G	T	A	alt	Tcell	ZKSCAN4	MA2544.1	-1.54	3.18	4.73	alt gains motif	0.006795016987542469	False	risk gains motif
+rs3087243	chr2:203874196	G	T	A	alt	B-0: CD24+CD27+CD11b+ switched memory	ZKSCAN4	MA2544.1	-1.54	3.18	4.73	alt gains motif	0.005813953488372093	False	risk gains motif
+rs3087243	chr2:203874196	G	T	A	alt	T-10: CD4+ OX40+NR3C1+	ZKSCAN4	MA2544.1	-1.54	3.18	4.73	alt gains motif	0.02304147465437788	False	risk gains motif
+rs3087243	chr2:203874196	G	T	A	alt	T-7: CD4+ Tph	ZKSCAN4	MA2544.1	-1.54	3.18	4.73	alt gains motif	0.017543859649122806	False	risk gains motif
+rs3087243	chr2:203874196	G	T	A	alt	T-8: CD4+ CD25-high Treg	ZKSCAN4	MA2544.1	-1.54	3.18	4.73	alt gains motif	0.01282051282051282	False	risk gains motif
+rs3087243	chr2:203874196	G	T	A	alt	T-9: CD4+ CD25-low Treg	ZKSCAN4	MA2544.1	-1.54	3.18	4.73	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	Tcell	IRX5	MA2680.1	-0.64	6.69	7.34	alt gains motif	0.0007550018875047187	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	B-0: CD24+CD27+CD11b+ switched memory	IRX5	MA2680.1	-0.64	6.69	7.34	alt gains motif	0.001937984496124031	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	IRX5	MA2680.1	-0.64	6.69	7.34	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-7: CD4+ Tph	IRX5	MA2680.1	-0.64	6.69	7.34	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-8: CD4+ CD25-high Treg	IRX5	MA2680.1	-0.64	6.69	7.34	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-9: CD4+ CD25-low Treg	IRX5	MA2680.1	-0.64	6.69	7.34	alt gains motif	0.0030581039755351682	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	Tcell	NACC2	MA2559.1	-1.84	6.68	8.52	alt gains motif	0.041525103812759534	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	B-0: CD24+CD27+CD11b+ switched memory	NACC2	MA2559.1	-1.84	6.68	8.52	alt gains motif	0.005813953488372093	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	NACC2	MA2559.1	-1.84	6.68	8.52	alt gains motif	0.04608294930875576	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-7: CD4+ Tph	NACC2	MA2559.1	-1.84	6.68	8.52	alt gains motif	0.042105263157894736	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-8: CD4+ CD25-high Treg	NACC2	MA2559.1	-1.84	6.68	8.52	alt gains motif	0.035897435897435895	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-9: CD4+ CD25-low Treg	NACC2	MA2559.1	-1.84	6.68	8.52	alt gains motif	0.021406727828746176	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	Tcell	MKX	MA2592.1	-0.22	8.3	8.52	alt gains motif	0.0007550018875047187	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	B-0: CD24+CD27+CD11b+ switched memory	MKX	MA2592.1	-0.22	8.3	8.52	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	MKX	MA2592.1	-0.22	8.3	8.52	alt gains motif	0.004608294930875576	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-7: CD4+ Tph	MKX	MA2592.1	-0.22	8.3	8.52	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-8: CD4+ CD25-high Treg	MKX	MA2592.1	-0.22	8.3	8.52	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-9: CD4+ CD25-low Treg	MKX	MA2592.1	-0.22	8.3	8.52	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	Tcell	IRX2	MA2679.1	-2.69	7.73	10.42	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	B-0: CD24+CD27+CD11b+ switched memory	IRX2	MA2679.1	-2.69	7.73	10.42	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	IRX2	MA2679.1	-2.69	7.73	10.42	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-7: CD4+ Tph	IRX2	MA2679.1	-2.69	7.73	10.42	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-8: CD4+ CD25-high Treg	IRX2	MA2679.1	-2.69	7.73	10.42	alt gains motif	0.0	False	risk gains motif
+rs3087243	chr2:203874196	G	A	A	alt	T-9: CD4+ CD25-low Treg	IRX2	MA2679.1	-2.69	7.73	10.42	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	ZNF568	MA2568.1	6.24	-2.28	-8.51	alt loses motif	0.023316062176165803	False	risk loses motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	ZNF568	MA2568.1	6.24	-2.28	-8.51	alt loses motif	0.019762845849802372	False	risk loses motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	ZNF568	MA2568.1	6.24	-2.28	-8.51	alt loses motif	0.02481203007518797	False	risk loses motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	ZNF568	MA2568.1	6.24	-2.28	-8.51	alt loses motif	0.03669724770642202	False	risk loses motif
+rs3093023	chr6:167120802	G	C	A	alt	Bcell	ZNF568	MA2568.1	6.24	-2.28	-8.51	alt loses motif	0.023316062176165803	False	risk loses motif
+rs3093023	chr6:167120802	G	C	A	alt	B-6: IgM+ plasma	ZNF568	MA2568.1	6.24	-2.28	-8.51	alt loses motif	0.019762845849802372	False	risk loses motif
+rs3093023	chr6:167120802	G	C	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	ZNF568	MA2568.1	6.24	-2.28	-8.51	alt loses motif	0.02481203007518797	False	risk loses motif
+rs3093023	chr6:167120802	G	C	A	alt	T-9: CD4+ CD25-low Treg	ZNF568	MA2568.1	6.24	-2.28	-8.51	alt loses motif	0.03669724770642202	False	risk loses motif
+rs3093023	chr6:167120802	G	T	A	alt	Bcell	ZNF568	MA2568.1	6.24	1.16	-5.08	alt loses motif	0.023316062176165803	False	risk loses motif
+rs3093023	chr6:167120802	G	T	A	alt	B-6: IgM+ plasma	ZNF568	MA2568.1	6.24	1.16	-5.08	alt loses motif	0.019762845849802372	False	risk loses motif
+rs3093023	chr6:167120802	G	T	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	ZNF568	MA2568.1	6.24	1.16	-5.08	alt loses motif	0.02481203007518797	False	risk loses motif
+rs3093023	chr6:167120802	G	T	A	alt	T-9: CD4+ CD25-low Treg	ZNF568	MA2568.1	6.24	1.16	-5.08	alt loses motif	0.03669724770642202	False	risk loses motif
+rs3093023	chr6:167120802	G	T	A	alt	Bcell	GFI1	MA0038.3	4.3	6.45	2.15	alt gains motif	0.0012953367875647669	False	risk gains motif
+rs3093023	chr6:167120802	G	T	A	alt	B-6: IgM+ plasma	GFI1	MA0038.3	4.3	6.45	2.15	alt gains motif	0.019762845849802372	False	risk gains motif
+rs3093023	chr6:167120802	G	T	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	GFI1	MA0038.3	4.3	6.45	2.15	alt gains motif	0.005263157894736842	False	risk gains motif
+rs3093023	chr6:167120802	G	T	A	alt	T-9: CD4+ CD25-low Treg	GFI1	MA0038.3	4.3	6.45	2.15	alt gains motif	0.01834862385321101	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	ZNF497	MA2567.1	4.82	6.98	2.16	alt gains motif	0.0025906735751295338	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	ZNF497	MA2567.1	4.82	6.98	2.16	alt gains motif	0.007905138339920948	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	ZNF497	MA2567.1	4.82	6.98	2.16	alt gains motif	0.0030075187969924814	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	ZNF497	MA2567.1	4.82	6.98	2.16	alt gains motif	0.0061162079510703364	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	SOX12	MA1561.2	4.82	7.78	2.96	alt gains motif	0.0051813471502590676	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	SOX12	MA1561.2	4.82	7.78	2.96	alt gains motif	0.019762845849802372	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	SOX12	MA1561.2	4.82	7.78	2.96	alt gains motif	0.013533834586466165	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	SOX12	MA1561.2	4.82	7.78	2.96	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	ZNF354A	MA1978.2	5.65	8.68	3.03	alt gains motif	0.027849740932642485	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	ZNF354A	MA1978.2	5.65	8.68	3.03	alt gains motif	0.043478260869565216	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	ZNF354A	MA1978.2	5.65	8.68	3.03	alt gains motif	0.05789473684210526	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	ZNF354A	MA1978.2	5.65	8.68	3.03	alt gains motif	0.01834862385321101	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	Sox5	MA0087.3	4.27	7.57	3.3	alt gains motif	0.039755351681957186	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	Dmrt1	MA1603.2	3.8	7.33	3.53	alt gains motif	0.0006476683937823834	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	Dmrt1	MA1603.2	3.8	7.33	3.53	alt gains motif	0.003952569169960474	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	Dmrt1	MA1603.2	3.8	7.33	3.53	alt gains motif	0.0015037593984962407	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	Dmrt1	MA1603.2	3.8	7.33	3.53	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	T	A	alt	Bcell	Pou5f1::Sox2	MA0142.1	4.05	7.61	3.56	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	T	A	alt	B-6: IgM+ plasma	Pou5f1::Sox2	MA0142.1	4.05	7.61	3.56	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	T	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	Pou5f1::Sox2	MA0142.1	4.05	7.61	3.56	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	T	A	alt	T-9: CD4+ CD25-low Treg	Pou5f1::Sox2	MA0142.1	4.05	7.61	3.56	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	Sox11	MA0869.3	3.94	7.6	3.66	alt gains motif	0.0006476683937823834	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	Sox11	MA0869.3	3.94	7.6	3.66	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	Sox11	MA0869.3	3.94	7.6	3.66	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	Sox11	MA0869.3	3.94	7.6	3.66	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	Sox17	MA0078.3	3.99	7.71	3.72	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	Sox17	MA0078.3	3.99	7.71	3.72	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	Sox17	MA0078.3	3.99	7.71	3.72	alt gains motif	0.0007518796992481203	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	Sox17	MA0078.3	3.99	7.71	3.72	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	C	A	alt	Bcell	GFI1	MA0038.3	4.3	8.94	4.64	alt gains motif	0.0012953367875647669	False	risk gains motif
+rs3093023	chr6:167120802	G	C	A	alt	B-6: IgM+ plasma	GFI1	MA0038.3	4.3	8.94	4.64	alt gains motif	0.019762845849802372	False	risk gains motif
+rs3093023	chr6:167120802	G	C	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	GFI1	MA0038.3	4.3	8.94	4.64	alt gains motif	0.005263157894736842	False	risk gains motif
+rs3093023	chr6:167120802	G	C	A	alt	T-9: CD4+ CD25-low Treg	GFI1	MA0038.3	4.3	8.94	4.64	alt gains motif	0.01834862385321101	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	Sox7	MA2095.1	2.46	7.28	4.82	alt gains motif	0.0038860103626943004	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	Sox7	MA2095.1	2.46	7.28	4.82	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	Sox7	MA2095.1	2.46	7.28	4.82	alt gains motif	0.0007518796992481203	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	Sox7	MA2095.1	2.46	7.28	4.82	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	SOX21	MA0866.1	-4.96	0.67	5.64	alt gains motif		False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	SOX21	MA0866.1	-4.96	0.67	5.64	alt gains motif		False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	SOX21	MA0866.1	-4.96	0.67	5.64	alt gains motif		False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	SOX21	MA0866.1	-4.96	0.67	5.64	alt gains motif		False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	SOX8	MA0868.3	2.17	8.41	6.24	alt gains motif	0.0012953367875647669	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	SOX8	MA0868.3	2.17	8.41	6.24	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	SOX8	MA0868.3	2.17	8.41	6.24	alt gains motif	0.0015037593984962407	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	SOX8	MA0868.3	2.17	8.41	6.24	alt gains motif	0.0030581039755351682	False	risk gains motif
+rs3093023	chr6:167120802	G	C	A	alt	Bcell	Gfi1B	MA0483.2	2.5	9.74	7.24	alt gains motif	0.0006476683937823834	False	risk gains motif
+rs3093023	chr6:167120802	G	C	A	alt	B-6: IgM+ plasma	Gfi1B	MA0483.2	2.5	9.74	7.24	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	C	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	Gfi1B	MA0483.2	2.5	9.74	7.24	alt gains motif	0.0030075187969924814	False	risk gains motif
+rs3093023	chr6:167120802	G	C	A	alt	T-9: CD4+ CD25-low Treg	Gfi1B	MA0483.2	2.5	9.74	7.24	alt gains motif	0.0	False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	Bcell	SOX14	MA1562.2	1.43	9.42	8.0	alt gains motif		False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	B-6: IgM+ plasma	SOX14	MA1562.2	1.43	9.42	8.0	alt gains motif		False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	M-1: MERTK+ SELENOP+ LYVE1-	SOX14	MA1562.2	1.43	9.42	8.0	alt gains motif		False	risk gains motif
+rs3093023	chr6:167120802	G	A	A	alt	T-9: CD4+ CD25-low Treg	SOX14	MA1562.2	1.43	9.42	8.0	alt gains motif		False	risk gains motif
+rs34480360	chr16:30787368	G	A	A	alt	T-16: CD8+ CD45ROlow/naive	Ahr::Arnt	MA0006.2	6.68	1.93	-4.75	alt loses motif	0.07179487179487179	False	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	F-8: RSPO3+ intermediate	PLAG1	MA0163.1	6.39	1.88	-4.51	alt loses motif	0.017699115044247787	False	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	T-16: CD8+ CD45ROlow/naive	PLAG1	MA0163.1	6.39	1.88	-4.51	alt loses motif	0.02564102564102564	False	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	F-8: RSPO3+ intermediate	KLF17	MA1514.2	6.55	2.28	-4.26	alt loses motif		False	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	T-16: CD8+ CD45ROlow/naive	KLF17	MA1514.2	6.55	2.28	-4.26	alt loses motif		False	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	T-16: CD8+ CD45ROlow/naive	EGR2	MA0472.2	9.03	4.81	-4.22	alt loses motif	0.03076923076923077	False	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	F-8: RSPO3+ intermediate	EGR4	MA0733.2	8.08	5.2	-2.89	alt loses motif	0.0	False	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	T-16: CD8+ CD45ROlow/naive	EGR4	MA0733.2	8.08	5.2	-2.89	alt loses motif	0.005128205128205128	False	risk loses motif
+rs34480360	chr16:30787368	G	A	A	alt	F-8: RSPO3+ intermediate	ZNF549	MA1728.2	5.59	7.89	2.3	alt gains motif	0.017699115044247787	False	risk gains motif
+rs34480360	chr16:30787368	G	A	A	alt	T-16: CD8+ CD45ROlow/naive	ZNF549	MA1728.2	5.59	7.89	2.3	alt gains motif	0.05128205128205128	False	risk gains motif
+rs34480360	chr16:30787368	G	A	A	alt	F-8: RSPO3+ intermediate	ZNF547	MA2334.1	2.4	5.97	3.57	alt gains motif	0.017699115044247787	False	risk gains motif
+rs34480360	chr16:30787368	G	A	A	alt	T-16: CD8+ CD45ROlow/naive	ZNF547	MA2334.1	2.4	5.97	3.57	alt gains motif	0.005128205128205128	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	NK	ZNF70	MA2565.1	7.49	-1.01	-8.5	alt loses motif	0.00322234156820623	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	Tcell	ZNF70	MA2565.1	7.49	-1.01	-8.5	alt loses motif	0.0040266767333585	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	B-8: IgG1+IgG3+ plasma	ZNF70	MA2565.1	7.49	-1.01	-8.5	alt loses motif	0.01634877384196185	False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	NK	EWSR1-FLI1	MA0149.1	0.41	-5.84	-6.25	alt loses motif		False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	Tcell	EWSR1-FLI1	MA0149.1	0.41	-5.84	-6.25	alt loses motif		False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	B-8: IgG1+IgG3+ plasma	EWSR1-FLI1	MA0149.1	0.41	-5.84	-6.25	alt loses motif		False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	NK	EWSR1-FLI1	MA0149.1	0.41	-5.84	-6.25	alt loses motif		False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	Tcell	EWSR1-FLI1	MA0149.1	0.41	-5.84	-6.25	alt loses motif		False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	B-8: IgG1+IgG3+ plasma	EWSR1-FLI1	MA0149.1	0.41	-5.84	-6.25	alt loses motif		False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	NK	PATZ1	MA1961.2	6.83	0.61	-6.23	alt loses motif	0.027926960257787327	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	Tcell	PATZ1	MA1961.2	6.83	0.61	-6.23	alt loses motif	0.03183591292311564	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	B-8: IgG1+IgG3+ plasma	PATZ1	MA1961.2	6.83	0.61	-6.23	alt loses motif	0.017711171662125342	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	NK	ZFP14	MA1972.1	7.1	1.75	-5.35	alt loses motif	0.027926960257787327	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	Tcell	ZFP14	MA1972.1	7.1	1.75	-5.35	alt loses motif	0.03447841952938216	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	B-8: IgG1+IgG3+ plasma	ZFP14	MA1972.1	7.1	1.75	-5.35	alt loses motif	0.02861035422343324	False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	NK	PATZ1	MA1961.2	6.83	1.65	-5.18	alt loses motif	0.027926960257787327	False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	Tcell	PATZ1	MA1961.2	6.83	1.65	-5.18	alt loses motif	0.03183591292311564	False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	B-8: IgG1+IgG3+ plasma	PATZ1	MA1961.2	6.83	1.65	-5.18	alt loses motif	0.017711171662125342	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	NK	PRDM9	MA1723.2	6.76	2.43	-4.33	alt loses motif		False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	Tcell	PRDM9	MA1723.2	6.76	2.43	-4.33	alt loses motif		False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	B-8: IgG1+IgG3+ plasma	PRDM9	MA1723.2	6.76	2.43	-4.33	alt loses motif		False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	NK	ZNF70	MA2565.1	7.49	3.32	-4.17	alt loses motif	0.00322234156820623	False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	Tcell	ZNF70	MA2565.1	7.49	3.32	-4.17	alt loses motif	0.0040266767333585	False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	B-8: IgG1+IgG3+ plasma	ZNF70	MA2565.1	7.49	3.32	-4.17	alt loses motif	0.01634877384196185	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	NK	Wt1	MA1627.2	7.0	3.83	-3.17	alt loses motif	0.0	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	Tcell	Wt1	MA1627.2	7.0	3.83	-3.17	alt loses motif	0.0007550018875047187	False	risk gains motif
+rs3802604	chr10:8060309	G	T	G	ref	B-8: IgG1+IgG3+ plasma	Wt1	MA1627.2	7.0	3.83	-3.17	alt loses motif	0.0013623978201634877	False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	NK	Wt1	MA1627.2	7.0	4.62	-2.38	alt loses motif	0.0	False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	Tcell	Wt1	MA1627.2	7.0	4.62	-2.38	alt loses motif	0.0007550018875047187	False	risk gains motif
+rs3802604	chr10:8060309	G	A	G	ref	B-8: IgG1+IgG3+ plasma	Wt1	MA1627.2	7.0	4.62	-2.38	alt loses motif	0.0013623978201634877	False	risk gains motif
+rs4341355	chr1:154463928	C	G	G	alt	Tcell	ZNF493	MA2555.1	5.83	0.95	-4.88	alt loses motif	0.06832767081917705	False	risk loses motif
+rs4341355	chr1:154463928	C	G	G	alt	M-1: MERTK+ SELENOP+ LYVE1-	ZNF493	MA2555.1	5.83	0.95	-4.88	alt loses motif	0.07443609022556391	False	risk loses motif
+rs4341355	chr1:154463928	C	G	G	alt	T-3: CD4+ Tfh/Tph	ZNF493	MA2555.1	5.83	0.95	-4.88	alt loses motif	0.06387665198237885	False	risk loses motif
+rs4341355	chr1:154463928	C	G	G	alt	Tcell	ETV5::HOXA2	MA1948.2	5.04	7.69	2.66	alt gains motif	0.0	False	risk gains motif
+rs4341355	chr1:154463928	C	G	G	alt	M-1: MERTK+ SELENOP+ LYVE1-	ETV5::HOXA2	MA1948.2	5.04	7.69	2.66	alt gains motif	0.0	False	risk gains motif
+rs4341355	chr1:154463928	C	G	G	alt	M-3: MERTK+ HBEGF+	ETV5::HOXA2	MA1948.2	5.04	7.69	2.66	alt gains motif	0.0	False	risk gains motif
+rs4341355	chr1:154463928	C	G	G	alt	T-3: CD4+ Tfh/Tph	ETV5::HOXA2	MA1948.2	5.04	7.69	2.66	alt gains motif	0.0	False	risk gains motif
+rs479777	chr11:64340005	T	C	C	alt	Bcell	SOX12	MA1561.2	7.86	1.9	-5.96	alt loses motif	0.0051813471502590676	False	risk loses motif
+rs479777	chr11:64340005	T	C	C	alt	F-1: PRG4+ lining	SOX12	MA1561.2	7.86	1.9	-5.96	alt loses motif	0.026595744680851064	False	risk loses motif
+rs479777	chr11:64340005	T	C	C	alt	Bcell	ZNF341	MA1655.2	9.85	6.34	-3.5	alt loses motif	0.011658031088082901	False	risk loses motif
+rs479777	chr11:64340005	T	C	C	alt	F-1: PRG4+ lining	ZNF341	MA1655.2	9.85	6.34	-3.5	alt loses motif	0.005319148936170213	False	risk loses motif
+rs4810485	chr20:46119308	T	A	?	unknown	Bcell	ZNF518B	MA2586.1	7.33	-0.92	-8.25	alt loses motif	0.03626943005181347	False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	M-8: PLCG2+	ZNF518B	MA2586.1	7.33	-0.92	-8.25	alt loses motif	0.035794183445190156	False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	T-1: CD4+ CD161+ memory	ZNF518B	MA2586.1	7.33	-0.92	-8.25	alt loses motif	0.02773497688751926	False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	T-4: CD4+ naive	ZNF518B	MA2586.1	7.33	-0.92	-8.25	alt loses motif	0.038135593220338986	False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	Bcell	Zfp335	MA2002.2	8.83	4.73	-4.1	alt loses motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	M-8: PLCG2+	Zfp335	MA2002.2	8.83	4.73	-4.1	alt loses motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	T-1: CD4+ CD161+ memory	Zfp335	MA2002.2	8.83	4.73	-4.1	alt loses motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	T-4: CD4+ naive	Zfp335	MA2002.2	8.83	4.73	-4.1	alt loses motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	Bcell	Zfp335	MA2002.2	8.83	4.73	-4.1	alt loses motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	M-8: PLCG2+	Zfp335	MA2002.2	8.83	4.73	-4.1	alt loses motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	T-1: CD4+ CD161+ memory	Zfp335	MA2002.2	8.83	4.73	-4.1	alt loses motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	T-4: CD4+ naive	Zfp335	MA2002.2	8.83	4.73	-4.1	alt loses motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	Bcell	ZNF518B	MA2586.1	7.33	4.72	-2.61	alt loses motif	0.03626943005181347	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	M-8: PLCG2+	ZNF518B	MA2586.1	7.33	4.72	-2.61	alt loses motif	0.035794183445190156	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	T-1: CD4+ CD161+ memory	ZNF518B	MA2586.1	7.33	4.72	-2.61	alt loses motif	0.02773497688751926	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	T-4: CD4+ naive	ZNF518B	MA2586.1	7.33	4.72	-2.61	alt loses motif	0.038135593220338986	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	Bcell	ZNF85	MA1720.2	7.54	5.45	-2.09	alt loses motif	0.022020725388601035	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	M-8: PLCG2+	ZNF85	MA1720.2	7.54	5.45	-2.09	alt loses motif	0.020134228187919462	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	T-1: CD4+ CD161+ memory	ZNF85	MA1720.2	7.54	5.45	-2.09	alt loses motif	0.023112480739599383	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	T-4: CD4+ naive	ZNF85	MA1720.2	7.54	5.45	-2.09	alt loses motif	0.012711864406779662	False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	Bcell	FEZF2	MA2341.1	4.45	8.24	3.79	alt gains motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	M-8: PLCG2+	FEZF2	MA2341.1	4.45	8.24	3.79	alt gains motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	T-1: CD4+ CD161+ memory	FEZF2	MA2341.1	4.45	8.24	3.79	alt gains motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	A	?	unknown	T-4: CD4+ naive	FEZF2	MA2341.1	4.45	8.24	3.79	alt gains motif		False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	Bcell	ZNF343	MA1711.2	0.76	4.76	4.0	alt gains motif	0.006476683937823834	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	M-8: PLCG2+	ZNF343	MA1711.2	0.76	4.76	4.0	alt gains motif	0.008948545861297539	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	T-1: CD4+ CD161+ memory	ZNF343	MA1711.2	0.76	4.76	4.0	alt gains motif	0.004622496147919877	False	risk allele unresolved
+rs4810485	chr20:46119308	T	G	?	unknown	T-4: CD4+ naive	ZNF343	MA1711.2	0.76	4.76	4.0	alt gains motif	0.00847457627118644	False	risk allele unresolved
+rs61828284	chr1:173330604	C	T	G	unknown	T-0: CD4+ IL7R+ memory	STAT1::STAT2	MA0517.2	6.04	1.06	-4.98	alt loses motif	0.07931726907630522	False	risk allele unresolved
+rs61828284	chr1:173330604	C	T	G	unknown	T-2: CD4+ IL7R+CCR5+ memory	STAT1::STAT2	MA0517.2	6.04	1.06	-4.98	alt loses motif	0.07969639468690702	False	risk allele unresolved
+rs61828284	chr1:173330604	C	T	G	unknown	T-4: CD4+ naive	STAT1::STAT2	MA0517.2	6.04	1.06	-4.98	alt loses motif	0.0635593220338983	False	risk allele unresolved
+rs657075	chr5:132094425	G	A	A	alt	E-0: SPARC+ capillary	NFIX	MA0671.2	7.06	0.04	-7.03	alt loses motif	0.04107648725212465	False	risk loses motif
+rs657075	chr5:132094425	G	A	A	alt	T-2: CD4+ IL7R+CCR5+ memory	NFIX	MA0671.2	7.06	0.04	-7.03	alt loses motif	0.009487666034155597	False	risk loses motif
+rs657075	chr5:132094425	G	A	A	alt	E-0: SPARC+ capillary	INSM1	MA0155.1	7.8	5.03	-2.77	alt loses motif		False	risk loses motif
+rs657075	chr5:132094425	G	A	A	alt	F-3: POSTN+ sublining	INSM1	MA0155.1	7.8	5.03	-2.77	alt loses motif		False	risk loses motif
+rs657075	chr5:132094425	G	A	A	alt	T-2: CD4+ IL7R+CCR5+ memory	INSM1	MA0155.1	7.8	5.03	-2.77	alt loses motif		False	risk loses motif
+rs657075	chr5:132094425	G	A	A	alt	E-0: SPARC+ capillary	MEIS3	MA0775.2	5.3	8.06	2.76	alt gains motif	0.00424929178470255	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	T-2: CD4+ IL7R+CCR5+ memory	MEIS3	MA0775.2	5.3	8.06	2.76	alt gains motif	0.009487666034155597	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	E-0: SPARC+ capillary	MEIS1	MA0498.3	3.21	6.49	3.28	alt gains motif	0.00424929178470255	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	T-2: CD4+ IL7R+CCR5+ memory	MEIS1	MA0498.3	3.21	6.49	3.28	alt gains motif	0.0	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	E-0: SPARC+ capillary	Foxj2	MA0614.1	4.61	8.21	3.6	alt gains motif	0.08923512747875353	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	F-3: POSTN+ sublining	Foxj2	MA0614.1	4.61	8.21	3.6	alt gains motif	0.056865464632454926	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	T-2: CD4+ IL7R+CCR5+ memory	Foxj2	MA0614.1	4.61	8.21	3.6	alt gains motif	0.03415559772296015	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	E-0: SPARC+ capillary	MEIS2	MA0774.1	5.35	9.34	3.98	alt gains motif	0.00424929178470255	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	T-2: CD4+ IL7R+CCR5+ memory	MEIS2	MA0774.1	5.35	9.34	3.98	alt gains motif	0.003795066413662239	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	E-0: SPARC+ capillary	ZSCAN16	MA2100.1	-24.9	-14.86	10.04	alt gains motif	0.018413597733711047	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	F-3: POSTN+ sublining	ZSCAN16	MA2100.1	-24.9	-14.86	10.04	alt gains motif	0.005547850208044383	False	risk gains motif
+rs657075	chr5:132094425	G	A	A	alt	T-2: CD4+ IL7R+CCR5+ memory	ZSCAN16	MA2100.1	-24.9	-14.86	10.04	alt gains motif	0.018975332068311195	False	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	plasma	BCL6B	MA0731.1	-11.97	-5.0	6.97	alt gains motif	0.000792393026941363	False	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-20: CD38+	BCL6B	MA0731.1	-11.97	-5.0	6.97	alt gains motif	0.0	False	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-3: CD4+ Tfh/Tph	BCL6B	MA0731.1	-11.97	-5.0	6.97	alt gains motif	0.0	False	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-7: CD4+ Tph	BCL6B	MA0731.1	-11.97	-5.0	6.97	alt gains motif	0.007017543859649123	False	risk gains motif
+rs6859219	chr5:56142753	C	A	A	alt	T-9: CD4+ CD25-low Treg	BCL6B	MA0731.1	-11.97	-5.0	6.97	alt gains motif	0.0	False	risk gains motif
+rs7117261	chr11:118870448	T	G	T	ref	B-8: IgG1+IgG3+ plasma	EWSR1-FLI1	MA0149.1	-0.25	-6.49	-6.24	alt loses motif		False	risk gains motif
+rs7117261	chr11:118870448	T	G	T	ref	M-4: SPP1+	EWSR1-FLI1	MA0149.1	-0.25	-6.49	-6.24	alt loses motif		False	risk gains motif
+rs7117261	chr11:118870448	T	C	T	ref	B-8: IgG1+IgG3+ plasma	ZNF841	MA2691.1	8.13	3.96	-4.18	alt loses motif	0.03814713896457766	False	risk gains motif
+rs7117261	chr11:118870448	T	C	T	ref	M-4: SPP1+	ZNF841	MA2691.1	8.13	3.96	-4.18	alt loses motif	0.02987012987012987	False	risk gains motif
+rs7117261	chr11:118870448	T	G	T	ref	B-8: IgG1+IgG3+ plasma	ZNF841	MA2691.1	8.13	4.56	-3.57	alt loses motif	0.03814713896457766	False	risk gains motif
+rs7117261	chr11:118870448	T	G	T	ref	M-4: SPP1+	ZNF841	MA2691.1	8.13	4.56	-3.57	alt loses motif	0.02987012987012987	False	risk gains motif
+rs7117261	chr11:118870448	T	A	T	ref	B-8: IgG1+IgG3+ plasma	ZNF841	MA2691.1	8.13	4.94	-3.2	alt loses motif	0.03814713896457766	False	risk gains motif
+rs7117261	chr11:118870448	T	A	T	ref	M-4: SPP1+	ZNF841	MA2691.1	8.13	4.94	-3.2	alt loses motif	0.02987012987012987	False	risk gains motif
+rs7117261	chr11:118870448	T	G	T	ref	M-4: SPP1+	Ikzf3	MA1992.2	5.01	7.98	2.97	alt gains motif	0.007792207792207792	False	risk loses motif
+rs7117261	chr11:118870448	T	A	T	ref	B-8: IgG1+IgG3+ plasma	ZNF213	MA2121.1	5.8	9.06	3.26	alt gains motif	0.04223433242506812	False	risk loses motif
+rs7117261	chr11:118870448	T	A	T	ref	M-4: SPP1+	ZNF213	MA2121.1	5.8	9.06	3.26	alt gains motif	0.02857142857142857	False	risk loses motif
+rs7117261	chr11:118870448	T	A	T	ref	B-8: IgG1+IgG3+ plasma	Zfp809	MA2125.1	4.34	8.06	3.72	alt gains motif		False	risk loses motif
+rs7117261	chr11:118870448	T	A	T	ref	M-4: SPP1+	Zfp809	MA2125.1	4.34	8.06	3.72	alt gains motif		False	risk loses motif
+rs7117261	chr11:118870448	T	A	T	ref	B-8: IgG1+IgG3+ plasma	FEZF2	MA2341.1	4.1	7.89	3.79	alt gains motif		False	risk loses motif
+rs7117261	chr11:118870448	T	A	T	ref	M-4: SPP1+	FEZF2	MA2341.1	4.1	7.89	3.79	alt gains motif		False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	F-6: CXCL12+ SFRP1+ sublining	IRX2	MA2679.1	7.73	-2.69	-10.42	alt loses motif	0.017113963438350838	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	T-3: CD4+ Tfh/Tph	IRX2	MA2679.1	7.73	-2.69	-10.42	alt loses motif	0.0	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	T-8: CD4+ CD25-high Treg	IRX2	MA2679.1	7.73	-2.69	-10.42	alt loses motif	0.0	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	F-6: CXCL12+ SFRP1+ sublining	MKX	MA2592.1	8.3	-0.22	-8.52	alt loses motif	0.015947102294826914	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	T-3: CD4+ Tfh/Tph	MKX	MA2592.1	8.3	-0.22	-8.52	alt loses motif	0.0022026431718061676	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	T-8: CD4+ CD25-high Treg	MKX	MA2592.1	8.3	-0.22	-8.52	alt loses motif	0.0	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	F-6: CXCL12+ SFRP1+ sublining	ZNF816	MA1719.2	8.12	3.02	-5.1	alt loses motif	0.018280824581874758	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	T-3: CD4+ Tfh/Tph	ZNF816	MA1719.2	8.12	3.02	-5.1	alt loses motif	0.003303964757709251	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	T-8: CD4+ CD25-high Treg	ZNF816	MA1719.2	8.12	3.02	-5.1	alt loses motif	0.007692307692307693	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	F-6: CXCL12+ SFRP1+ sublining	IRX5	MA2680.1	6.69	4.28	-2.41	alt loses motif	0.058732010890704005	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	T-3: CD4+ Tfh/Tph	IRX5	MA2680.1	6.69	4.28	-2.41	alt loses motif	0.0011013215859030838	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	T-8: CD4+ CD25-high Treg	IRX5	MA2680.1	6.69	4.28	-2.41	alt loses motif	0.0	False	risk loses motif
+rs71508903	chr10:62020112	C	T	T	alt	F-6: CXCL12+ SFRP1+ sublining	OLIG3	MA0827.1	2.3	7.44	5.14	alt gains motif		False	risk gains motif
+rs71508903	chr10:62020112	C	T	T	alt	T-3: CD4+ Tfh/Tph	OLIG3	MA0827.1	2.3	7.44	5.14	alt gains motif		False	risk gains motif
+rs71508903	chr10:62020112	C	T	T	alt	T-8: CD4+ CD25-high Treg	OLIG3	MA0827.1	2.3	7.44	5.14	alt gains motif		False	risk gains motif
+rs7241016	chr18:12880207	A	T	G	alt	NK-9: MT-high	ZNF497	MA2567.1	6.38	3.25	-3.13	alt loses motif	0.009852216748768473	False	risk loses motif
+rs7241016	chr18:12880207	A	T	G	alt	T-7: CD4+ Tph	ZNF497	MA2567.1	6.38	3.25	-3.13	alt loses motif	0.010526315789473684	False	risk loses motif
+rs7241016	chr18:12880207	A	G	G	alt	NK-9: MT-high	ZNF497	MA2567.1	6.38	3.77	-2.61	alt loses motif	0.009852216748768473	False	risk loses motif
+rs7241016	chr18:12880207	A	G	G	alt	T-7: CD4+ Tph	ZNF497	MA2567.1	6.38	3.77	-2.61	alt loses motif	0.010526315789473684	False	risk loses motif
+rs734094	chr11:2301990	G	T	A	alt	NK	ETV1	MA0761.3	4.88	7.27	2.39	alt gains motif	0.00644468313641246	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	B-5: CD11c+LAMP1+ ABC	ETV1	MA0761.3	4.88	7.27	2.39	alt gains motif	0.0	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	F-3: POSTN+ sublining	ETV1	MA0761.3	4.88	7.27	2.39	alt gains motif	0.08876560332871013	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	M-10: DC2	ETV1	MA0761.3	4.88	7.27	2.39	alt gains motif	0.004244482173174873	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	F-3: POSTN+ sublining	Ikzf3	MA1992.2	4.42	7.25	2.83	alt gains motif	0.008321775312066574	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	M-10: DC2	Ikzf3	MA1992.2	4.42	7.25	2.83	alt gains motif	0.005942275042444821	False	risk gains motif
+rs734094	chr11:2301990	G	A	A	alt	NK	THAP1	MA0597.3	5.55	8.62	3.07	alt gains motif	0.023630504833512353	False	risk gains motif
+rs734094	chr11:2301990	G	A	A	alt	B-5: CD11c+LAMP1+ ABC	THAP1	MA0597.3	5.55	8.62	3.07	alt gains motif	0.03508771929824561	False	risk gains motif
+rs734094	chr11:2301990	G	A	A	alt	F-3: POSTN+ sublining	THAP1	MA0597.3	5.55	8.62	3.07	alt gains motif	0.049930651872399444	False	risk gains motif
+rs734094	chr11:2301990	G	A	A	alt	M-10: DC2	THAP1	MA0597.3	5.55	8.62	3.07	alt gains motif	0.02801358234295416	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	NK	ELF3	MA0640.3	4.11	7.21	3.11	alt gains motif	0.0010741138560687433	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	B-5: CD11c+LAMP1+ ABC	ELF3	MA0640.3	4.11	7.21	3.11	alt gains motif	0.0	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	F-3: POSTN+ sublining	ELF3	MA0640.3	4.11	7.21	3.11	alt gains motif	0.0	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	M-10: DC2	ELF3	MA0640.3	4.11	7.21	3.11	alt gains motif	0.003395585738539898	False	risk gains motif
+rs734094	chr11:2301990	G	C	A	alt	NK	ZBTB14	MA1650.2	4.27	7.59	3.32	alt gains motif	0.022556390977443608	False	risk gains motif
+rs734094	chr11:2301990	G	C	A	alt	B-5: CD11c+LAMP1+ ABC	ZBTB14	MA1650.2	4.27	7.59	3.32	alt gains motif	0.02631578947368421	False	risk gains motif
+rs734094	chr11:2301990	G	C	A	alt	F-3: POSTN+ sublining	ZBTB14	MA1650.2	4.27	7.59	3.32	alt gains motif	0.04160887656033287	False	risk gains motif
+rs734094	chr11:2301990	G	C	A	alt	M-10: DC2	ZBTB14	MA1650.2	4.27	7.59	3.32	alt gains motif	0.04159592529711375	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	B-5: CD11c+LAMP1+ ABC	IKZF2	MA2326.1	4.25	8.22	3.98	alt gains motif	0.03508771929824561	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	M-10: DC2	IKZF2	MA2326.1	4.25	8.22	3.98	alt gains motif	0.03395585738539898	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	NK	ZNF680	MA1729.2	4.72	9.21	4.5	alt gains motif	0.06337271750805586	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	B-5: CD11c+LAMP1+ ABC	ZNF680	MA1729.2	4.72	9.21	4.5	alt gains motif	0.06140350877192982	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	M-10: DC2	ZNF680	MA1729.2	4.72	9.21	4.5	alt gains motif	0.07130730050933787	False	risk gains motif
+rs734094	chr11:2301990	G	A	A	alt	NK	NFIB	MA1643.2	0.46	5.15	4.69	alt gains motif	0.017185821697099892	False	risk gains motif
+rs734094	chr11:2301990	G	A	A	alt	B-5: CD11c+LAMP1+ ABC	NFIB	MA1643.2	0.46	5.15	4.69	alt gains motif	0.043859649122807015	False	risk gains motif
+rs734094	chr11:2301990	G	A	A	alt	M-10: DC2	NFIB	MA1643.2	0.46	5.15	4.69	alt gains motif	0.022071307300509338	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	NK	ZNF416	MA1979.2	2.64	8.28	5.64	alt gains motif	0.00322234156820623	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	B-5: CD11c+LAMP1+ ABC	ZNF416	MA1979.2	2.64	8.28	5.64	alt gains motif	0.0	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	F-3: POSTN+ sublining	ZNF416	MA1979.2	2.64	8.28	5.64	alt gains motif	0.0	False	risk gains motif
+rs734094	chr11:2301990	G	T	A	alt	M-10: DC2	ZNF416	MA1979.2	2.64	8.28	5.64	alt gains motif	0.001697792869269949	False	risk gains motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	SP5	MA1965.2	8.27	-3.28	-11.54	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	SP5	MA1965.2	8.27	-3.28	-11.54	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	SP5	MA1965.2	8.27	-3.28	-11.54	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	SP5	MA1965.2	8.27	-3.28	-11.54	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	SP5	MA1965.2	8.27	-3.26	-11.53	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	SP5	MA1965.2	8.27	-3.26	-11.53	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	SP5	MA1965.2	8.27	-3.26	-11.53	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	SP5	MA1965.2	8.27	-3.26	-11.53	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	ZNF746	MA2570.1	10.53	2.62	-7.91	alt loses motif	0.029318541996830427	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF746	MA2570.1	10.53	2.62	-7.91	alt loses motif	0.03686635944700461	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	ZNF746	MA2570.1	10.53	2.62	-7.91	alt loses motif	0.05506607929515418	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	ZNF746	MA2570.1	10.53	2.62	-7.91	alt loses motif	0.042105263157894736	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	ZFP14	MA1972.1	6.98	0.2	-6.78	alt loses motif	0.02694136291600634	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	ZFP14	MA1972.1	6.98	0.2	-6.78	alt loses motif	0.009216589861751152	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	ZFP14	MA1972.1	6.98	0.2	-6.78	alt loses motif	0.024229074889867842	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	ZFP14	MA1972.1	6.98	0.2	-6.78	alt loses motif	0.014035087719298246	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	PRDM9	MA1723.2	11.41	5.36	-6.05	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	PRDM9	MA1723.2	11.41	5.36	-6.05	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	PRDM9	MA1723.2	11.41	5.36	-6.05	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	PRDM9	MA1723.2	11.41	5.36	-6.05	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	Wt1	MA1627.2	9.97	4.8	-5.17	alt loses motif	0.000792393026941363	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	Wt1	MA1627.2	9.97	4.8	-5.17	alt loses motif	0.0	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	Wt1	MA1627.2	9.97	4.8	-5.17	alt loses motif	0.0011013215859030838	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	Wt1	MA1627.2	9.97	4.8	-5.17	alt loses motif	0.0035087719298245615	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	KLF16	MA0741.1	8.66	3.62	-5.04	alt loses motif	0.03645007923930269	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	KLF16	MA0741.1	8.66	3.62	-5.04	alt loses motif	0.02304147465437788	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	KLF16	MA0741.1	8.66	3.62	-5.04	alt loses motif	0.015418502202643172	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	KLF16	MA0741.1	8.66	3.62	-5.04	alt loses motif	0.021052631578947368	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	Wt1	MA1627.2	9.97	5.28	-4.69	alt loses motif	0.000792393026941363	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	Wt1	MA1627.2	9.97	5.28	-4.69	alt loses motif	0.0	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	Wt1	MA1627.2	9.97	5.28	-4.69	alt loses motif	0.0011013215859030838	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	Wt1	MA1627.2	9.97	5.28	-4.69	alt loses motif	0.0035087719298245615	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	ZNF648	MA2512.1	9.93	5.31	-4.62	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF648	MA2512.1	9.93	5.31	-4.62	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	ZNF648	MA2512.1	9.93	5.31	-4.62	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	ZNF648	MA2512.1	9.93	5.31	-4.62	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	ZNF746	MA2570.1	10.53	6.14	-4.39	alt loses motif	0.029318541996830427	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF746	MA2570.1	10.53	6.14	-4.39	alt loses motif	0.03686635944700461	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	ZNF746	MA2570.1	10.53	6.14	-4.39	alt loses motif	0.05506607929515418	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	ZNF746	MA2570.1	10.53	6.14	-4.39	alt loses motif	0.042105263157894736	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	SP8	MA0747.2	8.13	3.8	-4.33	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	SP8	MA0747.2	8.13	3.8	-4.33	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	SP8	MA0747.2	8.13	3.8	-4.33	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	SP8	MA0747.2	8.13	3.8	-4.33	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	GSC::TBX21	MA2629.1	4.18	0.06	-4.12	alt loses motif	0.002377179080824089	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	GSC::TBX21	MA2629.1	4.18	0.06	-4.12	alt loses motif	0.0	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	GSC::TBX21	MA2629.1	4.18	0.06	-4.12	alt loses motif	0.0	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	GSC::TBX21	MA2629.1	4.18	0.06	-4.12	alt loses motif	0.0	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	ZNF57	MA2545.1	4.63	0.55	-4.08	alt loses motif	0.002377179080824089	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF57	MA2545.1	4.63	0.55	-4.08	alt loses motif	0.004608294930875576	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	ZNF57	MA2545.1	4.63	0.55	-4.08	alt loses motif	0.004405286343612335	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	ZNF57	MA2545.1	4.63	0.55	-4.08	alt loses motif	0.007017543859649123	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	ZNF740	MA0753.3	7.49	4.14	-3.35	alt loses motif	0.044374009508716325	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF740	MA0753.3	7.49	4.14	-3.35	alt loses motif	0.027649769585253458	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	ZNF740	MA0753.3	7.49	4.14	-3.35	alt loses motif	0.03303964757709251	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	ZNF740	MA0753.3	7.49	4.14	-3.35	alt loses motif	0.028070175438596492	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	SP8	MA0747.2	8.13	4.94	-3.19	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	SP8	MA0747.2	8.13	4.94	-3.19	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	SP8	MA0747.2	8.13	4.94	-3.19	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	SP8	MA0747.2	8.13	4.94	-3.19	alt loses motif		False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	plasma	KLF16	MA0741.1	8.66	5.53	-3.13	alt loses motif	0.03645007923930269	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	KLF16	MA0741.1	8.66	5.53	-3.13	alt loses motif	0.02304147465437788	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	KLF16	MA0741.1	8.66	5.53	-3.13	alt loses motif	0.015418502202643172	False	risk loses motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	KLF16	MA0741.1	8.66	5.53	-3.13	alt loses motif	0.021052631578947368	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	ZNF740	MA0753.3	7.49	4.42	-3.07	alt loses motif	0.044374009508716325	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF740	MA0753.3	7.49	4.42	-3.07	alt loses motif	0.027649769585253458	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	ZNF740	MA0753.3	7.49	4.42	-3.07	alt loses motif	0.03303964757709251	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	ZNF740	MA0753.3	7.49	4.42	-3.07	alt loses motif	0.028070175438596492	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	ZNF57	MA2545.1	4.63	1.8	-2.83	alt loses motif	0.002377179080824089	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF57	MA2545.1	4.63	1.8	-2.83	alt loses motif	0.004608294930875576	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	ZNF57	MA2545.1	4.63	1.8	-2.83	alt loses motif	0.004405286343612335	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	ZNF57	MA2545.1	4.63	1.8	-2.83	alt loses motif	0.007017543859649123	False	risk loses motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	THRB	MA1574.2	4.89	7.25	2.36	alt gains motif	0.015055467511885896	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	THRB	MA1574.2	4.89	7.25	2.36	alt gains motif	0.004608294930875576	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	THRB	MA1574.2	4.89	7.25	2.36	alt gains motif	0.003303964757709251	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	THRB	MA1574.2	4.89	7.25	2.36	alt gains motif	0.0	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	PPARA::RXRA	MA1148.2	6.12	8.7	2.58	alt gains motif	0.04754358161648178	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	PPARA::RXRA	MA1148.2	6.12	8.7	2.58	alt gains motif	0.04608294930875576	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	PPARA::RXRA	MA1148.2	6.12	8.7	2.58	alt gains motif	0.023127753303964757	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	PPARA::RXRA	MA1148.2	6.12	8.7	2.58	alt gains motif	0.031578947368421054	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	Pparg::Rxra	MA0065.3	5.57	8.74	3.17	alt gains motif	0.01347068145800317	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	Pparg::Rxra	MA0065.3	5.57	8.74	3.17	alt gains motif	0.04608294930875576	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	Pparg::Rxra	MA0065.3	5.57	8.74	3.17	alt gains motif	0.023127753303964757	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	Pparg::Rxra	MA0065.3	5.57	8.74	3.17	alt gains motif	0.031578947368421054	False	risk gains motif
+rs7731626	chr5:56148856	G	C	A	alt	T-10: CD4+ OX40+NR3C1+	ZNF215	MA2547.1	3.9	7.23	3.33	alt gains motif	0.0	False	risk gains motif
+rs7731626	chr5:56148856	G	C	A	alt	T-3: CD4+ Tfh/Tph	ZNF215	MA2547.1	3.9	7.23	3.33	alt gains motif	0.004405286343612335	False	risk gains motif
+rs7731626	chr5:56148856	G	C	A	alt	T-7: CD4+ Tph	ZNF215	MA2547.1	3.9	7.23	3.33	alt gains motif	0.0035087719298245615	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	ZNF652	MA1657.2	7.04	10.62	3.58	alt gains motif	0.06167400881057269	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	NR2F1	MA1537.2	0.66	4.68	4.03	alt gains motif	0.0	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	NR2F1	MA1537.2	0.66	4.68	4.03	alt gains motif	0.0	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	NR2F1	MA1537.2	0.66	4.68	4.03	alt gains motif	0.005506607929515419	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	NR2F1	MA1537.2	0.66	4.68	4.03	alt gains motif	0.0035087719298245615	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	Rxra	MA0512.2	-4.15	1.8	5.95	alt gains motif	0.04754358161648178	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	Rxra	MA0512.2	-4.15	1.8	5.95	alt gains motif	0.04608294930875576	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	Rxra	MA0512.2	-4.15	1.8	5.95	alt gains motif	0.023127753303964757	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	Rxra	MA0512.2	-4.15	1.8	5.95	alt gains motif	0.031578947368421054	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	RXRB	MA0855.1	-5.92	0.25	6.17	alt gains motif	0.08161648177496038	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	RXRB	MA0855.1	-5.92	0.25	6.17	alt gains motif	0.03225806451612903	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	RXRB	MA0855.1	-5.92	0.25	6.17	alt gains motif	0.042951541850220265	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	RXRB	MA0855.1	-5.92	0.25	6.17	alt gains motif	0.04912280701754386	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	plasma	RXRG	MA0856.1	-4.73	1.48	6.21	alt gains motif	0.0	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-10: CD4+ OX40+NR3C1+	RXRG	MA0856.1	-4.73	1.48	6.21	alt gains motif	0.0	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-3: CD4+ Tfh/Tph	RXRG	MA0856.1	-4.73	1.48	6.21	alt gains motif	0.0	False	risk gains motif
+rs7731626	chr5:56148856	G	A	A	alt	T-7: CD4+ Tph	RXRG	MA0856.1	-4.73	1.48	6.21	alt gains motif	0.0	False	risk gains motif
+rs798000	chr1:116738074	C	T	T	alt	Tcell	ZNF766	MA2098.1	10.05	5.45	-4.6	alt loses motif	0.04316094123568642	False	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	Tcell	ZIM3	MA1709.2	9.74	5.27	-4.46	alt loses motif		False	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	F-0: PRG4+ CLIC5+ lining	ZIM3	MA1709.2	9.74	5.27	-4.46	alt loses motif		False	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	Tcell	MEF2B	MA0660.1	3.84	0.37	-3.47	alt loses motif	0.020385050962627407	False	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	F-0: PRG4+ CLIC5+ lining	MEF2B	MA0660.1	3.84	0.37	-3.47	alt loses motif	0.04749841671944269	False	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	Tcell	Stat2	MA1623.2	9.07	5.87	-3.19	alt loses motif	0.0845602114005285	False	risk loses motif
+rs798000	chr1:116738074	C	T	T	alt	Tcell	ZNF251	MA2687.1	1.8	5.83	4.03	alt gains motif	0.06253932301497421	False	risk gains motif
+rs798000	chr1:116738074	C	T	T	alt	Tcell	ZFP28	MA2489.1	0.86	5.05	4.19	alt gains motif	0.005914181452120297	False	risk gains motif
+rs798000	chr1:116738074	C	T	T	alt	F-0: PRG4+ CLIC5+ lining	ZFP28	MA2489.1	0.86	5.05	4.19	alt gains motif	0.02638800928857927	False	risk gains motif
+rs881375	chr9:120890620	T	C	?	unknown	B-1: CD24++CD27+IgM+ unswitched memory	IRX2	MA2679.1	7.73	-2.68	-10.41	alt loses motif	0.0	False	risk allele unresolved
+rs881375	chr9:120890620	T	C	?	unknown	B-1: CD24++CD27+IgM+ unswitched memory	NACC2	MA2559.1	6.68	-1.84	-8.52	alt loses motif	0.010452961672473868	False	risk allele unresolved
+rs881375	chr9:120890620	T	C	?	unknown	B-1: CD24++CD27+IgM+ unswitched memory	MKX	MA2592.1	8.3	3.23	-5.07	alt loses motif	0.0	False	risk allele unresolved
+rs881375	chr9:120890620	T	C	?	unknown	B-1: CD24++CD27+IgM+ unswitched memory	ARNT::HIF1A	MA0259.2	0.35	6.61	6.26	alt gains motif	0.041811846689895474	False	risk allele unresolved
+rs906868	chr2:30225478	G	T	G	ref	F-2: CD34+ sublining	ZNF282	MA1154.2	7.08	2.53	-4.56	alt loses motif	0.048109965635738834	False	risk gains motif
+rs906868	chr2:30225478	G	T	G	ref	M-9: DC3	ZNF282	MA1154.2	7.08	2.53	-4.56	alt loses motif	0.02912621359223301	False	risk gains motif
+rs906868	chr2:30225478	G	T	G	ref	F-2: CD34+ sublining	CASZ1	MA2508.1	4.07	7.37	3.3	alt gains motif	0.004581901489117984	False	risk loses motif
+rs906868	chr2:30225478	G	T	G	ref	M-9: DC3	CASZ1	MA2508.1	4.07	7.37	3.3	alt gains motif	0.0	False	risk loses motif
+rs947474	chr10:6348488	G	C	A	alt	M-10: DC2	TEAD3	MA0808.1	8.08	-3.5	-11.58	alt loses motif	0.0365025466893039	False	risk loses motif
+rs947474	chr10:6348488	G	C	A	alt	M-7: IL1B+ FCN1+	TEAD3	MA0808.1	8.08	-3.5	-11.58	alt loses motif	0.04627249357326478	False	risk loses motif
+rs947474	chr10:6348488	G	T	A	alt	M-10: DC2	TEAD3	MA0808.1	8.08	-3.5	-11.58	alt loses motif	0.0365025466893039	False	risk loses motif
+rs947474	chr10:6348488	G	T	A	alt	M-7: IL1B+ FCN1+	TEAD3	MA0808.1	8.08	-3.5	-11.58	alt loses motif	0.04627249357326478	False	risk loses motif
+rs947474	chr10:6348488	G	A	A	alt	M-10: DC2	TEAD3	MA0808.1	8.08	-0.45	-8.54	alt loses motif	0.0365025466893039	False	risk loses motif
+rs947474	chr10:6348488	G	A	A	alt	M-7: IL1B+ FCN1+	TEAD3	MA0808.1	8.08	-0.45	-8.54	alt loses motif	0.04627249357326478	False	risk loses motif
+rs947474	chr10:6348488	G	C	A	alt	M-7: IL1B+ FCN1+	ZNF146	MA2458.1	4.45	-2.17	-6.61	alt loses motif	0.061696658097686374	False	risk loses motif
+rs947474	chr10:6348488	G	T	A	alt	M-7: IL1B+ FCN1+	ZNF146	MA2458.1	4.45	0.85	-3.6	alt loses motif	0.061696658097686374	False	risk loses motif
+rs947474	chr10:6348488	G	A	A	alt	M-7: IL1B+ FCN1+	ZNF146	MA2458.1	4.45	1.48	-2.97	alt loses motif	0.061696658097686374	False	risk loses motif
+rs947474	chr10:6348488	G	T	A	alt	M-10: DC2	ZNF768	MA1731.2	4.05	8.53	4.48	alt gains motif	0.030560271646859084	False	risk gains motif
+rs947474	chr10:6348488	G	T	A	alt	M-7: IL1B+ FCN1+	ZNF768	MA1731.2	4.05	8.53	4.48	alt gains motif	0.011139674378748929	False	risk gains motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF5	MA0599.1	8.8	-2.33	-11.13	alt loses motif	0.048860379418588784	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF5	MA0599.1	8.8	-2.33	-11.13	alt loses motif	0.04	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF5	MA0599.1	8.8	-2.33	-11.13	alt loses motif	0.048860379418588784	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF5	MA0599.1	8.8	-2.33	-11.13	alt loses motif	0.04	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF15	MA1513.2	10.43	1.88	-8.55	alt loses motif	0.003002593148628361	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF15	MA1513.2	10.43	1.88	-8.55	alt loses motif	0.0	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	ZSCAN25	MA2517.1	4.16	-4.36	-8.52	alt loses motif	0.02715981984441108	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZSCAN25	MA2517.1	4.16	-4.36	-8.52	alt loses motif	0.016	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	ZSCAN25	MA2517.1	4.16	-3.67	-7.83	alt loses motif	0.02715981984441108	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZSCAN25	MA2517.1	4.16	-3.67	-7.83	alt loses motif	0.016	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF14	MA0740.2	8.05	0.96	-7.09	alt loses motif		False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF14	MA0740.2	8.05	0.96	-7.09	alt loses motif		False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF14	MA0740.2	8.05	0.96	-7.09	alt loses motif		False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF14	MA0740.2	8.05	0.96	-7.09	alt loses motif		False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	SP2	MA0516.3	9.63	2.66	-6.97	alt loses motif	0.048723897911832945	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	SP2	MA0516.3	9.63	2.66	-6.97	alt loses motif	0.024	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	SP2	MA0516.3	9.63	2.66	-6.97	alt loses motif	0.048723897911832945	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	SP2	MA0516.3	9.63	2.66	-6.97	alt loses motif	0.024	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF15	MA1513.2	10.43	3.51	-6.92	alt loses motif	0.003002593148628361	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF15	MA1513.2	10.43	3.51	-6.92	alt loses motif	0.0	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF10	MA1511.2	9.07	2.17	-6.9	alt loses motif	0.096	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF10	MA1511.2	9.07	2.17	-6.9	alt loses motif	0.096	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF1	MA0493.3	9.93	3.21	-6.72	alt loses motif	0.003002593148628361	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF1	MA0493.3	9.93	3.21	-6.72	alt loses motif	0.0	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF1	MA0493.3	9.93	3.21	-6.72	alt loses motif	0.003002593148628361	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF1	MA0493.3	9.93	3.21	-6.72	alt loses motif	0.0	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	ZNF701	MA1987.2	9.57	3.85	-5.72	alt loses motif	0.05909649242527638	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZNF701	MA1987.2	9.57	3.85	-5.72	alt loses motif	0.048	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF8	MA2681.1	7.83	2.6	-5.23	alt loses motif	0.05159000955370547	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF8	MA2681.1	7.83	2.6	-5.23	alt loses motif	0.016	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	ZNF701	MA1987.2	9.57	5.41	-4.17	alt loses motif	0.05909649242527638	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZNF701	MA1987.2	9.57	5.41	-4.17	alt loses motif	0.048	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	KLF8	MA2681.1	7.83	3.74	-4.1	alt loses motif	0.05159000955370547	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF8	MA2681.1	7.83	3.74	-4.1	alt loses motif	0.016	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF4	MA0039.5	8.17	4.34	-3.84	alt loses motif	0.024	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	myeloid	PATZ1	MA1961.2	6.75	2.97	-3.79	alt loses motif	0.03248259860788863	False	risk loses motif
+rs9927316	chr16:85982795	C	T	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	PATZ1	MA1961.2	6.75	2.97	-3.79	alt loses motif	0.024	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	KLF17	MA1514.2	5.82	2.07	-3.75	alt loses motif		False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF17	MA1514.2	5.82	2.07	-3.75	alt loses motif		False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	KLF4	MA0039.5	8.17	4.6	-3.57	alt loses motif	0.024	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	PATZ1	MA1961.2	6.75	3.29	-3.47	alt loses motif	0.03248259860788863	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	PATZ1	MA1961.2	6.75	3.29	-3.47	alt loses motif	0.024	False	risk loses motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	SLC2A4RG	MA2539.1	2.58	6.25	3.67	alt gains motif	0.03480278422273782	False	risk gains motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	SLC2A4RG	MA2539.1	2.58	6.25	3.67	alt gains motif	0.032	False	risk gains motif
+rs9927316	chr16:85982795	C	G	G	alt	myeloid	ZNF460	MA1596.1	0.18	4.34	4.16	alt gains motif	0.05773167735771803	False	risk gains motif
+rs9927316	chr16:85982795	C	G	G	alt	NK-1: CD56dim CD16+ IFNG+CD160+	ZNF460	MA1596.1	0.18	4.34	4.16	alt gains motif	0.04	False	risk gains motif

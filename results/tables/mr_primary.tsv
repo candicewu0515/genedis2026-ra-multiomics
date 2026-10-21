@@ -1,0 +1,101 @@
+gene	gwas	ra_lead	instrument	dataset	qtl_type	category	clpp	OR_per_SD	OR_lo	OR_hi	z	n_datasets	share_same_sign
+AFF3	Ishigaki 2022 (EUR)	rs12474386	2_100240555_G_A	OneK1K B cell naive	sceqtl	B/LCL	0.2378	1.28	1.202	1.362	7.752	7	1
+ALDH2	FinnGen R12	rs7137828	12_111388673_A_AAATT	BLUEPRINT neutrophil naive	eqtl	granulocyte	0.05705	1.2	1.145	1.257	7.583	1	1
+ALDH2	Ishigaki 2022 (EUR)	rs3184504	12_111388673_A_AAATT	BLUEPRINT neutrophil naive	eqtl	granulocyte	0.08001	1.185	1.121	1.253	6	1	1
+ANKRD55	FinnGen R12	rs7731626	5_56148856_G_A	OTAR2057_IBDverse central memory CD4-positive, alpha-beta T cell naive	sceqtl	T/NK	1	1.174	1.132	1.218	8.595	35	1
+ANKRD55	Ishigaki 2022 (EUR)	rs7731626	5_56148856_G_A	OTAR2057_IBDverse central memory CD4-positive, alpha-beta T cell naive	sceqtl	T/NK	1	1.301	1.247	1.359	12	35	1
+APOBR	FinnGen R12	rs55893769	16_28855740_T_C	UKB_PPP_EUR blood plasma	pqtl	blood/plasma	0.006856	0.9203	0.891	0.9505	-5.037	1	1
+ATP2A1	FinnGen R12	rs55893769	16_28868163_A_G	TwinsUK lymphoblastoid cell line naive	eqtl	B/LCL	0.004902	1.189	1.111	1.273	4.986	2	1
+ATP5MG	FinnGen R12	rs548877	11_118425953_G_C	GEUVADIS lymphoblastoid cell line naive	eqtl	B/LCL	0.02262	0.8427	0.8011	0.8865	-6.617	2	1
+ATXN2L	FinnGen R12	rs55893769	16_28860539_A_G	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.006742	0.9537	0.9362	0.9714	-5.038	31	0.9677
+BACH2	Ishigaki 2022 (EUR)	rs72928038	6_90267049_G_A	OTAR2057_IBDverse naive thymus-derived CD8-positive, alpha-beta T cell naive	sceqtl	T/NK	0.539	0.8042	0.7472	0.8656	-5.804	10	1
+BCL2L11	FinnGen R12	rs72836346	2_111119036_G_C	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.1425	1.155	1.102	1.211	5.971	2	1
+BLK	Ishigaki 2022 (EUR)	rs2061831	8_11486464_C_T	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.1184	0.8173	0.77	0.8676	-6.623	32	1
+CCDC116	Ishigaki 2022 (EUR)	rs11089637	22_21620414_G_C	TwinsUK lymphoblastoid cell line naive	eqtl	B/LCL	0.006756	0.8236	0.7704	0.8805	-5.696	1	1
+CCR5AS	FinnGen R12	rs111960587	3_46391365_C_A	Quach_2016 CD14-positive, CD16-negative classical monocyte LPS_6h	eqtl	myeloid	0.01207	1.332	1.199	1.481	5.315	5	0.8
+CCR6	FinnGen R12	rs3836950	6_167120802_G_A	Fairfax_2012 B cell naive	eqtl	B/LCL	0.01838	1.246	1.169	1.329	6.712	2	0.5
+CCR6	Ishigaki 2022 (EUR)	rs3093017	6_167120802_G_A	Fairfax_2012 B cell naive	eqtl	B/LCL	0.08353	1.354	1.261	1.453	8.406	2	0.5
+CCRL2	FinnGen R12	rs111960587	3_46388226_T_A	Quach_2016 CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.01227	1.25	1.152	1.358	5.332	7	1
+CD28	Ishigaki 2022 (EUR)	rs231389	2_203749785_G_A	Schmiedel_2018 T-helper 17 cell naive	eqtl	T/NK	0.04915	0.8655	0.832	0.9002	-7.19	7	1
+CD40	Ishigaki 2022 (EUR)	rs4239702	20_46120612_T_C	OTAR2057_IBDverse plasma cell naive	sceqtl	B/LCL	0.1823	1.259	1.182	1.341	7.194	4	0.75
+COG6	FinnGen R12	rs9594366	13_39688623_T_C	Alasoo_2018 macrophage IFNg_18h+Salmonella_5h	eqtl	myeloid	0.009305	1.176	1.118	1.236	6.348	4	1
+CTLA4	FinnGen R12	rs3087243	2_203874196_G_A	CEDAR CD4-positive, alpha-beta T cell naive	eqtl	T/NK	0.1211	0.8609	0.8302	0.8927	-8.094	14	1
+CTLA4	Ishigaki 2022 (EUR)	rs7565213	2_203874196_G_A	OneK1K CD4-positive, alpha-beta T cell naive	sceqtl	T/NK	0.08104	0.7133	0.6649	0.7651	-9.437	6	1
+EIF3C	FinnGen R12	rs55893769	16_28825882_T_G	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.007062	1.108	1.064	1.154	4.988	8	0.375
+ENSG00000283265	Ishigaki 2022 (EUR)	rs6920220	6_137643560_A_G	Quach_2016 CD14-positive, CD16-negative classical monocyte LPS_6h	eqtl	myeloid	0.05199	0.7841	0.7508	0.8189	-10.99	2	1
+ENSG00000284052	Ishigaki 2022 (EUR)	rs2356124	2_190642047_T_C	OTAR2057_IBDverse anorectum goblet cell naive	sceqtl	T/NK	0.01027	0.7719	0.6875	0.8667	-4.382	1	1
+ENSG00000284825	FinnGen R12	rs3836950	6_167112608_T_C	OTAR2057_IBDverse CD4-positive, alpha-beta memory T cell, CD45RO-positive naive	sceqtl	T/NK	0.04856	1.225	1.156	1.299	6.83	3	1
+ENSG00000284825	Ishigaki 2022 (EUR)	rs3093017	6_167125409_T_C	Perez_2022 CD4-positive, alpha-beta T cell naive	sceqtl	T/NK	0.1486	1.297	1.223	1.375	8.669	2	1
+ENSG00000284957	Ishigaki 2022 (EUR)	rs2061831	8_11491677_G_A	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.08965	0.8656	0.8291	0.9036	-6.575	2	1
+ENSG00000285012	Ishigaki 2022 (EUR)	rs9927316	16_85982485_G_A	TwinsUK lymphoblastoid cell line naive	eqtl	B/LCL	0.09094	1.254	1.171	1.342	6.488	2	1
+ENSG00000285040	Ishigaki 2022 (EUR)	rs9927316	16_85982420_T_G	OTAR2057_IBDverse anorectum goblet cell naive	sceqtl	T/NK	0.1029	0.7808	0.7246	0.8414	-6.491	1	1
+FAM167A	Ishigaki 2022 (EUR)	rs2061831	8_11480078_T_C	OTAR2057_IBDverse naive B cell naive	sceqtl	B/LCL	0.06043	1.143	1.099	1.188	6.683	10	1
+FAM167A-AS1	Ishigaki 2022 (EUR)	rs2061831	8_11493711_A_C	OTAR2057_IBDverse naive B cell naive	sceqtl	B/LCL	0.05862	1.278	1.191	1.37	6.879	1	1
+FCGR2A	Ishigaki 2022 (EUR)	rs11810143	1_161506415_A_G	Alasoo_2018 macrophage IFNg_18h	eqtl	myeloid	0.03188	0.9277	0.9045	0.9514	-5.824	7	1
+FDX2	FinnGen R12	rs74908652	19_10312296_T_C	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.3163	0.8501	0.8017	0.9015	-5.424	1	1
+FDX2	Ishigaki 2022 (EUR)	rs12720356	19_10312296_T_C	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.0297	0.8362	0.7825	0.8937	-5.276	1	1
+GAPVD1	FinnGen R12	rs10818940	9_124274388_G_A	Schmiedel_2018 CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.006894	1.093	1.058	1.129	5.396	1	1
+GIN1	Ishigaki 2022 (EUR)	rs2561477	5_103264823_G_A	Fairfax_2012 B cell naive	eqtl	B/LCL	0.01333	0.8074	0.7507	0.8685	-5.754	1	1
+GSDMA	Ishigaki 2022 (EUR)	rs62067029	17_39965453_G_A	CEDAR CD4-positive, alpha-beta T cell naive	eqtl	T/NK	0.00375	0.9555	0.9008	1.013	-1.515	1	1
+GSDMB	Ishigaki 2022 (EUR)	rs62067029	17_39879371_C_T	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.0222	0.8948	0.8633	0.9274	-6.079	15	1
+ICAM4	FinnGen R12	rs74908652	19_10456536_T_A	Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.02336	0.9759	0.9388	1.015	-1.23	1	1
+ICAM4	Ishigaki 2022 (EUR)	rs12720356	19_10456536_T_A	Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.0374	0.8489	0.7963	0.905	-5.02	1	1
+ICAM5	FinnGen R12	rs74908652	19_10305768_G_A	Quach_2016 CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.03266	0.8213	0.7626	0.8845	-5.202	2	1
+ICAM5	Ishigaki 2022 (EUR)	rs12720356	19_10305768_G_A	Quach_2016 CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.03515	0.7807	0.7126	0.8553	-5.317	2	1
+ICAM5	Ishigaki 2022 (EUR)	rs10405617	19_10724729_C_T	UKB_PPP_EUR blood plasma	pqtl	blood/plasma	0.008052	4.926	2.127	11.41	3.722	1	1
+IFNGR2	Ishigaki 2022 (EUR)	rs17880053	21_33403128_A_C	Schmiedel_2018 CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.04349	0.9029	0.8722	0.9346	-5.797	12	0.9167
+IKZF3	Ishigaki 2022 (EUR)	rs62067029	17_39875549_T_A	CAP lymphoblastoid cell line statin	eqtl	B/LCL	0.01605	1.149	1.099	1.202	6.071	6	1
+IL12RB2	Ishigaki 2022 (EUR)	rs6659932	1_67329235_A_C	Schmiedel_2018 natural killer cell naive	eqtl	T/NK	0.08071	1.093	1.06	1.128	5.663	9	1
+IL6ST	FinnGen R12	rs7731626	5_56148856_G_A	OTAR2057_IBDverse CD4-positive, CD25-positive, alpha-beta regulatory T cell naive	sceqtl	T/NK	1	1.269	1.202	1.339	8.595	9	1
+IL6ST	Ishigaki 2022 (EUR)	rs7731626	5_56148856_G_A	OTAR2057_IBDverse CD4-positive, CD25-positive, alpha-beta regulatory T cell naive	sceqtl	T/NK	1	1.478	1.387	1.575	12	9	1
+ILF3	Ishigaki 2022 (EUR)	rs10405617	19_10677068_C_G	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.028	0.8548	0.803	0.9099	-4.923	3	0.3333
+ILF3-DT	Ishigaki 2022 (EUR)	rs10405617	19_10667269_G_T	Fairfax_2014 CD14-positive, CD16-negative classical monocyte IFNg_24h	eqtl	myeloid	0.02364	0.8252	0.7651	0.89	-4.979	3	1
+IRF5	FinnGen R12	rs13246321	7_128936032_T_C	CAP lymphoblastoid cell line naive	eqtl	B/LCL	0.008918	0.9279	0.9087	0.9475	-7.015	8	0.25
+IRF5	Ishigaki 2022 (EUR)	rs3778754	7_128935498_C_G	Alasoo_2018 macrophage IFNg_18h	eqtl	myeloid	0.5123	0.8746	0.8477	0.9024	-8.408	18	0.2222
+IRF5	Ishigaki 2022 (EUR)	rs4731532	7_128932712_G_A	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.9489	1.315	1.214	1.424	6.725	5	0.6
+KCP	Ishigaki 2022 (EUR)	rs3778754	7_128939994_A_T	TwinsUK lymphoblastoid cell line naive	eqtl	B/LCL	0.05642	0.7641	0.7169	0.8145	-8.262	1	1
+MACO1	FinnGen R12	rs72660908	1_25235176_G_A	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.1998	1.171	1.11	1.235	5.813	2	1
+MMEL1	FinnGen R12	rs4310388	1_2552522_G_A	BLUEPRINT CD4-positive, alpha-beta T cell naive	eqtl	T/NK	0.01717	1.116	1.074	1.16	5.627	9	1
+NAB1	Ishigaki 2022 (EUR)	rs2356124	2_190651294_G_C	Quach_2016 CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.02454	1.161	1.088	1.24	4.469	3	0.6667
+NEK6	FinnGen R12	rs10818940	9_124275517_A_G	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.00957	0.7773	0.7091	0.852	-5.381	6	0.5
+NFATC2IP	FinnGen R12	rs55893769	16_28859641_G_A	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.006138	1.4	1.229	1.595	5.069	1	1
+ORMDL3	Ishigaki 2022 (EUR)	rs62067029	17_39900944_G_A	Schmiedel_2018 CD8-positive, alpha-beta T cell anti-CD3-CD28_4h	eqtl	T/NK	0.01846	0.8929	0.8606	0.9263	-6.04	14	1
+PADI4	Ishigaki 2022 (EUR)	rs2240336	1_17347907_C_T	UKB_PPP_EUR blood plasma	pqtl	blood/plasma	0.6067	1.483	1.314	1.674	6.388	2	1
+PAM	Ishigaki 2022 (EUR)	rs2561477	5_103263627_A_G	GEUVADIS lymphoblastoid cell line naive	eqtl	B/LCL	0.01824	1.491	1.316	1.688	6.279	1	1
+PFKFB3	Ishigaki 2022 (EUR)	rs11258264	10_6348230_G_C	BLUEPRINT CD4-positive, alpha-beta T cell naive	eqtl	T/NK	0.005267	0.83	0.7826	0.8802	-6.212	1	1
+PHF19	Ishigaki 2022 (EUR)	rs577932181	9_120928959_T_G	Schmiedel_2018 T-helper 17 cell naive	eqtl	T/NK	0.02272	0.8881	0.8543	0.9233	-5.984	3	1
+PHLDB1	Ishigaki 2022 (EUR)	rs7928371	11_118658418_G_A	Quach_2016 CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.2533	0.9222	0.8946	0.9508	-5.206	3	1
+POU3F1	FinnGen R12	rs2045791	1_38179189_C_A	TwinsUK lymphoblastoid cell line naive	eqtl	B/LCL	0.09233	1.242	1.154	1.336	5.776	1	1
+POU3F1	Ishigaki 2022 (EUR)	rs2045791	1_38179189_C_A	TwinsUK lymphoblastoid cell line naive	eqtl	B/LCL	0.09278	1.309	1.204	1.422	6.327	1	1
+PRXL2B	FinnGen R12	rs4310388	1_2607961_T_C	GTEx-v10 blood naive	eqtl	blood/plasma	0.003989	1.23	1.135	1.332	5.08	1	1
+PSMB7	FinnGen R12	rs10818940	9_124415457_G_C	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.01183	0.8362	0.7835	0.8925	-5.382	6	0.8333
+PUS10	Ishigaki 2022 (EUR)	rs34695944	2_60933484_C_T	Quach_2016 CD14-positive, CD16-negative classical monocyte Influenza_6h	eqtl	myeloid	0.004399	1.17	1.124	1.218	7.667	1	1
+PVT1	FinnGen R12	rs13279820	8_127765473_A_G	OneK1K central memory CD4-positive, alpha-beta T cell naive	sceqtl	T/NK	0.1736	0.7515	0.6601	0.8555	-4.321	2	1
+RAB5B	Ishigaki 2022 (EUR)	rs1873914	12_55985643_G_C	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.1204	0.8562	0.8128	0.9018	-5.862	6	1
+RASGRP1	Ishigaki 2022 (EUR)	rs7170151	15_38546063_T_C	Fairfax_2012 B cell naive	eqtl	B/LCL	0.06125	1.322	1.223	1.429	7.028	1	1
+RAVER1	FinnGen R12	rs74908652	19_10310306_G_C	GTEx-v10 blood naive	eqtl	blood/plasma	0.01134	0.6044	0.4968	0.7353	-5.033	1	1
+RAVER1	Ishigaki 2022 (EUR)	rs12720356	19_10310306_G_C	GTEx-v10 blood naive	eqtl	blood/plasma	0.1697	0.5055	0.3972	0.6432	-5.549	1	1
+REL	Ishigaki 2022 (EUR)	rs34695944	2_60881694_G_A	OneK1K CD4-positive, alpha-beta T cell naive	sceqtl	T/NK	0.08352	1.709	1.497	1.951	7.938	3	1
+RHD	FinnGen R12	rs72660908	1_25257119_C_G	OTAR2057_IBDverse alpha-beta T cell naive	sceqtl	T/NK	0.5066	1.064	1.042	1.086	5.821	67	0.9403
+RPS26	Ishigaki 2022 (EUR)	rs1873914	12_55985276_A_T	Cytoimmgen CD4-positive, alpha-beta T cell anti-CD3-CD28_40h	sceqtl	T/NK	0.08326	0.9127	0.885	0.9412	-5.815	22	0.9545
+RSRP1	FinnGen R12	rs72660908	1_25235176_G_A	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.4852	1.072	1.047	1.097	5.813	22	0.9545
+SH2B1	FinnGen R12	rs55893769	16_28863893_AGCCGCCGCC_A	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.01125	0.8158	0.7577	0.8784	-5.399	5	1
+SNN	Ishigaki 2022 (EUR)	rs4584833	16_11740030_G_T	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.01472	1.503	1.316	1.718	6	2	1
+SPNS1	FinnGen R12	rs55893769	16_28863893_AGCCGCCGCC_A	Naranbhai_2015 neutrophil naive	eqtl	granulocyte	0.005054	1.136	1.085	1.19	5.399	1	1
+STAT4	FinnGen R12	rs10174238	2_191105153_G_C	Schmiedel_2018 T-helper 17 cell naive	eqtl	T/NK	0.0579	0.8447	0.8106	0.8802	-8.036	1	1
+SULT1A1	FinnGen R12	rs55893769	16_28499216_A_G	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.004229	0.9253	0.8966	0.9548	-4.839	1	1
+SUOX	Ishigaki 2022 (EUR)	rs1873914	12_55985643_G_C	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.1573	1.238	1.152	1.329	5.862	20	0.95
+TEC	Ishigaki 2022 (EUR)	rs2664035	4_48215233_G_A	OTAR2057_IBDverse mast cell naive	sceqtl	T/NK	0.0596	0.8251	0.7745	0.879	-5.956	1	1
+TMEM50A	FinnGen R12	rs72660908	1_25235176_G_A	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.4705	1.069	1.045	1.093	5.813	19	1
+TNPO3	FinnGen R12	rs13246321	7_128936032_T_C	TwinsUK lymphoblastoid cell line naive	eqtl	B/LCL	0.004519	0.7279	0.6661	0.7955	-7.015	2	1
+TNPO3	Ishigaki 2022 (EUR)	rs3778754	7_128935498_C_G	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.2295	0.4754	0.3997	0.5654	-8.408	2	1
+TNPO3	Ishigaki 2022 (EUR)	rs4731532	7_128935498_C_G	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.01864	0.4754	0.3997	0.5654	-8.408	1	1
+TRAF1	Ishigaki 2022 (EUR)	rs577932181	9_120876986_G_A	Schmiedel_2018 T-helper 2 cell naive	eqtl	T/NK	0.02676	1.113	1.074	1.152	5.992	20	0.55
+TTC34	FinnGen R12	rs4310388	1_2592766_C_T	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.01039	0.8358	0.7816	0.8938	-5.242	3	1
+TUFM	FinnGen R12	rs55893769	16_28826194_T_C	TwinsUK lymphoblastoid cell line naive	eqtl	B/LCL	0.007727	0.8281	0.7678	0.8931	-4.889	38	0.1579
+TXNDC11	Ishigaki 2022 (EUR)	rs4584833	16_11731047_C_G	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.02275	0.8613	0.8215	0.903	-6.194	5	1
+UBE2L3	Ishigaki 2022 (EUR)	rs11089637	22_21587718_G_A	OTAR3087_MAGE lymphoblastoid cell line naive	eqtl	B/LCL	0.01227	0.6513	0.5643	0.7516	-5.865	23	0.3043
+WAKMAR2	Ishigaki 2022 (EUR)	rs58721818	6_137822323_G_T	OTAR2057_IBDverse CD4-positive, alpha-beta memory T cell, CD45RO-positive naive	sceqtl	T/NK	0.006552	1.449	1.329	1.58	8.407	1	1
+ZGLP1	FinnGen R12	rs74908652	19_10305768_G_A	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.04833	0.8984	0.8628	0.9354	-5.202	5	1
+ZGLP1	Ishigaki 2022 (EUR)	rs12720356	19_10305768_G_A	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	eqtl	myeloid	0.1898	0.8739	0.8316	0.9184	-5.317	6	1
+ZPBP2	Ishigaki 2022 (EUR)	rs62067029	17_39882136_A_T	Schmiedel_2018 B cell naive	eqtl	B/LCL	0.006982	1.101	1.065	1.138	5.722	2	1

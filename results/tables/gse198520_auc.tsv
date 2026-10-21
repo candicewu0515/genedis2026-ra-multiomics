@@ -1,0 +1,9 @@
+predictor	n	auc_good_vs_non	ci_low	ci_high	perm_p	random_geneset_median_auc	random_geneset_pct_ge_obs
+signature score	33	0.7256	0.5317	0.8901	0.026	0.1466	0.001
+baseline DAS28	33	0.2895	0.1134	0.4846	0.042		
+homeostatic program	33	0.7744	0.5972	0.9256	0.0075		
+inflammatory program	33	0.5827	0.3667	0.7934	0.4658		
+log library size (technical)	33	0.8383	0.6786	0.9556	0.001		
+mito fraction (technical)	33	0.797	0.6103	0.9408	0.0015		
+signature score, technical residual	33	0.515	0.297	0.7222	0.8971		
+majority class	33	0.5					

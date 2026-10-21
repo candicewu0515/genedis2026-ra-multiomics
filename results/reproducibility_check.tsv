@@ -1,0 +1,113 @@
+table	status	detail	max_rel_diff	comparison_status	revision_reason
+atac_label_transfer.tsv	identical	equal decompressed SHA-256	0.0	identical	
+atac_qc_per_sample.tsv	identical	equal decompressed SHA-256	0.0	identical	
+blood_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+cell_communication_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+chromvar_M6_vs_macrophages.tsv	identical	equal decompressed SHA-256	0.0	identical	
+chromvar_celltype_top.tsv	identical	equal decompressed SHA-256	0.0	identical	
+chromvar_donor_signature_link.tsv	identical	equal decompressed SHA-256	0.0	identical	
+chromvar_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+chromvar_unit_deviations.tsv.gz	identical	equal decompressed SHA-256	0.0	identical	
+classifier_F1_coefficients.tsv	expected revision	text cells 0, NaN mismatches 0, largest change in 'coef'	1.12	differs	Training-only revised preprocessing; descriptive full-sample coefficients changed
+classifier_baselines.tsv	expected revision	text cells 8, NaN mismatches 0, largest change in 'auc_sd'	0.291	differs	Training-only nested CV, identical-procedure label null, matched retained random features
+classifier_folds.tsv	expected revision	text cells 0, NaN mismatches 0, largest change in 'auc'	0.11	differs	Held-out predictions reflect corrected training-only preprocessing and tuning
+classifier_loocv.tsv	identical	equal decompressed SHA-256	0.0	identical	
+classifier_permutations.tsv	new output	current only		missing	New full null/control distribution retained for audit
+classifier_random_sets.tsv	new output	current only		missing	New full null/control distribution retained for audit
+coloc_direction.tsv	identical	equal decompressed SHA-256	0.0	identical	
+coloc_multisignal_all.tsv	identical	equal decompressed SHA-256	0.0	identical	
+coloc_multisignal_genes.tsv	identical	equal decompressed SHA-256	0.0	identical	
+cross_dataset_signature_scores.tsv	identical	equal decompressed SHA-256	0.0	identical	
+cross_dataset_signature_stats.tsv	identical	equal decompressed SHA-256	0.0	identical	
+deconvolution_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+emtab8322_DE_active_vs_remission.tsv	identical	equal decompressed SHA-256	0.0	identical	
+emtab8322_broad_composition.tsv	identical	equal decompressed SHA-256	0.0	identical	
+emtab8322_cluster_markers_top25.tsv	identical	equal decompressed SHA-256	0.0	identical	
+emtab8322_clusters.tsv	identical	equal decompressed SHA-256	0.0	identical	
+emtab8322_group_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+emtab8322_qc_per_sample.tsv	identical	equal decompressed SHA-256	0.0	identical	
+eqtl_coloc.tsv	identical		0.0	identical	
+finemap_candidates.tsv	identical	equal decompressed SHA-256	0.0	identical	
+finemap_enrichment.tsv	identical	equal decompressed SHA-256	0.0	identical	
+finemap_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+finemap_variants.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gene_prioritisation.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gse198520_DE_post_vs_pre_good.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gse198520_auc.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gse198520_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gse243917_annotation_vs_author.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gse243917_cluster_annotation.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gse243917_feature_vs_histology.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gse243917_qc_per_sample.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gse89408_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gsea_overlap_hallmark.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gsea_overlap_reactome.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gsea_results.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gwas_candidate_variants.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gwas_enrichment.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gwas_loci_LDL.tsv	identical	equal decompressed SHA-256	0.0	identical	
+gwas_loci_RA.tsv	identical	equal decompressed SHA-256	0.0	identical	
+ifng_donor_link.tsv	identical	equal decompressed SHA-256	0.0	identical	
+ifng_senders.tsv	identical	equal decompressed SHA-256	0.0	identical	
+integration_benchmark.tsv	identical	equal decompressed SHA-256	0.0	identical	
+l1000_reversal_class_enrichment.tsv	identical	equal decompressed SHA-256	0.0	identical	
+l1000_reversal_compounds.tsv	identical	equal decompressed SHA-256	0.0	identical	
+l1000_reversal_signatures.tsv	identical	equal decompressed SHA-256	0.0	identical	
+liana_results.tsv.gz	identical	equal decompressed SHA-256	0.0	identical	
+liana_to_M6.tsv	identical	equal decompressed SHA-256	0.0	identical	
+liana_to_M6_specific.tsv	identical	equal decompressed SHA-256	0.0	identical	
+luca_m6_cluster_markers.tsv	identical	equal decompressed SHA-256	0.0	identical	
+magma_genes_RA_FinnGen_R12.tsv	identical	equal decompressed SHA-256	0.0	identical	
+magma_genes_RA_Ishigaki_EUR.tsv	identical	equal decompressed SHA-256	0.0	identical	
+magma_genes_T2D_FinnGen_R12_control.tsv	identical	equal decompressed SHA-256	0.0	identical	
+mofa_factors_top_features.tsv	identical	equal decompressed SHA-256	0.0	identical	
+mofa_variance_explained.tsv	identical	equal decompressed SHA-256	0.0	identical	
+mr_primary.tsv	identical	equal decompressed SHA-256	0.0	identical	
+mr_wald_all.tsv	identical	equal decompressed SHA-256	0.0	identical	
+multiome_donor_signature.tsv	identical	equal decompressed SHA-256	0.0	identical	
+multiome_signature_stats.tsv	identical	equal decompressed SHA-256	0.0	identical	
+myeloid_lag_controls.tsv	identical	equal decompressed SHA-256	0.0	identical	
+myeloid_lag_sensitivity.tsv	identical	equal decompressed SHA-256	0.0	identical	
+myeloid_paga.tsv	identical	equal decompressed SHA-256	0.0	identical	
+myeloid_priming_by_state.tsv	identical	equal decompressed SHA-256	0.0	identical	
+myeloid_trajectory_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+nsclc_cox.tsv	identical	equal decompressed SHA-256	0.0	identical	
+nsclc_extension_cox.tsv	identical	equal decompressed SHA-256	0.0	identical	
+nsclc_extension_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+nsclc_ra_axis_check.tsv	identical	equal decompressed SHA-256	0.0	identical	
+nsclc_tumour_vs_normal.tsv	identical	equal decompressed SHA-256	0.0	identical	
+peak_gene_links.tsv.gz	identical	equal decompressed SHA-256	0.0	identical	
+proteomics_detected_genes.tsv	identical	equal decompressed SHA-256	0.0	identical	
+proteomics_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+ra_fluid_m6_cluster_markers.tsv	identical	equal decompressed SHA-256	0.0	identical	
+ra_fluid_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+rna_atac_concordance.tsv	identical	equal decompressed SHA-256	0.0	identical	
+robustness_R1_loo_genes.tsv	identical	equal decompressed SHA-256	0.0	identical	
+robustness_summary.tsv	identical	equal decompressed SHA-256	0.0	identical	
+scdrs_groups.tsv	identical	equal decompressed SHA-256	0.0	identical	
+signature_by_myeloid_subset.tsv	identical	equal decompressed SHA-256	0.0	identical	
+signature_chromatin.tsv	identical	equal decompressed SHA-256	0.0	identical	
+signature_genes.tsv	identical	equal decompressed SHA-256	0.0	identical	
+signature_links.tsv	identical	equal decompressed SHA-256	0.0	identical	
+sldsc_allpeaks_summary.tsv	identical	equal decompressed SHA-256	0.0	identical	
+sldsc_results.tsv	identical	equal decompressed SHA-256	0.0	identical	
+state_markers_gse243917.tsv	identical	equal decompressed SHA-256	0.0	identical	
+target_drug_mining.tsv	identical	equal decompressed SHA-256	0.0	identical	
+tf_M6_drivers.tsv	expected revision	shape (464, 10) vs (464, 12)		differs	BH over all 464 RNA tests, corrected candidate flags, additional precision
+tf_activity_units.tsv.gz	identical	equal decompressed SHA-256	0.0	identical	
+tf_crossmodal_concordance.tsv	identical	equal decompressed SHA-256	0.0	identical	
+tf_lineage_sanity.tsv	identical	equal decompressed SHA-256	0.0	identical	
+tph_spatial.tsv	identical	equal decompressed SHA-256	0.0	identical	
+tph_treg_composition.tsv	identical	equal decompressed SHA-256	0.0	identical	
+tph_treg_tests.tsv	expected revision	text cells 4, NaN mismatches 2, largest change in 'stat'	1.91	differs	Remove extrapolated Stouffer tails; report actual positive coefficient counts
+variant_alleles.tsv	identical	equal decompressed SHA-256	0.0	identical	
+variant_motif_effects.tsv	identical	equal decompressed SHA-256	0.0	identical	
+visium_sections.tsv	identical	equal decompressed SHA-256	0.0	identical	
+visium_tests.tsv	identical	equal decompressed SHA-256	0.0	identical	
+visium_within_section.tsv	identical	equal decompressed SHA-256	0.0	identical	
+wnn_modality_weights.tsv	identical	equal decompressed SHA-256	0.0	identical	
+wnn_recovery.tsv	identical	equal decompressed SHA-256	0.0	identical	
+xenium_cxcl9_macrophages.tsv	identical	equal decompressed SHA-256	0.0	identical	
+xenium_ifng_neighbourhood.tsv	expected revision	shape (6, 15) vs (6, 16)		differs	Healthy section with no positive exposure is non-estimable; explicit test_status
+xenium_sections.tsv	identical	equal decompressed SHA-256	0.0	identical	
+xenium_tests.tsv	expected revision	shape (2, 7) vs (2, 6)		differs	Remove extrapolated combined tail P; retain section empirical summaries

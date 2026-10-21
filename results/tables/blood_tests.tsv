@@ -1,0 +1,14 @@
+hypothesis	test	n	statistic	p	note
+H1	paired Wilcoxon RA vs matched control: signature_score	13	-0.0825	0.4548	statistic = median within-pair difference (RA - control)
+H2	Spearman signature_score vs das28crp (RA)	14	-0.0374	0.8991	
+H2	Spearman signature_score vs cdai (RA)	13	0.1044	0.7343	
+batch	Kruskal signature_score across sequencing batches	30	5.0045	0.0819	
+H1	paired Wilcoxon RA vs matched control: ifng_response_score	13	-0.0729	0.4143	statistic = median within-pair difference (RA - control)
+H2	Spearman ifng_response_score vs das28crp (RA)	14	0.0769	0.7938	
+H2	Spearman ifng_response_score vs cdai (RA)	13	0.2582	0.3943	
+batch	Kruskal ifng_response_score across sequencing batches	30	5.4382	0.0659	
+H1	paired Wilcoxon RA vs matched control: frac_IFITM3_mono	13	-0.0065	0.0574	statistic = median within-pair difference (RA - control)
+H2	Spearman frac_IFITM3_mono vs das28crp (RA)	14	-0.4022	0.154	
+H2	Spearman frac_IFITM3_mono vs cdai (RA)	13	-0.3736	0.2086	
+batch	Kruskal frac_IFITM3_mono across sequencing batches	30	1.3193	0.517	
+confound	Mann-Whitney signature score, methotrexate yes vs no (RA)	14	34.0	0.2284	

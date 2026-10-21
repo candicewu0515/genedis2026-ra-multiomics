@@ -1,0 +1,737 @@
+source	target	relation	step	statistic	value	padj	fdr	n_donors	ligand	receptor	stage	p	eqtl_dataset	variant	gwas	p_vs_random	datasets	motif_diff_z	dataset	sections	evidence_type
+gene:CXCL9	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:CXCL10	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:CXCL11	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:STAT1	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:GBP1	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:GBP5	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:IDO1	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:IRF1	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:CD274	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:APOL6	score:S2_IFN10	member_of_predefined_score	24/30																		
+gene:MT1H	RA	up_in_active_RA_macrophages	04	log2FC	6.0584	0.00013															
+gene:MT1G	RA	up_in_active_RA_macrophages	04	log2FC	4.5181	0.00022															
+gene:MT2A	RA	up_in_active_RA_macrophages	04	log2FC	3.0879	0.00102															
+gene:MT1F	RA	up_in_active_RA_macrophages	04	log2FC	2.5464	0.00583															
+gene:MT1L	RA	up_in_active_RA_macrophages	04	log2FC	3.1883	0.00691															
+gene:MT1X	RA	up_in_active_RA_macrophages	04	log2FC	2.487	0.00791															
+gene:PKM	RA	up_in_active_RA_macrophages	04	log2FC	0.8175	0.02689															
+gene:APOL6	RA	up_in_active_RA_macrophages	04	log2FC	0.8424	0.02969															
+gene:MT1E	RA	up_in_active_RA_macrophages	04	log2FC	2.9878	0.02969															
+gene:PFKP	RA	up_in_active_RA_macrophages	04	log2FC	1.5119	0.03622															
+gene:MT1M	RA	up_in_active_RA_macrophages	04	log2FC	3.718	0.03719															
+gene:PALM2AKAP2	RA	up_in_active_RA_macrophages	04	log2FC	2.202	0.04169															
+gene:IL4I1	RA	up_in_active_RA_macrophages	04	log2FC	1.9553	0.04169															
+gene:SLAMF7	RA	up_in_active_RA_macrophages	04	log2FC	2.1389	0.04254															
+gene:GBP5	RA	up_in_active_RA_macrophages	04	log2FC	2.1567	0.04987															
+gene:CD40	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:STAT4	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:SOD2	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:TNFAIP3	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:SLAMF7	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:CXCL10	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:STAT1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:CXCL9	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:LAP3	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:APOL6	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:PHF19	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:SERPING1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:IRF1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:STAT2	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:UBE2L6	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:RNF213	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:VAMP5	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:PLD4	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:ETV7	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:EPSTI1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:TRAFD1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:ADAR	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:SAMD9L	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:CD38	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:CCR5	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:IFIH1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:NRP2	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:TRIM21	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:PTPN1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:CXCL11	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:GBP5	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:ISG20	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:PARP14	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:TNFSF10	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:LILRB2	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:PIM1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:MX1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:IL4I1	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:OAS3	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+gene:ISG15	M-6: STAT1+ CXCL10+	marks_cell_state	22	M-6 enrichment	1.0																
+Tcell	RA	accessible_chromatin_enriched_for_RA_risk_loci	10	enrichment	1.5879		0.008														
+Bcell	RA	accessible_chromatin_enriched_for_RA_risk_loci	10	enrichment	1.2482		0.0839														
+NK-1: CD56dim CD16+ IFNG+CD160+	RA	accessible_chromatin_enriched_for_RA_risk_loci	10	enrichment	1.4198		0.0569														
+T-10: CD4+ OX40+NR3C1+	RA	accessible_chromatin_enriched_for_RA_risk_loci	10	enrichment	1.4248		0.0569														
+T-9: CD4+ CD25-low Treg	RA	accessible_chromatin_enriched_for_RA_risk_loci	10	enrichment	1.3071		0.0949														
+snp:rs479777	Bcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3093023	Bcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs4810485	Bcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3807306	Bcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2582532	Bcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs117068593	NK	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2275806	NK	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3802604	NK	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs734094	NK	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3087243	Tcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs798000	Tcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs4341355	Tcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2275806	Tcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3802604	Tcell	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs9927316	myeloid	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs7731626	plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs66922517	plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2192008	plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs6859219	plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3807306	plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs117605225	plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2582532	plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3087243	B-0: CD24+CD27+CD11b+ switched memory	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs881375	B-1: CD24++CD27+IgM+ unswitched memory	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2234067	B-5: CD11c+LAMP1+ ABC	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs117068593	B-5: CD11c+LAMP1+ ABC	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs911760	B-5: CD11c+LAMP1+ ABC	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs734094	B-5: CD11c+LAMP1+ ABC	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3093023	B-6: IgM+ plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs10872479	B-7: HLA-DR+IgG+ plasmablast	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs7117261	B-8: IgG1+IgG3+ plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3802604	B-8: IgG1+IgG3+ plasma	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs657075	E-0: SPARC+ capillary	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2234067	E-2: ICAM1+ venular	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs61828284	E-2: ICAM1+ venular	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2582532	E-2: ICAM1+ venular	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs6859219	E-3: NOTCH4+ arteriolar	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs798000	F-0: PRG4+ CLIC5+ lining	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs479777	F-1: PRG4+ lining	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs906868	F-2: CD34+ sublining	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs657075	F-3: POSTN+ sublining	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs734094	F-3: POSTN+ sublining	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2275806	F-4: DKK3+ sublining	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs71508903	F-6: CXCL12+ SFRP1+ sublining	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs61828284	F-7: NOTCH3+ sublining	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2234067	F-8: RSPO3+ intermediate	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs34480360	F-8: RSPO3+ intermediate	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs10152591	M-10: DC2	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs66922517	M-10: DC2	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs947474	M-10: DC2	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs117605225	M-10: DC2	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs10152590	M-10: DC2	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs734094	M-10: DC2	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2582532	M-10: DC2	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3093023	M-1: MERTK+ SELENOP+ LYVE1-	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs4341355	M-1: MERTK+ SELENOP+ LYVE1-	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs117605225	M-1: MERTK+ SELENOP+ LYVE1-	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs911760	M-1: MERTK+ SELENOP+ LYVE1-	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2192008	M-3: MERTK+ HBEGF+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs4341355	M-3: MERTK+ HBEGF+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs7117261	M-4: SPP1+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs10152591	M-7: IL1B+ FCN1+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs947474	M-7: IL1B+ FCN1+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs10152590	M-7: IL1B+ FCN1+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs4810485	M-8: PLCG2+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3783782	M-8: PLCG2+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs1422673	M-8: PLCG2+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs906868	M-9: DC3	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs9927316	NK-1: CD56dim CD16+ IFNG+CD160+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs10917571	NK-1: CD56dim CD16+ IFNG+CD160+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs7241016	NK-9: MT-high	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs61828284	T-0: CD4+ IL7R+ memory	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs7731626	T-10: CD4+ OX40+NR3C1+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3087243	T-10: CD4+ OX40+NR3C1+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3807306	T-11: CD4+ CD146+ memory	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs117605225	T-13: CD8+ GZMK/B+ memory	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs10175798	T-15: CD8+ GZMB+/TEMRA	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs34480360	T-16: CD8+ CD45ROlow/naive	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs2192008	T-18: Proliferating	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs117605225	T-18: Proliferating	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs1883832	T-19: MT-high (low quality)	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs4810485	T-1: CD4+ CD161+ memory	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs6859219	T-20: CD38+	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs1422673	T-23: Vdelta2	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs657075	T-2: CD4+ IL7R+CCR5+ memory	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs61828284	T-2: CD4+ IL7R+CCR5+ memory	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs7731626	T-3: CD4+ Tfh/Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs71508903	T-3: CD4+ Tfh/Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs6859219	T-3: CD4+ Tfh/Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs4341355	T-3: CD4+ Tfh/Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs117605225	T-3: CD4+ Tfh/Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs1883832	T-4: CD4+ naive	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs66922517	T-4: CD4+ naive	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs4810485	T-4: CD4+ naive	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs61828284	T-4: CD4+ naive	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs1422673	T-6: CD4+ memory	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs7731626	T-7: CD4+ Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3087243	T-7: CD4+ Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs7241016	T-7: CD4+ Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs10175798	T-7: CD4+ Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs6859219	T-7: CD4+ Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs117605225	T-7: CD4+ Tph	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3087243	T-8: CD4+ CD25-high Treg	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs71508903	T-8: CD4+ CD25-high Treg	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs66922517	T-8: CD4+ CD25-high Treg	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3087243	T-9: CD4+ CD25-low Treg	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs6859219	T-9: CD4+ CD25-low Treg	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs3093023	T-9: CD4+ CD25-low Treg	in_state_specific_peak	10	GWAS p	0.0																
+snp:rs479777	gene:CCDC88B	nearest_protein_coding_gene	10																		
+snp:rs479777	RA	associated_with	09	GWAS p	0.0																
+snp:rs3093023	gene:CCR6	nearest_protein_coding_gene	10																		
+snp:rs3093023	RA	associated_with	09	GWAS p	0.0																
+snp:rs4810485	gene:CD40	nearest_protein_coding_gene	10																		
+snp:rs4810485	RA	associated_with	09	GWAS p	0.0																
+snp:rs3807306	gene:IRF5	nearest_protein_coding_gene	10																		
+snp:rs3807306	RA	associated_with	09	GWAS p	0.0																
+snp:rs2582532	gene:PLD4	nearest_protein_coding_gene	10																		
+snp:rs2582532	RA	associated_with	09	GWAS p	0.0																
+snp:rs117068593	gene:LGMN	nearest_protein_coding_gene	10																		
+snp:rs117068593	RA	associated_with	09	GWAS p	0.0																
+snp:rs2275806	gene:GATA3	nearest_protein_coding_gene	10																		
+snp:rs2275806	RA	associated_with	09	GWAS p	0.0																
+snp:rs3802604	gene:GATA3	nearest_protein_coding_gene	10																		
+snp:rs3802604	RA	associated_with	09	GWAS p	0.0																
+snp:rs734094	gene:TSPAN32	nearest_protein_coding_gene	10																		
+snp:rs734094	RA	associated_with	09	GWAS p	0.0																
+snp:rs3087243	gene:CTLA4	nearest_protein_coding_gene	10																		
+snp:rs3087243	RA	associated_with	09	GWAS p	0.0																
+snp:rs798000	gene:CD2	nearest_protein_coding_gene	10																		
+snp:rs798000	RA	associated_with	09	GWAS p	0.0																
+snp:rs4341355	gene:TDRD10	nearest_protein_coding_gene	10																		
+snp:rs4341355	RA	associated_with	09	GWAS p	0.0																
+snp:rs9927316	gene:IRF8	nearest_protein_coding_gene	10																		
+snp:rs9927316	RA	associated_with	09	GWAS p	0.0																
+snp:rs7731626	gene:ANKRD55	nearest_protein_coding_gene	10																		
+snp:rs7731626	RA	associated_with	09	GWAS p	0.0																
+snp:rs66922517	gene:RUNX1	nearest_protein_coding_gene	10																		
+snp:rs66922517	RA	associated_with	09	GWAS p	0.0																
+snp:rs2192008	gene:NAB1	nearest_protein_coding_gene	10																		
+snp:rs2192008	RA	associated_with	09	GWAS p	0.0																
+snp:rs6859219	gene:ANKRD55	nearest_protein_coding_gene	10																		
+snp:rs6859219	RA	associated_with	09	GWAS p	0.0																
+snp:rs117605225	gene:CXCL13	nearest_protein_coding_gene	10																		
+snp:rs117605225	RA	associated_with	09	GWAS p	0.0																
+snp:rs881375	gene:PHF19	nearest_protein_coding_gene	10																		
+snp:rs881375	RA	associated_with	09	GWAS p	0.0																
+snp:rs2234067	gene:ETV7	nearest_protein_coding_gene	10																		
+snp:rs2234067	RA	associated_with	09	GWAS p	0.0																
+snp:rs911760	gene:PLGRKT	nearest_protein_coding_gene	10																		
+snp:rs911760	RA	associated_with	09	GWAS p	0.0																
+snp:rs10872479	gene:TNFAIP3	nearest_protein_coding_gene	10																		
+snp:rs10872479	RA	associated_with	09	GWAS p	0.0																
+snp:rs7117261	gene:CXCR5	nearest_protein_coding_gene	10																		
+snp:rs7117261	RA	associated_with	09	GWAS p	0.0																
+snp:rs657075	gene:CSF2	nearest_protein_coding_gene	10																		
+snp:rs657075	RA	associated_with	09	GWAS p	0.0																
+snp:rs61828284	gene:TNFSF4	nearest_protein_coding_gene	10																		
+snp:rs61828284	RA	associated_with	09	GWAS p	0.0																
+snp:rs906868	gene:LBH	nearest_protein_coding_gene	10																		
+snp:rs906868	RA	associated_with	09	GWAS p	0.0																
+snp:rs71508903	gene:ARID5B	nearest_protein_coding_gene	10																		
+snp:rs71508903	RA	associated_with	09	GWAS p	0.0																
+snp:rs34480360	gene:ZNF629	nearest_protein_coding_gene	10																		
+snp:rs34480360	RA	associated_with	09	GWAS p	0.0																
+snp:rs10152591	gene:RPLP1	nearest_protein_coding_gene	10																		
+snp:rs10152591	RA	associated_with	09	GWAS p	0.0																
+snp:rs947474	gene:PFKFB3	nearest_protein_coding_gene	10																		
+snp:rs947474	RA	associated_with	09	GWAS p	0.0																
+snp:rs10152590	gene:RPLP1	nearest_protein_coding_gene	10																		
+snp:rs10152590	RA	associated_with	09	GWAS p	0.0																
+snp:rs3783782	gene:AL355916.3	nearest_protein_coding_gene	10																		
+snp:rs3783782	RA	associated_with	09	GWAS p	0.0																
+snp:rs1422673	gene:TNIP1	nearest_protein_coding_gene	10																		
+snp:rs1422673	RA	associated_with	09	GWAS p	0.0																
+snp:rs10917571	gene:FCGR3A	nearest_protein_coding_gene	10																		
+snp:rs10917571	RA	associated_with	09	GWAS p	0.0																
+snp:rs7241016	gene:PTPN2	nearest_protein_coding_gene	10																		
+snp:rs7241016	RA	associated_with	09	GWAS p	0.0																
+snp:rs10175798	gene:LBH	nearest_protein_coding_gene	10																		
+snp:rs10175798	RA	associated_with	09	GWAS p	0.0																
+snp:rs1883832	gene:CD40	nearest_protein_coding_gene	10																		
+snp:rs1883832	RA	associated_with	09	GWAS p	0.0																
+snp:rs10152590	tf:MXI1	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	8.02																
+snp:rs10152590	tf:NACC2	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	8.52																
+snp:rs10872479	tf:TCF4	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-4.73																
+snp:rs10872479	tf:ZEB2	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-4.32																
+snp:rs10872479	tf:ZEB1	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-3.78																
+snp:rs10872479	tf:TCF3	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-3.27																
+snp:rs10872479	tf:TCF12	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-2.99																
+snp:rs117605225	tf:CGGBP1	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	2.75																
+snp:rs1422673	tf:Plagl1	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	2.87																
+snp:rs1422673	tf:KLF13	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	5.36																
+snp:rs2192008	tf:Stat2	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	3.84																
+snp:rs2192008	tf:Vdr	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	4.01																
+snp:rs2192008	tf:TCF7L2	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	9.95																
+snp:rs2582532	tf:MAZ	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	11.22																
+snp:rs3087243	tf:ARNT::HIF1A	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-6.26																
+snp:rs3093023	tf:Sox5	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	3.3																
+snp:rs34480360	tf:EGR3	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-6.75																
+snp:rs34480360	tf:EGR1	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-4.82																
+snp:rs34480360	tf:Ahr::Arnt	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-4.75																
+snp:rs34480360	tf:EGR2	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-4.22																
+snp:rs3783782	tf:Ddit3::Cebpa	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-2.71																
+snp:rs61828284	tf:STAT1::STAT2	risk_allele_risk_allele_unresolved	16	delta log-odds (alt - ref)	-4.98																
+snp:rs61828284	tf:STAT3	risk_allele_risk_allele_unresolved	16	delta log-odds (alt - ref)	11.56																
+snp:rs657075	tf:NFIA	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-13.06																
+snp:rs657075	tf:NFIX	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-7.03																
+snp:rs657075	tf:MEIS3	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	2.76																
+snp:rs657075	tf:MEIS1	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	3.28																
+snp:rs657075	tf:Foxj3	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	3.79																
+snp:rs657075	tf:MEIS2	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	3.98																
+snp:rs6859219	tf:Stat5b	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	4.33																
+snp:rs6859219	tf:BCL6B	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	6.97																
+snp:rs6859219	tf:RBPJ	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	9.38																
+snp:rs7117261	tf:ELF1	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	2.51																
+snp:rs7117261	tf:ETV6	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	2.53																
+snp:rs7117261	tf:Ikzf3	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	2.97																
+snp:rs7117261	tf:RBPJ	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	6.99																
+snp:rs734094	tf:Ikzf3	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	2.83																
+snp:rs734094	tf:IKZF2	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	3.98																
+snp:rs734094	tf:NFIB	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	4.69																
+snp:rs7731626	tf:RREB1	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-3.93																
+snp:rs7731626	tf:PPARD	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	4.46																
+snp:rs798000	tf:Stat2	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-3.19																
+snp:rs798000	tf:MEF2D	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-2.84																
+snp:rs9927316	tf:KLF6	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-9.3																
+snp:rs9927316	tf:KLF12	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-7.07																
+snp:rs9927316	tf:SP4	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-7.03																
+snp:rs9927316	tf:KLF10	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-6.9																
+snp:rs9927316	tf:KLF7	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-6.72																
+snp:rs9927316	tf:KLF2	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-5.34																
+snp:rs9927316	tf:KLF4	risk_allele_risk_loses_motif	16	delta log-odds (alt - ref)	-3.84																
+snp:rs9927316	tf:Zfx	risk_allele_risk_gains_motif	16	delta log-odds (alt - ref)	5.0																
+tf:IRF7	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	5.5043			2.0													
+tf:REL	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	4.1761			2.0													
+tf:RELA	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	3.8967			2.0													
+tf:IRF4	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	3.8426			2.0													
+tf:IRF5	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	3.7194			2.0													
+tf:Runx1	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	3.3259			2.0													
+tf:RELB	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	3.2957			2.0													
+tf:IRF8	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	3.2928			2.0													
+tf:Atf1	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	3.2149			2.0													
+tf:IRF2	M-6: STAT1+ CXCL10+	motif_more_accessible_in	14	mean delta z	3.1383			2.0													
+M-6: STAT1+ CXCL10+	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.2307				CXCL10	TLR4											
+E-2: ICAM1+ venular	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.2421				CCL14	CCR5											
+E-1: LIFR+ venular	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.0695				VWF	SIRPA											
+E-0: SPARC+ capillary	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.0979				VWF	SIRPA											
+F-0: PRG4+ CLIC5+ lining	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.0409				SEMA3A	NRP2											
+F-5: CD74-hi sublining	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.1548				RARRES1	NRP2											
+F-8: RSPO3+ intermediate	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.1631				RARRES1	NRP2											
+F-4: DKK3+ sublining	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.0232				BGN	TLR2											
+F-3: POSTN+ sublining	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.0262				BGN	TLR2											
+F-1: PRG4+ lining	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.0502				BGN	TLR2											
+NK-1: CD56dim CD16+ IFNG+CD160+	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.6221				IFNG	IFNGR1_IFNGR2											
+NK-2: CD56dim CD16+ IFNG+CD160-	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.9519				IFNG	IFNGR1_IFNGR2											
+T-18: Proliferating	M-6: STAT1+ CXCL10+	predicted_ligand_receptor_interaction	13	magnitude rank	0.9788				IFNG	IFNGR1_IFNGR2											
+M-6: STAT1+ CXCL10+	T-7: CD4+ Tph	predicted_ligand_receptor_interaction	13	magnitude rank	0.3837				CXCL9	CXCR3											
+M-6: STAT1+ CXCL10+	T-22: Vdelta1	predicted_ligand_receptor_interaction	13	magnitude rank	0.3937				CXCL9	CXCR3											
+M-6: STAT1+ CXCL10+	T-8: CD4+ CD25-high Treg	predicted_ligand_receptor_interaction	13	magnitude rank	0.4032				CXCL9	CXCR3											
+pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	RA	up_in_active_RA_macrophages	12	NES	2.6652		0.0														
+pw:HALLMARK_INTERFERON_ALPHA_RESPONSE	RA	up_in_active_RA_macrophages	12	NES	2.2675		0.0														
+pw:HALLMARK_GLYCOLYSIS	RA	up_in_active_RA_macrophages	12	NES	2.1685		0.0														
+pw:HALLMARK_IL6_JAK_STAT3_SIGNALING	RA	up_in_active_RA_macrophages	12	NES	2.1255		0.0														
+pw:HALLMARK_HYPOXIA	RA	up_in_active_RA_macrophages	12	NES	2.1254		0.0														
+pw:HALLMARK_MTORC1_SIGNALING	RA	up_in_active_RA_macrophages	12	NES	2.1226		0.0														
+pw:HALLMARK_UNFOLDED_PROTEIN_RESPONSE	RA	up_in_active_RA_macrophages	12	NES	1.9717		0.0003719546215361														
+pw:HALLMARK_CHOLESTEROL_HOMEOSTASIS	RA	up_in_active_RA_macrophages	12	NES	1.7372		0.006509205876883														
+pw:HALLMARK_PI3K_AKT_MTOR_SIGNALING	RA	up_in_active_RA_macrophages	12	NES	1.7342		0.0059306097989378														
+pw:HALLMARK_IL2_STAT5_SIGNALING	RA	up_in_active_RA_macrophages	12	NES	1.7265		0.0054677329365817														
+pw:HALLMARK_COMPLEMENT	RA	up_in_active_RA_macrophages	12	NES	1.6692		0.0081660946455441														
+pw:HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY	RA	up_in_active_RA_macrophages	12	NES	1.6295		0.0123674911660777														
+pw:HALLMARK_INFLAMMATORY_RESPONSE	RA	up_in_active_RA_macrophages	12	NES	1.6239		0.012217278722765														
+pw:HALLMARK_UV_RESPONSE_UP	RA	up_in_active_RA_macrophages	12	NES	1.6176		0.0123674911660777														
+pw:HALLMARK_ALLOGRAFT_REJECTION	RA	up_in_active_RA_macrophages	12	NES	1.5589		0.0193540388072655														
+pw:HALLMARK_ANDROGEN_RESPONSE	RA	up_in_active_RA_macrophages	12	NES	1.5299		0.0241654268179282														
+pw:HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION	RA	up_in_active_RA_macrophages	12	NES	1.4949		0.0322397138137382														
+pw:HALLMARK_ANGIOGENESIS	RA	up_in_active_RA_macrophages	12	NES	1.4894		0.0323290558551856														
+pw:HALLMARK_TNFA_SIGNALING_VIA_NFKB	RA	up_in_active_RA_macrophages	12	NES	1.4742		0.0352867476483658														
+pw:HALLMARK_PROTEIN_SECRETION	RA	up_in_active_RA_macrophages	12	NES	1.4669		0.0359959084991631														
+pw:HALLMARK_G2M_CHECKPOINT	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.4722		0.0213729169076925														
+pw:HALLMARK_ADIPOGENESIS	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.5162		0.0145537709860179														
+pw:HALLMARK_APICAL_JUNCTION	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.5586		0.0097108782268775														
+pw:HALLMARK_TGF_BETA_SIGNALING	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.5983		0.0064322469982847														
+pw:HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.6254		0.0046491212872001														
+pw:HALLMARK_E2F_TARGETS	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.7102		0.0017632453309983														
+pw:HALLMARK_HEME_METABOLISM	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.7198		0.001659129892406														
+pw:HALLMARK_ANDROGEN_RESPONSE	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.7482		0.0010005717552887														
+pw:HALLMARK_DNA_REPAIR	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.7924		0.0003796635909395														
+pw:HALLMARK_MYC_TARGETS_V2	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.8227		0.0003473058985299														
+pw:HALLMARK_HYPOXIA	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.8276		0.0003638442746504														
+pw:HALLMARK_KRAS_SIGNALING_UP	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.9093		0.0001637299235927														
+pw:HALLMARK_P53_PATHWAY	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.9237		5.7449095997439414e-05														
+pw:HALLMARK_OXIDATIVE_PHOSPHORYLATION	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.9332		6.06407124417416e-05														
+pw:HALLMARK_UV_RESPONSE_UP	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.9341		6.420781317360875e-05														
+pw:HALLMARK_COAGULATION	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.9391		6.82208014969593e-05														
+pw:HALLMARK_IL2_STAT5_SIGNALING	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.993		7.276885493008992e-05														
+pw:HALLMARK_PROTEIN_SECRETION	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-1.9982		7.79666302822392e-05														
+pw:HALLMARK_UNFOLDED_PROTEIN_RESPONSE	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.0088		8.396406338087299e-05														
+pw:HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.0257		9.09610686626124e-05														
+pw:HALLMARK_MTORC1_SIGNALING	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.104		0.0														
+pw:HALLMARK_PI3K_AKT_MTOR_SIGNALING	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.2272		0.0														
+pw:HALLMARK_APOPTOSIS	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.3135		0.0														
+pw:HALLMARK_TNFA_SIGNALING_VIA_NFKB	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.5483		0.0														
+pw:HALLMARK_COMPLEMENT	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.5507		0.0														
+pw:HALLMARK_INFLAMMATORY_RESPONSE	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.6471		0.0														
+pw:HALLMARK_MYC_TARGETS_V1	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.6959		0.0														
+pw:HALLMARK_IL6_JAK_STAT3_SIGNALING	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.8289		0.0														
+pw:HALLMARK_INTERFERON_ALPHA_RESPONSE	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.8537		0.0														
+pw:HALLMARK_ALLOGRAFT_REJECTION	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-2.9459		0.0														
+pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	anti-TNF good responders	lower_post_than_pre_in_good_responders	12	NES	-3.2093		0.0														
+gene:ADAR	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:APOL6	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:BTG1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:C1S	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:CD38	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:CD40	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:CIITA	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:CXCL10	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:CXCL9	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:EPSTI1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:IFIH1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:IL18BP	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:IRF1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:IRF8	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:ISG15	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:ISG20	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:LAP3	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:LCP2	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:LGALS3BP	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:MT2A	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:MVP	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:MX1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:MYD88	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:NLRC5	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:OAS3	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:PARP12	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:PARP14	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:PIM1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:PLSCR1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:PTPN1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:RNF213	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:SAMD9L	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:SERPING1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:SLAMF7	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:SOCS3	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:SOD2	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:STAT1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:STAT2	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:STAT3	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:STAT4	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:TNFSF10	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:TRAFD1	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:TRIM21	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:TRIM25	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:UBE2L6	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+gene:VAMP5	pw:HALLMARK_INTERFERON_GAMMA_RESPONSE	leading_edge_member	12																		
+drug:LEVILIMAB	gene:IL6R	late_stage_inhibitor_of	15																		
+drug:SARILUMAB	gene:IL6R	late_stage_inhibitor_of	15																		
+drug:SATRALIZUMAB	gene:IL6R	late_stage_inhibitor_of	15																		
+drug:TOCILIZUMAB	gene:IL6R	late_stage_inhibitor_of	15																		
+drug:TOCILIZUMAB	gene:IL6R	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:SARILUMAB	gene:IL6R	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:SATRALIZUMAB	gene:IL6R	tested_or_approved_in_RA_targeting	15								PHASE_3										
+drug:LEVILIMAB	gene:IL6R	tested_or_approved_in_RA_targeting	15								PHASE_3										
+drug:ABROCITINIB	gene:JAK1	late_stage_inhibitor_of	15																		
+drug:BARICITINIB	gene:JAK1	late_stage_inhibitor_of	15																		
+drug:BREPOCITINIB	gene:JAK1	late_stage_inhibitor_of	15																		
+drug:DELGOCITINIB	gene:JAK1	late_stage_inhibitor_of	15																		
+drug:TOFACITINIB CITRATE	gene:JAK1	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:FILGOTINIB MALEATE	gene:JAK1	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:UPADACITINIB	gene:JAK1	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:UPADACITINIB HEMIHYDRATE	gene:JAK1	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:AFELIMOMAB	gene:TNF	late_stage_inhibitor_of	15																		
+drug:CERTOLIZUMAB PEGOL	gene:TNF	late_stage_inhibitor_of	15																		
+drug:GOLIMUMAB	gene:TNF	late_stage_inhibitor_of	15																		
+drug:INFLIXIMAB	gene:TNF	late_stage_inhibitor_of	15																		
+drug:ETANERCEPT	gene:TNF	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:INFLIXIMAB	gene:TNF	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:OZORALIZUMAB	gene:TNF	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:CERTOLIZUMAB PEGOL	gene:TNF	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:RITUXIMAB	gene:MS4A1	tested_or_approved_in_RA_targeting	15								APPROVAL										
+drug:OFATUMUMAB	gene:MS4A1	tested_or_approved_in_RA_targeting	15								PHASE_3										
+drug:OCRELIZUMAB	gene:MS4A1	tested_or_approved_in_RA_targeting	15								PHASE_3										
+drug:TRU-015	gene:MS4A1	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:CADONILIMAB	gene:CTLA4	late_stage_inhibitor_of	15																		
+drug:ERFONRILIMAB	gene:CTLA4	late_stage_inhibitor_of	15																		
+drug:IPILIMUMAB	gene:CTLA4	late_stage_inhibitor_of	15																		
+drug:QUAVONLIMAB	gene:CTLA4	late_stage_inhibitor_of	15																		
+drug:AMLITELIMAB	gene:TNFSF4	late_stage_inhibitor_of	15																		
+drug:ALEFACEPT	gene:CD2	late_stage_inhibitor_of	15																		
+drug:ERITORAN	gene:TLR4	late_stage_inhibitor_of	15																		
+drug:ERITORAN TETRASODIUM	gene:TLR4	late_stage_inhibitor_of	15																		
+drug:RESATORVID	gene:TLR4	late_stage_inhibitor_of	15																		
+drug:DARATUMUMAB	gene:CD38	late_stage_inhibitor_of	15																		
+drug:FELZARTAMAB	gene:CD38	late_stage_inhibitor_of	15																		
+drug:ISATUXIMAB	gene:CD38	late_stage_inhibitor_of	15																		
+drug:ELOTUZUMAB	gene:SLAMF7	late_stage_inhibitor_of	15																		
+drug:CAPLACIZUMAB	gene:VWF	late_stage_inhibitor_of	15																		
+drug:CONBERCEPT	gene:VEGFC	late_stage_inhibitor_of	15																		
+drug:HUMAN C1-ESTERASE INHIBITOR	gene:C1S	late_stage_inhibitor_of	15																		
+drug:SUTIMLIMAB	gene:C1S	late_stage_inhibitor_of	15																		
+drug:ISCALIMAB	gene:CD40	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:LENZILUMAB	gene:CSF2	late_stage_inhibitor_of	15																		
+drug:OTILIMAB	gene:CSF2	late_stage_inhibitor_of	15																		
+drug:PLONMARLIMAB	gene:CSF2	late_stage_inhibitor_of	15																		
+drug:OTILIMAB	gene:CSF2	tested_or_approved_in_RA_targeting	15								PHASE_3										
+drug:NAMILUMAB	gene:CSF2	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:LENZILUMAB	gene:CSF2	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:GIMSILUMAB	gene:CSF2	tested_or_approved_in_RA_targeting	15								PHASE_1										
+drug:BMS-817399	gene:CCR1	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:CCX354	gene:CCR1	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:APLAVIROC	gene:CCR5	late_stage_inhibitor_of	15																		
+drug:APLAVIROC HYDROCHLORIDE	gene:CCR5	late_stage_inhibitor_of	15																		
+drug:CENICRIVIROC	gene:CCR5	late_stage_inhibitor_of	15																		
+drug:LERONLIMAB	gene:CCR5	late_stage_inhibitor_of	15																		
+drug:MARAVIROC	gene:CCR5	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:AZD5672	gene:CCR5	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:EMAPALUMAB	gene:IFNG	late_stage_inhibitor_of	15																		
+drug:FONTOLIZUMAB	gene:IFNG	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:ELDELUMAB	gene:CXCL10	tested_or_approved_in_RA_targeting	15								PHASE_2										
+drug:LIFITEGRAST	gene:ITGB2	late_stage_inhibitor_of	15																		
+drug:EFALIZUMAB	gene:ITGB2	tested_or_approved_in_RA_targeting	15								PHASE_2										
+gene:CXCL9	NSCLC	macrophage_polarity_axis_LUAD	19	HR per SD	0.8493							0.04262									
+gene:SPP1	NSCLC	macrophage_polarity_axis_LUAD	19	HR per SD	0.8493							0.04262									
+gene:CXCL9	NSCLC	macrophage_polarity_axis_LUSC	19	HR per SD	0.8609							0.03298									
+gene:SPP1	NSCLC	macrophage_polarity_axis_LUSC	19	HR per SD	0.8609							0.03298									
+gene:CD40	RA	eQTL_colocalises_with_RA_GWAS	25	PP.H4	0.8681								Nedelec_2016 macrophage_naive	rs4239702							
+gene:TSPAN32	RA	eQTL_colocalises_with_RA_GWAS	25	PP.H4	0.572								Nedelec_2016 macrophage_naive	rs734094							
+gene:IRF5	RA	eQTL_colocalises_with_RA_GWAS	25	PP.H4	0.9589								Nedelec_2016 macrophage_naive	rs3823536							
+gene:TDRD10	RA	eQTL_colocalises_with_RA_GWAS	25	PP.H4	0.5421								Alasoo_2018 macrophage_naive	rs7543174							
+score:S2_IFN10	RA	S2_IFN_high_spots_associated_with_RA_tissue	24	median % IFN-high spots RA	31.96																
+Tcell	RA	chromatin_enriched_for_fine_mapped_RA_variants	29	PIP enrichment	11.7724		0.008								RA FinnGen R12						
+plasma	RA	chromatin_enriched_for_fine_mapped_RA_variants	29	PIP enrichment	6.8054		0.0639								RA FinnGen R12						
+T-10: CD4+ OX40+NR3C1+	RA	chromatin_enriched_for_fine_mapped_RA_variants	29	PIP enrichment	12.8737		0.0569								RA Ishigaki 2022 (EUR)						
+T-3: CD4+ Tfh/Tph	RA	chromatin_enriched_for_fine_mapped_RA_variants	29	PIP enrichment	14.0182		0.0569								RA Ishigaki 2022 (EAS)						
+snp:rs7731626	T-7: CD4+ Tph	fine_mapped_variant_in_state_specific_peak	29	PIP	1.0										RA Ishigaki 2022 (EUR)						
+snp:rs7731626	plasma	fine_mapped_variant_in_state_specific_peak	29	PIP	1.0										RA Ishigaki 2022 (EUR)						
+snp:rs7731626	T-10: CD4+ OX40+NR3C1+	fine_mapped_variant_in_state_specific_peak	29	PIP	1.0										RA Ishigaki 2022 (EUR)						
+snp:rs7731626	T-3: CD4+ Tfh/Tph	fine_mapped_variant_in_state_specific_peak	29	PIP	1.0										RA Ishigaki 2022 (EUR)						
+snp:rs71508903	T-8: CD4+ CD25-high Treg	fine_mapped_variant_in_state_specific_peak	29	PIP	1.0										RA Ishigaki 2022 (EAS)						
+snp:rs71508903	T-3: CD4+ Tfh/Tph	fine_mapped_variant_in_state_specific_peak	29	PIP	1.0										RA Ishigaki 2022 (EAS)						
+snp:rs71508903	F-6: CXCL12+ SFRP1+ sublining	fine_mapped_variant_in_state_specific_peak	29	PIP	1.0										RA Ishigaki 2022 (EAS)						
+snp:rs77509998	B-5: CD11c+LAMP1+ ABC	fine_mapped_variant_in_state_specific_peak	29	PIP	0.9998										RA Ishigaki 2022 (EUR)						
+snp:rs77509998	gene:ARID5B	nearest_protein_coding_gene	29																		
+snp:rs77509998	T-10: CD4+ OX40+NR3C1+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.9998										RA Ishigaki 2022 (EUR)						
+snp:rs798000	F-0: PRG4+ CLIC5+ lining	fine_mapped_variant_in_state_specific_peak	29	PIP	0.9981										RA FinnGen R12						
+snp:rs798000	Tcell	fine_mapped_variant_in_state_specific_peak	29	PIP	0.9981										RA FinnGen R12						
+snp:rs143365361	T-2: CD4+ IL7R+CCR5+ memory	fine_mapped_variant_in_state_specific_peak	29	PIP	0.8448										RA FinnGen R12						
+snp:rs143365361	gene:CLIC6	nearest_protein_coding_gene	29																		
+snp:rs143365361	B-1: CD24++CD27+IgM+ unswitched memory	fine_mapped_variant_in_state_specific_peak	29	PIP	0.8448										RA FinnGen R12						
+snp:rs143365361	Tcell	fine_mapped_variant_in_state_specific_peak	29	PIP	0.8448										RA FinnGen R12						
+snp:rs55773945	T-19: MT-high (low quality)	fine_mapped_variant_in_state_specific_peak	29	PIP	0.4999										RA Ishigaki 2022 (EAS)						
+snp:rs55773945	gene:PPP1R35	nearest_protein_coding_gene	29																		
+snp:rs55773945	endothelial	fine_mapped_variant_in_state_specific_peak	29	PIP	0.4999										RA Ishigaki 2022 (EAS)						
+snp:rs55773945	F-2: CD34+ sublining	fine_mapped_variant_in_state_specific_peak	29	PIP	0.4999										RA Ishigaki 2022 (EAS)						
+snp:rs55773945	M-4: SPP1+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.4999										RA Ishigaki 2022 (EAS)						
+snp:rs78295726	M-5: C1QA+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.288										RA FinnGen R12						
+snp:rs78295726	gene:AC011511.1	nearest_protein_coding_gene	29																		
+snp:rs1883832	T-4: CD4+ naive	fine_mapped_variant_in_state_specific_peak	29	PIP	0.279										RA Ishigaki 2022 (EAS)						
+snp:rs1883832	T-19: MT-high (low quality)	fine_mapped_variant_in_state_specific_peak	29	PIP	0.279										RA Ishigaki 2022 (EAS)						
+snp:rs9927316	myeloid	fine_mapped_variant_in_state_specific_peak	29	PIP	0.27										RA Ishigaki 2022 (EUR)						
+snp:rs9927316	NK-1: CD56dim CD16+ IFNG+CD160+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.27										RA Ishigaki 2022 (EUR)						
+snp:rs10821948	E-2: ICAM1+ venular	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2526										RA FinnGen R12						
+snp:rs10821948	gene:ARID5B	nearest_protein_coding_gene	29																		
+snp:rs10821948	F-0: PRG4+ CLIC5+ lining	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2526										RA FinnGen R12						
+snp:rs6927172	T-8: CD4+ CD25-high Treg	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2274										RA Ishigaki 2022 (EUR)						
+snp:rs6927172	gene:TNFAIP3	nearest_protein_coding_gene	29																		
+snp:rs6927172	E-1: LIFR+ venular	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2274										RA Ishigaki 2022 (EUR)						
+snp:rs6927172	T-10: CD4+ OX40+NR3C1+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2274										RA Ishigaki 2022 (EUR)						
+snp:rs6927172	NK-12: IL7R+ ILC	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2274										RA Ishigaki 2022 (EUR)						
+snp:rs66922517	plasma	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2224										RA Ishigaki 2022 (EUR)						
+snp:rs66922517	M-10: DC2	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2224										RA Ishigaki 2022 (EUR)						
+snp:rs66922517	T-4: CD4+ naive	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2224										RA Ishigaki 2022 (EUR)						
+snp:rs66922517	T-8: CD4+ CD25-high Treg	fine_mapped_variant_in_state_specific_peak	29	PIP	0.2224										RA Ishigaki 2022 (EUR)						
+snp:rs3740355	T-8: CD4+ CD25-high Treg	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1911										RA FinnGen R12						
+snp:rs3740355	gene:ARID5B	nearest_protein_coding_gene	29																		
+snp:rs3740355	F-7: NOTCH3+ sublining	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1911										RA FinnGen R12						
+snp:rs6479787	M-7: IL1B+ FCN1+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1667										RA Ishigaki 2022 (EAS)						
+snp:rs6479787	gene:RTKN2	nearest_protein_coding_gene	29																		
+snp:rs749933	F-4: DKK3+ sublining	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1646										RA Ishigaki 2022 (EAS)						
+snp:rs749933	gene:CD28	nearest_protein_coding_gene	29																		
+snp:rs749933	M-2: MERTK+ S100A8+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1646										RA Ishigaki 2022 (EAS)						
+snp:rs7251031	M-5: C1QA+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1608										RA Ishigaki 2022 (EUR)						
+snp:rs7251031	gene:SPC24	nearest_protein_coding_gene	29																		
+snp:rs72922276	Bcell	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1544										RA FinnGen R12						
+snp:rs72922276	gene:JAK1	nearest_protein_coding_gene	29																		
+snp:rs72922276	T-9: CD4+ CD25-low Treg	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1544										RA FinnGen R12						
+snp:rs72922276	T-8: CD4+ CD25-high Treg	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1544										RA FinnGen R12						
+snp:rs72922276	plasma	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1544										RA FinnGen R12						
+snp:rs3087243	T-10: CD4+ OX40+NR3C1+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1275										RA FinnGen R12						
+snp:rs3087243	Tcell	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1275										RA FinnGen R12						
+snp:rs3087243	B-0: CD24+CD27+CD11b+ switched memory	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1275										RA FinnGen R12						
+snp:rs3087243	T-7: CD4+ Tph	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1275										RA FinnGen R12						
+snp:rs3087243	T-8: CD4+ CD25-high Treg	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1275										RA FinnGen R12						
+snp:rs3087243	T-9: CD4+ CD25-low Treg	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1275										RA FinnGen R12						
+snp:rs10995019	B-8: IgG1+IgG3+ plasma	fine_mapped_variant_in_state_specific_peak	29	PIP	0.12										RA FinnGen R12						
+snp:rs10995019	gene:ARID5B	nearest_protein_coding_gene	29																		
+snp:rs10995019	Mu-0: Mural	fine_mapped_variant_in_state_specific_peak	29	PIP	0.12										RA FinnGen R12						
+snp:rs10995019	E-2: ICAM1+ venular	fine_mapped_variant_in_state_specific_peak	29	PIP	0.12										RA FinnGen R12						
+snp:rs10995019	B-7: HLA-DR+IgG+ plasmablast	fine_mapped_variant_in_state_specific_peak	29	PIP	0.12										RA FinnGen R12						
+snp:rs10995020	B-8: IgG1+IgG3+ plasma	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1155										RA FinnGen R12						
+snp:rs10995020	gene:ARID5B	nearest_protein_coding_gene	29																		
+snp:rs10995020	E-2: ICAM1+ venular	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1155										RA FinnGen R12						
+snp:rs10995020	B-7: HLA-DR+IgG+ plasmablast	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1155										RA FinnGen R12						
+snp:rs10995020	Mu-0: Mural	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1155										RA FinnGen R12						
+snp:rs7746803	myeloid	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1062										RA FinnGen R12						
+snp:rs7746803	gene:TNFAIP3	nearest_protein_coding_gene	29																		
+snp:rs7746803	T-6: CD4+ memory	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1062										RA FinnGen R12						
+snp:rs16916931	B-5: CD11c+LAMP1+ ABC	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1055										RA FinnGen R12						
+snp:rs16916931	gene:ARID5B	nearest_protein_coding_gene	29																		
+snp:rs16916931	T-10: CD4+ OX40+NR3C1+	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1055										RA FinnGen R12						
+snp:rs671484	mural	fine_mapped_variant_in_state_specific_peak	29	PIP	0.1018										RA Ishigaki 2022 (EUR)						
+snp:rs671484	gene:GRHL2	nearest_protein_coding_gene	29																		
+score:S2_IFN10	RA	S2_IFN_score_associated_with_RA_vs_OA_synovium	30	t (adjusted)	7.709											0.001998					
+M-6: STAT1+ CXCL10+	M-1: MERTK+ SELENOP+ LYVE1-	nearest_state_on_RNA_graph	31	PAGA connectivity	0.8246																
+M-6: STAT1+ CXCL10+	M-7: IL1B+ FCN1+	nearest_state_on_chromatin_graph	31	PAGA connectivity	1.0																
+gene:ANKRD55	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												62.0				
+gene:CTLA4	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												21.0				
+gene:FCGR2A	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												9.0				
+gene:IFNGR2	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.125												8.0				
+gene:NAB1	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.8												5.0				
+gene:PHF19	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												3.0				
+gene:CCR6	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												2.0				
+gene:RHD	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.963												80.0				
+gene:TUFM	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.891												64.0				
+gene:ATXN2L	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0732												41.0				
+gene:RSRP1	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.971												34.0				
+gene:BLK	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												31.0				
+gene:RPS26	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0769												26.0				
+gene:ORMDL3	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0417												24.0				
+gene:GSDMB	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												21.0				
+gene:SUOX	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.952												21.0				
+gene:TMEM50A	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												20.0				
+gene:IL6ST	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												18.0				
+gene:BACH2	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												10.0				
+gene:MMEL1	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												10.0				
+gene:CD28	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.111												9.0				
+gene:ENSG00000284825	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												9.0				
+gene:FAM167A	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												8.0				
+gene:SH2B1	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.125												8.0				
+gene:AFF3	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												7.0				
+gene:CCRL2	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												7.0				
+gene:RAB5B	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												7.0				
+gene:EIF3C	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.167												6.0				
+gene:IKZF3	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												6.0				
+gene:IL12RB2	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												6.0				
+gene:PSMB7	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.167												6.0				
+gene:TNPO3	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												6.0				
+gene:TXNDC11	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.167												6.0				
+gene:ZGLP1	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												6.0				
+gene:REL	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												5.0				
+gene:CCR5AS	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												4.0				
+gene:COG6	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												4.0				
+gene:TTC34	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												4.0				
+gene:ENSG00000251417	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												3.0				
+gene:PHLDB1	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												3.0				
+gene:TMEM187	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												3.0				
+gene:ALDH2	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												2.0				
+gene:ATP5MG	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												2.0				
+gene:ENSG00000259598	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												2.0				
+gene:ENSG00000283265	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												2.0				
+gene:ENSG00000284957	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												2.0				
+gene:ENSG00000285012	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												2.0				
+gene:FDX2	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												2.0				
+gene:ICAM4	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												2.0				
+gene:ICAM5	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												2.0				
+gene:ILF3-DT	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												2.0				
+gene:IRAK1	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												2.0				
+gene:MACO1	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												2.0				
+gene:POU3F1	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												2.0				
+gene:PVT1	RA	risk_allele_lowers_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	0.0												2.0				
+gene:SNN	RA	risk_allele_raises_expression_in_immune_cells	32	share of immune QTL datasets where risk raises level	1.0												2.0				
+Tcell	RA	heritability_enriched_S_LDSC	33	tau z	4.703		1.025e-05								RA_FinnGen_R12						
+plasma	RA	heritability_enriched_S_LDSC	33	tau z	3.631		0.0005642								RA_FinnGen_R12						
+NK	RA	heritability_enriched_S_LDSC	33	tau z	2.471		0.01798								RA_FinnGen_R12						
+Bcell	RA	heritability_enriched_S_LDSC	33	tau z	2.287		0.02222								RA_FinnGen_R12						
+T-9: CD4+ CD25-low Treg	RA	heritability_enriched_S_LDSC	33	tau z	3.186		0.01894								RA_FinnGen_R12						
+T-7: CD4+ Tph	RA	heritability_enriched_S_LDSC	33	tau z	3.045		0.01894								RA_FinnGen_R12						
+T-8: CD4+ CD25-high Treg	RA	heritability_enriched_S_LDSC	33	tau z	3.007		0.01894								RA_FinnGen_R12						
+T-10: CD4+ OX40+NR3C1+	RA	heritability_enriched_S_LDSC	33	tau z	3.005		0.01894								RA_FinnGen_R12						
+T-3: CD4+ Tfh/Tph	RA	heritability_enriched_S_LDSC	33	tau z	2.801		0.05446								RA_Ishigaki_EUR						
+B-7: HLA-DR+IgG+ plasmablast	RA	heritability_enriched_S_LDSC	33	tau z	2.484		0.07405								RA_Ishigaki_EUR						
+tf:RELA	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	6.6738													3.8967			
+tf:NFKB1	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	6.1245													1.4967			
+tf:NFKB2	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	5.833													1.9523			
+tf:REL	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	5.8292													4.1761			
+tf:RELB	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	5.7314													3.2957			
+tf:STAT1	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	4.8446													1.7976			
+tf:IRF7	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	3.4968													5.5043			
+tf:IRF9	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	3.2878													3.1298			
+tf:CREB3	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	2.0876													1.5239			
+tf:STAT5B	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	2.0422													2.1156			
+tf:CREM	M-6: STAT1+ CXCL10+	regulon_and_motif_more_active_in	34	RNA activity difference	1.5828													1.5555			
+gene:AFF3	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.28										Ishigaki 2022 (EUR)				OneK1K B cell naive		
+gene:ANKRD55	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.174										FinnGen R12				OTAR2057_IBDverse central memory CD4-positive, alpha-beta T cell naive		
+gene:ATP2A1	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.189										FinnGen R12				TwinsUK lymphoblastoid cell line naive		
+gene:ATP5MG	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8427										FinnGen R12				GEUVADIS lymphoblastoid cell line naive		
+gene:ATXN2L	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.9537										FinnGen R12				GTEx-v10 lymphoblastoid cell line naive		
+gene:BACH2	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8042										Ishigaki 2022 (EUR)				OTAR2057_IBDverse naive thymus-derived CD8-positive, alpha-beta T cell naive		
+gene:BCL2L11	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.155										FinnGen R12				OTAR3087_MAGE lymphoblastoid cell line naive		
+gene:BLK	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8173										Ishigaki 2022 (EUR)				GTEx-v10 lymphoblastoid cell line naive		
+gene:CCR5AS	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.332										FinnGen R12				Quach_2016 CD14-positive, CD16-negative classical monocyte LPS_6h		
+gene:CCRL2	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.25										FinnGen R12				Quach_2016 CD14-positive, CD16-negative classical monocyte naive		
+gene:CD28	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8655										Ishigaki 2022 (EUR)				Schmiedel_2018 T-helper 17 cell naive		
+gene:CD40	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.259										Ishigaki 2022 (EUR)				OTAR2057_IBDverse plasma cell naive		
+gene:COG6	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.176										FinnGen R12				Alasoo_2018 macrophage IFNg_18h+Salmonella_5h		
+gene:CTLA4	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8609										FinnGen R12				CEDAR CD4-positive, alpha-beta T cell naive		
+gene:ENSG00000283265	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.7841										Ishigaki 2022 (EUR)				Quach_2016 CD14-positive, CD16-negative classical monocyte LPS_6h		
+gene:ENSG00000284825	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.225										FinnGen R12				OTAR2057_IBDverse CD4-positive, alpha-beta memory T cell, CD45RO-positive naive		
+gene:ENSG00000284957	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8656										Ishigaki 2022 (EUR)				GTEx-v10 lymphoblastoid cell line naive		
+gene:ENSG00000285012	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.254										Ishigaki 2022 (EUR)				TwinsUK lymphoblastoid cell line naive		
+gene:FAM167A	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.143										Ishigaki 2022 (EUR)				OTAR2057_IBDverse naive B cell naive		
+gene:FCGR2A	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.9277										Ishigaki 2022 (EUR)				Alasoo_2018 macrophage IFNg_18h		
+gene:GSDMB	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8948										Ishigaki 2022 (EUR)				OTAR3087_MAGE lymphoblastoid cell line naive		
+gene:ICAM5	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8213										FinnGen R12				Quach_2016 CD14-positive, CD16-negative classical monocyte naive		
+gene:IFNGR2	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.9029										Ishigaki 2022 (EUR)				Schmiedel_2018 CD14-positive, CD16-negative classical monocyte naive		
+gene:IKZF3	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.149										Ishigaki 2022 (EUR)				CAP lymphoblastoid cell line statin		
+gene:IL12RB2	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.093										Ishigaki 2022 (EUR)				Schmiedel_2018 natural killer cell naive		
+gene:IL6ST	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.269										FinnGen R12				OTAR2057_IBDverse CD4-positive, CD25-positive, alpha-beta regulatory T cell naive		
+gene:ILF3-DT	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8252										Ishigaki 2022 (EUR)				Fairfax_2014 CD14-positive, CD16-negative classical monocyte IFNg_24h		
+gene:MACO1	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.171										FinnGen R12				BLUEPRINT CD14-positive, CD16-negative classical monocyte naive		
+gene:MMEL1	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.116										FinnGen R12				BLUEPRINT CD4-positive, alpha-beta T cell naive		
+gene:ORMDL3	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8929										Ishigaki 2022 (EUR)				Schmiedel_2018 CD8-positive, alpha-beta T cell anti-CD3-CD28_4h		
+gene:PADI4	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.483										Ishigaki 2022 (EUR)				UKB_PPP_EUR blood plasma		
+gene:PHF19	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8881										Ishigaki 2022 (EUR)				Schmiedel_2018 T-helper 17 cell naive		
+gene:PHLDB1	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.9222										Ishigaki 2022 (EUR)				Quach_2016 CD14-positive, CD16-negative classical monocyte naive		
+gene:PSMB7	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8362										FinnGen R12				OTAR3087_MAGE lymphoblastoid cell line naive		
+gene:PVT1	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.7515										FinnGen R12				OneK1K central memory CD4-positive, alpha-beta T cell naive		
+gene:RAB5B	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8562										Ishigaki 2022 (EUR)				GTEx-v10 lymphoblastoid cell line naive		
+gene:REL	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.709										Ishigaki 2022 (EUR)				OneK1K CD4-positive, alpha-beta T cell naive		
+gene:RHD	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.064										FinnGen R12				OTAR2057_IBDverse alpha-beta T cell naive		
+gene:RPS26	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.9127										Ishigaki 2022 (EUR)				Cytoimmgen CD4-positive, alpha-beta T cell anti-CD3-CD28_40h		
+gene:RSRP1	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.072										FinnGen R12				GTEx-v10 lymphoblastoid cell line naive		
+gene:SH2B1	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8158										FinnGen R12				OTAR3087_MAGE lymphoblastoid cell line naive		
+gene:SNN	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.503										Ishigaki 2022 (EUR)				GTEx-v10 lymphoblastoid cell line naive		
+gene:SUOX	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.238										Ishigaki 2022 (EUR)				GTEx-v10 lymphoblastoid cell line naive		
+gene:TMEM50A	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.069										FinnGen R12				BLUEPRINT CD14-positive, CD16-negative classical monocyte naive		
+gene:TNPO3	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.7279										FinnGen R12				TwinsUK lymphoblastoid cell line naive		
+gene:TTC34	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8358										FinnGen R12				OTAR3087_MAGE lymphoblastoid cell line naive		
+gene:TXNDC11	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8613										Ishigaki 2022 (EUR)				BLUEPRINT CD14-positive, CD16-negative classical monocyte naive		
+gene:ZGLP1	RA	higher_level_associated_with_lower_RA_risk_Wald	37	OR per SD	0.8984										FinnGen R12				BLUEPRINT CD14-positive, CD16-negative classical monocyte naive		
+gene:ZPBP2	RA	higher_level_associated_with_higher_RA_risk_Wald	37	OR per SD	1.101										Ishigaki 2022 (EUR)				Schmiedel_2018 B cell naive		
+M-12: DC1	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	3.829																
+NK-11: MKI67+ Proliferating	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	3.976																
+T-0: CD4+ IL7R+ memory	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	4.551																
+T-10: CD4+ OX40+NR3C1+	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	7.392																
+T-11: CD4+ CD146+ memory	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	7.091																
+T-13: CD8+ GZMK/B+ memory	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	4.536																
+T-14: CD8+ GZMK+ memory	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	4.487																
+T-17: CD8+ activated/NK-like	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	4.001																
+T-18: Proliferating	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	6.089																
+T-1: CD4+ CD161+ memory	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	5.014																
+T-20: CD38+	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	5.756																
+T-21: Innate-like	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	3.968																
+T-22: Vdelta1	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	4.607																
+T-23: Vdelta2	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	3.017																
+T-2: CD4+ IL7R+CCR5+ memory	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	4.18																
+T-3: CD4+ Tfh/Tph	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	6.844																
+T-4: CD4+ naive	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	3.891																
+T-5: CD4+ GZMK+ memory	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	4.397																
+T-6: CD4+ memory	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	4.146																
+T-7: CD4+ Tph	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	8.461																
+T-8: CD4+ CD25-high Treg	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	9.621																
+T-9: CD4+ CD25-low Treg	RA	expresses_RA_risk_genes_scDRS	36	min MC z over RA GWAS	5.842																
+CXCL13-positive T cells (Xenium)	B cells (Xenium)	spatial_neighbour_association	35	fraction sections empirical P <0.05	1.0															4.0	global label shuffle; not causal
+IFNG-positive T/NK cells (Xenium)	S2 IFN-scored macrophages (Xenium)	spatial_neighbour_association	20	fraction sections empirical P <0.05	0.75															4.0	global label shuffle; not causal

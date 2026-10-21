@@ -1,0 +1,30 @@
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/functools.py:909: UserWarning: zero-centering a sparse array/matrix densifies it.
+  return dispatch(args[0].__class__)(*args, **kw)
+          cell_type  z_margin  n_cells
+leiden                                
+0        fibroblast      1.75     4617
+1        fibroblast      1.82     3640
+2        fibroblast      2.08     1936
+3           myeloid      3.12     5339
+4                NK      2.93      665
+5           myeloid      1.90     1933
+6             Tcell      0.86     2478
+7             Tcell      1.86     2350
+8             Tcell      2.06     3203
+9             mural      3.31      364
+10      endothelial      2.31      178
+11            Tcell      0.52      231
+12      endothelial      3.15     1771
+13            Bcell      3.80     1538
+14           plasma      3.22     1277
+author_ct    Bcell   NK  Tcell  endothelial  fibroblast  mural  myeloid  plasma
+cell_type                                                                      
+Bcell         1533    1      1            0           0      0        2       1
+NK               0  628     24            0           2      1       10       0
+Tcell            2  298   7886            9           1      1       60       5
+endothelial      0    0      2         1939           2      5        1       0
+fibroblast       2    3      4            7        9862    300       14       1
+mural            2    0      2            0          19    337        4       0
+myeloid          0    1     12            8           9      4     7236       2
+plasma           5    0     16            0           2      1        0    1253
+ARI vs author labels = 0.952; per-cell agreement = 97.3%

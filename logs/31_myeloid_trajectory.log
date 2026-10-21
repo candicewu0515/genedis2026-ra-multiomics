@@ -1,0 +1,64 @@
+Myeloid nuclei (no DCs): 5849; per state: {'M-1': 1330, 'M-7': 1167, 'M-0': 961, 'M-4': 770, 'M-5': 570, 'M-8': 447, 'M-2': 296, 'M-3': 243, 'M-6': 65}
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/functools.py:909: UserWarning: zero-centering a sparse array/matrix densifies it.
+  return dispatch(args[0].__class__)(*args, **kw)
+T1 RNA PAGA: M-6 to M-7 0.730; to best resident (M-1) 0.825; strongest partner M-1
+T1 ATAC PAGA: M-6 to M-7 1.000; to best resident (M-1) 0.978; strongest partner M-7
+M-6 programme: 50 genes, e.g. CXCL10, IDO1, IFIT1, GBP1, CD274, ANKRD22, IFIT3, RSAD2, GBP5, HAPLN3, CALHM6, IFIT2, GBP4, MIR155HG, CMPK2
+DPT from M-7 monocyte-like: state order M-3 0.10, M-5 0.10, M-2 0.10, M-8 0.12, M-1 0.12, M-4 0.12, M-0 0.12, M-6 0.19, M-7 0.21
+DPT from M-0 homeostatic: state order M-0 0.09, M-2 0.12, M-5 0.15, M-3 0.18, M-1 0.18, M-8 0.20, M-4 0.22, M-6 0.26, M-7 0.30
+T3 sensitivity grid:
+  n_bins  threshold   lag  random_median  p_vs_random
+     10        0.4 0.222         -0.222        0.014
+     10        0.5 0.111         -0.222        0.020
+     10        0.6 0.000         -0.333        0.226
+     20        0.4 0.211          0.000        0.028
+     20        0.5 0.158         -0.158        0.030
+     20        0.6 0.000         -0.211        0.287
+     30        0.4 0.241          0.000        0.032
+     30        0.5 0.172         -0.034        0.040
+     30        0.6 0.034         -0.172        0.050
+T3 controls:
+                         gene_set  n_genes                                    path    lag  random_median  p_vs_random
+           M-6 a priori IFN list        8 M-7 > M-8 > M-5 > M-2 > M-3 > M-1 > M-6  0.053         -0.053        0.174
+M-4 RNA markers (same selection)       50             M-7 > M-8 > M-5 > M-2 > M-4 -0.368          0.000        0.701
+M-0 RNA markers (same selection)       50             M-7 > M-8 > M-5 > M-2 > M-0  0.000         -0.211        0.433
+M-5 RNA markers (same selection)       19                         M-7 > M-8 > M-5 -1.000          0.000        1.000
+         n  median_priming  median_rna  median_chromatin  median_dpt_from_M7  median_dpt_from_M0
+code                                                                                            
+M-0    961          -0.411      -0.060            -0.044               0.121               0.092
+M-1   1330           0.326      -0.024             0.028               0.115               0.179
+M-2    296          -0.521      -0.057            -0.052               0.103               0.118
+M-3    243           0.300      -0.033             0.018               0.095               0.178
+M-4    770           0.197      -0.032             0.014               0.115               0.221
+M-5    570          -0.694      -0.118            -0.089               0.101               0.146
+M-6     65          -3.130       1.315             0.208               0.189               0.261
+M-7   1167           0.451      -0.039             0.031               0.205               0.299
+M-8    447           0.303      -0.066             0.007               0.115               0.198
+                                                                                                               test   value                                                        note      p
+                                                               T1 PAGA (RNA): M-6 to M-7 minus M-6 to best resident -0.0948                 M-7 0.730; M-1 0.825; strongest partner M-1    NaN
+                                                    T1 leave-one-sample-out: share of runs with M-7 > best resident  0.0000                     12 runs; strongest partners {'M-1': 12}    NaN
+                                                              T1 PAGA (ATAC): M-6 to M-7 minus M-6 to best resident  0.0224                 M-7 1.000; M-1 0.978; strongest partner M-7    NaN
+                                             T2 priming M-7 minus resident, per-sample mean (Wilcoxon over samples)  0.3925                                     11 samples; 11 positive 0.0010
+                                                    T2 vs random gene sets (share with mean difference >= observed)  0.7207                                       value = random median 0.8383
+T3 lag (RNA half-max minus chromatin half-max, pseudotime quantile) on path M-7 > M-8 > M-5 > M-2 > M-3 > M-1 > M-6  0.1579                                        random median -0.158 0.0299
+                                  T3 sensitivity: grid cells (bins x threshold) with lag > 0 and p vs random < 0.05  7.0000                                     of 9; lags 0.00 to 0.24    NaN
+                                    T3 control: a priori IFN list (not selected on these data), lag on the M-6 path  0.0526                                                     8 genes 0.1741
+                                  T3 control: other end states with the same marker selection, lag > 0 and p < 0.05  0.0000 M-4 lag -0.37 p 0.7; M-0 lag 0.00 p 0.43; M-5 lag -1.00 p 1    NaN
+                                                  Sanity: root state comes first in pseudotime (M-7 root; M-0 root)  0.0000      M-7 root FAILS (T3 not interpretable); M-0 root passes    NaN
+                                                         Sensitivity: median DPT rank of M-6 (root M-7 vs root M-0)  8.0000                                       from M-0: rank 8 of 9    NaN
+LOSO:
+ left_out  M6_to_M7  M6_to_best_resident best_resident strongest_partner
+BRI-1281     0.715                0.809           M-1               M-1
+BRI-1385     0.685                0.831           M-1               M-1
+BRI-1387     0.677                0.815           M-1               M-1
+BRI-1389     0.782                0.827           M-1               M-1
+BRI-1586     0.742                0.831           M-1               M-1
+BRI-1588     0.732                0.824           M-1               M-1
+BRI-1590     0.705                0.859           M-1               M-1
+BRI-1592     0.697                0.805           M-1               M-1
+BRI-1594     0.783                0.842           M-1               M-1
+BRI-1607     0.760                0.835           M-1               M-1
+BRI-1609     0.730                0.845           M-1               M-1
+BRI-1611     0.693                0.878           M-1               M-1
+<project>/scripts/31_myeloid_trajectory.py:322: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  d = by_state[by_state.code == c].groupby("donor").priming.mean()

@@ -1,0 +1,11 @@
+test	n	statistic	p	rho_with_log_libsize	OR_adjusted_per_SD	p_adjusted
+sanity: lymphoid share, lymphoid vs fibroid pathotype	25	0.04475	0.2622			
+sanity: lymphoid share vs histological inflammatory score	42	0.1192	0.4523			
+D1 baseline mac_M6_IFN: good vs non	33	0	0.02463	0.6301	3.756e+59	0.9982
+D1 baseline mac_SPP1: good vs non	33	0	0.03245	-0.426	0.6437	0.5777
+D1 baseline mac_MERTK_resident: good vs non	33	-0.07362	0.4055	0.149	0.4949	0.2291
+D1 baseline fibroblast: good vs non	33	0.04632	0.0709	0.3733	2.15	0.2861
+D1 baseline lymphoid_share: good vs non	33	-0.2438	0.003778	-0.4789	0.428	0.129
+D2 M-6 share change week 12 - baseline (good)	19	0	0.02771			
+D2 M-6 share change week 12 - baseline (non)	14	0	1			
+D2 M-6 share change, good vs non	33		0.02463			

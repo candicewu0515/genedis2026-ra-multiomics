@@ -1,0 +1,24 @@
+{
+  "inputs": {
+    "scripts/38_classifier_baselines.py": "688f242fd42afb79a533871d71ff0b73b391f1f65ac72a04a52ac6db93d64489",
+    "scripts/config.py": "3ff18b61884d9bc8b1b22e66ed3766e05a1f3b2cbee34c60aa2befe800c5d267",
+    "scripts/30_gse89408_disease_stage.py": "fc696e61448ec17464c0472cf9ddf3ca2e1dbb48ceca2092f7977ad8527786ff",
+    "data/raw/GSE89408/GSE89408_GEO_count_matrix_rename.txt.gz": "27d2e9aa92c48785e9e1562a139e91a280e098cd2ea2b39fd704576e44bdd950",
+    "data/raw/GSE89408/GSE89408_series_matrix.txt.gz": "e256024209bcaba2e892e4046ab7878990610c1a0b610e4d19a7e2f311ea4894",
+    "results/tables/signature_genes.tsv": "3eda4cb035c852ae4d3d89538dfe41b333930008f5f5f271a15fa3e1ad82fb4b",
+    "results/tables/gene_prioritisation.tsv": "869c1a1b26a7518b4cdeb0082d7509691e7e8d8348de81da77fdd2e918885403",
+    "parameters": {
+      "permutations": 199,
+      "random_sets": 100,
+      "outer_repeats": 5
+    }
+  },
+  "outputs": {
+    "classifier_baselines.tsv": "63799086d66e18e1925d289cc845ddecc0e3a61aa6df9d8b3d6055345dd73255",
+    "classifier_folds.tsv": "35ad805150a9533204621f8162e41a5f80054e4cf378db1192665e796f7aacb7",
+    "classifier_F1_coefficients.tsv": "dd03261faf0b6fb327a279b1ff4afd714395d9bf831647986c4d4523275524fa",
+    "classifier_permutations.tsv": "57da4f02f2ed9d6d0ac52cbc812b05a359cbb203a3f44a9640daf9de8dea11ac",
+    "classifier_random_sets.tsv": "378b97027af0ea6fbde8116b14fe2ac184677aff61b0515dcb7047182f8e7c99",
+    "classifier_protocol.json": "d078bc0129d5d4c9e49b0473879181829dd0cfc32d184c9efba34536300c2a4a"
+  }
+}

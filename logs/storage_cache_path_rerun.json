@@ -1,0 +1,6 @@
+{
+  "exit_code": 0,
+  "started_epoch": 1792530427.472113,
+  "seconds": 4.04485011100769,
+  "reason": "Verify the current step-33 entry point and native cache reuse after exact annotation round-trip checks; reuse only 195 regressions generated in this same clean project"
+}

@@ -1,0 +1,45 @@
+T1 RA vs OA: 174 observations; training-only preprocessing
+  F0 covariates: mean AUC 0.5744
+  F1 eight programme scores: mean AUC 0.9005
+  F2 top-30 prioritised genes: mean AUC 0.9333
+  F3 genome-wide elastic net: mean AUC 0.9792
+[Parallel(n_jobs=6)]: Using backend ThreadingBackend with 6 concurrent workers.
+[Parallel(n_jobs=6)]: Done   6 tasks      | elapsed:   10.4s
+[Parallel(n_jobs=6)]: Done  60 tasks      | elapsed:  1.7min
+[Parallel(n_jobs=6)]: Done 100 out of 100 | elapsed:  2.9min finished
+[Parallel(n_jobs=6)]: Using backend ThreadingBackend with 6 concurrent workers.
+[Parallel(n_jobs=6)]: Done   6 tasks      | elapsed:   16.0s
+[Parallel(n_jobs=6)]: Done  60 tasks      | elapsed:  2.7min
+[Parallel(n_jobs=6)]: Done 150 tasks      | elapsed:  7.9min
+[Parallel(n_jobs=6)]: Done 199 out of 199 | elapsed: 10.9min finished
+T1 RA vs OA complete; matched-procedure permutation p 0.005
+T2 ACPA+ vs ACPA- (RA): 139 observations; training-only preprocessing
+  F0 covariates: mean AUC 0.3323
+  F1 eight programme scores: mean AUC 0.7975
+  F2 top-30 prioritised genes: mean AUC 0.6469
+  F3 genome-wide elastic net: mean AUC 0.7259
+[Parallel(n_jobs=6)]: Using backend ThreadingBackend with 6 concurrent workers.
+[Parallel(n_jobs=6)]: Done   6 tasks      | elapsed:   13.1s
+[Parallel(n_jobs=6)]: Done  60 tasks      | elapsed:  2.6min
+[Parallel(n_jobs=6)]: Done 100 out of 100 | elapsed:  4.4min finished
+[Parallel(n_jobs=6)]: Using backend ThreadingBackend with 6 concurrent workers.
+[Parallel(n_jobs=6)]: Done   6 tasks      | elapsed:   20.1s
+[Parallel(n_jobs=6)]: Done  60 tasks      | elapsed:  3.8min
+[Parallel(n_jobs=6)]: Done 150 tasks      | elapsed: 10.5min
+[Parallel(n_jobs=6)]: Done 199 out of 199 | elapsed: 14.1min finished
+T2 ACPA+ vs ACPA- (RA) complete; matched-procedure permutation p 0.005
+                  task                                     model   n  n_pos  auc_mean   auc_sd                                                            note
+           T1 RA vs OA                             F0 covariates 174    152  0.574378 0.142795                                                             NaN
+           T1 RA vs OA                 F1 eight programme scores 174    152  0.900486 0.047735                                                             NaN
+           T1 RA vs OA               F2 top-30 prioritised genes 174    152  0.933295 0.041599                                                             NaN
+           T1 RA vs OA                F3 genome-wide elastic net 174    152  0.979226 0.029144                                                             NaN
+           T1 RA vs OA    F4 random 30-gene sets (median of 100) 174    152  0.909089 0.046155 F2 vs random empirical p 0.2475; SD across random-set mean AUCs
+           T1 RA vs OA F1 label-permutation null (median of 199) 174    152  0.504275 0.079981  F1 permutation p 0.005; identical repeated nested-CV procedure
+           T1 RA vs OA  F1 minus F3 (corrected resampled t-test) 174    152 -0.078740      NaN       t -3.017, p 0.00596; approximate corrected resampled test
+T2 ACPA+ vs ACPA- (RA)                             F0 covariates 139     96  0.332319 0.079395                                                             NaN
+T2 ACPA+ vs ACPA- (RA)                 F1 eight programme scores 139     96  0.797480 0.062483                                                             NaN
+T2 ACPA+ vs ACPA- (RA)               F2 top-30 prioritised genes 139     96  0.646855 0.083231                                                             NaN
+T2 ACPA+ vs ACPA- (RA)                F3 genome-wide elastic net 139     96  0.725865 0.088580                                                             NaN
+T2 ACPA+ vs ACPA- (RA)    F4 random 30-gene sets (median of 100) 139     96  0.648504 0.054368 F2 vs random empirical p 0.5149; SD across random-set mean AUCs
+T2 ACPA+ vs ACPA- (RA) F1 label-permutation null (median of 199) 139     96  0.495484 0.070255  F1 permutation p 0.005; identical repeated nested-CV procedure
+T2 ACPA+ vs ACPA- (RA)  F1 minus F3 (corrected resampled t-test) 139     96  0.071614      NaN          t 1.49, p 0.1492; approximate corrected resampled test

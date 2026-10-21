@@ -1,0 +1,29 @@
+Reference states: ['Bcell', 'DC', 'NK', 'Tcell', 'endothelial', 'fibroblast', 'mac_M6_IFN', 'mac_MERTK_resident', 'mac_SPP1', 'mac_other', 'mono_derived_IL1B', 'mural', 'plasma']; marker genes used (detected in bulk): 570
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/site-packages/statsmodels/discrete/discrete_model.py:268: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  mlefit = super().fit(
+                                                     test  n  statistic      p  rho_with_log_libsize  OR_adjusted_per_SD  p_adjusted
+    sanity: lymphoid share, lymphoid vs fibroid pathotype 25     0.0447 0.2622                   NaN                 NaN         NaN
+sanity: lymphoid share vs histological inflammatory score 42     0.1192 0.4523                   NaN                 NaN         NaN
+                      D1 baseline mac_M6_IFN: good vs non 33     0.0000 0.0246                0.6301        3.755986e+59      0.9982
+                        D1 baseline mac_SPP1: good vs non 33     0.0000 0.0324               -0.4260        6.437000e-01      0.5777
+              D1 baseline mac_MERTK_resident: good vs non 33    -0.0736 0.4055                0.1490        4.949000e-01      0.2291
+                      D1 baseline fibroblast: good vs non 33     0.0463 0.0709                0.3733        2.149700e+00      0.2861
+                  D1 baseline lymphoid_share: good vs non 33    -0.2438 0.0038               -0.4789        4.280000e-01      0.1290
+            D2 M-6 share change week 12 - baseline (good) 19     0.0000 0.0277                   NaN                 NaN         NaN
+             D2 M-6 share change week 12 - baseline (non) 14     0.0000 1.0000                   NaN                 NaN         NaN
+                         D2 M-6 share change, good vs non 33        NaN 0.0246                   NaN                 NaN         NaN
+
+Median baseline proportions:
+Bcell                 0.077
+DC                    0.000
+NK                    0.087
+Tcell                 0.084
+endothelial           0.039
+fibroblast            0.069
+mac_M6_IFN            0.000
+mac_MERTK_resident    0.065
+mac_SPP1              0.000
+mac_other             0.202
+mono_derived_IL1B     0.000
+mural                 0.107
+plasma                0.164

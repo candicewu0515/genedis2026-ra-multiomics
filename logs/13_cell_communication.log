@@ -1,0 +1,92 @@
+LIANA input: 31082 nuclei, 68 states
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/site-packages/liana/method/_pipe_utils/_pre.py:167: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/functools.py:909: UserWarning: zero-centering a sparse array/matrix densifies it.
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/site-packages/liana/method/sc/_liana_pipe.py:288: ImplicitModificationWarning: Setting element `.layers['scaled']` of view, initializing view as actual.
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/site-packages/liana/method/sc/_liana_pipe.py:293: FutureWarning: The method uns_keys is deprecated and will be removed in the future. Use uns instead of uns_keys. (e.g. `k in adata.uns` or `sorted(adata.uns)`)
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/site-packages/liana/method/sc/_liana_pipe.py:296: FutureWarning: The method uns_keys is deprecated and will be removed in the future. Use uns instead of uns_keys. (e.g. `k in adata.uns` or `sorted(adata.uns)`)
+LIANA interactions scored: 968,510
+
+Top interactions received by M-6 (magnitude rank):
+                  source ligand_complex receptor_complex  magnitude_rank  specificity_rank
+       F-1: PRG4+ lining            FN1             CD44             0.0            0.0297
+F-0: PRG4+ CLIC5+ lining            FN1             CD44             0.0            0.0289
+F-0: PRG4+ CLIC5+ lining           PRG4             CD44             0.0            0.0044
+F-8: RSPO3+ intermediate            FN1             CD44             0.0            0.0617
+    F-4: DKK3+ sublining            FN1             CD44             0.0            0.0645
+   F-3: POSTN+ sublining         COL1A2             CD44             0.0            0.0142
+       F-1: PRG4+ lining           PRG4             CD44             0.0            0.0416
+     M-2: MERTK+ S100A8+            FN1             CD44             0.0            0.0831
+    F-4: DKK3+ sublining         COL1A2             CD44             0.0            0.0177
+  F-5: CD74-hi sublining            FN1             CD44             0.0            0.0902
+   F-3: POSTN+ sublining         COL1A1             CD44             0.0            0.0022
+    F-4: DKK3+ sublining            VIM             CD44             0.0            0.0801
+      M-3: MERTK+ HBEGF+            FN1             CD44             0.0            0.0979
+F-8: RSPO3+ intermediate           PRG4             CD44             0.0            0.0585
+              M-4: SPP1+            FN1             CD44             0.0            0.1104
+
+Most M-6-specific received interactions (magnitude rank < 0.25, sorted by specificity):
+                  source ligand_complex receptor_complex  magnitude_rank  specificity_rank
+     M-6: STAT1+ CXCL10+         CXCL10             TLR4          0.2307               0.0
+     E-2: ICAM1+ venular          CCL14             CCR5          0.2421               0.0
+     E-2: ICAM1+ venular          CCL14             CCR1          0.0923               0.0
+     M-6: STAT1+ CXCL10+          CXCL9           FCGR2A          0.1712               0.0
+      E-1: LIFR+ venular            VWF            SIRPA          0.0695               0.0
+      E-1: LIFR+ venular          CCL14             CCR1          0.1083               0.0
+     E-2: ICAM1+ venular            VWF            SIRPA          0.0797               0.0
+   E-0: SPARC+ capillary            VWF            SIRPA          0.0979               0.0
+F-0: PRG4+ CLIC5+ lining         SEMA3A             NRP2          0.0409               0.0
+F-0: PRG4+ CLIC5+ lining          VEGFC             NRP2          0.1622               0.0
+  F-5: CD74-hi sublining        RARRES1             NRP2          0.1548               0.0
+F-8: RSPO3+ intermediate        RARRES1             NRP2          0.1631               0.0
+    F-4: DKK3+ sublining            BGN             TLR2          0.0232               0.0
+   F-3: POSTN+ sublining            BGN             TLR2          0.0262               0.0
+F-8: RSPO3+ intermediate            BGN             TLR2          0.0322               0.0
+
+M-6 CXCL9/10/11 -> CXCR3 (best targets):
+                     target ligand_complex  magnitude_rank  specificity_rank
+              T-7: CD4+ Tph          CXCL9          0.3837               0.0
+              T-22: Vdelta1          CXCL9          0.3937               0.0
+   T-8: CD4+ CD25-high Treg          CXCL9          0.4032               0.0
+ T-16: CD8+ CD45ROlow/naive          CXCL9          0.4503               0.0
+NK-11: MKI67+ Proliferating          CXCL9          0.4596               0.0
+        T-18: Proliferating         CXCL10          0.4788               0.0
+
+IFNG -> M-6 by sender:
+                           source receptor_complex  lr_means  magnitude_rank  specificity_rank
+          T-14: CD8+ GZMK+ memory    IFNGR1_IFNGR2    0.5000          0.5334            0.0177
+                      T-20: CD38+    IFNGR1_IFNGR2    0.5134          0.5415            0.0177
+NK-5: CD56bright CD16- GZMA+CD69+    IFNGR1_IFNGR2    0.5358          0.6160            0.0177
+  NK-1: CD56dim CD16+ IFNG+CD160+    IFNGR1_IFNGR2    0.8463          0.6221            0.0039
+                 T-12: CD4+ GNLY+    IFNGR1_IFNGR2    0.4647          0.6399            0.0177
+      NK-11: MKI67+ Proliferating    IFNGR1_IFNGR2    0.5476          0.6549            0.0177
+                    T-7: CD4+ Tph    IFNGR1_IFNGR2    0.4564          0.6684            0.0177
+           NK-13: IL7R+CD161+ ILC    IFNGR1_IFNGR2    0.4454          0.7074            0.0213
+           T-5: CD4+ GZMK+ memory    IFNGR1_IFNGR2    0.5657          0.7130            0.0177
+                    T-22: Vdelta1    IFNGR1_IFNGR2    0.5697          0.7248            0.0177
+
+M-6 CXCL9/10/11 output (top targets):
+                     target ligand_complex receptor_complex  magnitude_rank
+         E-1: LIFR+ venular         CXCL10            ACKR1          0.0009
+        E-2: ICAM1+ venular         CXCL10            ACKR1          0.0016
+      E-0: SPARC+ capillary         CXCL10            ACKR1          0.0082
+         E-1: LIFR+ venular          CXCL9            ACKR1          0.0125
+        E-2: ICAM1+ venular          CXCL9            ACKR1          0.0199
+       F-2: CD34+ sublining         CXCL10             DPP4          0.0382
+         E-1: LIFR+ venular         CXCL11            ACKR1          0.0474
+        M-2: MERTK+ S100A8+         CXCL10             TLR4          0.0590
+M-0: MERTK+ SELENOP+ LYVE1+         CXCL10             TLR4          0.0676
+        E-2: ICAM1+ venular         CXCL11            ACKR1          0.0730
+
+IFNG expression vs RA GWAS enrichment across 23 T/NK states: rho = 0.06, p = 0.781
+                                 mean_IFNG  pct_IFNG    n  RA_gwas_enrichment  RA_gwas_fdr
+state                                                                                     
+NK-1: CD56dim CD16+ IFNG+CD160+      1.155    48.000  125               1.420        0.057
+NK-2: CD56dim CD16+ IFNG+CD160-      0.904    45.652   46                 NaN          NaN
+T-18: Proliferating                  0.888    42.969  128               1.160        0.776
+T-17: CD8+ activated/NK-like         0.813    45.714   35                 NaN          NaN
+T-13: CD8+ GZMK/B+ memory            0.745    31.854  631               1.040        0.850
+T-15: CD8+ GZMB+/TEMRA               0.684    30.275  109               0.934        1.000
+NK-0: CD56dim CD16+ IFNG-            0.662    27.273   88                 NaN          NaN
+T-22: Vdelta1                        0.602    27.869  183               1.048        0.824
+
+Donor level (RA, >= 50 macrophages and lymphocytes, n = 10): lymphocyte IFNG vs macrophage IFN-gamma programme rho = 0.10 (p = 0.777); vs M-6 share of macrophages rho = 0.00 (p = 1.000)

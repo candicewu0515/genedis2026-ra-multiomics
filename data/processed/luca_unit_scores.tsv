@@ -1,0 +1,171 @@
+	donor_id	origin	study	disease	n_cells	macrophage_M6	cd4_Tph
+He_Fan_2021_P1|tumor_primary	He_Fan_2021_P1	tumor_primary	He_Fan_2021	lung adenocarcinoma	4259	0.2046	-0.0516
+Chen_Zhang_2020_NSCLC-6|tumor_primary	Chen_Zhang_2020_NSCLC-6	tumor_primary	Chen_Zhang_2020	non-small cell lung carcinoma	2487	-0.1786	0.12
+Chen_Zhang_2020_NSCLC-7|tumor_primary	Chen_Zhang_2020_NSCLC-7	tumor_primary	Chen_Zhang_2020	non-small cell lung carcinoma	2471	-0.4871	-0.5399
+He_Fan_2021_P2|tumor_primary	He_Fan_2021_P2	tumor_primary	He_Fan_2021	lung adenocarcinoma	2375	0.391	-0.383
+Adams_Kaminski_2020_133C|normal	Adams_Kaminski_2020_133C	normal	Adams_Kaminski_2020	normal	2340	-0.8897	0.7809
+Chen_Zhang_2020_NSCLC-8|tumor_primary	Chen_Zhang_2020_NSCLC-8	tumor_primary	Chen_Zhang_2020	non-small cell lung carcinoma	2117	0.2192	0.2901
+Lambrechts_Thienpont_2018_6653_8|tumor_primary	Lambrechts_Thienpont_2018_6653_8	tumor_primary	Lambrechts_Thienpont_2018	non-small cell lung carcinoma	1872	-0.312	-0.3207
+Adams_Kaminski_2020_226C|normal	Adams_Kaminski_2020_226C	normal	Adams_Kaminski_2020	normal	1708	-0.316	0.3589
+Lambrechts_Thienpont_2018_6149v2_5|normal_adjacent	Lambrechts_Thienpont_2018_6149v2_5	normal_adjacent	Lambrechts_Thienpont_2018	non-small cell lung carcinoma	1319	0.5222	0.1014
+Madissoon_Meyer_2020_367C|normal	Madissoon_Meyer_2020_367C	normal	Madissoon_Meyer_2020	normal	1262	-0.4919	-0.1169
+Adams_Kaminski_2020_092C|normal	Adams_Kaminski_2020_092C	normal	Adams_Kaminski_2020	normal	1231	-1.3253	
+Reyfman_Misharin_2018_Donor_07|normal	Reyfman_Misharin_2018_Donor_07	normal	Reyfman_Misharin_2018	normal	1223	-1.5185	
+Lambrechts_Thienpont_2018_6149v2_3|tumor_primary	Lambrechts_Thienpont_2018_6149v2_3	tumor_primary	Lambrechts_Thienpont_2018	lung adenocarcinoma	1159	0.2342	-0.0204
+Habermann_Kropski_2020_VUHD68|normal	Habermann_Kropski_2020_VUHD68	normal	Habermann_Kropski_2020	normal	1055	-0.8291	-0.5168
+Wu_Zhou_2021_P37|tumor_primary	Wu_Zhou_2021_P37	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	1039	0.3242	
+Adams_Kaminski_2020_160C|normal	Adams_Kaminski_2020_160C	normal	Adams_Kaminski_2020	normal	1034	-0.8985	
+Wu_Zhou_2021_P4|tumor_primary	Wu_Zhou_2021_P4	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	1004	0.9299	
+Adams_Kaminski_2020_222C|normal	Adams_Kaminski_2020_222C	normal	Adams_Kaminski_2020	normal	991	-0.0337	0.9033
+Habermann_Kropski_2020_VUHD071|normal	Habermann_Kropski_2020_VUHD071	normal	Habermann_Kropski_2020	normal	967	-0.6648	-0.2354
+Habermann_Kropski_2020_VUHD67|normal	Habermann_Kropski_2020_VUHD67	normal	Habermann_Kropski_2020	normal	966	-0.2581	-0.5056
+He_Fan_2021_P2|normal_adjacent	He_Fan_2021_P2	normal_adjacent	He_Fan_2021	lung adenocarcinoma	944	-0.4502	-0.5649
+Kim_Lee_2020_P0020|normal_adjacent	Kim_Lee_2020_P0020	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	933	-0.6983	-0.6059
+Kim_Lee_2020_P0009|tumor_primary	Kim_Lee_2020_P0009	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	907	0.1594	-0.0477
+He_Fan_2021_P4|tumor_primary	He_Fan_2021_P4	tumor_primary	He_Fan_2021	lung adenocarcinoma	844	-0.0229	-0.4816
+Lambrechts_Thienpont_2018_6653_8|normal_adjacent	Lambrechts_Thienpont_2018_6653_8	normal_adjacent	Lambrechts_Thienpont_2018	non-small cell lung carcinoma	824	-0.2642	-0.1892
+Adams_Kaminski_2020_192C|normal	Adams_Kaminski_2020_192C	normal	Adams_Kaminski_2020	normal	749	-1.2069	
+UKIM-V_P3|tumor_primary	UKIM-V_P3	tumor_primary	UKIM-V	lung adenocarcinoma	733	0.7516	0.3022
+He_Fan_2021_P1|normal_adjacent	He_Fan_2021_P1	normal_adjacent	He_Fan_2021	lung adenocarcinoma	700	0.0076	-0.2174
+Adams_Kaminski_2020_218C|normal	Adams_Kaminski_2020_218C	normal	Adams_Kaminski_2020	normal	695	-0.946	0.8894
+Zilionis_Klein_2019_patient_7|tumor_primary	Zilionis_Klein_2019_patient_7	tumor_primary	Zilionis_Klein_2019	lung adenocarcinoma	666	0.1954	0.4605
+Zilionis_Klein_2019_patient_1|tumor_primary	Zilionis_Klein_2019_patient_1	tumor_primary	Zilionis_Klein_2019	squamous cell lung carcinoma	640	0.3613	0.542
+Adams_Kaminski_2020_1372C|normal	Adams_Kaminski_2020_1372C	normal	Adams_Kaminski_2020	normal	634	-1.2707	
+He_Fan_2021_P3|normal_adjacent	He_Fan_2021_P3	normal_adjacent	He_Fan_2021	lung adenocarcinoma	629	0.0019	-0.6092
+He_Fan_2021_P5|tumor_primary	He_Fan_2021_P5	tumor_primary	He_Fan_2021	lung adenocarcinoma	618	0.4381	-0.4311
+Wu_Zhou_2021_P28|tumor_primary	Wu_Zhou_2021_P28	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	607	0.1304	
+Kim_Lee_2020_P0018|tumor_primary	Kim_Lee_2020_P0018	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	597	0.1706	-0.4991
+Adams_Kaminski_2020_003C|normal	Adams_Kaminski_2020_003C	normal	Adams_Kaminski_2020	normal	589	-0.4234	0.5644
+Wu_Zhou_2021_P1|tumor_primary	Wu_Zhou_2021_P1	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	587	1.0349	
+Chen_Zhang_2020_NSCLC-10|tumor_primary	Chen_Zhang_2020_NSCLC-10	tumor_primary	Chen_Zhang_2020	non-small cell lung carcinoma	586	0.4136	0.3721
+Goveia_Carmeliet_2020_patient_42|tumor_primary	Goveia_Carmeliet_2020_patient_42	tumor_primary	Goveia_Carmeliet_2020	squamous cell lung carcinoma	562	0.3798	-0.4489
+Adams_Kaminski_2020_098C|normal	Adams_Kaminski_2020_098C	normal	Adams_Kaminski_2020	normal	562	-0.8708	0.6465
+Goveia_Carmeliet_2020_patient_42|normal_adjacent	Goveia_Carmeliet_2020_patient_42	normal_adjacent	Goveia_Carmeliet_2020	squamous cell lung carcinoma	562	-0.4211	
+Lambrechts_Thienpont_2018_6149v2_4|tumor_primary	Lambrechts_Thienpont_2018_6149v2_4	tumor_primary	Lambrechts_Thienpont_2018	lung adenocarcinoma	554	1.113	0.0342
+Kim_Lee_2020_P0028|tumor_primary	Kim_Lee_2020_P0028	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	553	0.2856	-0.2524
+He_Fan_2021_P3|tumor_primary	He_Fan_2021_P3	tumor_primary	He_Fan_2021	lung adenocarcinoma	490	-0.0465	-0.3052
+Habermann_Kropski_2020_THD0002|normal	Habermann_Kropski_2020_THD0002	normal	Habermann_Kropski_2020	normal	481	-0.2755	
+Adams_Kaminski_2020_208C|normal	Adams_Kaminski_2020_208C	normal	Adams_Kaminski_2020	normal	476	-0.7942	
+Kim_Lee_2020_P0020|tumor_primary	Kim_Lee_2020_P0020	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	424	0.6382	0.0759
+Madissoon_Meyer_2020_356C|normal	Madissoon_Meyer_2020_356C	normal	Madissoon_Meyer_2020	normal	423	-0.122	-0.6838
+Kim_Lee_2020_P0018|normal_adjacent	Kim_Lee_2020_P0018	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	422	0.4176	-0.3028
+Lambrechts_Thienpont_2018_6149v2_5|tumor_primary	Lambrechts_Thienpont_2018_6149v2_5	tumor_primary	Lambrechts_Thienpont_2018	non-small cell lung carcinoma	422	0.5798	-0.1554
+UKIM-V_P2|tumor_primary	UKIM-V_P2	tumor_primary	UKIM-V	squamous cell lung carcinoma	415	0.511	0.2143
+Goveia_Carmeliet_2020_patient_40|normal_adjacent	Goveia_Carmeliet_2020_patient_40	normal_adjacent	Goveia_Carmeliet_2020	squamous cell lung carcinoma	408	-0.3853	
+Wu_Zhou_2021_P38|tumor_primary	Wu_Zhou_2021_P38	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	401	0.4695	
+Habermann_Kropski_2020_VUHD65|normal	Habermann_Kropski_2020_VUHD65	normal	Habermann_Kropski_2020	normal	401	-1.0416	
+Madissoon_Meyer_2020_368C|normal	Madissoon_Meyer_2020_368C	normal	Madissoon_Meyer_2020	normal	371	-0.5661	-0.5752
+Chen_Zhang_2020_NSCLC-2|tumor_primary	Chen_Zhang_2020_NSCLC-2	tumor_primary	Chen_Zhang_2020	non-small cell lung carcinoma	358	0.4622	-0.3064
+Madissoon_Meyer_2020_390C|normal	Madissoon_Meyer_2020_390C	normal	Madissoon_Meyer_2020	normal	337	-0.2008	-0.5756
+Kim_Lee_2020_P0019|tumor_primary	Kim_Lee_2020_P0019	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	330	-0.1226	-0.6322
+Adams_Kaminski_2020_152CO|normal	Adams_Kaminski_2020_152CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	321	0.0524	0.9044
+Lambrechts_Thienpont_2018_6149v1_2|tumor_primary	Lambrechts_Thienpont_2018_6149v1_2	tumor_primary	Lambrechts_Thienpont_2018	squamous cell lung carcinoma	313	0.1216	0.0625
+Adams_Kaminski_2020_184CO|normal	Adams_Kaminski_2020_184CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	312	-0.0329	0.8823
+Zilionis_Klein_2019_patient_6|tumor_primary	Zilionis_Klein_2019_patient_6	tumor_primary	Zilionis_Klein_2019	lung adenocarcinoma	311	0.7601	0.4066
+Kim_Lee_2020_P0031|normal_adjacent	Kim_Lee_2020_P0031	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	305	-0.3246	-0.0599
+Wu_Zhou_2021_P18|tumor_primary	Wu_Zhou_2021_P18	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	300	1.2212	
+Wu_Zhou_2021_P5|tumor_primary	Wu_Zhou_2021_P5	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	290	1.1603	
+Laughney_Massague_2020_LX675|tumor_primary	Laughney_Massague_2020_LX675	tumor_primary	Laughney_Massague_2020	lung adenocarcinoma	290	-0.1545	-0.2379
+Adams_Kaminski_2020_439C|normal	Adams_Kaminski_2020_439C	normal	Adams_Kaminski_2020	normal	282	-0.233	0.8505
+Wu_Zhou_2021_P8|tumor_primary	Wu_Zhou_2021_P8	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	273	-0.0129	
+Wu_Zhou_2021_P7|tumor_primary	Wu_Zhou_2021_P7	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	272	0.9804	-0.0322
+Zilionis_Klein_2019_patient_5|tumor_primary	Zilionis_Klein_2019_patient_5	tumor_primary	Zilionis_Klein_2019	lung adenocarcinoma	272	0.3607	0.5806
+Habermann_Kropski_2020_THD0005|normal	Habermann_Kropski_2020_THD0005	normal	Habermann_Kropski_2020	normal	269	0.3344	
+Adams_Kaminski_2020_483C|normal	Adams_Kaminski_2020_483C	normal	Adams_Kaminski_2020	normal	268	-0.5088	
+Reyfman_Misharin_2018_Donor_08|normal	Reyfman_Misharin_2018_Donor_08	normal	Reyfman_Misharin_2018	normal	263	-1.3324	
+Lambrechts_Thienpont_2018_6149v2_3|normal_adjacent	Lambrechts_Thienpont_2018_6149v2_3	normal_adjacent	Lambrechts_Thienpont_2018	lung adenocarcinoma	256	0.3785	0.0845
+Lambrechts_Thienpont_2018_6653_7|normal_adjacent	Lambrechts_Thienpont_2018_6653_7	normal_adjacent	Lambrechts_Thienpont_2018	squamous cell lung carcinoma	251	-0.4263	-0.3759
+Kim_Lee_2020_P0025|tumor_primary	Kim_Lee_2020_P0025	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	244	-0.7036	-0.575
+Wu_Zhou_2021_P39|tumor_primary	Wu_Zhou_2021_P39	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	238	0.374	
+Adams_Kaminski_2020_186CO|normal	Adams_Kaminski_2020_186CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	236	-0.0794	0.9732
+Kim_Lee_2020_P0034|normal_adjacent	Kim_Lee_2020_P0034	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	231	0.2545	-0.2946
+Zilionis_Klein_2019_patient_4|tumor_primary	Zilionis_Klein_2019_patient_4	tumor_primary	Zilionis_Klein_2019	lung adenocarcinoma	230	1.2267	0.3419
+He_Fan_2021_P4|normal_adjacent	He_Fan_2021_P4	normal_adjacent	He_Fan_2021	lung adenocarcinoma	226	0.0675	-0.4589
+Zilionis_Klein_2019_patient_3|tumor_primary	Zilionis_Klein_2019_patient_3	tumor_primary	Zilionis_Klein_2019	lung adenocarcinoma	223	0.1616	0.2753
+Maynard_Bivona_2020_TH226|tumor_primary	Maynard_Bivona_2020_TH226	tumor_primary	Maynard_Bivona_2020	lung adenocarcinoma	221	1.0772	0.5683
+Goveia_Carmeliet_2020_patient_45|normal_adjacent	Goveia_Carmeliet_2020_patient_45	normal_adjacent	Goveia_Carmeliet_2020	lung adenocarcinoma	219	-0.6427	
+Lambrechts_Thienpont_2018_6149v2_4|normal_adjacent	Lambrechts_Thienpont_2018_6149v2_4	normal_adjacent	Lambrechts_Thienpont_2018	lung adenocarcinoma	217	0.2258	-0.0177
+Laughney_Massague_2020_LX682|normal_adjacent	Laughney_Massague_2020_LX682	normal_adjacent	Laughney_Massague_2020	lung adenocarcinoma	213	0.3941	-0.1196
+Kim_Lee_2020_P0006|tumor_primary	Kim_Lee_2020_P0006	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	213	0.0733	-0.5027
+Lambrechts_Thienpont_2018_6149v1_1|tumor_primary	Lambrechts_Thienpont_2018_6149v1_1	tumor_primary	Lambrechts_Thienpont_2018	squamous cell lung carcinoma	208	-0.8901	-0.6365
+Adams_Kaminski_2020_192CO|normal	Adams_Kaminski_2020_192CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	208	-0.0762	0.6965
+Laughney_Massague_2020_LX682|tumor_primary	Laughney_Massague_2020_LX682	tumor_primary	Laughney_Massague_2020	lung adenocarcinoma	204	1.2234	-0.3186
+Goveia_Carmeliet_2020_patient_40|tumor_primary	Goveia_Carmeliet_2020_patient_40	tumor_primary	Goveia_Carmeliet_2020	squamous cell lung carcinoma	204	-0.4155	
+Adams_Kaminski_2020_238CO|normal	Adams_Kaminski_2020_238CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	203	0.2911	0.8331
+Wu_Zhou_2021_P34|tumor_primary	Wu_Zhou_2021_P34	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	202	1.1394	
+Goveia_Carmeliet_2020_patient_50|tumor_primary	Goveia_Carmeliet_2020_patient_50	tumor_primary	Goveia_Carmeliet_2020	lung adenocarcinoma	193	-0.5476	
+Kim_Lee_2020_P1058|tumor_primary	Kim_Lee_2020_P1058	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	189	0.3104	-0.2628
+Reyfman_Misharin_2018_Donor_06|normal	Reyfman_Misharin_2018_Donor_06	normal	Reyfman_Misharin_2018	normal	183	-0.9665	-0.9102
+Kim_Lee_2020_P0031|tumor_primary	Kim_Lee_2020_P0031	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	183	0.2637	-0.1049
+Habermann_Kropski_2020_THD0001|normal	Habermann_Kropski_2020_THD0001	normal	Habermann_Kropski_2020	normal	178	-0.7053	
+Lambrechts_Thienpont_2018_6653_6|tumor_primary	Lambrechts_Thienpont_2018_6653_6	tumor_primary	Lambrechts_Thienpont_2018	lung adenocarcinoma	178	0.244	-0.448
+Adams_Kaminski_2020_002C|normal	Adams_Kaminski_2020_002C	normal	Adams_Kaminski_2020	normal	177	-0.5505	
+Reyfman_Misharin_2018_Donor_05|normal	Reyfman_Misharin_2018_Donor_05	normal	Reyfman_Misharin_2018	normal	176	-1.1017	
+Kim_Lee_2020_P0030|tumor_primary	Kim_Lee_2020_P0030	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	173	-0.3377	-0.0471
+Wu_Zhou_2021_P13|tumor_primary	Wu_Zhou_2021_P13	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	172	0.2257	
+Habermann_Kropski_2020_VUHD70|normal	Habermann_Kropski_2020_VUHD70	normal	Habermann_Kropski_2020	normal	168	-0.755	
+Adams_Kaminski_2020_001C|normal	Adams_Kaminski_2020_001C	normal	Adams_Kaminski_2020	normal	167	-0.7016	
+Adams_Kaminski_2020_194CO|normal	Adams_Kaminski_2020_194CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	167	0.4757	0.5175
+Goveia_Carmeliet_2020_patient_41|normal_adjacent	Goveia_Carmeliet_2020_patient_41	normal_adjacent	Goveia_Carmeliet_2020	squamous cell lung carcinoma	166	0.3893	
+Adams_Kaminski_2020_178CO|normal	Adams_Kaminski_2020_178CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	166	-0.1778	0.8637
+Adams_Kaminski_2020_23CO|normal	Adams_Kaminski_2020_23CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	165	-0.3055	0.7397
+Goveia_Carmeliet_2020_patient_45|tumor_primary	Goveia_Carmeliet_2020_patient_45	tumor_primary	Goveia_Carmeliet_2020	lung adenocarcinoma	164	-0.452	
+Wu_Zhou_2021_P10|tumor_primary	Wu_Zhou_2021_P10	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	163	0.922	
+Kim_Lee_2020_P0019|normal_adjacent	Kim_Lee_2020_P0019	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	159	-0.0906	-0.4265
+Madissoon_Meyer_2020_343B|normal	Madissoon_Meyer_2020_343B	normal	Madissoon_Meyer_2020	normal	159	-0.666	-1.0012
+Adams_Kaminski_2020_296C|normal	Adams_Kaminski_2020_296C	normal	Adams_Kaminski_2020	normal	154	-0.2581	
+Reyfman_Misharin_2018_Donor_01|normal	Reyfman_Misharin_2018_Donor_01	normal	Reyfman_Misharin_2018	normal	152	-1.0263	
+Adams_Kaminski_2020_153CO|normal	Adams_Kaminski_2020_153CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	150	-0.2817	
+Adams_Kaminski_2020_065C|normal	Adams_Kaminski_2020_065C	normal	Adams_Kaminski_2020	normal	148	-0.6307	
+Goveia_Carmeliet_2020_patient_46|normal_adjacent	Goveia_Carmeliet_2020_patient_46	normal_adjacent	Goveia_Carmeliet_2020	lung adenocarcinoma	147	-0.5654	
+Wu_Zhou_2021_P9|tumor_primary	Wu_Zhou_2021_P9	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	146	1.1513	
+Habermann_Kropski_2020_VUHD66|normal	Habermann_Kropski_2020_VUHD66	normal	Habermann_Kropski_2020	normal	143	-0.1366	-0.295
+Wu_Zhou_2021_P6|tumor_primary	Wu_Zhou_2021_P6	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	143	1.189	
+Wu_Zhou_2021_P30|tumor_primary	Wu_Zhou_2021_P30	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	133	0.9115	
+Kim_Lee_2020_P0034|tumor_primary	Kim_Lee_2020_P0034	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	132	0.2555	-0.1117
+Lambrechts_Thienpont_2018_6653_7|tumor_primary	Lambrechts_Thienpont_2018_6653_7	tumor_primary	Lambrechts_Thienpont_2018	squamous cell lung carcinoma	132	0.2288	-0.2276
+Chen_Zhang_2020_NSCLC-11|tumor_primary	Chen_Zhang_2020_NSCLC-11	tumor_primary	Chen_Zhang_2020	non-small cell lung carcinoma	131	0.56	0.0587
+Adams_Kaminski_2020_465C|normal	Adams_Kaminski_2020_465C	normal	Adams_Kaminski_2020	normal	131	-0.1271	0.5361
+Kim_Lee_2020_P0008|tumor_primary	Kim_Lee_2020_P0008	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	129	0.6285	-0.4398
+Laughney_Massague_2020_LX661|tumor_primary	Laughney_Massague_2020_LX661	tumor_primary	Laughney_Massague_2020	lung adenocarcinoma	128	0.3014	-0.0308
+Wu_Zhou_2021_P11|tumor_primary	Wu_Zhou_2021_P11	tumor_primary	Wu_Zhou_2021	non-small cell lung carcinoma	128	1.2002	
+Adams_Kaminski_2020_056CO|normal	Adams_Kaminski_2020_056CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	127	0.4728	1.1761
+Kim_Lee_2020_P0030|normal_adjacent	Kim_Lee_2020_P0030	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	124	0.2353	-0.1394
+Kim_Lee_2020_P1006|tumor_primary	Kim_Lee_2020_P1006	tumor_primary	Kim_Lee_2020	lung adenocarcinoma	123	0.7582	-1.0502
+Adams_Kaminski_2020_193CO|normal	Adams_Kaminski_2020_193CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	122	-0.1747	0.5275
+Goveia_Carmeliet_2020_patient_50|normal_adjacent	Goveia_Carmeliet_2020_patient_50	normal_adjacent	Goveia_Carmeliet_2020	lung adenocarcinoma	121	0.1495	
+Adams_Kaminski_2020_207CO|normal	Adams_Kaminski_2020_207CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	121	0.2033	1.0005
+Adams_Kaminski_2020_454C|normal	Adams_Kaminski_2020_454C	normal	Adams_Kaminski_2020	normal	119	-0.4116	
+Wu_Zhou_2021_P41|tumor_primary	Wu_Zhou_2021_P41	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	116	0.0098	
+Adams_Kaminski_2020_484C|normal	Adams_Kaminski_2020_484C	normal	Adams_Kaminski_2020	normal	115	-0.5844	
+Wu_Zhou_2021_P14|tumor_primary	Wu_Zhou_2021_P14	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	113	1.1128	
+Kim_Lee_2020_P0009|normal_adjacent	Kim_Lee_2020_P0009	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	107	-0.4267	-0.3724
+Adams_Kaminski_2020_237CO|normal	Adams_Kaminski_2020_237CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	106	0.1016	
+Wu_Zhou_2021_P23|tumor_primary	Wu_Zhou_2021_P23	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	103	0.8211	
+Kim_Lee_2020_P0001|normal_adjacent	Kim_Lee_2020_P0001	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	103	0.7708	-0.0759
+Adams_Kaminski_2020_388C|normal	Adams_Kaminski_2020_388C	normal	Adams_Kaminski_2020	normal	102	-0.429	
+Adams_Kaminski_2020_235CO|normal	Adams_Kaminski_2020_235CO	normal	Adams_Kaminski_2020	chronic obstructive pulmonary disease	96	-0.4917	0.8505
+Adams_Kaminski_2020_253C|normal	Adams_Kaminski_2020_253C	normal	Adams_Kaminski_2020	normal	96	-0.4655	
+Maynard_Bivona_2020_TH179|tumor_primary	Maynard_Bivona_2020_TH179	tumor_primary	Maynard_Bivona_2020	lung adenocarcinoma	92	2.0145	0.4686
+Adams_Kaminski_2020_034C|normal	Adams_Kaminski_2020_034C	normal	Adams_Kaminski_2020	normal	91	-0.8152	
+Chen_Zhang_2020_NSCLC-5|tumor_primary	Chen_Zhang_2020_NSCLC-5	tumor_primary	Chen_Zhang_2020	non-small cell lung carcinoma	90	0.8104	0.2426
+He_Fan_2021_P5|normal_adjacent	He_Fan_2021_P5	normal_adjacent	He_Fan_2021	lung adenocarcinoma	89	-0.1923	-0.7554
+UKIM-V_P3|normal_adjacent	UKIM-V_P3	normal_adjacent	UKIM-V	lung adenocarcinoma	88	0.3937	0.2656
+Kim_Lee_2020_P0006|normal_adjacent	Kim_Lee_2020_P0006	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	87	-0.1454	-0.5074
+Kim_Lee_2020_P0008|normal_adjacent	Kim_Lee_2020_P0008	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	87	-0.0119	-0.3991
+Kim_Lee_2020_P0028|normal_adjacent	Kim_Lee_2020_P0028	normal_adjacent	Kim_Lee_2020	lung adenocarcinoma	84	0.0077	-0.476
+Reyfman_Misharin_2018_Donor_02|normal	Reyfman_Misharin_2018_Donor_02	normal	Reyfman_Misharin_2018	normal	79	-0.6515	
+Laughney_Massague_2020_LX679|tumor_primary	Laughney_Massague_2020_LX679	tumor_primary	Laughney_Massague_2020	lung adenocarcinoma	79	0.3098	
+Laughney_Massague_2020_LX675|normal_adjacent	Laughney_Massague_2020_LX675	normal_adjacent	Laughney_Massague_2020	lung adenocarcinoma	79	-0.3702	-0.4807
+Chen_Zhang_2020_NSCLC-3|tumor_primary	Chen_Zhang_2020_NSCLC-3	tumor_primary	Chen_Zhang_2020	non-small cell lung carcinoma	71	0.3907	-0.0744
+Wu_Zhou_2021_P22|tumor_primary	Wu_Zhou_2021_P22	tumor_primary	Wu_Zhou_2021	squamous cell lung carcinoma	70	0.5287	-0.2233
+Wu_Zhou_2021_P16|tumor_primary	Wu_Zhou_2021_P16	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	69	0.2235	
+UKIM-V_P2|normal_adjacent	UKIM-V_P2	normal_adjacent	UKIM-V	squamous cell lung carcinoma	67	0.203	-0.0911
+Adams_Kaminski_2020_081C|normal	Adams_Kaminski_2020_081C	normal	Adams_Kaminski_2020	normal	63	-0.7148	
+Wu_Zhou_2021_P29|tumor_primary	Wu_Zhou_2021_P29	tumor_primary	Wu_Zhou_2021	lung adenocarcinoma	63	-0.659	
+Lambrechts_Thienpont_2018_6653_6|normal_adjacent	Lambrechts_Thienpont_2018_6653_6	normal_adjacent	Lambrechts_Thienpont_2018	lung adenocarcinoma	62	0.1657	-0.2714
+Adams_Kaminski_2020_137C|normal	Adams_Kaminski_2020_137C	normal	Adams_Kaminski_2020	normal	61	-1.1656	
+Wu_Zhou_2021_P42|tumor_primary	Wu_Zhou_2021_P42	tumor_primary	Wu_Zhou_2021	non-small cell lung carcinoma	54	1.4111	0.2509
+Adams_Kaminski_2020_396C|normal	Adams_Kaminski_2020_396C	normal	Adams_Kaminski_2020	normal	54	-1.0822	
+Reyfman_Misharin_2018_Donor_03|normal	Reyfman_Misharin_2018_Donor_03	normal	Reyfman_Misharin_2018	normal	53	-0.611	
+Maynard_Bivona_2020_TH238|tumor_primary	Maynard_Bivona_2020_TH238	tumor_primary	Maynard_Bivona_2020	lung adenocarcinoma	52	0.3763	0.2561

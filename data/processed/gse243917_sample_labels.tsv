@@ -1,0 +1,13 @@
+donor	disease	lymphocytic_inflammation_grade	lining_hyperplasia_grade	lymphocytic_inflammation_text	lining_hyperplasia_text
+BRI-1281	OA	1	1	Mild (OA)	Mild (OA)
+BRI-1385	RA	2	1	Moderate (>1 perivascular aggregate + focal interstitial infiltration)	1-3 cells Thick (1)
+BRI-1387	RA	2	2	Moderate (>1 perivascular aggregate + focal interstitial infiltration) (2)	3-4 cells Thick (2)
+BRI-1389	RA	2	1	Moderate (>1 perivascular aggregate + focal interstitial infiltration)	1-3 cells Thick (1)
+BRI-1586	RA	2	1	Moderate (>1 perivascular aggregate + focal interstitial infiltration)	1-3 cells Thick (1)
+BRI-1588	RA	2	2	Moderate (>1 perivascular aggregate + focal interstitial infiltration) (2)	3-4 cells Thick (2)
+BRI-1590	RA	2	3	Moderate (>1 perivascular aggregate + focal interstitial infiltration) (2)	> 4 cells Thick (3)
+BRI-1592	RA	4	2	Band-like (4)	3-4 cells Thick (2)
+BRI-1594	RA	2	1	Moderate (>1 perivascular aggregate + focal interstitial infiltration)	1-3 cells Thick (1)
+BRI-1607	RA	4	1	Band-like (4)	1-3 cells Thick (1)
+BRI-1609	RA	2	2	Moderate (>1 perivascular aggregate + focal interstitial infiltration) (2)	3-4 cells Thick (2)
+BRI-1611	RA	3	2	Marked (both perivascular and widespread interstitial aggregates) (3)	3-4 cells Thick (2)

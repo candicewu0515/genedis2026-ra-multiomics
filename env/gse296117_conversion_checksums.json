@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "file": "barcodes.tsv.gz",
+      "content_sha256": "d4d1023e067b13afbc97b02dfb3fabc4cb81c59aaa9e58c5a00f1abf117191d7",
+      "matches_previous": true
+    },
+    {
+      "file": "counts.mtx.gz",
+      "content_sha256": "6c417cc4c97808f6825b7ec624958194d66b2682233f71a3ca608172ff9d42d7",
+      "matches_previous": true
+    },
+    {
+      "file": "genes.tsv.gz",
+      "content_sha256": "5073bd5e2e11f881fb4cef6231c6b01577aa21321810e0528befbda74f31af63",
+      "matches_previous": true
+    },
+    {
+      "file": "meta.tsv.gz",
+      "content_sha256": "d4c3888bcdf88ce5841810a7e4085db72cf9e6c25f6f544e84ddc95aa2ff5db6",
+      "matches_previous": true
+    }
+  ]
+}

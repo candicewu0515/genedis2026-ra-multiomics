@@ -1,0 +1,5 @@
+status
+identical    15
+Empty DataFrame
+Columns: [table, status, detail, max_rel_diff]
+Index: []

@@ -1,0 +1,17 @@
+{
+  "event": "GeNeDis 2026 Hackathon",
+  "title": "RA multi-omics evidence map",
+  "scope": "RA with exploratory NSCLC extension",
+  "entry_type": "individual",
+  "participant": {
+    "name": "Xia Wu",
+    "affiliation": "University of Iowa",
+    "position": "PhD student",
+    "email": "xwu76@uiowa.edu"
+  },
+  "format_basis": "Official public list of deliverables; no other template was provided",
+  "submission_status": "ready to submit",
+  "reference_snapshot": "Open Targets 26.09 and saved API/GMT/eQTL inputs",
+  "repository": "https://github.com/candicewu0515/genedis2026-ra-multiomics",
+  "release": "https://github.com/candicewu0515/genedis2026-ra-multiomics/releases/tag/v1.4-submission"
+}

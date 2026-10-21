@@ -1,0 +1,231 @@
+{
+  "status": "PASS",
+  "seconds": 100.29644894599915,
+  "parser": "pinned LDSC pandas whitespace parser; original gzip unchanged",
+  "raw_sha256": {
+    "baselineLD.1.annot.gz": "28f374aabb46f531013dda88ddd872401d70c871675e35f079dc96fb2ab5c9a1",
+    "baselineLD.2.annot.gz": "647979f290bcb8537ad63e61a5e8461ca50499c765c840548bf3eae863e0c2fe",
+    "baselineLD.3.annot.gz": "293b230dd02db273975cc68afd219fd58da0acfd867cf1a41695f76653225a21",
+    "baselineLD.4.annot.gz": "e8b5837d8b6f508e7828e6992fbd2e1eec6fae62749222fac71571d2ed0a154f",
+    "baselineLD.5.annot.gz": "e23c7758d5c8ebf24217f8c193e06ef109f40e76be0fa68504268afa9fdc6f0c",
+    "baselineLD.6.annot.gz": "645f0f156e81f18cf20bd65cd021d59dc77ec0ec98a1262a0d6a2e061f3332b8",
+    "baselineLD.7.annot.gz": "593410d4b293fd54e370d2aeb4358fd067f29e0181d2a974f19c0f867f09e867",
+    "baselineLD.8.annot.gz": "3e5981ce3fe99ea201a3cced01bd7d4ca6c7e2d1d1a4ea077831327546f87ff8",
+    "baselineLD.9.annot.gz": "15a5492707e55b552f3184a29db4d4a7438362166a9e356af6a0f4603fb10a8c",
+    "baselineLD.10.annot.gz": "57932c054b48af10d15d3198899a34b1decac176ebb5d5f0f75ea4e6e68cee51",
+    "baselineLD.11.annot.gz": "c9a8e5002bed22dc057e945a2d41d0a09616ad1b576cfc01464a8ed7c6c8044b",
+    "baselineLD.12.annot.gz": "55238c3c2634e87cdb5ae588808169b49f07e11aeff47b0737da25c54987ab23",
+    "baselineLD.13.annot.gz": "06bbcfc9ad631b29ae51f8891d4788663aef2e52a9d9a25c3cd5e6a568085e74",
+    "baselineLD.14.annot.gz": "4f1f98f7b2a90a5c30de9079d1a3e933da91d5fb633d97ce28820a0f4c7cb998",
+    "baselineLD.15.annot.gz": "da0b15f404461373f2f5acb2c13bfe2b858d62650b9c8d36a98deae64c6b34dd",
+    "baselineLD.16.annot.gz": "cf476b2703f05b893613e808a77c35ba977972399ad7611551ca59281dd99ce0",
+    "baselineLD.17.annot.gz": "4856a7eb0e2473ffd571d06a00f52f8c3be705d2a63cc2d3c548ce2a2f48bb8f",
+    "baselineLD.18.annot.gz": "9b0677814fa456081d70c1fa10fa5b959ec9506d0ec199e8231e7f06d8ccf4a4",
+    "baselineLD.19.annot.gz": "7b571f7ecd267d888085be4eac3ed24e90296c34b2d49d64fc50ec278be32335",
+    "baselineLD.20.annot.gz": "166c13abe53ff7eda242ebe9b903db4e73d5e557b937b18e0f7f64401a5424e9",
+    "baselineLD.21.annot.gz": "89455bde2c242fb7ca13ee96676d9efda7b4cc6ed188d34727a4585d34075a8e",
+    "baselineLD.22.annot.gz": "68bd9d8e8dfeaf20715e7e07d76f797e9258df7bc494176482aa69f88706aa0f"
+  },
+  "parquet_sha256": {
+    "baselineLD.1.annot.parquet": "9c343221bcaea21b9e13174a4464b01cb5d609877c82b16838149d12c65ad2ea",
+    "baselineLD.2.annot.parquet": "171d4833196230c25b53098f9aac0e1861be4f4090c37b37c0a8e04eddcf1208",
+    "baselineLD.3.annot.parquet": "1540e13686df1ee6a0ef15b4002c9b93c0b0b99ccf4f5ba444744568df9b6dec",
+    "baselineLD.4.annot.parquet": "afd502535f2e9cbe18795cdafab7697df43ea753e1a065c9cb4f2dfe028fdba8",
+    "baselineLD.5.annot.parquet": "74e77dadd9d71f002753b9b1a73de7092d2fbf0a04acf7d067f57c6795845f25",
+    "baselineLD.6.annot.parquet": "00d76238cb41366283de2fdf1ff15b249f2a81f10485537549b72448cad7593d",
+    "baselineLD.7.annot.parquet": "e067f3ef22e7356b78bdafe0364b8f4ae48d40ca2ea55af063c1bd1d84d6e2ca",
+    "baselineLD.8.annot.parquet": "9cfda24a883e664cba3ac3ad19ab9ba47839d623ba88a4269c49355e4a84df26",
+    "baselineLD.9.annot.parquet": "c19ee6e88f28c9cf7e075a649a0fe48d980d6f1abc6c7f80b4a41a7d3b49b5b2",
+    "baselineLD.10.annot.parquet": "426497a8290c6d3683f752d29695c5d81c61fe0930a57439b591816e8f18071d",
+    "baselineLD.11.annot.parquet": "9e57e46d137262a313ed3079065ed18973a234a474846a5eb5dc438b957ef4cc",
+    "baselineLD.12.annot.parquet": "e90b4b9817772a929041bb4f2cfabbf8327248cefe465a87b03206b2639bdf7f",
+    "baselineLD.13.annot.parquet": "c75b969d9f12296116ca887e844933da570cd30545aebeed6c3c68427eae2d81",
+    "baselineLD.14.annot.parquet": "6fc4d8e505b7fe5759ed41a085b6459c9443cd30baa2cdfead24c77d2a85b148",
+    "baselineLD.15.annot.parquet": "4d1ae1907c1dcbd1a48ed264b89e5271b8e5b233123d602ab5d36d935483adc5",
+    "baselineLD.16.annot.parquet": "bafa2418a0071f90d30873d42298b9ed9b8a6f1c2690c3da8c10655dd834b3c5",
+    "baselineLD.17.annot.parquet": "e5c2b7a44d3990a6210be974a210118ec88aa808807cf2a88560003e13bf602a",
+    "baselineLD.18.annot.parquet": "5aeceff32ce475cefedb395e56ae17806bce006719512173af64ce245c65d3a5",
+    "baselineLD.19.annot.parquet": "b8ac33a63f37775f7f721beb8033bb3127420659209c4ddaabfaed26e0c6afb1",
+    "baselineLD.20.annot.parquet": "1fa5d94c3f9a62a41c3a7d705a7cefaec70d9e01c3ec90a7f868c1fd2f323326",
+    "baselineLD.21.annot.parquet": "9ea211537358accabe3b5e68d2e2cf8387a99d266bd13ee9985a4173b738312a",
+    "baselineLD.22.annot.parquet": "a9238778c9785af015bdc01a7ddb6dcd681fbee8dc2a1c68b13b67b0434e5c54"
+  },
+  "files": [
+    {
+      "source": "baselineLD.1.annot.gz",
+      "cache": "baselineLD.1.annot.parquet",
+      "rows": 778603,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "9c343221bcaea21b9e13174a4464b01cb5d609877c82b16838149d12c65ad2ea"
+    },
+    {
+      "source": "baselineLD.2.annot.gz",
+      "cache": "baselineLD.2.annot.parquet",
+      "rows": 839257,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "171d4833196230c25b53098f9aac0e1861be4f4090c37b37c0a8e04eddcf1208"
+    },
+    {
+      "source": "baselineLD.3.annot.gz",
+      "cache": "baselineLD.3.annot.parquet",
+      "rows": 706163,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "1540e13686df1ee6a0ef15b4002c9b93c0b0b99ccf4f5ba444744568df9b6dec"
+    },
+    {
+      "source": "baselineLD.4.annot.gz",
+      "cache": "baselineLD.4.annot.parquet",
+      "rows": 729546,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "afd502535f2e9cbe18795cdafab7697df43ea753e1a065c9cb4f2dfe028fdba8"
+    },
+    {
+      "source": "baselineLD.5.annot.gz",
+      "cache": "baselineLD.5.annot.parquet",
+      "rows": 632996,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "74e77dadd9d71f002753b9b1a73de7092d2fbf0a04acf7d067f57c6795845f25"
+    },
+    {
+      "source": "baselineLD.6.annot.gz",
+      "cache": "baselineLD.6.annot.parquet",
+      "rows": 663678,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "00d76238cb41366283de2fdf1ff15b249f2a81f10485537549b72448cad7593d"
+    },
+    {
+      "source": "baselineLD.7.annot.gz",
+      "cache": "baselineLD.7.annot.parquet",
+      "rows": 589044,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "e067f3ef22e7356b78bdafe0364b8f4ae48d40ca2ea55af063c1bd1d84d6e2ca"
+    },
+    {
+      "source": "baselineLD.8.annot.gz",
+      "cache": "baselineLD.8.annot.parquet",
+      "rows": 549556,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "9cfda24a883e664cba3ac3ad19ab9ba47839d623ba88a4269c49355e4a84df26"
+    },
+    {
+      "source": "baselineLD.9.annot.gz",
+      "cache": "baselineLD.9.annot.parquet",
+      "rows": 437825,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "c19ee6e88f28c9cf7e075a649a0fe48d980d6f1abc6c7f80b4a41a7d3b49b5b2"
+    },
+    {
+      "source": "baselineLD.10.annot.gz",
+      "cache": "baselineLD.10.annot.parquet",
+      "rows": 510396,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "426497a8290c6d3683f752d29695c5d81c61fe0930a57439b591816e8f18071d"
+    },
+    {
+      "source": "baselineLD.11.annot.gz",
+      "cache": "baselineLD.11.annot.parquet",
+      "rows": 493753,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "9e57e46d137262a313ed3079065ed18973a234a474846a5eb5dc438b957ef4cc"
+    },
+    {
+      "source": "baselineLD.12.annot.gz",
+      "cache": "baselineLD.12.annot.parquet",
+      "rows": 480032,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "e90b4b9817772a929041bb4f2cfabbf8327248cefe465a87b03206b2639bdf7f"
+    },
+    {
+      "source": "baselineLD.13.annot.gz",
+      "cache": "baselineLD.13.annot.parquet",
+      "rows": 366088,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "c75b969d9f12296116ca887e844933da570cd30545aebeed6c3c68427eae2d81"
+    },
+    {
+      "source": "baselineLD.14.annot.gz",
+      "cache": "baselineLD.14.annot.parquet",
+      "rows": 323965,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "6fc4d8e505b7fe5759ed41a085b6459c9443cd30baa2cdfead24c77d2a85b148"
+    },
+    {
+      "source": "baselineLD.15.annot.gz",
+      "cache": "baselineLD.15.annot.parquet",
+      "rows": 286945,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "4d1ae1907c1dcbd1a48ed264b89e5271b8e5b233123d602ab5d36d935483adc5"
+    },
+    {
+      "source": "baselineLD.16.annot.gz",
+      "cache": "baselineLD.16.annot.parquet",
+      "rows": 316962,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "bafa2418a0071f90d30873d42298b9ed9b8a6f1c2690c3da8c10655dd834b3c5"
+    },
+    {
+      "source": "baselineLD.17.annot.gz",
+      "cache": "baselineLD.17.annot.parquet",
+      "rows": 268764,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "e5c2b7a44d3990a6210be974a210118ec88aa808807cf2a88560003e13bf602a"
+    },
+    {
+      "source": "baselineLD.18.annot.gz",
+      "cache": "baselineLD.18.annot.parquet",
+      "rows": 285134,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "5aeceff32ce475cefedb395e56ae17806bce006719512173af64ce245c65d3a5"
+    },
+    {
+      "source": "baselineLD.19.annot.gz",
+      "cache": "baselineLD.19.annot.parquet",
+      "rows": 231694,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "b8ac33a63f37775f7f721beb8033bb3127420659209c4ddaabfaed26e0c6afb1"
+    },
+    {
+      "source": "baselineLD.20.annot.gz",
+      "cache": "baselineLD.20.annot.parquet",
+      "rows": 221582,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "1fa5d94c3f9a62a41c3a7d705a7cefaec70d9e01c3ec90a7f868c1fd2f323326"
+    },
+    {
+      "source": "baselineLD.21.annot.gz",
+      "cache": "baselineLD.21.annot.parquet",
+      "rows": 138654,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "9ea211537358accabe3b5e68d2e2cf8387a99d266bd13ee9985a4173b738312a"
+    },
+    {
+      "source": "baselineLD.22.annot.gz",
+      "cache": "baselineLD.22.annot.parquet",
+      "rows": 140592,
+      "columns": 101,
+      "exact_roundtrip": true,
+      "sha256": "a9238778c9785af015bdc01a7ddb6dcd681fbee8dc2a1c68b13b67b0434e5c54"
+    }
+  ]
+}

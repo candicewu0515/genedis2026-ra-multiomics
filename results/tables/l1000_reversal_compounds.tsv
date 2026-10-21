@@ -1,0 +1,80 @@
+query	compound	n_signatures	best_rank	best_score	cells	chembl_id	mechanism_of_action	class_JAK	class_glucocorticoid	class_HSP90	class_proteasome	class_NF-kB/IKK	class_BET	class_HDAC	class_mTOR/PI3K	classes	in_both_queries
+Q1_active_vs_remission	geldanamycin	3	1	0.1507	HA1E,HME1,MDAMB231	CHEMBL278315		False	False	True	False	False	False	False	False	HSP90	False
+Q1_active_vs_remission	temsirolimus [CI779]	1	2	0.137	WSUDLCL2	CHEMBL1201182	FK506-binding protein 1A inhibitor	False	False	False	False	False	False	False	True	mTOR/PI3K	False
+Q1_active_vs_remission	PD-0325901	1	3	0.1233	HEPG2	CHEMBL540501		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	dacomitinib	1	4	0.1233	HCC515	CHEMBL2105719	Epidermal growth factor receptor erbB1 inhibitor; Receptor protein-tyrosine kinase erbB-2 inhibitor; Receptor protein-tyrosine kinase erbB-4 inhibitor	False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	PFI-1	1	5	0.1233	HA1E	CHEMBL4789678		False	False	False	False	False	True	False	False	BET	False
+Q1_active_vs_remission	I-BET151	4	6	0.1233	A375,HA1E	CHEMBL2017291		False	False	False	False	False	True	False	False	BET	False
+Q1_active_vs_remission	ETHOPROPAZINE HYDROCHLORIDE	1	7	0.1096	A549	CHEMBL1200970	Muscarinic acetylcholine receptor M1 antagonist	False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	Pepstatin A	1	8	0.1096	A549	CHEMBL3314610		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	manumycin A	1	10	0.1096	SKLU1	CHEMBL5275693		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	DL-PDMP	1	11	0.1096	SKMEL1	CHEMBL4303337		False	False	False	False	False	False	False	False		True
+Q1_active_vs_remission	Valdecoxib	1	12	0.1096	U937	CHEMBL865	Cyclooxygenase-2 inhibitor	False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	DM-55-3 BRD-K81592585	1	13	0.1096	A375	CHEMBL4303583		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	NCGC00185090-03	1	14	0.1096	HCC515	CHEMBL5959317		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	ruxolitinib	1	15	0.1096	HS578T	CHEMBL1287854		True	False	False	False	False	False	False	False	JAK	False
+Q1_active_vs_remission	radicicol	3	16	0.1096	MCF10A	CHEMBL489523		False	False	True	False	False	False	False	False	HSP90	False
+Q1_active_vs_remission	dasatinib	1	17	0.1096	HA1E	CHEMBL1421	Tyrosine-protein kinase ABL inhibitor; Platelet-derived growth factor receptor beta inhibitor; Stem cell growth factor receptor inhibitor; Ephrin type-A receptor 2 inhibitor; SRC inhibitor; Bcr/Abl fusion protein inhibitor	False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	MEFEXAMIDE	1	19	0.0959	VCAP	CHEMBL1368380		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	thioridazine	1	21	0.0959	HA1E	CHEMBL1200916	Serotonin 2a (5-HT2a) receptor antagonist; Serotonin 2c (5-HT2c) receptor antagonist; D2-like dopamine receptor antagonist	False	False	False	False	False	False	False	False		True
+Q1_active_vs_remission	GEMFIBROZIL	1	22	0.0959	HT29	CHEMBL457	Peroxisome proliferator-activated receptor alpha agonist	False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	BMS-536924	1	23	0.0959	A375	CHEMBL401930		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	AS605240	1	27	0.0959	SW480	CHEMBL568150		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	(S)-(-)-Bay K 8644	1	28	0.0959	U937	CHEMBL513599		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	S1148	1	29	0.0959	VCAP			False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	GR-207	1	30	0.0959	MCF7	CHEMBL1909379		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	KIN001-265	1	33	0.0959	HEPG2	CHEMBL3649217		False	False	False	False	False	False	False	False		True
+Q1_active_vs_remission	mitoxantrone	3	34	0.0959	HCC515,MCF10A	CHEMBL1417019	DNA topoisomerase II alpha inhibitor; DNA inhibitor	False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	PF-431396	1	35	0.0959	HA1E	CHEMBL472212		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	olaparib	1	36	0.0959	A375	CHEMBL521686	PARP 1, 2 and 3 inhibitor	False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	AZD-8330	1	37	0.0959	HEPG2	CHEMBL3182621	Dual specificity mitogen-activated protein kinase kinase 1 inhibitor; Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	TG-101348	1	40	0.0959	MDAMB231	CHEMBL4465517		True	False	False	False	False	False	False	False	JAK	False
+Q1_active_vs_remission	torin-2	1	41	0.0959	PC3	CHEMBL1256459		False	False	False	False	False	False	False	True	mTOR/PI3K	False
+Q1_active_vs_remission	HG-6-64-01	1	42	0.0959	A375	CHEMBL2170016		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	KIN001-043	1	45	0.0959	MDAMB231	CHEMBL6003708		False	False	False	False	False	False	False	False		False
+Q1_active_vs_remission	(+)-JQ1	1	48	0.0959	HA1E	CHEMBL3220211		False	False	False	False	False	True	False	False	BET	True
+Q1_active_vs_remission	N-Benzylnaltrindole hydrochloride	1	50	0.0822	HA1E	CHEMBL375629		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	withaferin-a	2	1	0.14	HCC515,SKBR3	CHEMBL517080		False	False	False	False	True	False	False	False	NF-kB/IKK	False
+Q2_IFNg_vs_homeostatic	niguldipine hydrochloride	1	3	0.12	LOVO	CHEMBL1275655		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	MK-2206	1	4	0.12	NCIH596	CHEMBL4635254		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	Bay 11-7821	1	5	0.12	VCAP	CHEMBL3907057		False	False	False	False	True	False	False	False	NF-kB/IKK	False
+Q2_IFNg_vs_homeostatic	NPK76-II-72-1	1	7	0.12	MCF7	CHEMBL4112840		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	XMD-1150	1	8	0.12	HME1	CHEMBL5303523		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	NVP-BGT226	1	9	0.12	HA1E	CHEMBL3545096	Serine/threonine-protein kinase mTOR inhibitor; PI3-kinase class I inhibitor	False	False	False	False	False	False	False	True	mTOR/PI3K	False
+Q2_IFNg_vs_homeostatic	Cyclosporin A	1	10	0.1	VCAP	CHEMBL384608		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	Lasalocid sodium salt	1	11	0.1	HA1E	CHEMBL1489769		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	thioridazine	1	12	0.1	HA1E	CHEMBL1200916	Serotonin 2a (5-HT2a) receptor antagonist; Serotonin 2c (5-HT2c) receptor antagonist; D2-like dopamine receptor antagonist	False	False	False	False	False	False	False	False		True
+Q2_IFNg_vs_homeostatic	NSC 23766	1	13	0.1	SNGM	CHEMBL257119		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	TGX-115	1	15	0.1	VCAP	CHEMBL3644503		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	KIN001-265	1	17	0.1	HEPG2	CHEMBL3649217		False	False	False	False	False	False	False	False		True
+Q2_IFNg_vs_homeostatic	XMD-892	1	18	0.1	HEPG2	CHEMBL5303523		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	JWE-035	1	19	0.1	HA1E	CHEMBL5803324		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	NVP-BEZ235	2	20	0.1	HA1E,HS578T	CHEMBL3354566		False	False	False	False	False	False	False	True	mTOR/PI3K	False
+Q2_IFNg_vs_homeostatic	SB590885	1	22	0.1	HS578T	CHEMBL477989		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	BX-912	1	23	0.1	SKBR3	CHEMBL3916849		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	AS-605240	1	24	0.1	HCC515	CHEMBL1231533		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	celastrol	1	25	0.1	LNCAP	CHEMBL301982		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	tivantinib	1	26	0.1	MCF7	CHEMBL2103882	Hepatocyte growth factor receptor inhibitor	False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	(+)-JQ1	1	27	0.1	HA1E	CHEMBL3220211		False	False	False	False	False	True	False	False	BET	True
+Q2_IFNg_vs_homeostatic	KF 38789	1	28	0.08	HA1E	CHEMBL246957		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	AG-879	1	29	0.08	HCC515	CHEMBL539947		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	Brefeldin A	1	30	0.08	PC3	CHEMBL19980		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	kirromycin	1	31	0.08	HA1E	CHEMBL5273089		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	Kenpaullone	1	32	0.08	HA1E	CHEMBL296586		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	MEFENAMIC ACID	1	33	0.08	HA1E	CHEMBL686	Cyclooxygenase inhibitor	False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	CYMARIN	1	34	0.08	HCC515	CHEMBL1075788		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	wiskostatin	1	35	0.08	HCC515	CHEMBL3774960		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	ISORESERPINE	1	36	0.08	VCAP	CHEMBL388848		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	Fenretinide	1	37	0.08	HA1E	CHEMBL7301		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	SSR 69071	1	38	0.08	HA1E	CHEMBL1354892		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	NOCODAZOLE	1	39	0.08	HA1E	CHEMBL9514		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	COLFORSIN	1	40	0.08	HA1E	CHEMBL4303178		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	Na-Tosyl-Phe Chloromethyl Ketone	1	41	0.08	HA1E	CHEMBL1256974		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	Ch 55	1	42	0.08	HCC515	CHEMBL4303231		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	Wortmannin	1	43	0.08	HEPG2	CHEMBL4174555		False	False	False	False	False	False	False	True	mTOR/PI3K	False
+Q2_IFNg_vs_homeostatic	Metixene hydrochloride	1	44	0.08	A375	CHEMBL2359044		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	RHODOMYRTOXIN B	1	45	0.08	HA1E	CHEMBL1552997		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	LASALOCID SODIUM	1	46	0.08	PC3	CHEMBL1489769		False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	trifluoperazine	1	47	0.08	A673	CHEMBL1257040	Serotonin 2a (5-HT2a) receptor antagonist; Serotonin 2c (5-HT2c) receptor antagonist; D2-like dopamine receptor antagonist	False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	PX12	1	49	0.08	H1299	CHEMBL406050	Thioredoxin inhibitor	False	False	False	False	False	False	False	False		False
+Q2_IFNg_vs_homeostatic	DL-PDMP	1	50	0.08	H1299	CHEMBL4303337		False	False	False	False	False	False	False	False		True

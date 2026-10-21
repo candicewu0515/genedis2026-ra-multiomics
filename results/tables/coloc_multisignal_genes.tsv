@@ -1,0 +1,204 @@
+gwas	ra_set	ra_lead_rsid	gene	n_records	best_h4	categories	immune_records	myeloid_biosamples	immune_direction_mean	immune_direction_datasets
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	TUFM	278	0.898	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	94	Alasoo_2018 macrophage IFNg_18h; Alasoo_2018 macrophage naive; BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; CEDAR CD14-positive, CD16-negative classical monocyte naive; Fairfax_201	0.781	64
+FinnGen R12	2618b9f98801bf79d468c9f703c72d75	rs72660908	RHD	294	0.999	B/LCL,T/NK,blood/plasma,myeloid,other tissue	83	Nedelec_2016 macrophage Salmonella_5h; OTAR2057_IBDverse classical monocyte naive; OTAR2057_IBDverse conventional dendritic cell naive; OTAR2057_IBDverse intermediate monocyte naive; OTAR2057_IBDverse	0.925	80
+FinnGen R12	2618b9f98801bf79d468c9f703c72d75	rs72660908	RSRP1	329	0.999	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	75	Alasoo_2018 macrophage Salmonella_5h; BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; Nedelec_2016 macrophage Salmonella_5h; OTAR2057_IBDverse intermediate monocyte naive; OneK1K CD14	0.941	34
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	ATXN2L	380	0.902	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	67	Alasoo_2018 macrophage IFNg_18h; Alasoo_2018 macrophage IFNg_18h+Salmonella_5h; Alasoo_2018 macrophage Salmonella_5h; Alasoo_2018 macrophage naive; BLUEPRINT CD14-positive, CD16-negative classical mon	-0.854	41
+Ishigaki 2022 (EUR)	1d0cd04eabf19a2f74a1505e513ec0ea	rs62067029	GSDMB	185	0.971	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	45	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	-1	21
+Ishigaki 2022 (EUR)	f1a672f1cea0954bfb6385dd1699a75e	rs2061831	BLK	38	0.993	B/LCL,T/NK,blood/plasma,other tissue	33		-1	31
+Ishigaki 2022 (EUR)	57ed01bc8d5fd06eca3dd825c9ebb879	rs1873914	RPS26	67	0.995	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	32	Alasoo_2018 macrophage IFNg_18h+Salmonella_5h; Alasoo_2018 macrophage Salmonella_5h; Alasoo_2018 macrophage naive; Kim-Hellmuth_2017 CD14-positive, CD16-negative classical monocyte IVT_90min; Nedelec_	-0.846	26
+FinnGen R12	c7b8b5f981072e0749c435064cbd955b	rs7731626	ANKRD55	38	1	T/NK,blood/plasma,other tissue	31		1	31
+Ishigaki 2022 (EUR)	43e7f94b50d19f385fe5b65b5381a9c7	rs7731626	ANKRD55	38	1	T/NK,blood/plasma,other tissue	31		1	31
+Ishigaki 2022 (EUR)	0781976819a09a2273c593c4d4de9116	rs11089637	UBE2L3	90	0.932	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	30	Alasoo_2018 macrophage naive; BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; CEDAR CD14-positive, CD16-negative classical monocyte naive; Fairfax_2014 CD14-positive, CD16-negative cl	0.2	30
+Ishigaki 2022 (EUR)	10cb6014c090db5877a628946e2d3a66	rs3778754	IRF5	120	1	B/LCL,T/NK,blood/plasma,myeloid,other tissue	29	Alasoo_2018 macrophage IFNg_18h; Alasoo_2018 macrophage naive; Nedelec_2016 macrophage Listeria_5h; Nedelec_2016 macrophage Salmonella_5h; Quach_2016 CD14-positive, CD16-negative classical monocyte In	0.556	18
+Ishigaki 2022 (EUR)	e8ffa7955a695d062c547fab8612d23e	rs577932181	TRAF1	42	0.978	B/LCL,T/NK,blood/plasma,myeloid,other tissue	26	Fairfax_2014 CD14-positive, CD16-negative classical monocyte LPS_2h; Kim-Hellmuth_2017 CD14-positive, CD16-negative classical monocyte IVT_6h; Kim-Hellmuth_2017 CD14-positive, CD16-negative classical 	0.0435	23
+FinnGen R12	c952a7263fcafad7f793326faadd05f5	rs13246321	IRF5	80	0.967	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	24	Alasoo_2018 macrophage Salmonella_5h; Alasoo_2018 macrophage naive; Nedelec_2016 macrophage Listeria_5h; Nedelec_2016 macrophage Salmonella_5h; Quach_2016 CD14-positive, CD16-negative classical monocy	0.667	12
+Ishigaki 2022 (EUR)	1d0cd04eabf19a2f74a1505e513ec0ea	rs62067029	ORMDL3	32	0.954	T/NK,blood/plasma,other tissue	24		-0.917	24
+Ishigaki 2022 (EUR)	57ed01bc8d5fd06eca3dd825c9ebb879	rs1873914	SUOX	241	0.995	B/LCL,T/NK,blood/plasma,myeloid,other tissue	21	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; Fairfax_2014 CD14-positive, CD16-negative classical monocyte LPS_2h; Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive	0.905	21
+FinnGen R12	2618b9f98801bf79d468c9f703c72d75	rs72660908	TMEM50A	39	0.999	T/NK,blood/plasma,granulocyte,myeloid,other tissue	20	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive; OTAR2057_IBDverse classical monocyte naive; OTAR2057_IBDverse inter	1	20
+Ishigaki 2022 (EUR)	bd599f77f64b1d86f64ff41ca6886892	rs11810143	FCGR2A	79	0.987	blood/plasma,granulocyte,myeloid,other tissue	18	Alasoo_2018 macrophage IFNg_18h; Alasoo_2018 macrophage IFNg_18h+Salmonella_5h; Alasoo_2018 macrophage Salmonella_5h; Alasoo_2018 macrophage naive; BLUEPRINT CD14-positive, CD16-negative classical mon	-1	9
+FinnGen R12	6af70a4e033cd05c6eb39bb4001dae94	rs3087243	CTLA4	17	0.994	T/NK,other tissue	15		-1	15
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	EIF3C	159	0.898	B/LCL,T/NK,blood/plasma,myeloid,other tissue	15	Nedelec_2016 macrophage Listeria_5h; Quach_2016 CD14-positive, CD16-negative classical monocyte naive	-0.667	6
+Ishigaki 2022 (EUR)	b880e466d282fa77231725bb60d0125e	rs72928038	BACH2	11	0.999	T/NK	11		-1	10
+Ishigaki 2022 (EUR)	57ed01bc8d5fd06eca3dd825c9ebb879	rs1873914	RAB5B	88	0.995	B/LCL,T/NK,blood/plasma,myeloid,other tissue	11	Quach_2016 CD14-positive, CD16-negative classical monocyte naive	-1	7
+Ishigaki 2022 (EUR)	f1a672f1cea0954bfb6385dd1699a75e	rs2061831	FAM167A	18	0.986	B/LCL,T/NK,blood/plasma,other tissue	11		1	8
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	SH2B1	133	0.926	B/LCL,T/NK,blood/plasma,myeloid,other tissue	11	Alasoo_2018 macrophage IFNg_18h	-0.75	8
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	MMEL1	59	0.951	T/NK,blood/plasma,myeloid,other tissue	10	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive; Schmiedel_2018 CD14-low, CD16-positive monocyte naive	1	10
+FinnGen R12	c7b8b5f981072e0749c435064cbd955b	rs7731626	IL6ST	9	1	B/LCL,T/NK	9		1	9
+Ishigaki 2022 (EUR)	43e7f94b50d19f385fe5b65b5381a9c7	rs7731626	IL6ST	9	1	B/LCL,T/NK	9		1	9
+Ishigaki 2022 (EUR)	bcfd2d20e588d0f8111a4d886c3d9fe3	rs4239702	CD40	57	0.996	B/LCL,blood/plasma,other tissue	9		0.5	4
+Ishigaki 2022 (EUR)	f0cfcde1c01fbfda4b965576cb3d760a	rs231389	CD28	10	0.982	T/NK,other tissue	9		-0.778	9
+Ishigaki 2022 (EUR)	65ce2b29cb87b67602e814928201d91b	rs17880053	IFNGR2	19	0.98	B/LCL,blood/plasma,myeloid,other tissue	9	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; CEDAR CD14-positive, CD16-negative classical monocyte naive; Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive; Schmie	-0.75	8
+Ishigaki 2022 (EUR)	417f1114d98c9816c91cfa7b6ad3ac7f	rs34695944	REL	8	0.991	B/LCL,T/NK,granulocyte,myeloid	8	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	1	5
+Ishigaki 2022 (EUR)	d816c454381c033e2d7ce24351c2fcb3	rs4584833	TXNDC11	22	0.975	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	8	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; CEDAR CD14-positive, CD16-negative classical monocyte naive; Quach_2016 CD14-positive, CD16-negative classical monocyte naive; Schmiede	-0.667	6
+Ishigaki 2022 (EUR)	0bcdc656e102867930bd1fea48d126bc	rs12474386	AFF3	9	0.997	B/LCL,T/NK,blood/plasma,other tissue	7		1	7
+FinnGen R12	b7273e0160ec1844d49386f5a4fe9a76	rs548877	ATP5MG	8	0.983	B/LCL,myeloid,other tissue	7	Quach_2016 CD14-positive, CD16-negative classical monocyte LPS_6h	-1	2
+FinnGen R12	539daa59649d48fd772b651d2c320563	rs3836950	ENSG00000284825	7	0.983	T/NK	7		1	7
+FinnGen R12	1088b80166e570ea00675a20dce2fa89	rs111960587	CCRL2	7	0.932	myeloid	7	Quach_2016 CD14-positive, CD16-negative classical monocyte Influenza_6h; Quach_2016 CD14-positive, CD16-negative classical monocyte LPS_6h; Quach_2016 CD14-positive, CD16-negative classical monocyte R	1	7
+Ishigaki 2022 (EUR)	5b0e7a0b140a01f0635dd2ccb71fa2f9	rs7928371	PHLDB1	209	1	myeloid,other tissue	6	Nedelec_2016 macrophage naive; Quach_2016 CD14-positive, CD16-negative classical monocyte LPS_6h; Quach_2016 CD14-positive, CD16-negative classical monocyte Pam3CSK4_6h; Quach_2016 CD14-positive, CD16	-1	3
+Ishigaki 2022 (EUR)	552d23551bc8851c82e2b8a265468985	rs6659932	IL12RB2	11	0.992	T/NK,blood/plasma	6		1	6
+Ishigaki 2022 (EUR)	9504898aeccf384f33323d8fe8cc6372	rs7565213	CTLA4	8	0.99	T/NK,other tissue	6		-1	6
+Ishigaki 2022 (EUR)	9c7277fb32fd71f744c0385470b1024d	rs10405617	ILF3	20	0.976	B/LCL,myeloid,other tissue	6	Quach_2016 CD14-positive, CD16-negative classical monocyte R848_6h	0.5	4
+FinnGen R12	e207dc064e1fceb6cd59362e832c7b0e	rs10818940	PSMB7	55	0.965	B/LCL,granulocyte,myeloid,other tissue	6	Quach_2016 CD14-positive, CD16-negative classical monocyte Pam3CSK4_6h	-0.667	6
+Ishigaki 2022 (EUR)	1d0cd04eabf19a2f74a1505e513ec0ea	rs62067029	IKZF3	6	0.947	B/LCL	6		1	6
+FinnGen R12	e207dc064e1fceb6cd59362e832c7b0e	rs10818940	NEK6	20	0.937	B/LCL,T/NK,myeloid,other tissue	6	Alasoo_2018 macrophage naive; Fairfax_2014 CD14-positive, CD16-negative classical monocyte IFNg_24h	0	6
+Ishigaki 2022 (EUR)	a63669dd8be36ffb6e375b8e9635d5e4	rs2356124	NAB1	5	0.968	B/LCL,myeloid	5	Quach_2016 CD14-positive, CD16-negative classical monocyte naive	0.6	5
+FinnGen R12	1b0291e20321678236411ab735675701	rs34536443	TYK2	53	1	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	4	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive		0
+Ishigaki 2022 (EUR)	ec77bacbb0ce0e55382f601124ce43ef	rs34536443	TYK2	54	1	B/LCL,T/NK,blood/plasma,granulocyte,myeloid,other tissue	4	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive		0
+Ishigaki 2022 (EUR)	e68ced5420a3dbea91863886dc40ed3d	rs1039765	SPRED2	134	0.971	B/LCL,other tissue	4		1	1
+FinnGen R12	1088b80166e570ea00675a20dce2fa89	rs111960587	CCR5AS	8	0.957	blood/plasma,myeloid,other tissue	4	Quach_2016 CD14-positive, CD16-negative classical monocyte LPS_6h; Quach_2016 CD14-positive, CD16-negative classical monocyte Pam3CSK4_6h; Quach_2016 CD14-positive, CD16-negative classical monocyte R8	1	4
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	TTC34	40	0.94	B/LCL,T/NK,other tissue	4		-1	4
+FinnGen R12	371aa0c4a60227f8e47c6da0f0db7e1e	rs9594366	COG6	7	0.912	myeloid,other tissue	4	Alasoo_2018 macrophage IFNg_18h+Salmonella_5h; Quach_2016 CD14-positive, CD16-negative classical monocyte Pam3CSK4_6h; Quach_2016 CD14-positive, CD16-negative classical monocyte R848_6h	1	4
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	ENSG00000251417	86	0.899	B/LCL,T/NK,other tissue	4		-1	3
+Ishigaki 2022 (EUR)	2338a7fd8efa7f74616195dd6956ff5d	rs4731532	IRF5	36	1	B/LCL,blood/plasma,myeloid,other tissue	3	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	0.333	3
+Ishigaki 2022 (EUR)	0baf91dd89e03e4993615a232d922ce5	rs12720356	ZGLP1	16	0.998	blood/plasma,granulocyte,myeloid,other tissue	3	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; Nedelec_2016 macrophage naive	-1	3
+Ishigaki 2022 (EUR)	10cb6014c090db5877a628946e2d3a66	rs3778754	TNPO3	3	0.997	B/LCL,granulocyte	3		-1	3
+FinnGen R12	35015593d5ec9a70f1ee961c9ebac091	rs74908652	ZGLP1	12	0.992	blood/plasma,granulocyte,myeloid,other tissue	3	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive; Nedelec_2016 macrophage naive	-1	3
+FinnGen R12	601f80dbe43c61bf9779535f157238f2	rs1734790	IRAK1	84	0.99	B/LCL,blood/plasma,other tissue	3		1	2
+FinnGen R12	601f80dbe43c61bf9779535f157238f2	rs1734790	TMEM187	7	0.984	T/NK,myeloid,other tissue	3	Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive	-1	3
+Ishigaki 2022 (EUR)	e8ffa7955a695d062c547fab8612d23e	rs577932181	PHF19	9	0.963	T/NK,blood/plasma,myeloid,other tissue	3	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	-1	3
+FinnGen R12	35015593d5ec9a70f1ee961c9ebac091	rs74908652	FDX2	85	0.998	B/LCL,other tissue	2		-1	1
+FinnGen R12	2618b9f98801bf79d468c9f703c72d75	rs72660908	MACO1	3	0.996	myeloid,other tissue	2	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	1	2
+FinnGen R12	507885f0774ec243c0ed8a74db48334c	rs13279820	PVT1	3	0.996	T/NK,other tissue	2		-1	2
+Ishigaki 2022 (EUR)	0064948aa07e2f1b0e3f3c4a47eb6022	rs3093017	ENSG00000284825	2	0.995	T/NK	2		1	2
+Ishigaki 2022 (EUR)	0baf91dd89e03e4993615a232d922ce5	rs12720356	FDX2	86	0.994	B/LCL,other tissue	2		-1	1
+Ishigaki 2022 (EUR)	5c65622b107fd463b9512e74f8228bfb	rs9927316	ENSG00000285012	2	0.991	B/LCL	2		1	2
+Ishigaki 2022 (EUR)	f1a672f1cea0954bfb6385dd1699a75e	rs2061831	ENSG00000284957	2	0.991	B/LCL	2		-1	2
+Ishigaki 2022 (EUR)	2a19a7c13e876289ffffce29a4bcc335	rs7170151	RASGRP1	4	0.986	B/LCL,other tissue	2		1	1
+Ishigaki 2022 (EUR)	d2d0aa6b99995033705225c721dd8e7d	rs6920220	ENSG00000283265	2	0.984	myeloid	2	Quach_2016 CD14-positive, CD16-negative classical monocyte LPS_6h; Quach_2016 CD14-positive, CD16-negative classical monocyte R848_6h	-1	2
+Ishigaki 2022 (EUR)	9c7277fb32fd71f744c0385470b1024d	rs10405617	ILF3-DT	21	0.967	blood/plasma,myeloid,other tissue	2	Fairfax_2014 CD14-positive, CD16-negative classical monocyte IFNg_24h; Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive	-1	2
+Ishigaki 2022 (EUR)	d816c454381c033e2d7ce24351c2fcb3	rs4584833	SNN	7	0.966	B/LCL,other tissue	2		1	2
+Ishigaki 2022 (EUR)	2a19a7c13e876289ffffce29a4bcc335	rs7170151	ENSG00000259598	2	0.943	B/LCL	2		1	2
+FinnGen R12	c952a7263fcafad7f793326faadd05f5	rs13246321	TNPO3	2	0.834	B/LCL,granulocyte	2		-1	2
+FinnGen R12	2618b9f98801bf79d468c9f703c72d75	rs72660908	ENSG00000261349	16	0.999	B/LCL,blood/plasma,other tissue	1			0
+Ishigaki 2022 (EUR)	0baf91dd89e03e4993615a232d922ce5	rs12720356	TYK2	1	0.996	B/LCL	1			0
+Ishigaki 2022 (EUR)	417f1114d98c9816c91cfa7b6ad3ac7f	rs34695944	PUS10	8	0.995	myeloid,other tissue	1	Quach_2016 CD14-positive, CD16-negative classical monocyte Influenza_6h	1	1
+FinnGen R12	c6761109eca8113528e4891cacf4366e	rs72836346	BCL2L11	2	0.995	B/LCL,blood/plasma	1		1	1
+Ishigaki 2022 (EUR)	92e45200e5b6b2419b8833435b98cdb5	rs137687	SYNGR1	5	0.995	B/LCL,other tissue	1		1	1
+Ishigaki 2022 (EUR)	57ed01bc8d5fd06eca3dd825c9ebb879	rs1873914	ZC3H10	1	0.993	T/NK	1			0
+Ishigaki 2022 (EUR)	5c65622b107fd463b9512e74f8228bfb	rs9927316	ENSG00000285040	4	0.992	T/NK,other tissue	1		-1	1
+FinnGen R12	c97e24f0be7042f673af233365bc228c	rs2045791	POU3F1	1	0.991	B/LCL	1		1	1
+Ishigaki 2022 (EUR)	286704d4354f61b83a786de46d76b2ed	rs2045791	POU3F1	1	0.991	B/LCL	1		1	1
+Ishigaki 2022 (EUR)	0064948aa07e2f1b0e3f3c4a47eb6022	rs3093017	CCR6	2	0.99	B/LCL,blood/plasma	1		1	1
+Ishigaki 2022 (EUR)	5097eac5a3d55b68f64673eea4f5faa9	rs3184504	ALDH2	1	0.99	granulocyte	1		1	1
+Ishigaki 2022 (EUR)	f1a672f1cea0954bfb6385dd1699a75e	rs2061831	FAM167A-AS1	1	0.986	B/LCL	1		1	1
+FinnGen R12	4fab4b0291baaaf8337f495a25451570	rs10174238	STAT4	1	0.986	T/NK	1		-1	1
+Ishigaki 2022 (EUR)	882f4e0e964cd0d29534d4646cfca99f	rs2664035	TEC	3	0.985	T/NK,other tissue	1		-1	1
+FinnGen R12	3184eab27145d198bcb1675efe1e62b8	rs7137828	ALDH2	1	0.985	granulocyte	1		1	1
+Ishigaki 2022 (EUR)	10cb6014c090db5877a628946e2d3a66	rs3778754	KCP	1	0.984	B/LCL	1		-1	1
+Ishigaki 2022 (EUR)	0781976819a09a2273c593c4d4de9116	rs11089637	CCDC116	64	0.983	B/LCL,other tissue	1		-1	1
+Ishigaki 2022 (EUR)	0baf91dd89e03e4993615a232d922ce5	rs12720356	ICAM5	2	0.982	blood/plasma,myeloid	1	Quach_2016 CD14-positive, CD16-negative classical monocyte naive	-1	1
+Ishigaki 2022 (EUR)	bd599f77f64b1d86f64ff41ca6886892	rs11810143	FCGR2B	3	0.979	blood/plasma,granulocyte,other tissue	1			0
+Ishigaki 2022 (EUR)	8c1e182dd14cd3211082c5b8de56626d	rs6429207	GNG4	14	0.978	T/NK,other tissue	1		1	1
+Ishigaki 2022 (EUR)	0baf91dd89e03e4993615a232d922ce5	rs12720356	ICAM4	1	0.977	myeloid	1	Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive	-1	1
+Ishigaki 2022 (EUR)	342c7055b3a8c66fee550b9073138a75	rs6781611	PLCL2	5	0.977	T/NK,blood/plasma,other tissue	1			0
+FinnGen R12	35015593d5ec9a70f1ee961c9ebac091	rs74908652	ICAM5	2	0.973	blood/plasma,myeloid	1	Quach_2016 CD14-positive, CD16-negative classical monocyte naive	-1	1
+Ishigaki 2022 (EUR)	2338a7fd8efa7f74616195dd6956ff5d	rs4731532	TNPO3	2	0.97	B/LCL,other tissue	1		-1	1
+FinnGen R12	601f80dbe43c61bf9779535f157238f2	rs1734790	MECP2	2	0.969	granulocyte,other tissue	1		-1	1
+FinnGen R12	35015593d5ec9a70f1ee961c9ebac091	rs74908652	ICAM4	1	0.963	myeloid	1	Fairfax_2014 CD14-positive, CD16-negative classical monocyte naive	-1	1
+Ishigaki 2022 (EUR)	1d0cd04eabf19a2f74a1505e513ec0ea	rs62067029	ZPBP2	11	0.957	B/LCL,blood/plasma,other tissue	1		1	1
+FinnGen R12	539daa59649d48fd772b651d2c320563	rs3836950	CCR6	2	0.954	B/LCL,blood/plasma	1		1	1
+Ishigaki 2022 (EUR)	6af969c09603b54f8bf911ee9db1dfeb	rs2561477	PAM	1	0.954	B/LCL	1		1	1
+FinnGen R12	35015593d5ec9a70f1ee961c9ebac091	rs74908652	TYK2	1	0.949	B/LCL	1			0
+Ishigaki 2022 (EUR)	0781976819a09a2273c593c4d4de9116	rs11089637	YDJC	7	0.947	B/LCL,other tissue	1			0
+Ishigaki 2022 (EUR)	6af969c09603b54f8bf911ee9db1dfeb	rs2561477	GIN1	1	0.937	B/LCL	1		-1	1
+Ishigaki 2022 (EUR)	5da68c798ada8b5e9b23f486f708c484	rs71404230	DRAIC	1	0.935	T/NK	1		-1	1
+FinnGen R12	1d68ab098bcb3f652eeb63979533b2f1	rs78248443	LEPROT	1	0.935	B/LCL	1			0
+Ishigaki 2022 (EUR)	a63669dd8be36ffb6e375b8e9635d5e4	rs2356124	ENSG00000284052	1	0.919	T/NK	1		-1	1
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	ATP2A1	14	0.902	B/LCL,blood/plasma,other tissue	1		1	1
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	SULT1A1	67	0.899	blood/plasma,myeloid,other tissue	1	BLUEPRINT CD14-positive, CD16-negative classical monocyte naive	-1	1
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	SULT1A2	36	0.899	blood/plasma,myeloid,other tissue	1	Kim-Hellmuth_2017 CD14-positive, CD16-negative classical monocyte IVT_6h	1	1
+FinnGen R12	601f80dbe43c61bf9779535f157238f2	rs1734790	HCFC1	7	0.889	B/LCL,other tissue	1			0
+FinnGen R12	e207dc064e1fceb6cd59362e832c7b0e	rs10818940	GAPVD1	1	0.885	myeloid	1	Schmiedel_2018 CD14-positive, CD16-negative classical monocyte naive	1	1
+Ishigaki 2022 (EUR)	0781976819a09a2273c593c4d4de9116	rs11089637	PI4KA	1	0.884	T/NK	1		1	1
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	APOBR	2	0.883	B/LCL,blood/plasma	1		1	1
+Ishigaki 2022 (EUR)	1d0cd04eabf19a2f74a1505e513ec0ea	rs62067029	GSDMA	2	0.883	T/NK,other tissue	1		-1	1
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	NPIPB6	20	0.88	B/LCL,other tissue	1			0
+Ishigaki 2022 (EUR)	4d110256a47c6263b54ad25c3db531c2	rs58721818	WAKMAR2	1	0.877	T/NK	1		1	1
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	EIF3CL	17	0.875	T/NK,blood/plasma,other tissue	1			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	NFATC2IP	1	0.872	B/LCL	1		1	1
+Ishigaki 2022 (EUR)	d533f19ab99fadb1f67603a1db21f129	rs11258264	PFKFB3	1	0.853	T/NK	1		-1	1
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	SPNS1	1	0.849	granulocyte	1		1	1
+FinnGen R12	1088b80166e570ea00675a20dce2fa89	rs111960587	XCR1	1	0.831	myeloid	1	Quach_2016 CD14-positive, CD16-negative classical monocyte R848_6h		0
+FinnGen R12	1b0291e20321678236411ab735675701	rs34536443	PDE4A	1	1	other tissue	0			0
+Ishigaki 2022 (EUR)	f1c269b9394e871dfde548218a36c0b7	rs2240336	PADI4	36	0.999	blood/plasma,other tissue	0			0
+Ishigaki 2022 (EUR)	ec77bacbb0ce0e55382f601124ce43ef	rs34536443	PDE4A	1	0.999	other tissue	0			0
+FinnGen R12	2618b9f98801bf79d468c9f703c72d75	rs72660908	ENSG00000272432	10	0.999	other tissue	0			0
+FinnGen R12	2618b9f98801bf79d468c9f703c72d75	rs72660908	LDLRAP1	2	0.999	other tissue	0			0
+FinnGen R12	2618b9f98801bf79d468c9f703c72d75	rs72660908	ENSG00000259984	2	0.998	other tissue	0			0
+FinnGen R12	c6761109eca8113528e4891cacf4366e	rs72836346	ACOXL-AS1	9	0.998	other tissue	0			0
+Ishigaki 2022 (EUR)	ec77bacbb0ce0e55382f601124ce43ef	rs34536443	KRI1	2	0.998	other tissue	0			0
+Ishigaki 2022 (EUR)	ec77bacbb0ce0e55382f601124ce43ef	rs34536443	KEAP1	1	0.998	other tissue	0			0
+Ishigaki 2022 (EUR)	2733c95adf53fc6458a838df5830ea57	rs2421206	SPC24	1	0.996	other tissue	0			0
+Ishigaki 2022 (EUR)	0baf91dd89e03e4993615a232d922ce5	rs12720356	RAVER1	1	0.996	blood/plasma	0			0
+Ishigaki 2022 (EUR)	57ed01bc8d5fd06eca3dd825c9ebb879	rs1873914	IKZF4	6	0.994	other tissue	0			0
+Ishigaki 2022 (EUR)	7795ad21591aa25d01c0bd174b844ab8	rs212389	ENSG00000224478	3	0.994	other tissue	0			0
+Ishigaki 2022 (EUR)	5b0e7a0b140a01f0635dd2ccb71fa2f9	rs7928371	TREH	8	0.993	other tissue	0			0
+FinnGen R12	1b0291e20321678236411ab735675701	rs34536443	KRI1	1	0.992	other tissue	0			0
+Ishigaki 2022 (EUR)	57ed01bc8d5fd06eca3dd825c9ebb879	rs1873914	RDH5	1	0.992	other tissue	0			0
+FinnGen R12	2618b9f98801bf79d468c9f703c72d75	rs72660908	RHCE	5	0.991	other tissue	0			0
+Ishigaki 2022 (EUR)	92e45200e5b6b2419b8833435b98cdb5	rs137687	RPL3	5	0.991	other tissue	0			0
+FinnGen R12	cafe02a73c7189155c52bd541a869584	rs867991	ZEB1	2	0.99	other tissue	0			0
+Ishigaki 2022 (EUR)	25366b80960085c00ab47b047212cbc6	rs9603608	COG6	8	0.985	other tissue	0			0
+Ishigaki 2022 (EUR)	2733c95adf53fc6458a838df5830ea57	rs2421206	KANK2	33	0.984	other tissue	0			0
+FinnGen R12	601f80dbe43c61bf9779535f157238f2	rs1734790	RENBP	6	0.982	other tissue	0			0
+FinnGen R12	b7273e0160ec1844d49386f5a4fe9a76	rs548877	IFT46	1	0.981	other tissue	0			0
+Ishigaki 2022 (EUR)	5b0e7a0b140a01f0635dd2ccb71fa2f9	rs7928371	ENSG00000255176	1	0.981	other tissue	0			0
+Ishigaki 2022 (EUR)	803d98eeb8881074e6b10daa173b7c4c	rs16939895	PTPN2	4	0.978	other tissue	0			0
+FinnGen R12	b7273e0160ec1844d49386f5a4fe9a76	rs548877	FXYD2	1	0.977	other tissue	0			0
+FinnGen R12	b7273e0160ec1844d49386f5a4fe9a76	rs548877	UBE4A	1	0.976	other tissue	0			0
+Ishigaki 2022 (EUR)	59259272e4afd688c82d517bd91a4cc5	rs6448432	RBPJ	1	0.976	other tissue	0			0
+Ishigaki 2022 (EUR)	65ce2b29cb87b67602e814928201d91b	rs17880053	TMEM50B	5	0.975	other tissue	0			0
+FinnGen R12	601f80dbe43c61bf9779535f157238f2	rs1734790	NAA10	7	0.975	other tissue	0			0
+FinnGen R12	601f80dbe43c61bf9779535f157238f2	rs1734790	L1CAM	1	0.974	blood/plasma	0			0
+FinnGen R12	187c4b36336b79ff926528a5d514a5df	rs6448432	RBPJ	1	0.973	other tissue	0			0
+Ishigaki 2022 (EUR)	9c7277fb32fd71f744c0385470b1024d	rs10405617	SLC44A2	3	0.969	other tissue	0			0
+Ishigaki 2022 (EUR)	bcfd2d20e588d0f8111a4d886c3d9fe3	rs4239702	SLC12A5	3	0.968	other tissue	0			0
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	PRXL2B	11	0.953	blood/plasma,other tissue	0			0
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	ENSG00000283259	2	0.953	other tissue	0			0
+Ishigaki 2022 (EUR)	342c7055b3a8c66fee550b9073138a75	rs6781611	PLCL2-AS1	3	0.952	other tissue	0			0
+FinnGen R12	35f3baded73529b2dc1994d015544154	rs16903065	PVT1	1	0.949	other tissue	0			0
+Ishigaki 2022 (EUR)	890c29cfe7c52bc97eeae3c07efdcf2d	rs1400482	PVT1	1	0.946	other tissue	0			0
+Ishigaki 2022 (EUR)	9c7277fb32fd71f744c0385470b1024d	rs10405617	QTRT1	1	0.944	other tissue	0			0
+FinnGen R12	e207dc064e1fceb6cd59362e832c7b0e	rs10818940	ENSG00000227200	2	0.943	other tissue	0			0
+Ishigaki 2022 (EUR)	1d0cd04eabf19a2f74a1505e513ec0ea	rs62067029	PGAP3	1	0.941	other tissue	0			0
+Ishigaki 2022 (EUR)	e8ffa7955a695d062c547fab8612d23e	rs577932181	PSMD5	1	0.936	other tissue	0			0
+Ishigaki 2022 (EUR)	1d0cd04eabf19a2f74a1505e513ec0ea	rs62067029	MSL1	1	0.935	other tissue	0			0
+FinnGen R12	1088b80166e570ea00675a20dce2fa89	rs111960587	FYCO1	1	0.933	other tissue	0			0
+Ishigaki 2022 (EUR)	0781976819a09a2273c593c4d4de9116	rs11089637	ENSG00000273342	12	0.927	other tissue	0			0
+FinnGen R12	1088b80166e570ea00675a20dce2fa89	rs111960587	NBEAL2	1	0.926	other tissue	0			0
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	TNFRSF14	2	0.926	other tissue	0			0
+FinnGen R12	35015593d5ec9a70f1ee961c9ebac091	rs74908652	RAVER1	1	0.924	blood/plasma	0			0
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	GABRD	1	0.921	other tissue	0			0
+Ishigaki 2022 (EUR)	bd599f77f64b1d86f64ff41ca6886892	rs11810143	PCP4L1	1	0.918	other tissue	0			0
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	ENSG00000228037	2	0.916	other tissue	0			0
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	FAAP20	1	0.911	other tissue	0			0
+Ishigaki 2022 (EUR)	0781976819a09a2273c593c4d4de9116	rs11089637	PPIL2	2	0.902	blood/plasma,other tissue	0			0
+Ishigaki 2022 (EUR)	9c7277fb32fd71f744c0385470b1024d	rs10405617	ICAM5	1	0.899	blood/plasma	0			0
+FinnGen R12	1088b80166e570ea00675a20dce2fa89	rs111960587	LRRC2	1	0.899	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	SLX1B-SULT1A4	4	0.899	blood/plasma,other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	ENSG00000261766	17	0.893	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	NPIPB9	11	0.893	other tissue	0			0
+Ishigaki 2022 (EUR)	9c7277fb32fd71f744c0385470b1024d	rs10405617	KEAP1	1	0.892	other tissue	0			0
+Ishigaki 2022 (EUR)	bd599f77f64b1d86f64ff41ca6886892	rs11810143	ENSG00000283317	2	0.889	other tissue	0			0
+FinnGen R12	4546eae8c68f12eb99d1532c86a2a3c2	rs11892748	ACOXL	1	0.886	other tissue	0			0
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	PRKCZ	1	0.884	other tissue	0			0
+FinnGen R12	6321b229d2311e70985bd79e2e16af72	rs4310388	ENSG00000285945	3	0.881	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	NUPR1	14	0.878	other tissue	0			0
+FinnGen R12	950e0e3d706e258a4acc4937232c560e	rs7740758	CLPSL1	1	0.877	other tissue	0			0
+Ishigaki 2022 (EUR)	1d0cd04eabf19a2f74a1505e513ec0ea	rs62067029	MED24	1	0.877	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	ENSG00000260796	8	0.877	other tissue	0			0
+FinnGen R12	1088b80166e570ea00675a20dce2fa89	rs111960587	ALS2CL	1	0.875	other tissue	0			0
+Ishigaki 2022 (EUR)	5b0e7a0b140a01f0635dd2ccb71fa2f9	rs7928371	DDX6	1	0.87	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	ATP2A1-AS1	1	0.869	other tissue	0			0
+FinnGen R12	e207dc064e1fceb6cd59362e832c7b0e	rs10818940	ENSG00000235204	2	0.855	other tissue	0			0
+FinnGen R12	601f80dbe43c61bf9779535f157238f2	rs1734790	FLNA	1	0.855	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	RABEP2	2	0.851	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	SGF29	2	0.841	blood/plasma,other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	SULT1A4	1	0.838	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	NPIPB7	2	0.836	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	NPIPB8	1	0.827	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	ENSG00000260570	1	0.826	other tissue	0			0
+Ishigaki 2022 (EUR)	e8ffa7955a695d062c547fab8612d23e	rs577932181	RAB14	1	0.824	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	ENSG00000261832	1	0.813	other tissue	0			0
+FinnGen R12	08b3555ccb55fb64275766fe16bb61d2	rs55893769	CLN3	1	0.807	other tissue	0			0
+FinnGen R12	601f80dbe43c61bf9779535f157238f2	rs1734790	PLXNB3	1	0.805	other tissue	0			0

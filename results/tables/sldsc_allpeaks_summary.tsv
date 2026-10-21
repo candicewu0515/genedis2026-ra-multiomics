@@ -1,0 +1,4 @@
+gwas	enrichment	enrichment_p	tau_z	h2	intercept
+RA_FinnGen_R12	13.54	2.71e-10	4.631	0.1433	1.0914
+RA_Ishigaki_EUR	9.266	4.778e-08	3.137	0.2046	1.0544
+T2D_FinnGen_R12_control	2.264	0.1404	-0.2824	0.1707	1.3913

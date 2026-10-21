@@ -1,0 +1,16 @@
+{
+  "inputs": {
+    "scripts/36_scdrs.py": "bb883780eafbb3e2776f26b6dccffb31d62da49e76488c6f4109e8c7f92837f4",
+    "scripts/config.py": "3ff18b61884d9bc8b1b22e66ed3766e05a1f3b2cbee34c60aa2befe800c5d267",
+    "data/interim/gse243917_annotated.h5ad": "a539adec83ff85a9cf5b7acc0c88e8a26e78ee61998a52faf5aaa9aac2f96108",
+    "results/tables/magma_genes_RA_Ishigaki_EUR.tsv": "0824a9ac53437a4749b8a28ef2fc781de72a14abd4bfdd9f9ea27c0b96e8b2fc",
+    "results/tables/magma_genes_RA_FinnGen_R12.tsv": "6a7abdd4dfb11fd74aa69da123863583a799f51aade37319ce1620b65636221e",
+    "results/tables/magma_genes_T2D_FinnGen_R12_control.tsv": "0a0da893d9c289d4f04bad20c74eecaafd79a854b7fcee485036446536346029"
+  },
+  "outputs": {
+    "results/tables/scdrs_groups.tsv": "2230cc7890910742d8a0cd6250e9939959a55946c58facd4bbe009719e06f65f",
+    "data/interim/magma/scdrs_cells_RA_Ishigaki_EUR.tsv.gz": "d8e1a4bd6bb85a4ea54a60d48fc4ade7e40a9887f539b4dcf4e46bbfd6353a74",
+    "data/interim/magma/scdrs_cells_RA_FinnGen_R12.tsv.gz": "8a2928897d01d89c07d7c950e381b108d5ecf36627130988113addb6f3bb58bd",
+    "data/interim/magma/scdrs_cells_T2D_FinnGen_R12_control.tsv.gz": "e87fc04ff153252f09cf4124d3543ee5082779a70f0cd675677e8d22d90a5596"
+  }
+}

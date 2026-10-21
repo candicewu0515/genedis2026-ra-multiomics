@@ -1,0 +1,5 @@
+cancer	score	n	events	HR_per_SD	CI_low	CI_high	p	HR_stage	p_stage	logrank_median_split_p
+LUAD	polarity_CXCL9_minus_SPP1	491	179	0.8493	0.7253	0.9946	0.04262	2.531	5.718e-09	0.1166
+LUAD	ra_signature	491	179	1.046	0.9125	1.199	0.5176	2.514	7.463e-09	0.9655
+LUSC	polarity_CXCL9_minus_SPP1	489	212	0.8609	0.7502	0.988	0.03298	1.62	0.003456	0.02971
+LUSC	ra_signature	489	212	1.094	0.9533	1.254	0.2015	1.562	0.006688	0.3744

@@ -1,0 +1,6 @@
+  RA_Ishigaki_EUR: 12,575,992 SNPs after MHC exclusion; non-MHC p < 1e-300 clipped: 261
+  MAGMA RA_Ishigaki_EUR: 18705 genes; top: ITPR3, COG6, SPRED2, ZSCAN31, MAGI3, MLN, CTLA4, PHTF1, ANKRD55, ZKSCAN3, OLFML3, ZSCAN23
+  RA_FinnGen_R12: 20,379,042 SNPs after MHC exclusion; non-MHC p < 1e-300 clipped: 54
+  MAGMA RA_FinnGen_R12: 18839 genes; top: LRRC16A, IP6K3, ZSCAN12, HIPK1, MLN, OLFML3, PGBD1, LEMD2, ZSCAN23, ITPR3, UQCC2, PACSIN1
+  T2D_FinnGen_R12_control: 20,381,552 SNPs after MHC exclusion; non-MHC p < 1e-300 clipped: 0
+  MAGMA T2D_FinnGen_R12_control: 18839 genes; top: CDKAL1, KCNQ1, TCF7L2, HMGA2, RELN, ST6GAL1, HNF4A, WWOX, PPARG, VTI1A, FBXL13, FTO

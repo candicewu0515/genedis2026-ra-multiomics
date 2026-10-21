@@ -1,0 +1,116 @@
+gene	sources	category	ot_ra_score	ot_ra_rank	ot_ra_genetic	ot_ra_clinical	max_stage_RA	RA_drugs	max_stage_any	n_drugs	late_stage_inhibitors	late_stage_activators	tractable_small_molecule	tractable_antibody	evidence	ensembl
+IL6R	control	approved in RA	0.7517	2.0	0.8978	0.9935	APPROVAL	TOCILIZUMAB (APPROVAL); SARILUMAB (APPROVAL); SATRALIZUMAB (PHASE_3); LEVILIMAB (PHASE_3); VOBARILIZUMAB (PHASE_2)	APPROVAL	5.0	LEVILIMAB; SARILUMAB; SATRALIZUMAB; TOCILIZUMAB		True	True	target of an approved RA drug	ENSG00000160712
+JAK1	control	approved in RA	0.7187	4.0	0.6935	0.9933	APPROVAL	TOFACITINIB CITRATE (APPROVAL); FILGOTINIB MALEATE (APPROVAL); UPADACITINIB (APPROVAL); UPADACITINIB HEMIHYDRATE (APPROVAL); BARICITINIB (APPROVAL); FILGOTINIB (APPROVAL); TOFACITINIB (APPROVAL); PEFICITINIB (PHASE_3); ITACITINIB (PHASE_2); INCB-0479	APPROVAL	25.0	ABROCITINIB; BARICITINIB; BREPOCITINIB; DELGOCITINIB; DEURUXOLITINIB PHOSPHATE; FILGOTINIB; FILGOTINIB MALEATE; GOLIDOCITINIB; ITACITINIB; MOMELOTINIB; MOMELOTINIB DIHYDROCHLORIDE MONOHYDRATE; PEFICIT		True	True	target of an approved RA drug	ENSG00000162434
+TNF	control	approved in RA	0.7164	6.0	0.0	0.9986	APPROVAL	ETANERCEPT (APPROVAL); INFLIXIMAB (APPROVAL); OZORALIZUMAB (APPROVAL); CERTOLIZUMAB PEGOL (APPROVAL); GOLIMUMAB (APPROVAL); ADALIMUMAB (APPROVAL); NERELIMOMAB (PHASE_3); PLACULUMAB (PHASE_2); REMTOLUMAB (PHASE_2); ABBV-3373 (PHASE_2); PEGSUNERCEPT (P	APPROVAL	14.0	AFELIMOMAB; CERTOLIZUMAB PEGOL; GOLIMUMAB; INFLIXIMAB; LENERCEPT; NERELIMOMAB; ONERCEPT; OZORALIZUMAB		True	True	target of an approved RA drug	ENSG00000232810
+MS4A1	control	approved in RA	0.6129	27.0	0.0	0.9867	APPROVAL	RITUXIMAB (APPROVAL); OFATUMUMAB (PHASE_3); OCRELIZUMAB (PHASE_3); TRU-015 (PHASE_2); VELTUZUMAB (PHASE_2)	APPROVAL	18.0			True	True	target of an approved RA drug	ENSG00000156738
+IFNGR2	communication	late-stage drug, activating/unclear direction	0.4656	87.0	0.758	0.0			PHASE_4	1.0		INTERFERON GAMMA-1B	True	True	IFN-gamma / CXCR3 axis around M-6	ENSG00000159128
+FCGR3A	gwas	late-stage drug, activating/unclear direction	0.125	971.0	0.0619	0.0			PHASE_3	2.0			True	True	rs10917571 in NK-1: CD56dim CD16+ IFNG+CD160+	ENSG00000203747
+IFNGR1	communication	late-stage drug, activating/unclear direction	0.0494	2560.0	0.0642	0.0			PHASE_4	1.0		INTERFERON GAMMA-1B	True	True	IFN-gamma / CXCR3 axis around M-6	ENSG00000027697
+SERPING1	pathway	late-stage drug, activating/unclear direction	0.0483	2604.0	0.0	0.0			PHASE_4	1.0			False	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000149131
+CTLA4	gwas	late-stage inhibitor, direction to verify (GWAS gene)	0.618	24.0	0.9615	0.0			PHASE_4	6.0	CADONILIMAB; ERFONRILIMAB; IPILIMUMAB; QUAVONLIMAB		True	True	rs3087243 in B-0: CD24+CD27+CD11b+ switched memory; T-10: CD4+ OX40+NR3C1+; T-7: CD4+ Tph; T-8: CD4+ CD25-high Treg; T-9: CD4+ CD25-l	ENSG00000163599
+TNFSF4	gwas	late-stage inhibitor, direction to verify (GWAS gene)	0.4657	86.0	0.7298	0.0			PHASE_3	2.0	AMLITELIMAB		False	True	rs61828284 in E-2: ICAM1+ venular; F-7: NOTCH3+ sublining; T-0: CD4+ IL7R+ memory; T-2: CD4+ IL7R+CCR5+ memory; T-4: CD4+ naive	ENSG00000117586
+CD2	gwas	late-stage inhibitor, direction to verify (GWAS gene)	0.442	101.0	0.6831	0.1216			APPROVAL	2.0	ALEFACEPT		False	True	rs798000 in F-0: PRG4+ CLIC5+ lining; Tcell	ENSG00000116824
+IRF5	gwas	no tractability evidence	0.6376	12.0	0.8832	0.0				0.0			False	False	rs3807306 in Bcell; T-11: CD4+ CD146+ memory; plasma	ENSG00000128604
+STAT4	pathway	no tractability evidence	0.609	28.0	0.8308	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000138378
+GATA3	gwas	no tractability evidence	0.5487	46.0	0.8829	0.0				0.0			False	False	rs2275806;rs3802604 in B-8: IgG1+IgG3+ plasma; F-4: DKK3+ sublining; NK; Tcell	ENSG00000107485
+LBH	gwas	no tractability evidence	0.5456	47.0	0.8795	0.0				0.0			False	False	rs10175798;rs906868 in F-2: CD34+ sublining; M-9: DC3; T-15: CD8+ GZMB+/TEMRA; T-7: CD4+ Tph	ENSG00000213626
+TNFAIP3	gwas	no tractability evidence	0.5125	58.0	0.7891	0.0				0.0			False	False	rs10872479 in B-7: HLA-DR+IgG+ plasmablast	ENSG00000118503
+ANKRD55	gwas	no tractability evidence	0.4856	74.0	0.7857	0.0				0.0			False	False	rs6859219;rs7731626 in E-3: NOTCH4+ arteriolar; T-10: CD4+ OX40+NR3C1+; T-20: CD38+; T-3: CD4+ Tfh/Tph; T-7: CD4+ Tph; T-9: CD4+ CD25-low Treg;	ENSG00000164512
+TNIP1	gwas	no tractability evidence	0.4661	85.0	0.7398	0.0				0.0			False	False	rs1422673 in M-8: PLCG2+; T-23: Vdelta2; T-6: CD4+ memory	ENSG00000145901
+CIITA	pathway	no tractability evidence	0.4335	107.0	0.6868	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000179583
+ETV7	gwas	no tractability evidence	0.4286	115.0	0.6994	0.0				0.0			False	False	rs2234067 in B-5: CD11c+LAMP1+ ABC; E-2: ICAM1+ venular; F-8: RSPO3+ intermediate	ENSG00000010030
+PHF19	gwas	no tractability evidence	0.2703	396.0	0.4329	0.0				0.0			False	False	rs881375 in B-1: CD24++CD27+IgM+ unswitched memory	ENSG00000119403
+IRF8	gwas,pathway	no tractability evidence	0.2526	469.0	0.3975	0.0				0.0			False	False	rs9927316 in NK-1: CD56dim CD16+ IFNG+CD160+; myeloid | IFN-gamma response leading edge in both GSEA contrasts	ENSG00000140968
+EPSTI1	pathway	no tractability evidence	0.1196	1014.0	0.1906	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000133106
+IRF1	pathway	no tractability evidence	0.1082	1168.0	0.0622	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000125347
+TRAFD1	pathway	no tractability evidence	0.0818	1740.0	0.108	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000135148
+ADAR	pathway	no tractability evidence	0.0775	1845.0	0.0	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000160710
+SAMD9L	pathway	no tractability evidence	0.0437	2775.0	0.0	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000177409
+NLRC5	pathway	no tractability evidence	0.0433	2799.0	0.0	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000140853
+MT2A	pathway,signature	no tractability evidence	0.0363	3247.0	0.0	0.0				0.0			False	False	up in active-RA macrophages | IFN-gamma response leading edge in both GSEA contrasts	ENSG00000125148
+MT1E	signature	no tractability evidence	0.0168	4720.0	0.0	0.0				0.0			False	False	up in active-RA macrophages	ENSG00000169715
+MT1M	signature	no tractability evidence	0.015	4849.0	0.0	0.0				0.0			False	False	up in active-RA macrophages	ENSG00000205364
+MT1X	signature	no tractability evidence	0.012	5123.0	0.0	0.0				0.0			False	False	up in active-RA macrophages	ENSG00000187193
+LCP2	pathway	no tractability evidence	0.0108	5286.0	0.0	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000043462
+MT1F	signature	no tractability evidence	0.0098	5374.0	0.0	0.0				0.0			False	False	up in active-RA macrophages	ENSG00000198417
+MT1H	signature	no tractability evidence	0.0047	6435.0	0.0	0.0				0.0			False	False	up in active-RA macrophages	ENSG00000205358
+MT1G	signature	no tractability evidence	0.0035	7329.0	0.0	0.0				0.0			False	False	up in active-RA macrophages	ENSG00000125144
+BTG1	pathway	no tractability evidence	0.003	7423.0	0.0	0.0				0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000133639
+AL355916.3	gwas	no tractability evidence	0.0							0.0			False	False	rs3783782 in M-8: PLCG2+	ENSG00000258989
+MT1L	signature	no tractability evidence	0.0							0.0			False	False	up in active-RA macrophages	ENSG00000260549
+PALM2AKAP2	signature	no tractability evidence	0.0												up in active-RA macrophages	
+SOD2	pathway	no tractability evidence	0.0												IFN-gamma response leading edge in both GSEA contrasts	ENSG00000112096
+TDRD10	gwas	no tractability evidence	0.0							0.0			False	False	rs4341355 in M-1: MERTK+ SELENOP+ LYVE1-; M-3: MERTK+ HBEGF+; T-3: CD4+ Tfh/Tph; Tcell	ENSG00000163239
+TRIM25	pathway	no tractability evidence	0.0							0.0			False	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000121060
+ZNF629	gwas	no tractability evidence	0.0							0.0			False	False	rs34480360 in F-8: RSPO3+ intermediate; T-16: CD8+ CD45ROlow/naive	ENSG00000102870
+TLR4	communication	repurposing lead: late-stage inhibitor of a disease-up gene	0.3755	160.0	0.563	0.0			PHASE_3	3.0	ERITORAN; ERITORAN TETRASODIUM; RESATORVID		True	True	receptor TLR4 on M-6	ENSG00000136869
+CD38	pathway	repurposing lead: late-stage inhibitor of a disease-up gene	0.1168	1040.0	0.0	0.0			PHASE_4	4.0	DARATUMUMAB; FELZARTAMAB; ISATUXIMAB		True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000004468
+SLAMF7	pathway,signature	repurposing lead: late-stage inhibitor of a disease-up gene	0.0845	1677.0	0.0	0.0			APPROVAL	2.0	ELOTUZUMAB		False	True	up in active-RA macrophages | IFN-gamma response leading edge in both GSEA contrasts	ENSG00000026751
+VWF	communication	repurposing lead: late-stage inhibitor of a disease-up gene	0.0834	1700.0	0.0	0.0			APPROVAL	4.0	CAPLACIZUMAB		True	True	ligand VWF from E-1 -> M-6 | ligand VWF from E-2 -> M-6 | ligand VWF from E-0 -> M-6	ENSG00000110799
+VEGFC	communication	repurposing lead: late-stage inhibitor of a disease-up gene	0.0734	1999.0	0.0	0.0			PHASE_3	1.0	CONBERCEPT		False	True	ligand VEGFC from F-0 -> M-6 | ligand VEGFC from F-1 -> M-6	ENSG00000150630
+C1S	pathway	repurposing lead: late-stage inhibitor of a disease-up gene	0.0438	2772.0	0.0	0.0			APPROVAL	2.0	HUMAN C1-ESTERASE INHIBITOR; SUTIMLIMAB		True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000182326
+CD40	gwas,pathway	tested in RA, not approved	0.6152	26.0	0.9502	0.1435	PHASE_2	ISCALIMAB (PHASE_2)	PHASE_2	10.0			False	True	rs1883832;rs4810485 in Bcell; M-8: PLCG2+; T-19: MT-high (low quality); T-1: CD4+ CD161+ memory; T-4: CD4+ naive | IFN-gamma response leading edge in both GSEA contrasts	ENSG00000101017
+CSF2	gwas	tested in RA, not approved	0.4114	132.0	0.1215	0.6154	PHASE_3	OTILIMAB (PHASE_3); NAMILUMAB (PHASE_2); LENZILUMAB (PHASE_2); GIMSILUMAB (PHASE_1); PLONMARLIMAB (PHASE_1)	PHASE_3	6.0	LENZILUMAB; OTILIMAB; PLONMARLIMAB		False	True	rs657075 in E-0: SPARC+ capillary; F-3: POSTN+ sublining; T-2: CD4+ IL7R+CCR5+ memory	ENSG00000164400
+CCR1	communication	tested in RA, not approved	0.3769	158.0	0.5588	0.1767	PHASE_2	BMS-817399 (PHASE_2); CCX354 (PHASE_2)	PHASE_2	3.0			True	True	receptor CCR1 on M-6	ENSG00000163823
+CCR5	communication	tested in RA, not approved	0.1646	764.0	0.2087	0.1527	PHASE_2	MARAVIROC (PHASE_2); AZD5672 (PHASE_2)	PHASE_4	13.0	APLAVIROC; APLAVIROC HYDROCHLORIDE; CENICRIVIROC; LERONLIMAB; MARAVIROC; VICRIVIROC		True	True	receptor CCR5 on M-6	ENSG00000160791
+IFNG	communication	tested in RA, not approved	0.1477	840.0	0.0612	0.1368	PHASE_2	FONTOLIZUMAB (PHASE_2)	PHASE_4	3.0	EMAPALUMAB		True	True	IFN-gamma / CXCR3 axis around M-6	ENSG00000111537
+CXCL10	communication,pathway	tested in RA, not approved	0.1363	898.0	0.0	0.1216	PHASE_2	ELDELUMAB (PHASE_2)	PHASE_2	2.0			True	True	IFN-gamma / CXCR3 axis around M-6 | ligand CXCL10 from M-6 -> M-6 | IFN-gamma response leading edge in both GSEA contrasts	ENSG00000169245
+ITGB2	communication	tested in RA, not approved	0.1341	910.0	0.0	0.1368	PHASE_2	EFALIZUMAB (PHASE_2)	PHASE_4	3.0	LIFITEGRAST		True	True	receptor ITGAX_ITGB2 on M-6	ENSG00000160255
+ARID5B	gwas	tractable, no late-stage drug	0.5308	49.0	0.8601	0.0				0.0			False	True	rs71508903 in F-6: CXCL12+ SFRP1+ sublining; T-3: CD4+ Tfh/Tph; T-8: CD4+ CD25-high Treg	ENSG00000150347
+RUNX1	gwas	tractable, no late-stage drug	0.5258	52.0	0.8177	0.0				0.0			True	False	rs66922517 in M-10: DC2; T-4: CD4+ naive; T-8: CD4+ CD25-high Treg; plasma	ENSG00000159216
+CCR6	gwas	tractable, no late-stage drug	0.5236	55.0	0.8219	0.0				0.0			True	True	rs3093023 in B-6: IgM+ plasma; Bcell; M-1: MERTK+ SELENOP+ LYVE1-; T-9: CD4+ CD25-low Treg	ENSG00000112486
+FCGR2A	communication	tractable, no late-stage drug	0.4939	67.0	0.7659	0.0				0.0			True	True	receptor FCGR2A on M-6	ENSG00000143226
+PTPN2	gwas	tractable, no late-stage drug	0.4796	78.0	0.7428	0.0				0.0			True	True	rs7241016 in NK-9: MT-high; T-7: CD4+ Tph	ENSG00000175354
+CXCL13	gwas	tractable, no late-stage drug	0.4186	126.0	0.6371	0.0				0.0			False	True	rs117605225 in M-10: DC2; M-1: MERTK+ SELENOP+ LYVE1-; T-13: CD8+ GZMK/B+ memory; T-18: Proliferating; T-3: CD4+ Tfh/Tph; T-7: CD4+ Tph	ENSG00000156234
+PLD4	gwas	tractable, no late-stage drug	0.4174	127.0	0.6612	0.0				0.0			True	True	rs2582532 in Bcell; E-2: ICAM1+ venular; M-10: DC2; plasma	ENSG00000166428
+NAB1	gwas	tractable, no late-stage drug	0.4061	138.0	0.6607	0.0				0.0			False	True	rs2192008 in M-3: MERTK+ HBEGF+; T-18: Proliferating; plasma	ENSG00000138386
+IFIH1	pathway	tractable, no late-stage drug	0.4033	139.0	0.6238	0.0				0.0			True	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000115267
+CCDC88B	gwas	tractable, no late-stage drug	0.3315	226.0	0.544	0.0				0.0			False	True	rs479777 in Bcell; F-1: PRG4+ lining	ENSG00000168071
+RPLP1	gwas	tractable, no late-stage drug	0.3228	248.0	0.5309	0.0			PHASE_2	5.0			True	False	rs10152590;rs10152591 in M-10: DC2; M-7: IL1B+ FCN1+	ENSG00000137818
+PFKFB3	gwas	tractable, no late-stage drug	0.2547	465.0	0.378	0.0				0.0			True	False	rs947474 in M-10: DC2; M-7: IL1B+ FCN1+	ENSG00000170525
+STAT3	pathway	tractable, no late-stage drug	0.2251	543.0	0.3215	0.0			PHASE_2	1.0			True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000168610
+NRP2	communication	tractable, no late-stage drug	0.1555	804.0	0.2391	0.0				0.0			False	True	receptor NRP2 on M-6	ENSG00000118257
+STAT1	pathway	tractable, no late-stage drug	0.1458	849.0	0.1866	0.0				0.0			True	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000115415
+CXCR5	gwas	tractable, no late-stage drug	0.1301	934.0	0.0963	0.0				0.0			True	True	rs7117261 in B-8: IgG1+IgG3+ plasma; M-4: SPP1+	ENSG00000160683
+CXCR3	communication	tractable, no late-stage drug	0.1223	987.0	0.0	0.0				0.0			True	True	IFN-gamma / CXCR3 axis around M-6	ENSG00000186810
+TLR2	communication	tractable, no late-stage drug	0.1137	1073.0	0.0	0.0			PHASE_2	2.0			True	True	receptor TLR2 on M-6	ENSG00000137462
+MYD88	pathway	tractable, no late-stage drug	0.1115	1109.0	0.0	0.0				0.0			False	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000172936
+TNFSF10	pathway	tractable, no late-stage drug	0.1107	1127.0	0.0	0.0				0.0			True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000121858
+SEMA3A	communication	tractable, no late-stage drug	0.1082	1169.0	0.0	0.0				0.0			False	True	ligand SEMA3A from F-0 -> M-6	ENSG00000075213
+PKM	signature	tractable, no late-stage drug	0.1049	1243.0	0.0	0.0				0.0			True	True	up in active-RA macrophages	ENSG00000067225
+CXCL9	communication,pathway	tractable, no late-stage drug	0.1018	1301.0	0.0	0.0				0.0			False	True	IFN-gamma / CXCR3 axis around M-6 | ligand CXCL9 from M-6 -> M-6 | IFN-gamma response leading edge in both GSEA contrasts	ENSG00000138755
+ITGAX	communication	tractable, no late-stage drug	0.0998	1351.0	0.0	0.0				0.0			False	True	receptor ITGAX_ITGB2 on M-6	ENSG00000140678
+TRIM21	pathway	tractable, no late-stage drug	0.0917	1536.0	0.0	0.0				0.0			True	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000132109
+THY1	communication	tractable, no late-stage drug	0.0863	1640.0	0.0	0.0				0.0			False	True	ligand THY1 from F-4 -> M-6	ENSG00000154096
+SIRPA	communication	tractable, no late-stage drug	0.0743	1968.0	0.0	0.0				0.0			False	True	receptor SIRPA on M-6	ENSG00000198053
+LILRB2	communication	tractable, no late-stage drug	0.0726	2010.0	0.0	0.0				0.0			True	True	receptor LILRB2 on M-6	ENSG00000131042
+PLSCR1	pathway	tractable, no late-stage drug	0.0699	2049.0	0.0	0.0				0.0			False	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000188313
+IL18BP	pathway	tractable, no late-stage drug	0.068	2086.0	0.0	0.0				0.0			False	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000137496
+PIM1	pathway	tractable, no late-stage drug	0.0627	2181.0	0.0	0.0			PHASE_1_2	3.0			True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000137193
+SOCS3	pathway	tractable, no late-stage drug	0.0598	2246.0	0.0506	0.0				0.0			False	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000184557
+PTPN1	pathway	tractable, no late-stage drug	0.0586	2280.0	0.0	0.0				0.0			True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000196396
+BGN	communication	tractable, no late-stage drug	0.0579	2298.0	0.0	0.0				0.0			False	True	ligand BGN from F-4 -> M-6 | ligand BGN from F-3 -> M-6 | ligand BGN from F-8 -> M-6 | ligand BGN from F-5 -> M-6 | ligand BGN from F-1 -> M-6	ENSG00000182492
+MX1	pathway	tractable, no late-stage drug	0.0556	2355.0	0.0	0.0				0.0			True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000157601
+CCL14	communication	tractable, no late-stage drug	0.0538	2399.0	0.0	0.0				0.0			False	True	ligand CCL14 from E-2 -> M-6 | ligand CCL14 from E-1 -> M-6	ENSG00000276409
+MVP	pathway	tractable, no late-stage drug	0.0508	2502.0	0.0	0.0				0.0			True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000013364
+CXCL11	communication	tractable, no late-stage drug	0.0448	2740.0	0.0	0.0				0.0			True	True	IFN-gamma / CXCR3 axis around M-6	ENSG00000169248
+LAP3	pathway	tractable, no late-stage drug	0.0434	2794.0	0.0	0.0			PHASE_2	1.0			True	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000002549
+STAT2	pathway	tractable, no late-stage drug	0.0423	2842.0	0.0	0.0				0.0			False	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000170581
+IL4I1	signature	tractable, no late-stage drug	0.0422	2847.0	0.0	0.0				0.0			True	True	up in active-RA macrophages	ENSG00000104951
+OAS3	pathway	tractable, no late-stage drug	0.0364	3240.0	0.0	0.0				0.0			False	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000111331
+TSPAN32	gwas	tractable, no late-stage drug	0.0307	3732.0	0.0	0.0				0.0			False	True	rs734094 in B-5: CD11c+LAMP1+ ABC; F-3: POSTN+ sublining; M-10: DC2; NK	ENSG00000064201
+GBP5	signature	tractable, no late-stage drug	0.0302	3765.0	0.0	0.0				0.0			True	False	up in active-RA macrophages	ENSG00000154451
+ISG20	pathway	tractable, no late-stage drug	0.0272	3925.0	0.0	0.0				0.0			True	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000172183
+ANGPTL2	communication	tractable, no late-stage drug	0.0271	3935.0	0.0	0.0				0.0			False	True	ligand ANGPTL2 from F-4 -> M-6	ENSG00000136859
+ISG15	pathway	tractable, no late-stage drug	0.0196	4511.0	0.0	0.0				0.0			True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000187608
+PLGRKT	gwas	tractable, no late-stage drug	0.019	4557.0	0.0313	0.0				0.0			False	True	rs911760 in B-5: CD11c+LAMP1+ ABC; M-1: MERTK+ SELENOP+ LYVE1-	ENSG00000107020
+PFKP	signature	tractable, no late-stage drug	0.0165	4739.0	0.0	0.0				0.0			True	False	up in active-RA macrophages	ENSG00000067057
+APOL6	pathway,signature	tractable, no late-stage drug	0.0144	4919.0	0.0	0.0				0.0			False	True	up in active-RA macrophages | IFN-gamma response leading edge in both GSEA contrasts	ENSG00000221963
+LGMN	gwas	tractable, no late-stage drug	0.0134	4993.0	0.0	0.0				0.0			True	True	rs117068593 in B-5: CD11c+LAMP1+ ABC; NK	ENSG00000100600
+LGALS3BP	pathway	tractable, no late-stage drug	0.01	5349.0	0.0	0.0				0.0			False	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000108679
+PARP12	pathway	tractable, no late-stage drug	0.0069	5970.0	0.0	0.0				0.0			True	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000059378
+UBE2L6	pathway	tractable, no late-stage drug	0.0047	6425.0	0.0	0.0				0.0			True	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000156587
+PARP14	pathway	tractable, no late-stage drug	0.0045	6499.0	0.0	0.0				0.0			True	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000173193
+RNF213	pathway	tractable, no late-stage drug	0.0043	6656.0	0.0	0.0				0.0			True	False	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000173821
+VAMP5	pathway	tractable, no late-stage drug	0.0019	7979.0	0.0	0.0				0.0			False	True	IFN-gamma response leading edge in both GSEA contrasts	ENSG00000168899
+RARRES1	communication	tractable, no late-stage drug	0.0							0.0			False	True	ligand RARRES1 from F-5 -> M-6 | ligand RARRES1 from F-8 -> M-6	ENSG00000118849

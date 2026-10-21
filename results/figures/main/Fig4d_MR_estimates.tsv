@@ -1,0 +1,12 @@
+gene	gwas	ra_lead	instrument	dataset	qtl_type	category	clpp	OR_per_SD	OR_lo	OR_hi	z	n_datasets	share_same_sign	order
+IRF5	FinnGen R12	rs13246321	7_128936032_T_C	CAP lymphoblastoid cell line naive	eqtl	B/LCL	0.008918	0.9279	0.9087	0.9475	-7.015	8	0.25	5
+IRF5	Ishigaki 2022 (EUR)	rs3778754	7_128935498_C_G	Alasoo_2018 macrophage IFNg_18h	eqtl	myeloid	0.5123	0.8746	0.8477	0.9024	-8.408	18	0.2222	5
+IRF5	Ishigaki 2022 (EUR)	rs4731532	7_128932712_G_A	GTEx-v10 lymphoblastoid cell line naive	eqtl	B/LCL	0.9489	1.315	1.214	1.424	6.725	5	0.6	5
+CCR6	FinnGen R12	rs3836950	6_167120802_G_A	Fairfax_2012 B cell naive	eqtl	B/LCL	0.01838	1.246	1.169	1.329	6.712	2	0.5	4
+CCR6	Ishigaki 2022 (EUR)	rs3093017	6_167120802_G_A	Fairfax_2012 B cell naive	eqtl	B/LCL	0.08353	1.354	1.261	1.453	8.406	2	0.5	4
+FCGR2A	Ishigaki 2022 (EUR)	rs11810143	1_161506415_A_G	Alasoo_2018 macrophage IFNg_18h	eqtl	myeloid	0.03188	0.9277	0.9045	0.9514	-5.824	7	1.0	3
+CD40	Ishigaki 2022 (EUR)	rs4239702	20_46120612_T_C	OTAR2057_IBDverse plasma cell naive	sceqtl	B/LCL	0.1823	1.259	1.182	1.341	7.194	4	0.75	2
+IL6ST	FinnGen R12	rs7731626	5_56148856_G_A	OTAR2057_IBDverse CD4-positive, CD25-positive, alpha-beta regulatory T cell naive	sceqtl	T/NK	1.0	1.269	1.202	1.339	8.595	9	1.0	1
+IL6ST	Ishigaki 2022 (EUR)	rs7731626	5_56148856_G_A	OTAR2057_IBDverse CD4-positive, CD25-positive, alpha-beta regulatory T cell naive	sceqtl	T/NK	1.0	1.478	1.387	1.575	12.0	9	1.0	1
+CTLA4	FinnGen R12	rs3087243	2_203874196_G_A	CEDAR CD4-positive, alpha-beta T cell naive	eqtl	T/NK	0.1211	0.8609	0.8302	0.8927	-8.094	14	1.0	0
+CTLA4	Ishigaki 2022 (EUR)	rs7565213	2_203874196_G_A	OneK1K CD4-positive, alpha-beta T cell naive	sceqtl	T/NK	0.08104	0.7133	0.6649	0.7651	-9.437	6	1.0	0

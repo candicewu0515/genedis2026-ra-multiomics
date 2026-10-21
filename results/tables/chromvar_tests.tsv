@@ -1,0 +1,2 @@
+test	n_donors	n_stat_irf	median_rho_stat_irf	median_rho_other	p_one_sided
+STAT/IRF motifs vs all other motifs: correlation with RNA signature (donor level)	10	11	0.3697	-0.0424	0.0

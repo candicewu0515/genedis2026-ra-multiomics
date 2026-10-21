@@ -1,0 +1,7 @@
+test	value	p	fdr
+F1 T-cell PIP enrichment, Ishigaki	6.245	0.01998	0.07992
+F2 T-cell PIP enrichment, FinnGen replication	11.77	0.000999	0.007992
+F2 state-level concordance Ishigaki vs FinnGen (Spearman rho)	0.433	0.0003151	
+F3 LDL states with FDR < 0.05	0		
+F4 T-cell PIP enrichment, East Asian ancestry	1.263	0.2188	0.4092
+F4 state-level concordance EUR vs EAS (Spearman rho)	0.4154	0.0005787	

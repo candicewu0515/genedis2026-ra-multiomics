@@ -1,0 +1,53 @@
+Genes with genetic evidence for colocalisation: 41
+GWAS columns: ['chromosome', 'base_pair_location', 'effect_allele', 'other_allele', 'beta', 'standard_error', 'effect_allele_frequency', 'p_value', 'variant_id']
+[W::hts_idx_load3] The index file is older than the data file: <project>/data/raw/eqtl/GCST90132223.h.tsv.gz.tbi
+  CD40: done (best PP.H4 0.87)
+  STAT4: done (best PP.H4 0.00)
+  TNFAIP3: done (best PP.H4 0.09)
+  IRF8: done (best PP.H4 0.05)
+  RPLP1: done (best PP.H4 0.06)
+  CD2: done (best PP.H4 0.09)
+  FCGR2A: done (best PP.H4 0.11)
+  CXCL13: done (best PP.H4 0.00)
+  PLD4: done (best PP.H4 0.02)
+  CIITA: done (best PP.H4 0.03)
+  TLR4: done (best PP.H4 0.01)
+  TNIP1: done (best PP.H4 0.04)
+  ETV7: done (best PP.H4 0.11)
+  PHF19: done (best PP.H4 0.12)
+  IFIH1: done (best PP.H4 0.01)
+  IFNGR2: done (best PP.H4 0.30)
+  FCGR3A: done (best PP.H4 0.07)
+  CCR1: done (best PP.H4 0.06)
+  ARID5B: done (best PP.H4 0.22)
+  CTLA4: done (best PP.H4 0.09)
+  TNFSF4: done (best PP.H4 0.06)
+  ANKRD55: done (best PP.H4 0.00)
+  AL355916.3: done (best PP.H4 0.00)
+  ZNF629: done (best PP.H4 0.11)
+  CSF2: done (best PP.H4 0.03)
+  CCR6: done (best PP.H4 0.00)
+  NAB1: done (best PP.H4 0.33)
+  CXCR5: done (best PP.H4 0.07)
+  TSPAN32: done (best PP.H4 0.57)
+  LBH: done (best PP.H4 0.34)
+  RUNX1: done (best PP.H4 0.01)
+  PTPN2: done (best PP.H4 0.08)
+  CCDC88B: done (best PP.H4 0.14)
+  PFKFB3: done (best PP.H4 0.05)
+  LGMN: done (best PP.H4 0.04)
+  IL6R: done (best PP.H4 0.33)
+  JAK1: done (best PP.H4 0.09)
+  IRF5: done (best PP.H4 0.96)
+  GATA3: done (best PP.H4 0.05)
+  TDRD10: done (best PP.H4 0.70)
+  PLGRKT: done (best PP.H4 0.02)
+
+Tests run: 136 (gene x dataset with >= 50 shared variants)
+PP.H4 > 0.8 (shared causal variant):
+gene                         label  n_shared  gwas_min_p  eqtl_min_p  PP_H4 top_shared_variant
+IRF5 Nedelec_2016 macrophage_naive      3265         0.0      0.0000 0.9589          rs3823536
+IRF5     Quach_2016 monocyte_naive      3268         0.0      0.0000 0.9393          rs3807307
+CD40 Nedelec_2016 macrophage_naive      3166         0.0      0.0001 0.8681          rs4239702
+PP.H3 > 0.8 (distinct variants): CD40 (Quach_2016 monocyte_naive), STAT4 (Alasoo_2018 macrophage_naive), STAT4 (Alasoo_2018 macrophage_IFNg), STAT4 (Nedelec_2016 macrophage_naive), STAT4 (Quach_2016 monocyte_naive), ETV7 (Alasoo_2018 macrophage_IFNg), ETV7 (Quach_2016 monocyte_naive), PFKFB3 (Nedelec_2016 macrophage_naive), PFKFB3 (Quach_2016 monocyte_naive), PLGRKT (Alasoo_2018 macrophage_naive), PLGRKT (Alasoo_2018 macrophage_IFNg), PLGRKT (Nedelec_2016 macrophage_naive)
+Suggestive 0.5 < PP.H4 <= 0.8: TSPAN32 (Nedelec_2016 macrophage_naive, 0.57), TDRD10 (Alasoo_2018 macrophage_naive, 0.54), TDRD10 (Alasoo_2018 macrophage_IFNg, 0.70)

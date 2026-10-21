@@ -1,0 +1,32 @@
+   donor disease  grade prep_batch  n_T  tph_share_of_T  treg_share_of_T  T_share_of_all  m6_share_of_mac
+BRI-1385      RA      2     highMT  537           0.153            0.061           0.162            0.000
+BRI-1387      RA      2     highMT  442           0.224            0.104           0.108            0.011
+BRI-1389      RA      2     highMT  495           0.164            0.061           0.124            0.007
+BRI-1586      RA      2      lowMT   96           0.052            0.083           0.155            0.000
+BRI-1590      RA      2      lowMT  744           0.056            0.086           0.607            0.008
+BRI-1592      RA      4      lowMT  716           0.263            0.081           0.457            0.029
+BRI-1594      RA      2      lowMT  900           0.250            0.141           0.383            0.010
+BRI-1607      RA      4     highMT 1091           0.137            0.061           0.381            0.011
+BRI-1609      RA      2     highMT  490           0.065            0.065           0.137            0.007
+BRI-1611      RA      3     highMT 1964           0.132            0.112           0.481            0.024
+        pair            source                          best_B_target  specificity_percentile  magnitude_rank
+CXCL13-CXCR5     T-7: CD4+ Tph B-1: CD24++CD27+IgM+ unswitched memory                0.000454         0.83009
+CXCL13-CXCR5 T-3: CD4+ Tfh/Tph B-1: CD24++CD27+IgM+ unswitched memory                0.000500         0.83291
+  CT_21045-A-15: T 6433 (5.1 % CXCL13+), B 5476; B-neighbour z 22.24 (p 0.001); macrophage IFN z -0.37 (p 0.636)
+  CT_19060-A-4: T 9036 (5.1 % CXCL13+), B 1397; B-neighbour z 5.12 (p 0.001); macrophage IFN z -0.97 (p 0.834)
+  CT_513-A-1: T 59613 (7.6 % CXCL13+), B 1093; B-neighbour z 29.46 (p 0.001); macrophage IFN z -3.97 (p 1.000)
+  CT_514-A-1: T 925 (9.1 % CXCL13+), B 710; B-neighbour z 10.32 (p 0.001); macrophage IFN z -0.12 (p 0.519)
+                                                                                              test   n    stat      p  p_vs_random  random_median                                                                                                                                 note
+                    P1 tph_share_of_T vs lymphocytic inflammation grade (RA donors, >= 50 T cells)  10  0.2397 0.5047          NaN            NaN                                                                                                                                  NaN
+                                                 P1 tph_share_of_T vs prep batch (technical check)  10     NaN 1.0000          NaN            NaN                                                                                                                                  NaN
+                   P1 treg_share_of_T vs lymphocytic inflammation grade (RA donors, >= 50 T cells)  10 -0.1199 0.7415          NaN            NaN                                                                                                                                  NaN
+                                                P1 treg_share_of_T vs prep batch (technical check)  10     NaN 0.2571          NaN            NaN                                                                                                                                  NaN
+                                                     P1 Tph share of T vs M-6 share of macrophages  10  0.4499 0.1921          NaN            NaN                                                                                                                                  NaN
+                                       P2 Tph programme RA vs OA (adjusted incl. T-cell abundance) 155 -1.6033 0.1089       0.8082         0.4352                                                                                                                                  NaN
+                                      P2 Treg programme RA vs OA (adjusted incl. T-cell abundance) 155  0.9946 0.3200       0.3776         0.1727                                                                                                                                  NaN
+              P2 within RA: IFN macrophage programme ~ Tph programme (partial on T-cell abundance) 140  0.7902 0.4294       0.1668        -1.1022                                                                                                                                  NaN
+         P3 CXCL13-CXCR5 Tph -> B: best specificity percentile among each Tph state's interactions   2  0.0005    NaN          NaN            NaN     T-7: CD4+ Tph -> B-1: CD24++CD27+IgM+ unswitched memory 0.0 %; T-3: CD4+ Tfh/Tph -> B-1: CD24++CD27+IgM+ unswitched memory 0.0 %
+                                       P3 IFNG senders to M-6: rank of Tph states (of all senders)  20 10.0000    NaN          NaN            NaN                                                                              T-7: CD4+ Tph #10; top: NK-1: CD56dim CD16+ IFNG+CD160+
+P4 B cells within 30 um of CXCL13+ vs CXCL13- T cells (section-wise empirical P; no combined tail)   4  4.0000    NaN          NaN            NaN 4/4 positive observed effects; 4/4 sections empirical p < 0.05; stat is positive-effect count; global label shuffling is exploratory
+       P4 macrophage IFN score ~ CXCL13+ T neighbours (section-wise empirical P; no combined tail)   4  3.0000    NaN          NaN            NaN 3/4 positive observed effects; 0/4 sections empirical p < 0.05; stat is positive-effect count; global label shuffling is exploratory
+                  P5 Tph programme change (week 12 - baseline), good minus non-responders (median)  33 -0.3309 0.1502       0.0350         0.1136                                                                               good median change -0.26 (Wilcoxon p 0.0446); non 0.07

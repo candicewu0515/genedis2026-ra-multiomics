@@ -1,0 +1,37 @@
+Pseudobulk units (subtype x donor, >= 30 nuclei): 238
+Gene activity: 28353 genes, 22332 with >= 1 peak
+RNA vs gene activity across 238 units: median per-gene r = 0.21 over 8979 expressed genes; 22.4% with r > 0.5
+Peak-gene tests: 421,253 cis pairs for 9,104 genes; trans-null 99th pct r = 0.60; significant links (r > 0.45, FDR < 0.05): 277 covering 151 genes; median |distance| 15 kb
+  gene  n_peaks_in_gene_region  rho_rna_vs_activity_across_myeloid_subsets    p      top_rna_subset top_activity_subset  n_linked_peaks  max_link_r
+  MT1H                       1                                        0.66 0.01 M-6: STAT1+ CXCL10+ M-2: MERTK+ S100A8+               0         NaN
+  MT1G                       1                                        0.64 0.01 M-6: STAT1+ CXCL10+ M-2: MERTK+ S100A8+               0         NaN
+  MT2A                       4                                        0.56 0.04 M-6: STAT1+ CXCL10+            M-9: DC3               0         NaN
+  MT1F                       2                                        0.30 0.30 M-6: STAT1+ CXCL10+           M-12: DC1               0         NaN
+  MT1X                       1                                       -0.16 0.59          M-5: C1QA+  M-3: MERTK+ HBEGF+               0         NaN
+   PKM                      14                                        0.55 0.04           M-12: DC1        M-14: LAMP3+               0         NaN
+ APOL6                       6                                        0.50 0.07 M-6: STAT1+ CXCL10+ M-6: STAT1+ CXCL10+               0         NaN
+  MT1E                       1                                        0.25 0.39          M-5: C1QA+           M-12: DC1               0         NaN
+  PFKP                      10                                        0.43 0.13          M-4: SPP1+        M-14: LAMP3+               0         NaN
+  MT1M                       2                                        0.10 0.73          M-5: C1QA+  M-3: MERTK+ HBEGF+               0         NaN
+ IL4I1                      15                                        0.61 0.02        M-14: LAMP3+        M-14: LAMP3+               0         NaN
+SLAMF7                       8                                        0.90 0.00 M-6: STAT1+ CXCL10+           M-12: DC1               0         NaN
+  GBP5                       7                                        0.68 0.01 M-6: STAT1+ CXCL10+ M-6: STAT1+ CXCL10+               0         NaN
+                             score  n_RA  rho_vs_inflammation  p_inflammation  rho_vs_rna_score  p_vs_rna  p_batch  null_median_rho_vs_rna  p_vs_random_genesets
+               rna_signature_score    10                0.434           0.210             1.000     0.000    0.257                     NaN                   NaN
+atac_gene_activity_signature_score    10                0.270           0.451             0.842     0.002    0.610                   0.188                 0.008
+Random expression-matched gene sets (n=1000): median rho(RNA, ATAC) = 0.19, 95th pct = 0.69; observed 0.84, empirical p = 0.008
+                     subset  rna_signature_z  atac_signature_z
+        M-6: STAT1+ CXCL10+             1.49              0.33
+                  M-12: DC1             0.34              0.30
+                 M-4: SPP1+             0.33              0.41
+               M-14: LAMP3+             0.32              0.88
+                 M-5: C1QA+             0.28             -0.21
+        M-2: MERTK+ S100A8+             0.12             -0.03
+         M-3: MERTK+ HBEGF+             0.11              0.42
+M-1: MERTK+ SELENOP+ LYVE1-             0.01              0.13
+                   M-9: DC3            -0.05             -0.19
+                M-8: PLCG2+            -0.24             -0.47
+M-0: MERTK+ SELENOP+ LYVE1+            -0.36             -0.29
+                  M-10: DC2            -0.47             -0.24
+           M-7: IL1B+ FCN1+            -0.59             -0.13
+                  M-11: DC4            -1.29             -0.92

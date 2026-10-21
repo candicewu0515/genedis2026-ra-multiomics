@@ -1,0 +1,12 @@
+	disease	lymphocytic_inflammation_grade	lining_hyperplasia_grade	prep_batch	rna_signature_score	atac_gene_activity_signature_score
+BRI-1281	OA	1	1	highMT	-0.0008	0.374
+BRI-1385	RA	2	1	highMT	0.2613	-0.3945
+BRI-1387	RA	2	2	highMT	0.5633	0.7384
+BRI-1389	RA	2	1	highMT	0.535	0.1412
+BRI-1586	RA	2	1	lowMT	-0.4142	0.1316
+BRI-1590	RA	2	3	lowMT	-1.1121	-0.658
+BRI-1592	RA	4	2	lowMT	0.5549	0.0823
+BRI-1594	RA	2	1	lowMT	-0.4696	-0.1125
+BRI-1607	RA	4	1	highMT	-0.1963	-0.0627
+BRI-1609	RA	2	2	highMT	-0.547	-0.9782
+BRI-1611	RA	3	2	highMT	0.8255	0.7384

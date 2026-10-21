@@ -1,0 +1,6 @@
+{
+  "exit_code": 0,
+  "started_epoch": 1792528100.510571,
+  "seconds": 1928.7256639003754,
+  "reason": "Resume same-clean-project scDRS after MOFA memory is released; exact-input/output hashes permit ordered-driver reuse"
+}

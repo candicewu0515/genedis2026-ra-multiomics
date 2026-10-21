@@ -1,0 +1,92 @@
+gene	immune_datasets	signals	frac_risk_raises_expression	consistent	risk_allele_effect	in_prioritisation	evidence_score	late_stage_inhibitors	inhibition_fits
+ANKRD55	62	2	1	True	raises expression	True	4		yes
+IRF5	33	3	0.788	False	mixed	True	2		unclear
+CTLA4	21	2	0	True	lowers expression	True	3.5	CADONILIMAB; ERFONRILIMAB; IPILIMUMAB; QUAVONLIMAB	no (risk lowers expression)
+FCGR2A	9	1	0	True	lowers expression	True	4		no (risk lowers expression)
+IFNGR2	8	1	0.125	True	lowers expression	True	3		no (risk lowers expression)
+NAB1	5	1	0.8	True	raises expression	True	3		yes
+CD40	4	1	0.75	False	mixed	True	6		unclear
+PHF19	3	1	0	True	lowers expression	True	3.5		no (risk lowers expression)
+CCR6	2	2	1	True	raises expression	True	3		yes
+PFKFB3	1	1	0	True	single dataset	True	2.5		unclear
+STAT4	1	1	0	True	single dataset	True	5		unclear
+RHD	80	1	0.963	True	raises expression	False			yes
+TUFM	64	1	0.891	True	raises expression	False			yes
+ATXN2L	41	1	0.0732	True	lowers expression	False			no (risk lowers expression)
+RSRP1	34	1	0.971	True	raises expression	False			yes
+BLK	31	1	0	True	lowers expression	False			no (risk lowers expression)
+UBE2L3	30	1	0.6	False	mixed	False			unclear
+RPS26	26	1	0.0769	True	lowers expression	False			no (risk lowers expression)
+ORMDL3	24	1	0.0417	True	lowers expression	False			no (risk lowers expression)
+TRAF1	23	1	0.522	False	mixed	False			unclear
+GSDMB	21	1	0	True	lowers expression	False			no (risk lowers expression)
+SUOX	21	1	0.952	True	raises expression	False			yes
+TMEM50A	20	1	1	True	raises expression	False			yes
+IL6ST	18	2	1	True	raises expression	False			yes
+BACH2	10	1	0	True	lowers expression	False			no (risk lowers expression)
+MMEL1	10	1	1	True	raises expression	False			yes
+CD28	9	1	0.111	True	lowers expression	False			no (risk lowers expression)
+ENSG00000284825	9	2	1	True	raises expression	False			yes
+FAM167A	8	1	1	True	raises expression	False			yes
+SH2B1	8	1	0.125	True	lowers expression	False			no (risk lowers expression)
+AFF3	7	1	1	True	raises expression	False			yes
+CCRL2	7	1	1	True	raises expression	False			yes
+RAB5B	7	1	0	True	lowers expression	False			no (risk lowers expression)
+EIF3C	6	1	0.167	True	lowers expression	False			no (risk lowers expression)
+IKZF3	6	1	1	True	raises expression	False			yes
+IL12RB2	6	1	1	True	raises expression	False			yes
+NEK6	6	1	0.5	False	mixed	False			unclear
+PSMB7	6	1	0.167	True	lowers expression	False			no (risk lowers expression)
+TNPO3	6	3	0	True	lowers expression	False			no (risk lowers expression)
+TXNDC11	6	1	0.167	True	lowers expression	False			no (risk lowers expression)
+ZGLP1	6	2	0	True	lowers expression	False			no (risk lowers expression)
+REL	5	1	1	True	raises expression	False			yes
+CCR5AS	4	1	1	True	raises expression	False			yes
+COG6	4	1	1	True	raises expression	False			yes
+ILF3	4	1	0.75	False	mixed	False			unclear
+TTC34	4	1	0	True	lowers expression	False			no (risk lowers expression)
+ENSG00000251417	3	1	0	True	lowers expression	False			no (risk lowers expression)
+PHLDB1	3	1	0	True	lowers expression	False			no (risk lowers expression)
+TMEM187	3	1	0	True	lowers expression	False			no (risk lowers expression)
+ALDH2	2	2	1	True	raises expression	False			yes
+ATP5MG	2	1	0	True	lowers expression	False			no (risk lowers expression)
+ENSG00000259598	2	1	1	True	raises expression	False			yes
+ENSG00000283265	2	1	0	True	lowers expression	False			no (risk lowers expression)
+ENSG00000284957	2	1	0	True	lowers expression	False			no (risk lowers expression)
+ENSG00000285012	2	1	1	True	raises expression	False			yes
+FDX2	2	2	0	True	lowers expression	False			no (risk lowers expression)
+ICAM4	2	2	0	True	lowers expression	False			no (risk lowers expression)
+ICAM5	2	2	0	True	lowers expression	False			no (risk lowers expression)
+ILF3-DT	2	1	0	True	lowers expression	False			no (risk lowers expression)
+IRAK1	2	1	1	True	raises expression	False			yes
+MACO1	2	1	1	True	raises expression	False			yes
+POU3F1	2	2	1	True	raises expression	False			yes
+PVT1	2	1	0	True	lowers expression	False			no (risk lowers expression)
+SNN	2	1	1	True	raises expression	False			yes
+APOBR	1	1	1	True	single dataset	False			unclear
+ATP2A1	1	1	1	True	single dataset	False			unclear
+BCL2L11	1	1	1	True	single dataset	False			unclear
+CCDC116	1	1	0	True	single dataset	False			unclear
+DRAIC	1	1	0	True	single dataset	False			unclear
+ENSG00000284052	1	1	0	True	single dataset	False			unclear
+ENSG00000285040	1	1	0	True	single dataset	False			unclear
+FAM167A-AS1	1	1	1	True	single dataset	False			unclear
+GAPVD1	1	1	1	True	single dataset	False			unclear
+GIN1	1	1	0	True	single dataset	False			unclear
+GNG4	1	1	1	True	single dataset	False			unclear
+GSDMA	1	1	0	True	single dataset	False			unclear
+KCP	1	1	0	True	single dataset	False			unclear
+MECP2	1	1	0	True	single dataset	False			unclear
+NFATC2IP	1	1	1	True	single dataset	False			unclear
+PAM	1	1	1	True	single dataset	False			unclear
+PI4KA	1	1	1	True	single dataset	False			unclear
+PUS10	1	1	1	True	single dataset	False			unclear
+RASGRP1	1	1	1	True	single dataset	False			unclear
+SPNS1	1	1	1	True	single dataset	False			unclear
+SPRED2	1	1	1	True	single dataset	False			unclear
+SULT1A1	1	1	0	True	single dataset	False			unclear
+SULT1A2	1	1	1	True	single dataset	False			unclear
+SYNGR1	1	1	1	True	single dataset	False			unclear
+TEC	1	1	0	True	single dataset	False			unclear
+WAKMAR2	1	1	1	True	single dataset	False			unclear
+ZPBP2	1	1	1	True	single dataset	False			unclear

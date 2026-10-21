@@ -1,0 +1,9 @@
+cell_type	Bcell	NK	Tcell	endothelial	fibroblast	mural	myeloid	plasma
+Bcell	1533	1	1	0	0	0	2	1
+NK	0	628	24	0	2	1	10	0
+Tcell	2	298	7886	9	1	1	60	5
+endothelial	0	0	2	1939	2	5	1	0
+fibroblast	2	3	4	7	9862	300	14	1
+mural	2	0	2	0	19	337	4	0
+myeloid	0	1	12	8	9	4	7236	2
+plasma	5	0	16	0	2	1	0	1253

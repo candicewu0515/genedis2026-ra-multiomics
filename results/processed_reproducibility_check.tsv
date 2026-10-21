@@ -1,0 +1,16 @@
+table	status	detail	max_rel_diff
+blood_donor_scores.tsv	identical	equal decompressed SHA-256	0
+emtab8322_donor_features.tsv	identical	equal decompressed SHA-256	0
+emtab8322_macrophage_pseudobulk_counts.tsv.gz	identical	equal decompressed SHA-256	0
+gse198520_deconvolution.tsv	identical	equal decompressed SHA-256	0
+gse198520_sample_scores.tsv	identical	equal decompressed SHA-256	0
+gse243917_donor_features.tsv	identical	equal decompressed SHA-256	0
+gse243917_multiome_donor_features.tsv	identical	equal decompressed SHA-256	0
+gse243917_sample_labels.tsv	identical	equal decompressed SHA-256	0
+gse89408_sample_scores.tsv	identical	equal decompressed SHA-256	0
+luca_unit_scores.tsv	identical	equal decompressed SHA-256	0
+multiome_plot_cells.tsv.gz	identical	equal decompressed SHA-256	0
+nsclc_sample_scores.tsv	identical	equal decompressed SHA-256	0
+proteomics_region_scores.tsv	identical	equal decompressed SHA-256	0
+ra_fluid_unit_scores.tsv	identical	equal decompressed SHA-256	0
+xenium_plot_CT_21045-A-15.tsv.gz	identical	equal decompressed SHA-256	0

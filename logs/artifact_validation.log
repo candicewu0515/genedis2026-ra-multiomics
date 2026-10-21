@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "checks": [
+    "PPTX embeds exactly the accepted six PNGs, verified by SHA-256",
+    "All 12 slides have objects within the slide bounds",
+    "Report 11 A4 pages; correct contact; no unfinished markers; six vector figure/caption pages",
+    "Six accepted figure PDFs and 600-dpi PNGs are readable"
+  ],
+  "figure_png_sha256": {
+    "Fig1": "26cd27ff6c63d2e7434d7ede787223d428f1166cf3630280e77877fee40607df",
+    "Fig2": "4600be1f80dcb62f64f96512c03d0dce01e5f731a8954fe7cfbfbe52f3c39ee0",
+    "Fig3": "3b00f143c7e66d3bb1d40aa24073ff95a1f4e51cfdd1d7a3db17b511ebb9d2c6",
+    "Fig4": "dab67d363944b25922a727dc6e717a271cfd49f1dd2783fe5bad96c7048348d9",
+    "ExtData_Fig1": "a1df5db643b049dbdc29edd0671373d03bde813e975ce0368f70c1ee38d74652",
+    "ExtData_Fig2": "d15dc4b2b98a80ec28fdb64e923f32b514db7de661b7e93891e8eccb08329332"
+  }
+}

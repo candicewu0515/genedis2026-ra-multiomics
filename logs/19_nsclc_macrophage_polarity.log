@@ -1,0 +1,29 @@
+RA synovium (GSE243917) myeloid subtypes, mean log-normalised expression:
+                                n  CXCL9  CXCL10  SPP1
+subtype                                               
+M-6: STAT1+ CXCL10+            65   1.29    2.30  0.64
+M-14: LAMP3+                   59   0.83    0.39  0.31
+M-10: DC2                    1178   0.16    0.06  0.17
+M-1: MERTK+ SELENOP+ LYVE1-  1330   0.16    0.11  0.39
+M-3: MERTK+ HBEGF+            243   0.14    0.11  1.23
+M-9: DC3                      103   0.14    0.05  0.13
+M-4: SPP1+                    770   0.12    0.04  1.80
+M-7: IL1B+ FCN1+             1167   0.08    0.08  0.33
+M-8: PLCG2+                   447   0.06    0.06  0.46
+M-0: MERTK+ SELENOP+ LYVE1+   961   0.05    0.04  0.25
+M-2: MERTK+ S100A8+           296   0.04    0.06  0.71
+M-12: DC1                      90   0.04    0.01  0.67
+M-5: C1QA+                    570   0.03    0.01  0.35
+M-11: DC4                      44   0.02    0.07  0.02
+
+Cox PH (overall survival; adjusted for age and stage):
+cancer                     score   n  events  HR_per_SD  CI_low  CI_high     p  HR_stage  p_stage  logrank_median_split_p
+  LUAD polarity_CXCL9_minus_SPP1 491     179      0.849   0.725    0.995 0.043     2.531    0.000                   0.117
+  LUAD              ra_signature 491     179      1.046   0.913    1.199 0.518     2.514    0.000                   0.966
+  LUSC polarity_CXCL9_minus_SPP1 489     212      0.861   0.750    0.988 0.033     1.620    0.003                   0.030
+  LUSC              ra_signature 489     212      1.094   0.953    1.254 0.202     1.562    0.007                   0.374
+
+Tumour vs adjacent normal, polarity:
+cancer  n_pairs  median_tumour_minus_normal  p_wilcoxon
+  LUAD       58                     -1.6579         0.0
+  LUSC       51                     -2.1044         0.0

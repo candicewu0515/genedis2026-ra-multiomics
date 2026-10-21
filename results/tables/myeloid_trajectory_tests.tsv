@@ -1,0 +1,12 @@
+test	value	note	p
+T1 PAGA (RNA): M-6 to M-7 minus M-6 to best resident	-0.09484	M-7 0.730; M-1 0.825; strongest partner M-1	
+T1 leave-one-sample-out: share of runs with M-7 > best resident	0	12 runs; strongest partners {'M-1': 12}	
+T1 PAGA (ATAC): M-6 to M-7 minus M-6 to best resident	0.02241	M-7 1.000; M-1 0.978; strongest partner M-7	
+T2 priming M-7 minus resident, per-sample mean (Wilcoxon over samples)	0.3925	11 samples; 11 positive	0.0009766
+T2 vs random gene sets (share with mean difference >= observed)	0.7207	value = random median	0.8383
+T3 lag (RNA half-max minus chromatin half-max, pseudotime quantile) on path M-7 > M-8 > M-5 > M-2 > M-3 > M-1 > M-6	0.1579	random median -0.158	0.02994
+T3 sensitivity: grid cells (bins x threshold) with lag > 0 and p vs random < 0.05	7	of 9; lags 0.00 to 0.24	
+T3 control: a priori IFN list (not selected on these data), lag on the M-6 path	0.05263	8 genes	0.1741
+T3 control: other end states with the same marker selection, lag > 0 and p < 0.05	0	M-4 lag -0.37 p 0.7; M-0 lag 0.00 p 0.43; M-5 lag -1.00 p 1	
+Sanity: root state comes first in pseudotime (M-7 root; M-0 root)	0	M-7 root FAILS (T3 not interpretable); M-0 root passes	
+Sensitivity: median DPT rank of M-6 (root M-7 vs root M-0)	8	from M-0: rank 8 of 9	

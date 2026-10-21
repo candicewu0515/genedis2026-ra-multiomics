@@ -1,0 +1,27 @@
+LuCA: loading 153,743 lung macrophages and CD4 T cells
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/functools.py:909: ImplicitModificationWarning: Transforming to str index.
+  return dispatch(args[0].__class__)(*args, **kw)
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/site-packages/scanpy/preprocessing/_highly_variable_genes.py:336: RuntimeWarning: invalid value encountered in log
+  dispersion = np.log(dispersion)
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/site-packages/scanpy/preprocessing/_highly_variable_genes.py:494: UserWarning: `n_top_genes` > number of normalized dispersions, returning all genes with normalized dispersions.
+  func(
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/functools.py:909: UserWarning: zero-centering a sparse array/matrix densifies it.
+  return dispatch(args[0].__class__)(*args, **kw)
+{'n': 39260, 'n_clusters': 19, 'statistic': 1.3902719020843506, 'null_median': 0.49991992115974426, 'p': np.float64(0.004975124378109453), 'detail': 'cluster 4: 7.2% of cells; >=1% of cells in 74/131 donors; 14/30 top markers are programme genes', 'test': 'N1 M-6-like cluster among primary-tumour macrophages'}
+    n  n_clusters  statistic  null_median      p                                                                                          detail                                                        test  p_vs_random
+39260        19.0     1.3903       0.4999 0.0050 cluster 4: 7.2% of cells; >=1% of cells in 74/131 donors; 14/30 top markers are programme genes        N1 M-6-like cluster among primary-tumour macrophages          NaN
+   29         NaN     0.2157      -0.1159 0.0038                                                                   tumour higher in 20/29 donors  N2 macrophage M6 score, tumour vs adjacent normal (paired)       0.0050
+   52         NaN     0.2359       0.0344 0.0923                                                                                      10 studies N3 tumour macrophage M6 vs CD4 T Tph score (study-adjusted)       0.0299
+   58         NaN    -0.1105          NaN 0.1032                                                                          tumour higher in 27/58         N4 TCGA LUAD M6: tumour vs adjacent normal (paired)          NaN
+   58         NaN    -0.1381          NaN 0.0001                                                                          tumour higher in 16/58        N4 TCGA LUAD Tph: tumour vs adjacent normal (paired)          NaN
+   51         NaN    -0.5491          NaN 0.0000                                                                          tumour higher in 12/51         N4 TCGA LUSC M6: tumour vs adjacent normal (paired)          NaN
+   51         NaN    -0.5480          NaN 0.0000                                                                           tumour higher in 5/51        N4 TCGA LUSC Tph: tumour vs adjacent normal (paired)          NaN
+cancer score  adjusted_for_PTPRC   n  events  HR_per_SD  CI_low  CI_high     p
+  LUAD    M6               False 491     179      0.985   0.854    1.136 0.836
+  LUAD    M6                True 491     179      1.591   1.245    2.033 0.000
+  LUAD   Tph               False 491     179      0.918   0.796    1.059 0.240
+  LUAD   Tph                True 491     179      1.267   0.984    1.632 0.067
+  LUSC    M6               False 489     212      1.042   0.904    1.200 0.569
+  LUSC    M6                True 489     212      0.965   0.736    1.263 0.793
+  LUSC   Tph               False 489     212      1.072   0.935    1.228 0.321
+  LUSC   Tph                True 489     212      1.065   0.851    1.333 0.584

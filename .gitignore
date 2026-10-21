@@ -1,0 +1,13 @@
+data/raw/*
+!data/raw/SHA256SUMS.txt
+data/interim/
+__pycache__/
+.DS_Store
+data/raw/gwas/cache_*/
+tools/
+dist/
+
+# The large reference snapshot is in the full archive and attached to the release.
+references/reference_snapshot.tar.gz
+# Local email draft (not part of the submission)
+submission_email_draft.md

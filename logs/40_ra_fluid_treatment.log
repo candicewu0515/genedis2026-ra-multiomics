@@ -1,0 +1,13 @@
+GSE296117: 100,387 cells, 9 patients; drugs: {'Adalimumab': 5, 'Tofacitinib': 4}
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/functools.py:909: ImplicitModificationWarning: Transforming to str index.
+  return dispatch(args[0].__class__)(*args, **kw)
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/functools.py:909: UserWarning: zero-centering a sparse array/matrix densifies it.
+  return dispatch(args[0].__class__)(*args, **kw)
+{'test': 'V1 M-6-like cluster among treatment-naive fluid macrophages', 'n': 22091, 'n_clusters': 14, 'statistic': 1.3994594812393188, 'null_median': 0.5858200788497925, 'p': np.float64(0.05472636815920398), 'detail': 'cluster 9: 4.3% of cells; >=1% of cells in 7/9 donors; 9/30 top markers are programme genes'}
+                                                            test     n  n_clusters  statistic  null_median      p                                                                                      detail  p_vs_random
+     V1 M-6-like cluster among treatment-naive fluid macrophages 22091        14.0     1.3995       0.5858 0.0547 cluster 9: 4.3% of cells; >=1% of cells in 7/9 donors; 9/30 top markers are programme genes          NaN
+                 V2 macrophage M6: on treatment - naive (paired)     9         NaN    -0.5080       0.0094 0.1289                  fell in 6/9; adalimumab median -0.83 (n=5), tofacitinib median -0.41 (n=4)        0.005
+V2 macrophage active_RA_signature: on treatment - naive (paired)     9         NaN    -0.2843       0.0094 0.8203                   fell in 5/9; adalimumab median 0.32 (n=5), tofacitinib median -0.45 (n=4)          NaN
+      V2 macrophage Hallmark_IFNG: on treatment - naive (paired)     9         NaN    -0.2785       0.0094 0.2031                  fell in 6/9; adalimumab median -0.41 (n=5), tofacitinib median -0.13 (n=4)          NaN
+ V3 share of M-6-like macrophages: on treatment - naive (paired)     9         NaN    -0.0346          NaN 0.0273                                           fell in 7/9; naive median 5.6%, on treatment 2.9%          NaN
+              V4 T-cell Tph score: on treatment - naive (paired)     8         NaN    -0.3129          NaN 0.0547                                                                                 fell in 7/8          NaN

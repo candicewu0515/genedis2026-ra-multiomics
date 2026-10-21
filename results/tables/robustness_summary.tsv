@@ -1,0 +1,11 @@
+analysis	metric	full_data	min	max	n_perturbations	fraction_meeting_rule	note
+R1 signature (E-MTAB-8322)	fraction of the 15 FDR genes still FDR < 0.05	1.0	0.0667	1.0	19	0.8947	rule: at least half retained
+R1 signature (E-MTAB-8322)	fraction of the 15 genes still up in active	1.0	1.0	1.0	19	1.0	rule: all directions retained
+R1 signature (E-MTAB-8322)	Spearman of genome-wide Wald statistics vs full data	1.0	0.9247	0.9899	19	1.0	
+R2 active RA vs healthy (E-MTAB-8322)	Mann-Whitney p, mac_frac_inflammatory	0.0132	0.0059	0.0484	16	1.0	
+R2 active RA vs healthy (E-MTAB-8322)	Mann-Whitney p, mean_score_homeostatic	0.0132	0.0015	0.0308	16	1.0	
+R3 RNA vs ATAC signature (GSE243917)	donor-level Spearman rho	0.8389	0.7833	0.9121	10	1.0	rule: above the 95th percentile of random gene sets (0.69)
+R4 signature transfer (GSE243917)	Spearman rho vs lymphocytic inflammation grade	0.4345	0.3105	0.5934	10	1.0	rule: direction positive
+R5 RA GWAS enrichment, T-cell peaks (25 kb)	enrichment (loci hit / matched null)	1.5901	1.2358	1.6045	2	1.0	perturbations: 2,000 and 8,000 specific peaks
+R5 RA GWAS enrichment, T-cell peaks (25 kb)	empirical p	0.001	0.002	0.004	2	1.0	
+R6 GSEA cross-contrast (Hallmark)	Spearman rho of NES, A vs B	-0.613	-0.5537	-0.5537	1	1.0	perturbation: rank by log2 fold change instead of Wald statistic

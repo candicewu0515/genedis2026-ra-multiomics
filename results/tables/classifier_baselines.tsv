@@ -1,0 +1,15 @@
+task	model	n	n_pos	auc_mean	auc_sd	note
+T1 RA vs OA	F0 covariates	174	152	0.574378	0.142795	
+T1 RA vs OA	F1 eight programme scores	174	152	0.900486	0.0477351	
+T1 RA vs OA	F2 top-30 prioritised genes	174	152	0.933295	0.0415986	
+T1 RA vs OA	F3 genome-wide elastic net	174	152	0.979226	0.0291436	
+T1 RA vs OA	F4 random 30-gene sets (median of 100)	174	152	0.909089	0.0461554	F2 vs random empirical p 0.2475; SD across random-set mean AUCs
+T1 RA vs OA	F1 label-permutation null (median of 199)	174	152	0.504275	0.0799808	F1 permutation p 0.005; identical repeated nested-CV procedure
+T1 RA vs OA	F1 minus F3 (corrected resampled t-test)	174	152	-0.0787398		t -3.017, p 0.00596; approximate corrected resampled test
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	139	96	0.332319	0.0793949	
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	139	96	0.79748	0.0624831	
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	139	96	0.646855	0.0832311	
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	139	96	0.725865	0.0885796	
+T2 ACPA+ vs ACPA- (RA)	F4 random 30-gene sets (median of 100)	139	96	0.648504	0.0543675	F2 vs random empirical p 0.5149; SD across random-set mean AUCs
+T2 ACPA+ vs ACPA- (RA)	F1 label-permutation null (median of 199)	139	96	0.495484	0.0702549	F1 permutation p 0.005; identical repeated nested-CV procedure
+T2 ACPA+ vs ACPA- (RA)	F1 minus F3 (corrected resampled t-test)	139	96	0.071614		t 1.49, p 0.1492; approximate corrected resampled test

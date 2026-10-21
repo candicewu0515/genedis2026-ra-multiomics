@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "source": "data/raw/GSE89408/GSE89408_series_matrix.txt.gz",
+  "source_sha256": "e256024209bcaba2e892e4046ab7878990610c1a0b610e4d19a7e2f311ea4894",
+  "overall_design": "One biopsy sample per subject was analysed without replicates",
+  "n_samples": 218,
+  "n_unique_GEO_samples": 218,
+  "conclusion": "Per the deposited design, biopsy-level splitting is subject-level for this resource; no repeated biopsies cross folds."
+}

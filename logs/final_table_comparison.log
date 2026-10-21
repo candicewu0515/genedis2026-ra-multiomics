@@ -1,0 +1,14 @@
+status
+identical    103
+differs        7
+missing        2
+                         table  status                                                     detail  max_rel_diff
+classifier_F1_coefficients.tsv differs   text cells 0, NaN mismatches 0, largest change in 'coef'      1.122561
+      classifier_baselines.tsv differs text cells 8, NaN mismatches 0, largest change in 'auc_sd'      0.291097
+          classifier_folds.tsv differs    text cells 0, NaN mismatches 0, largest change in 'auc'      0.110055
+   classifier_permutations.tsv missing                                               current only           NaN
+    classifier_random_sets.tsv missing                                               current only           NaN
+             tf_M6_drivers.tsv differs                               shape (464, 10) vs (464, 12)           NaN
+            tph_treg_tests.tsv differs   text cells 4, NaN mismatches 2, largest change in 'stat'      1.905667
+ xenium_ifng_neighbourhood.tsv differs                                   shape (6, 15) vs (6, 16)           NaN
+              xenium_tests.tsv differs                                     shape (2, 7) vs (2, 6)           NaN

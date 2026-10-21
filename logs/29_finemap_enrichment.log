@@ -1,0 +1,101 @@
+Peak sets: 65; universe 131,644 non-MHC peaks
+RA FinnGen R12: 41 non-MHC credible sets, 1057 variants, 15 with PIP >= 0.5
+LDL Sakaue 2021 (control): 165 non-MHC credible sets, 4728 variants, 85 with PIP >= 0.5
+RA Ishigaki 2022 (EUR): 64 non-MHC credible sets, 1048 variants, 20 with PIP >= 0.5
+RA Ishigaki 2022 (EAS): 51 non-MHC credible sets, 415 variants, 30 with PIP >= 0.5
+  RA FinnGen R12 done
+  LDL Sakaue 2021 (control) done
+  RA Ishigaki 2022 (EUR) done
+  RA Ishigaki 2022 (EAS) done
+
+== RA Ishigaki 2022 (EUR)
+    level                    state  pip_mass  null_mean  enrichment  p_empirical   fdr  n_sets_contributing  top_set_share    top_set_lead
+cell type                   plasma     1.308      0.205       6.376        0.012 0.080                    5          0.764  5_56148856_G_A
+cell type                    Tcell     1.220      0.195       6.245        0.020 0.080                    7          0.818 1_116738074_C_T
+cell type                  myeloid     0.419      0.219       1.916        0.137 0.365                    4          0.644 16_85982795_C_G
+cell type                       NK     0.208      0.199       1.045        0.250 0.366                    4          0.468  4_48218822_G_A
+cell type                    Bcell     0.143      0.189       0.760        0.271 0.366                    2          0.686 20_46120612_T_C
+cell type                    mural     0.163      0.207       0.789        0.275 0.366                    2          0.623 8_101451374_G_A
+  subtype   T-10: CD4+ OX40+NR3C1+     2.295      0.178      12.874        0.001 0.057                    6          0.436  5_56148856_G_A
+  subtype            T-7: CD4+ Tph     1.167      0.175       6.662        0.019 0.380                    5          0.857  5_56148856_G_A
+  subtype        T-3: CD4+ Tfh/Tph     1.143      0.179       6.396        0.020 0.380                    5          0.875  5_56148856_G_A
+  subtype    B-5: CD11c+LAMP1+ ABC     1.000      0.164       6.092        0.050 0.702                    1          1.000 10_62054031_G_T
+  subtype F-0: PRG4+ CLIC5+ lining     1.021      0.192       5.315        0.075 0.702                    2          0.976 1_116738074_C_T
+  subtype         NK-12: IL7R+ ILC     0.442      0.175       2.521        0.096 0.702                    5          0.515 6_137685367_G_A
+
+== RA FinnGen R12
+    level                       state  pip_mass  null_mean  enrichment  p_empirical   fdr  n_sets_contributing  top_set_share    top_set_lead
+cell type                       Tcell     2.038      0.173      11.772        0.001 0.008                    4          0.490 1_116738074_C_T
+cell type                      plasma     1.190      0.175       6.805        0.016 0.064                    4          0.841  5_56148856_G_A
+cell type                     myeloid     0.150      0.210       0.715        0.219 0.438                    2          0.708 6_137698375_G_A
+cell type                       Bcell     0.182      0.179       1.014        0.219 0.438                    2          0.850  1_64689489_C_T
+cell type                 endothelial     0.015      0.184       0.083        0.672 1.000                    1          1.000   1_2575976_G_T
+cell type                  fibroblast     0.000      0.184       0.000        1.000 1.000                    0            NaN                
+  subtype               T-7: CD4+ Tph     1.274      0.150       8.476        0.005 0.171                    4          0.785  5_56148856_G_A
+  subtype      T-10: CD4+ OX40+NR3C1+     1.284      0.145       8.831        0.006 0.171                    4          0.779  5_56148856_G_A
+  subtype    F-0: PRG4+ CLIC5+ lining     1.256      0.160       7.827        0.011 0.209                    2          0.795 1_116738074_C_T
+  subtype           T-3: CD4+ Tfh/Tph     1.141      0.168       6.794        0.015 0.214                    3          0.877  5_56148856_G_A
+  subtype T-2: CD4+ IL7R+CCR5+ memory     0.859      0.149       5.759        0.076 0.658                    2          0.984 21_35045948_T_A
+  subtype                  M-5: C1QA+     0.310      0.135       2.304        0.096 0.658                    2          0.929 19_10312296_T_C
+
+== RA Ishigaki 2022 (EAS)
+    level                         state  pip_mass  null_mean  enrichment  p_empirical   fdr  n_sets_contributing  top_set_share    top_set_lead
+cell type                        plasma     1.000      0.105       9.488        0.062 0.368                    1          1.000  5_56148856_G_A
+cell type                   endothelial     0.500      0.119       4.193        0.092 0.368                    1          1.000 7_100444790_T_C
+cell type                         Bcell     0.119      0.118       1.001        0.200 0.409                    2          0.825 20_46118343_T_C
+cell type                         Tcell     0.195      0.155       1.263        0.219 0.409                    1          1.000 15_38546063_T_C
+cell type                       myeloid     0.231      0.198       1.165        0.256 0.409                    1          1.000 16_85977427_C_T
+cell type                            NK     0.036      0.155       0.235        0.444 0.591                    1          1.000  10_6469424_G_A
+  subtype             T-3: CD4+ Tfh/Tph     2.000      0.143      14.018        0.001 0.057                    2          0.500 10_62020112_C_T
+  subtype                 T-7: CD4+ Tph     1.046      0.125       8.380        0.011 0.313                    2          0.956  5_56148856_G_A
+  subtype      T-8: CD4+ CD25-high Treg     1.055      0.119       8.866        0.018 0.342                    3          0.948 10_62020112_C_T
+  subtype        T-10: CD4+ OX40+NR3C1+     1.014      0.135       7.503        0.032 0.456                    2          0.986  5_56148856_G_A
+  subtype F-6: CXCL12+ SFRP1+ sublining     1.000      0.141       7.079        0.050 0.531                    1          1.000 10_62020112_C_T
+  subtype   T-19: MT-high (low quality)     0.779      0.109       7.126        0.056 0.531                    2          0.642 7_100444790_T_C
+
+== LDL Sakaue 2021 (control)
+    level                    state  pip_mass  null_mean  enrichment  p_empirical   fdr  n_sets_contributing  top_set_share    top_set_lead
+cell type              endothelial     1.163      0.191       6.093        0.015 0.120                    4          0.849 20_17864040_G_T
+cell type                   plasma     0.087      0.221       0.393        0.433 1.000                    2          0.779 5_132456710_G_A
+cell type                    Tcell     0.044      0.153       0.288        0.582 1.000                    2          0.610 6_135090090_T_C
+cell type                    Bcell     0.023      0.162       0.145        0.722 1.000                    2          0.526  3_58412488_C_T
+cell type               fibroblast     0.010      0.071       0.145        0.885 1.000                    1          1.000  9_22081851_C_T
+cell type                  myeloid     0.003      0.076       0.043        0.928 1.000                    0          1.000 2_203184117_G_A
+  subtype      E-2: ICAM1+ venular     1.105      0.183       6.043        0.026 0.616                    3          0.905 16_11612244_G_A
+  subtype                 M-9: DC3     1.059      0.191       5.536        0.034 0.616                    3          0.944 16_11612244_G_A
+  subtype F-0: PRG4+ CLIC5+ lining     1.025      0.176       5.830        0.041 0.616                    3          0.963 20_17864040_G_T
+  subtype   F-5: CD74-hi sublining     1.004      0.181       5.547        0.062 0.616                    1          0.995 16_11612244_G_A
+  subtype         M-7: IL1B+ FCN1+     0.822      0.152       5.407        0.066 0.616                    3          0.934  3_12198431_G_T
+  subtype F-8: RSPO3+ intermediate     0.631      0.184       3.435        0.074 0.616                    2          0.947 19_58150868_C_T
+
+F1 T cells, Ishigaki: 6.24x, p 0.020, FDR 0.080; 7 credible sets contribute, largest share 0.82 (1_116738074_C_T)
+F2 T cells, FinnGen: 11.77x, p 0.001, FDR 0.008; 4 credible sets, largest share 0.49 (1_116738074_C_T); state-level Spearman Ishigaki vs FinnGen rho 0.43 (p 0.00032, 65 states)
+F4 T cells, East Asian: 1.26x, p 0.219, FDR 0.409; 1 credible sets, largest share 1.00 (15_38546063_T_C); state-level Spearman EUR vs EAS rho 0.42 (p 0.00058)
+F3 LDL: states with FDR < 0.05: 0 of 65; max enrichment 6.09
+
+Fine-mapped variants (PIP >= 0.1) in state-specific peaks: 23 variants (7 also step-10 lead SNPs)
+                                                                   rsid       pip                                                         study                                                                  states        gene linked
+variant                                                                                                                                                                                                                                   
+5_56148856_G_A                                                rs7731626  1.000000  RA FinnGen R12,RA Ishigaki 2022 (EAS),RA Ishigaki 2022 (EUR)           T-10: CD4+ OX40+NR3C1+,T-3: CD4+ Tfh/Tph,T-7: CD4+ Tph,plasma     ANKRD55       
+10_62020112_C_T                                              rs71508903  1.000000                                        RA Ishigaki 2022 (EAS)  F-6: CXCL12+ SFRP1+ sublining,T-3: CD4+ Tfh/Tph,T-8: CD4+ CD25-high Tr      ARID5B       
+10_62054031_G_T                                              rs77509998  0.999846                                        RA Ishigaki 2022 (EUR)                            B-5: CD11c+LAMP1+ ABC,T-10: CD4+ OX40+NR3C1+      ARID5B       
+1_116738074_C_T                                                rs798000  0.998126                         RA FinnGen R12,RA Ishigaki 2022 (EUR)                                          F-0: PRG4+ CLIC5+ lining,Tcell         CD2       
+21_35045948_T_A                                             rs143365361  0.844804                                                RA FinnGen R12  B-1: CD24++CD27+IgM+ unswitched memory,T-2: CD4+ IL7R+CCR5+ memory,Tce       CLIC6       
+7_100444790_T_C                                              rs55773945  0.499936                                        RA Ishigaki 2022 (EAS)  F-2: CD34+ sublining,M-4: SPP1+,T-19: MT-high (low quality),endothelia     PPP1R35       
+19_10315836_C_T                                              rs78295726  0.288047                                                RA FinnGen R12                                                              M-5: C1QA+  AC011511.1       
+20_46118343_T_C                                               rs1883832  0.279036                 RA Ishigaki 2022 (EAS),RA Ishigaki 2022 (EUR)                             T-19: MT-high (low quality),T-4: CD4+ naive        CD40       
+16_85982795_C_G                                               rs9927316  0.269962                 RA Ishigaki 2022 (EAS),RA Ishigaki 2022 (EUR)                                 NK-1: CD56dim CD16+ IFNG+CD160+,myeloid        IRF8       
+10_62049865_C_A                                              rs10821948  0.252589                                                RA FinnGen R12                            E-2: ICAM1+ venular,F-0: PRG4+ CLIC5+ lining      ARID5B       
+6_137681038_C_G        rs2113433513;rs2113433517;rs2113433532;rs6927172  0.227367                                        RA Ishigaki 2022 (EUR)  E-1: LIFR+ venular,NK-12: IL7R+ ILC,T-10: CD4+ OX40+NR3C1+,T-8: CD4+ C     TNFAIP3       
+21_35342682_TATGCAA_T                                        rs66922517  0.222446                                        RA Ishigaki 2022 (EUR)               M-10: DC2,T-4: CD4+ naive,T-8: CD4+ CD25-high Treg,plasma       RUNX1       
+10_62050699_C_A                                               rs3740355  0.191077                                                RA FinnGen R12                         F-7: NOTCH3+ sublining,T-8: CD4+ CD25-high Treg      ARID5B       
+10_62167213_G_A                                               rs6479787  0.166748                                        RA Ishigaki 2022 (EAS)                                                        M-7: IL1B+ FCN1+       RTKN2       
+2_203782538_A_G                                                rs749933  0.164575                                        RA Ishigaki 2022 (EAS)                                F-4: DKK3+ sublining,M-2: MERTK+ S100A8+        CD28       
+19_11156017_T_G                                               rs7251031  0.160829                                        RA Ishigaki 2022 (EUR)                                                              M-5: C1QA+       SPC24       
+1_64963636_G_A                                               rs72922276  0.154408                                                RA FinnGen R12           Bcell,T-8: CD4+ CD25-high Treg,T-9: CD4+ CD25-low Treg,plasma        JAK1       
+2_203874196_G_A                                               rs3087243  0.127480                                                RA FinnGen R12  B-0: CD24+CD27+CD11b+ switched memory,T-10: CD4+ OX40+NR3C1+,T-7: CD4+       CTLA4       
+10_62056072_C_T                                              rs10995019  0.120021                                                RA FinnGen R12  B-7: HLA-DR+IgG+ plasmablast,B-8: IgG1+IgG3+ plasma,E-2: ICAM1+ venula      ARID5B       
+10_62056318_C_G                                              rs10995020  0.115530                                                RA FinnGen R12  B-7: HLA-DR+IgG+ plasmablast,B-8: IgG1+IgG3+ plasma,E-2: ICAM1+ venula      ARID5B       
+6_137699029_T_G                                               rs7746803  0.106193                                                RA FinnGen R12                                                T-6: CD4+ memory,myeloid     TNFAIP3       
+10_62053985_A_T                                              rs16916931  0.105515                                                RA FinnGen R12                            B-5: CD11c+LAMP1+ ABC,T-10: CD4+ OX40+NR3C1+      ARID5B       
+8_101446287_C_T                                                rs671484  0.101822                                        RA Ishigaki 2022 (EUR)                                                                   mural       GRHL2       

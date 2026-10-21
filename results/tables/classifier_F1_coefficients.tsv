@@ -1,0 +1,17 @@
+task	programme	coef
+T1 RA vs OA	IFN	1.60998
+T1 RA vs OA	homeostatic	0.0604582
+T1 RA vs OA	macrophage	-1.1141
+T1 RA vs OA	Tph	-0.365046
+T1 RA vs OA	Treg	0.003053
+T1 RA vs OA	Tcell	1.13799
+T1 RA vs OA	Bplasma	0.594685
+T1 RA vs OA	signature	0.157791
+T2 ACPA+ vs ACPA- (RA)	IFN	-0.844288
+T2 ACPA+ vs ACPA- (RA)	homeostatic	0.172986
+T2 ACPA+ vs ACPA- (RA)	macrophage	0.191054
+T2 ACPA+ vs ACPA- (RA)	Tph	0.380766
+T2 ACPA+ vs ACPA- (RA)	Treg	-1.65061
+T2 ACPA+ vs ACPA- (RA)	Tcell	1.06435
+T2 ACPA+ vs ACPA- (RA)	Bplasma	1.29549
+T2 ACPA+ vs ACPA- (RA)	signature	0.0825541

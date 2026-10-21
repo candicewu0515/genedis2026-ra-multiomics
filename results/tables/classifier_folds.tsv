@@ -1,0 +1,201 @@
+task	model	fold	auc
+T1 RA vs OA	F0 covariates	0	0.6
+T1 RA vs OA	F0 covariates	1	0.613333
+T1 RA vs OA	F0 covariates	2	0.564516
+T1 RA vs OA	F0 covariates	3	0.387097
+T1 RA vs OA	F0 covariates	4	0.558333
+T1 RA vs OA	F0 covariates	5	0.613333
+T1 RA vs OA	F0 covariates	6	0.533333
+T1 RA vs OA	F0 covariates	7	0.443548
+T1 RA vs OA	F0 covariates	8	0.685484
+T1 RA vs OA	F0 covariates	9	0.516667
+T1 RA vs OA	F0 covariates	10	0.506667
+T1 RA vs OA	F0 covariates	11	0.653333
+T1 RA vs OA	F0 covariates	12	0.387097
+T1 RA vs OA	F0 covariates	13	0.677419
+T1 RA vs OA	F0 covariates	14	0.658333
+T1 RA vs OA	F0 covariates	15	0.64
+T1 RA vs OA	F0 covariates	16	0.333333
+T1 RA vs OA	F0 covariates	17	0.379032
+T1 RA vs OA	F0 covariates	18	0.806452
+T1 RA vs OA	F0 covariates	19	0.741667
+T1 RA vs OA	F0 covariates	20	0.293333
+T1 RA vs OA	F0 covariates	21	0.74
+T1 RA vs OA	F0 covariates	22	0.612903
+T1 RA vs OA	F0 covariates	23	0.822581
+T1 RA vs OA	F0 covariates	24	0.591667
+T1 RA vs OA	F1 eight programme scores	0	0.92
+T1 RA vs OA	F1 eight programme scores	1	0.9
+T1 RA vs OA	F1 eight programme scores	2	0.887097
+T1 RA vs OA	F1 eight programme scores	3	0.822581
+T1 RA vs OA	F1 eight programme scores	4	0.991667
+T1 RA vs OA	F1 eight programme scores	5	0.96
+T1 RA vs OA	F1 eight programme scores	6	0.8
+T1 RA vs OA	F1 eight programme scores	7	0.895161
+T1 RA vs OA	F1 eight programme scores	8	0.879032
+T1 RA vs OA	F1 eight programme scores	9	0.9
+T1 RA vs OA	F1 eight programme scores	10	0.933333
+T1 RA vs OA	F1 eight programme scores	11	0.8
+T1 RA vs OA	F1 eight programme scores	12	0.951613
+T1 RA vs OA	F1 eight programme scores	13	0.935484
+T1 RA vs OA	F1 eight programme scores	14	0.875
+T1 RA vs OA	F1 eight programme scores	15	0.866667
+T1 RA vs OA	F1 eight programme scores	16	0.913333
+T1 RA vs OA	F1 eight programme scores	17	0.927419
+T1 RA vs OA	F1 eight programme scores	18	0.903226
+T1 RA vs OA	F1 eight programme scores	19	0.916667
+T1 RA vs OA	F1 eight programme scores	20	0.906667
+T1 RA vs OA	F1 eight programme scores	21	0.926667
+T1 RA vs OA	F1 eight programme scores	22	0.879032
+T1 RA vs OA	F1 eight programme scores	23	0.854839
+T1 RA vs OA	F1 eight programme scores	24	0.966667
+T1 RA vs OA	F2 top-30 prioritised genes	0	0.96
+T1 RA vs OA	F2 top-30 prioritised genes	1	0.9
+T1 RA vs OA	F2 top-30 prioritised genes	2	0.935484
+T1 RA vs OA	F2 top-30 prioritised genes	3	0.951613
+T1 RA vs OA	F2 top-30 prioritised genes	4	0.975
+T1 RA vs OA	F2 top-30 prioritised genes	5	0.966667
+T1 RA vs OA	F2 top-30 prioritised genes	6	0.906667
+T1 RA vs OA	F2 top-30 prioritised genes	7	0.903226
+T1 RA vs OA	F2 top-30 prioritised genes	8	0.975806
+T1 RA vs OA	F2 top-30 prioritised genes	9	0.933333
+T1 RA vs OA	F2 top-30 prioritised genes	10	0.973333
+T1 RA vs OA	F2 top-30 prioritised genes	11	0.84
+T1 RA vs OA	F2 top-30 prioritised genes	12	0.991935
+T1 RA vs OA	F2 top-30 prioritised genes	13	0.935484
+T1 RA vs OA	F2 top-30 prioritised genes	14	0.908333
+T1 RA vs OA	F2 top-30 prioritised genes	15	0.853333
+T1 RA vs OA	F2 top-30 prioritised genes	16	0.966667
+T1 RA vs OA	F2 top-30 prioritised genes	17	0.846774
+T1 RA vs OA	F2 top-30 prioritised genes	18	0.959677
+T1 RA vs OA	F2 top-30 prioritised genes	19	0.941667
+T1 RA vs OA	F2 top-30 prioritised genes	20	0.913333
+T1 RA vs OA	F2 top-30 prioritised genes	21	0.973333
+T1 RA vs OA	F2 top-30 prioritised genes	22	0.919355
+T1 RA vs OA	F2 top-30 prioritised genes	23	0.959677
+T1 RA vs OA	F2 top-30 prioritised genes	24	0.941667
+T1 RA vs OA	F3 genome-wide elastic net	0	0.973333
+T1 RA vs OA	F3 genome-wide elastic net	1	0.973333
+T1 RA vs OA	F3 genome-wide elastic net	2	0.975806
+T1 RA vs OA	F3 genome-wide elastic net	3	1
+T1 RA vs OA	F3 genome-wide elastic net	4	1
+T1 RA vs OA	F3 genome-wide elastic net	5	1
+T1 RA vs OA	F3 genome-wide elastic net	6	0.993333
+T1 RA vs OA	F3 genome-wide elastic net	7	0.935484
+T1 RA vs OA	F3 genome-wide elastic net	8	0.983871
+T1 RA vs OA	F3 genome-wide elastic net	9	1
+T1 RA vs OA	F3 genome-wide elastic net	10	1
+T1 RA vs OA	F3 genome-wide elastic net	11	0.873333
+T1 RA vs OA	F3 genome-wide elastic net	12	1
+T1 RA vs OA	F3 genome-wide elastic net	13	1
+T1 RA vs OA	F3 genome-wide elastic net	14	0.975
+T1 RA vs OA	F3 genome-wide elastic net	15	0.993333
+T1 RA vs OA	F3 genome-wide elastic net	16	1
+T1 RA vs OA	F3 genome-wide elastic net	17	0.951613
+T1 RA vs OA	F3 genome-wide elastic net	18	0.991935
+T1 RA vs OA	F3 genome-wide elastic net	19	0.975
+T1 RA vs OA	F3 genome-wide elastic net	20	0.986667
+T1 RA vs OA	F3 genome-wide elastic net	21	0.94
+T1 RA vs OA	F3 genome-wide elastic net	22	0.991935
+T1 RA vs OA	F3 genome-wide elastic net	23	1
+T1 RA vs OA	F3 genome-wide elastic net	24	0.966667
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	0	0.3375
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	1	0.397661
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	2	0.368421
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	3	0.327485
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	4	0.328947
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	5	0.275
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	6	0.309942
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	7	0.315789
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	8	0.526316
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	9	0.375
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	10	0.31875
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	11	0.304094
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	12	0.421053
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	13	0.292398
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	14	0.243421
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	15	0.3375
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	16	0.222222
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	17	0.251462
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	18	0.479532
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	19	0.315789
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	20	0.26875
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	21	0.192982
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	22	0.280702
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	23	0.356725
+T2 ACPA+ vs ACPA- (RA)	F0 covariates	24	0.460526
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	0	0.75
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	1	0.719298
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	2	0.900585
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	3	0.71345
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	4	0.822368
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	5	0.775
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	6	0.74269
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	7	0.842105
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	8	0.853801
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	9	0.907895
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	10	0.81875
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	11	0.883041
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	12	0.836257
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	13	0.766082
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	14	0.710526
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	15	0.91875
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	16	0.77193
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	17	0.748538
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	18	0.777778
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	19	0.835526
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	20	0.7125
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	21	0.77193
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	22	0.783626
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	23	0.77193
+T2 ACPA+ vs ACPA- (RA)	F1 eight programme scores	24	0.802632
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	0	0.64375
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	1	0.71345
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	2	0.567251
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	3	0.725146
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	4	0.644737
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	5	0.58125
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	6	0.672515
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	7	0.567251
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	8	0.71345
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	9	0.723684
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	10	0.6875
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	11	0.754386
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	12	0.684211
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	13	0.608187
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	14	0.427632
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	15	0.64375
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	16	0.71345
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	17	0.596491
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	18	0.695906
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	19	0.671053
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	20	0.8125
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	21	0.567251
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	22	0.660819
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	23	0.549708
+T2 ACPA+ vs ACPA- (RA)	F2 top-30 prioritised genes	24	0.546053
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	0	0.6125
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	1	0.847953
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	2	0.766082
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	3	0.707602
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	4	0.789474
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	5	0.65625
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	6	0.77193
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	7	0.865497
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	8	0.719298
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	9	0.809211
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	10	0.60625
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	11	0.766082
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	12	0.77193
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	13	0.725146
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	14	0.605263
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	15	0.8
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	16	0.625731
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	17	0.748538
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	18	0.74269
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	19	0.690789
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	20	0.65
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	21	0.918129
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	22	0.672515
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	23	0.567251
+T2 ACPA+ vs ACPA- (RA)	F3 genome-wide elastic net	24	0.710526

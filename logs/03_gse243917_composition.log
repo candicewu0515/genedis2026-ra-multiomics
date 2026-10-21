@@ -1,0 +1,25 @@
+<project>/scripts/03_gse243917_composition.py:40: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  m = df.groupby("donor").mean().reindex(donors)
+<project>/scripts/03_gse243917_composition.py:40: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  m = df.groupby("donor").mean().reindex(donors)
+                  feature  n  rho_inflammation  p_inflammation  rho_lining  p_lining  p_batch  fdr_inflammation  fdr_lining  batch_confounded
+       clr_immune_myeloid 11            -0.557           0.075      -0.010     0.977    0.792             0.856       0.977             False
+          frac_all_plasma 11             0.505           0.113      -0.201     0.553    0.177             0.856       0.791             False
+           frac_all_Tcell 11             0.487           0.128       0.201     0.553    0.537             0.856       0.791             False
+           frac_all_mural 11            -0.418           0.201      -0.151     0.658    0.082             0.870       0.823             False
+        clr_immune_plasma 11             0.366           0.269      -0.251     0.456    0.082             0.870       0.791             False
+     frac_all_endothelial 11            -0.331           0.320      -0.261     0.438    0.177             0.870       0.791             False
+              frac_all_NK 11             0.331           0.320       0.342     0.304    0.017             0.870       0.791              True
+      frac_all_fibroblast 11            -0.313           0.348      -0.302     0.368    0.052             0.870       0.791             False
+   mac_score_inflammatory 11             0.261           0.438       0.422     0.196    0.052             0.915       0.791             False
+fib_frac_NOTCH3_sublining  9             0.269           0.484      -0.260     0.500    0.262             0.915       0.791             False
+         clr_immune_Bcell 11            -0.226           0.503      -0.312     0.351    0.329             0.915       0.791             False
+          fib_frac_lining  9            -0.159           0.682       0.520     0.152    0.167             1.000       0.791             False
+         clr_immune_Tcell 11             0.139           0.683       0.412     0.208    0.247             1.000       0.791             False
+         frac_all_myeloid 11            -0.104           0.760      -0.020     0.953    0.792             1.000       0.977             False
+    mac_score_homeostatic 11             0.087           0.799      -0.101     0.769    0.009             1.000       0.904              True
+            clr_immune_NK 11            -0.070           0.839       0.392     0.233    0.030             1.000       0.791              True
+    mac_homeostasis_index 11            -0.052           0.879      -0.161     0.637    0.009             1.000       0.823              True
+           frac_all_Bcell 11             0.035           0.919      -0.332     0.319    0.662             1.000       0.791             False
+        mac_frac_MERTKpos 11             0.017           0.959       0.040     0.907    0.052             1.000       0.977             False
+    mac_frac_inflammatory 11             0.000           1.000       0.291     0.385    0.004             1.000       0.791              True

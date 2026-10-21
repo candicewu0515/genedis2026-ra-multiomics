@@ -1,0 +1,23 @@
+PASS exact values: baselineLD.1.annot.gz 778603 rows
+PASS exact values: baselineLD.2.annot.gz 839257 rows
+PASS exact values: baselineLD.3.annot.gz 706163 rows
+PASS exact values: baselineLD.4.annot.gz 729546 rows
+PASS exact values: baselineLD.5.annot.gz 632996 rows
+PASS exact values: baselineLD.6.annot.gz 663678 rows
+PASS exact values: baselineLD.7.annot.gz 589044 rows
+PASS exact values: baselineLD.8.annot.gz 549556 rows
+PASS exact values: baselineLD.9.annot.gz 437825 rows
+PASS exact values: baselineLD.10.annot.gz 510396 rows
+PASS exact values: baselineLD.11.annot.gz 493753 rows
+PASS exact values: baselineLD.12.annot.gz 480032 rows
+PASS exact values: baselineLD.13.annot.gz 366088 rows
+PASS exact values: baselineLD.14.annot.gz 323965 rows
+PASS exact values: baselineLD.15.annot.gz 286945 rows
+PASS exact values: baselineLD.16.annot.gz 316962 rows
+PASS exact values: baselineLD.17.annot.gz 268764 rows
+PASS exact values: baselineLD.18.annot.gz 285134 rows
+PASS exact values: baselineLD.19.annot.gz 231694 rows
+PASS exact values: baselineLD.20.annot.gz 221582 rows
+PASS exact values: baselineLD.21.annot.gz 138654 rows
+PASS exact values: baselineLD.22.annot.gz 140592 rows
+PASS: 22 annotation files round-trip exactly; native cache installed

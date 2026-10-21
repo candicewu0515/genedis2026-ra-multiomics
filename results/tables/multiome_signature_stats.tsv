@@ -1,0 +1,3 @@
+score	n_RA	rho_vs_inflammation	p_inflammation	rho_vs_rna_score	p_vs_rna	p_batch	null_median_rho_vs_rna	p_vs_random_genesets
+rna_signature_score	10	0.4345	0.2096	1.0	0.0	0.2571		
+atac_gene_activity_signature_score	10	0.2697	0.4511	0.8424	0.0022	0.6095	0.1879	0.008

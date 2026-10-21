@@ -1,0 +1,14 @@
+test	n	stat	p	p_vs_random	random_median	note
+P1 tph_share_of_T vs lymphocytic inflammation grade (RA donors, >= 50 T cells)	10	0.2397	0.5047			
+P1 tph_share_of_T vs prep batch (technical check)	10		1			
+P1 treg_share_of_T vs lymphocytic inflammation grade (RA donors, >= 50 T cells)	10	-0.1199	0.7415			
+P1 treg_share_of_T vs prep batch (technical check)	10		0.2571			
+P1 Tph share of T vs M-6 share of macrophages	10	0.4499	0.1921			
+P2 Tph programme RA vs OA (adjusted incl. T-cell abundance)	155	-1.603	0.1089	0.8082	0.4352	
+P2 Treg programme RA vs OA (adjusted incl. T-cell abundance)	155	0.9946	0.32	0.3776	0.1727	
+P2 within RA: IFN macrophage programme ~ Tph programme (partial on T-cell abundance)	140	0.7902	0.4294	0.1668	-1.102	
+P3 CXCL13-CXCR5 Tph -> B: best specificity percentile among each Tph state's interactions	2	0.0004541				T-7: CD4+ Tph -> B-1: CD24++CD27+IgM+ unswitched memory 0.0 %; T-3: CD4+ Tfh/Tph -> B-1: CD24++CD27+IgM+ unswitched memory 0.0 %
+P3 IFNG senders to M-6: rank of Tph states (of all senders)	20	10				T-7: CD4+ Tph #10; top: NK-1: CD56dim CD16+ IFNG+CD160+
+P4 B cells within 30 um of CXCL13+ vs CXCL13- T cells (section-wise empirical P; no combined tail)	4	4				4/4 positive observed effects; 4/4 sections empirical p < 0.05; stat is positive-effect count; global label shuffling is exploratory
+P4 macrophage IFN score ~ CXCL13+ T neighbours (section-wise empirical P; no combined tail)	4	3				3/4 positive observed effects; 0/4 sections empirical p < 0.05; stat is positive-effect count; global label shuffling is exploratory
+P5 Tph programme change (week 12 - baseline), good minus non-responders (median)	33	-0.3309	0.1502	0.03497	0.1136	good median change -0.26 (Wilcoxon p 0.0446); non 0.07

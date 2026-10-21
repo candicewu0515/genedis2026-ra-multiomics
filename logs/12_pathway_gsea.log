@@ -1,0 +1,29 @@
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/site-packages/pydeseq2/dds.py:822: UserWarning: The dispersion trend curve fitting did not converge. Switching to a mean-based dispersion trend.
+  self._fit_parametric_dispersion_trend(vst)
+GSE198520 good responders post vs pre (n = 19 pairs): 85 genes FDR < 0.05
+2026-10-20 13:55:17,218 [WARNING] Duplicated values found in preranked stats: 1.45% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+2026-10-20 13:55:21,496 [WARNING] Duplicated values found in preranked stats: 1.45% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+
+[hallmark] A: 20 up in active (FDR<0.05), 0 down; B: 31 down after anti-TNF (FDR<0.05), 2 up; overlap up-in-active & down-after-treatment: 17; NES correlation across 49 pathways rho = -0.61 (p = 3.2e-06)
+                                          nes_A  fdr_A  nes_B  fdr_B
+pathway                                                             
+HALLMARK_INTERFERON_GAMMA_RESPONSE        2.665  0.000 -3.209  0.000
+HALLMARK_INTERFERON_ALPHA_RESPONSE        2.267  0.000 -2.854  0.000
+HALLMARK_GLYCOLYSIS                       2.169  0.000 -1.217  0.162
+HALLMARK_IL6_JAK_STAT3_SIGNALING          2.125  0.000 -2.829  0.000
+HALLMARK_HYPOXIA                          2.125  0.000 -1.828  0.000
+HALLMARK_MTORC1_SIGNALING                 2.123  0.000 -2.104  0.000
+HALLMARK_UNFOLDED_PROTEIN_RESPONSE        1.972  0.000 -2.009  0.000
+HALLMARK_CHOLESTEROL_HOMEOSTASIS          1.737  0.007  0.784  0.920
+HALLMARK_PI3K_AKT_MTOR_SIGNALING          1.734  0.006 -2.227  0.000
+HALLMARK_IL2_STAT5_SIGNALING              1.726  0.005 -1.993  0.000
+HALLMARK_COMPLEMENT                       1.669  0.008 -2.551  0.000
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY  1.629  0.012 -2.026  0.000
+HALLMARK_INFLAMMATORY_RESPONSE            1.624  0.012 -2.647  0.000
+HALLMARK_UV_RESPONSE_UP                   1.618  0.012 -1.934  0.000
+HALLMARK_ALLOGRAFT_REJECTION              1.559  0.019 -2.946  0.000
+
+[reactome] A: 133 up in active (FDR<0.05), 1 down; B: 393 down after anti-TNF (FDR<0.05), 16 up; overlap up-in-active & down-after-treatment: 100; NES correlation across 872 pathways rho = -0.37 (p = 5.8e-29)
+  top overlap: REACTOME_HEDGEHOG_LIGAND_BIOGENESIS, REACTOME_CELLULAR_RESPONSE_TO_HYPOXIA, REACTOME_DEGRADATION_OF_DVL, REACTOME_DEFECTIVE_CFTR_CAUSES_CYSTIC_FIBROSIS, REACTOME_SCF_BETA_TRCP_MEDIATED_DEGRADATION_OF_EMI1, REACTOME_GLUCONEOGENESIS, REACTOME_ABC_TRANSPORTER_DISORDERS, REACTOME_NUCLEAR_EVENTS_MEDIATED_BY_NFE2L2, REACTOME_TRANSFERRIN_ENDOCYTOSIS_AND_RECYCLING, REACTOME_THE_ROLE_OF_GTSE1_IN_G2_M_PROGRESSION_AFTER_G2_CHECKPOINT, REACTOME_CROSS_PRESENTATION_OF_SOLUBLE_EXOGENOUS_ANTIGENS_ENDOSOMES, REACTOME_REGULATION_OF_RUNX3_EXPRESSION_AND_ACTIVITY

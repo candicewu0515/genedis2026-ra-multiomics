@@ -1,0 +1,58 @@
+Step 33: waiting for the concurrent invocation in this project
+Annotations: 66 (8 broad types, 57 subtypes, ALLPEAKS)
+
+== RA_Ishigaki_EUR
+    level                      annotation  prop_snps  prop_h2  enrichment   tau_z  p_tau  fdr_tau
+cell type                        CT_Tcell     0.0045   0.2055     45.9880  4.6946 0.0000   0.0000
+cell type                           CT_NK     0.0046   0.1310     28.3910  3.0236 0.0012   0.0050
+cell type                       CT_plasma     0.0045   0.1303     28.8890  2.7682 0.0028   0.0075
+cell type                        CT_Bcell     0.0046   0.1317     28.6540  2.6257 0.0043   0.0086
+cell type                   CT_fibroblast     0.0052   0.0073      1.3942 -1.6630 0.9518   0.9931
+cell type                      CT_myeloid     0.0052   0.0083      1.5886 -2.1578 0.9845   0.9931
+  subtype            ST_T_3__CD4__Tfh_Tph     0.0014   0.0781     54.7570  2.8009 0.0025   0.0545
+  subtype                ST_T_7__CD4__Tph     0.0014   0.0795     54.8580  2.7532 0.0030   0.0545
+  subtype      ST_T_9__CD4__CD25_low_Treg     0.0014   0.0658     46.1470  2.7526 0.0030   0.0545
+  subtype     ST_T_8__CD4__CD25_high_Treg     0.0015   0.0862     57.8590  2.6674 0.0038   0.0545
+  subtype ST_B_7__HLA_DR_IgG__plasmablast     0.0015   0.0560     37.7930  2.4840 0.0065   0.0741
+  subtype        ST_T_10__CD4__OX40_NR3C1     0.0014   0.0620     42.9610  2.1922 0.0142   0.1347
+
+== RA_FinnGen_R12
+    level                  annotation  prop_snps  prop_h2  enrichment   tau_z  p_tau  fdr_tau
+cell type                    CT_Tcell     0.0045   0.2351     52.6100  4.7031 0.0000   0.0000
+cell type                   CT_plasma     0.0045   0.1827     40.5080  3.6312 0.0001   0.0006
+cell type                       CT_NK     0.0046   0.1457     31.5910  2.4707 0.0067   0.0180
+cell type                    CT_Bcell     0.0046   0.1637     35.6120  2.2866 0.0111   0.0222
+cell type                    CT_mural     0.0049   0.0177      3.6160 -1.5705 0.9419   1.0000
+cell type                  CT_myeloid     0.0052   0.0302      5.7954 -1.8337 0.9667   1.0000
+  subtype  ST_T_9__CD4__CD25_low_Treg     0.0014   0.0931     65.3390  3.1856 0.0007   0.0189
+  subtype            ST_T_7__CD4__Tph     0.0014   0.1001     69.0580  3.0448 0.0012   0.0189
+  subtype ST_T_8__CD4__CD25_high_Treg     0.0015   0.1076     72.1960  3.0075 0.0013   0.0189
+  subtype    ST_T_10__CD4__OX40_NR3C1     0.0014   0.0900     62.3630  3.0047 0.0013   0.0189
+  subtype        ST_T_3__CD4__Tfh_Tph     0.0014   0.0749     52.5300  2.2610 0.0119   0.1354
+  subtype          ST_T_4__CD4__naive     0.0015   0.0615     40.8710  1.8838 0.0298   0.2831
+
+== T2D_FinnGen_R12_control
+    level                   annotation  prop_snps  prop_h2  enrichment   tau_z  p_tau  fdr_tau
+cell type                   CT_myeloid     0.0052   0.0174      3.3419  0.9418 0.1731   0.8021
+cell type                    CT_plasma     0.0045   0.0205      4.5482  0.8397 0.2005   0.8021
+cell type                     CT_Bcell     0.0046   0.0134      2.9233  0.4781 0.3163   0.8434
+cell type               CT_endothelial     0.0047   0.0053      1.1165 -0.7239 0.7654   0.9796
+cell type                CT_fibroblast     0.0052   0.0024      0.4676 -0.8062 0.7899   0.9796
+cell type                     CT_Tcell     0.0045  -0.0092     -2.0602 -1.3062 0.9043   0.9796
+  subtype ST_B_2__IgM_IgD_TCL1A__naive     0.0015   0.0172     11.6460  1.3935 0.0817   0.9689
+  subtype         ST_T_3__CD4__Tfh_Tph     0.0014   0.0137      9.5831  1.3066 0.0957   0.9689
+  subtype  ST_F_0__PRG4__CLIC5__lining     0.0016   0.0141      8.8804  1.1911 0.1168   0.9689
+  subtype     ST_T_10__CD4__OX40_NR3C1     0.0014   0.0146     10.0800  1.1691 0.1212   0.9689
+  subtype         ST_F_1__PRG4__lining     0.0016   0.0111      6.9564  1.0206 0.1537   0.9689
+  subtype   ST_T_9__CD4__CD25_low_Treg     0.0014   0.0108      7.5662  0.9517 0.1706   0.9689
+
+All synovial peaks (median over models) and total h2:
+                          enrichment  enrichment_p    tau_z      h2 intercept
+gwas                                                                        
+RA_FinnGen_R12              13.5410  2.710400e-10  4.63140  0.1433    1.0914
+RA_Ishigaki_EUR              9.2664  4.777500e-08  3.13680  0.2046    1.0544
+T2D_FinnGen_R12_control      2.2635  1.404400e-01 -0.28243  0.1707    1.3913
+
+S1 T cells: RA_FinnGen_R12 tau z 4.70, p 1.28e-06, FDR 1.02e-05, enrichment 52.6; RA_Ishigaki_EUR tau z 4.69, p 1.34e-06, FDR 1.07e-05, enrichment 46.0; T2D_FinnGen_R12_control tau z -1.31, p 0.904, FDR 0.98, enrichment -2.1
+S2 M-6 peaks: not testable (M-6 has fewer than 100 nuclei, so step 10 defines no peak set)
+S3 T2D control: annotations with FDR < 0.05: 0 of 65

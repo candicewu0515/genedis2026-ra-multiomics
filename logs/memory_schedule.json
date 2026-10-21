@@ -1,0 +1,11 @@
+{
+  "time": "2026-10-20 14:23:47",
+  "paused_ldscore_workers": [
+    1173,
+    2549,
+    2579,
+    2584
+  ],
+  "reason": "Temporarily serialize memory-heavy MOFA and LD-score work to prevent swap thrashing. Analytic code and data unchanged.",
+  "resumed_time": "2026-10-20 14:49:04"
+}

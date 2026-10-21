@@ -1,0 +1,22 @@
+Level-QTL colocalisations with a QTL lead variant: 906 (95 genes)
+  Ishigaki 2022 (EUR): GWAS effects found for 366 of 453 instruments
+  FinnGen R12: GWAS effects found for 332 of 453 instruments
+
+Focus genes (primary instrument per signal):
+   gene                gwas     ra_lead      instrument                                                                           dataset qtl_type category  clpp  OR_per_SD  OR_lo  OR_hi      z  n_datasets  share_same_sign
+ANKRD55         FinnGen R12   rs7731626  5_56148856_G_A            OTAR2057_IBDverse central memory CD4-positive, alpha-beta T cell naive   sceqtl     T/NK 1.000      1.174  1.132  1.218  8.595          35            1.000
+ANKRD55 Ishigaki 2022 (EUR)   rs7731626  5_56148856_G_A            OTAR2057_IBDverse central memory CD4-positive, alpha-beta T cell naive   sceqtl     T/NK 1.000      1.301  1.247  1.359 12.000          35            1.000
+   CCR6         FinnGen R12   rs3836950 6_167120802_G_A                                                         Fairfax_2012 B cell naive     eqtl    B/LCL 0.018      1.246  1.169  1.329  6.712           2            0.500
+   CCR6 Ishigaki 2022 (EUR)   rs3093017 6_167120802_G_A                                                         Fairfax_2012 B cell naive     eqtl    B/LCL 0.084      1.354  1.261  1.453  8.406           2            0.500
+   CD40 Ishigaki 2022 (EUR)   rs4239702 20_46120612_T_C                                               OTAR2057_IBDverse plasma cell naive   sceqtl    B/LCL 0.182      1.259  1.182  1.341  7.194           4            0.750
+  CTLA4         FinnGen R12   rs3087243 2_203874196_G_A                                       CEDAR CD4-positive, alpha-beta T cell naive     eqtl     T/NK 0.121      0.861  0.830  0.893 -8.094          14            1.000
+  CTLA4 Ishigaki 2022 (EUR)   rs7565213 2_203874196_G_A                                      OneK1K CD4-positive, alpha-beta T cell naive   sceqtl     T/NK 0.081      0.713  0.665  0.765 -9.437           6            1.000
+ FCGR2A Ishigaki 2022 (EUR)  rs11810143 1_161506415_A_G                                                   Alasoo_2018 macrophage IFNg_18h     eqtl  myeloid 0.032      0.928  0.905  0.951 -5.824           7            1.000
+  IL6ST         FinnGen R12   rs7731626  5_56148856_G_A OTAR2057_IBDverse CD4-positive, CD25-positive, alpha-beta regulatory T cell naive   sceqtl     T/NK 1.000      1.269  1.202  1.339  8.595           9            1.000
+  IL6ST Ishigaki 2022 (EUR)   rs7731626  5_56148856_G_A OTAR2057_IBDverse CD4-positive, CD25-positive, alpha-beta regulatory T cell naive   sceqtl     T/NK 1.000      1.478  1.387  1.575 12.000           9            1.000
+   IRF5         FinnGen R12  rs13246321 7_128936032_T_C                                                CAP lymphoblastoid cell line naive     eqtl    B/LCL 0.009      0.928  0.909  0.947 -7.015           8            0.250
+   IRF5 Ishigaki 2022 (EUR)   rs3778754 7_128935498_C_G                                                   Alasoo_2018 macrophage IFNg_18h     eqtl  myeloid 0.512      0.875  0.848  0.902 -8.408          18            0.222
+   IRF5 Ishigaki 2022 (EUR)   rs4731532 7_128932712_G_A                                           GTEx-v10 lymphoblastoid cell line naive     eqtl    B/LCL 0.949      1.315  1.214  1.424  6.725           5            0.600
+  TRAF1 Ishigaki 2022 (EUR) rs577932181 9_120876986_G_A                                              Schmiedel_2018 T-helper 2 cell naive     eqtl     T/NK 0.027      1.113  1.074  1.152  5.992          20            0.550
+M1 OR < 1 CTLA4: FinnGen R12 OR 0.86 (0.83-0.89), 100% of 14 datasets same sign; Ishigaki 2022 (EUR) OR 0.71 (0.66-0.77), 100% of 6 datasets same sign
+M2 OR > 1 IL6ST: FinnGen R12 OR 1.27 (1.20-1.34), 100% of 9 datasets same sign; Ishigaki 2022 (EUR) OR 1.48 (1.39-1.58), 100% of 9 datasets same sign

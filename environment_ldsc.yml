@@ -1,0 +1,13 @@
+name: genedis_ldsc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.26
+  - pandas=1.5
+  - scipy=1.11
+  - bitarray=2.8
+  - scikit-learn=1.3
+  - tqdm
+  - pyarrow
+  - networkx

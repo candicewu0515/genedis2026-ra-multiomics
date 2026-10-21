@@ -1,0 +1,23 @@
+	Disease	region	donor	Sample group	ifng_response	ra_signature	mac_homeostatic	mac_inflammatory
+P1-L	NH	lining	CT504_A1	NH SL	-0.9034	0.2062	0.9411	
+P1-S	NH	sublining	CT504_A1	NH SSL	-1.4009	-1.2029	-1.7058	-1.361
+P2-L	NH	lining	CT502_A1	NH SL	-0.6558	0.7011	-0.5883	-2.2199
+P2-S	NH	sublining	CT502_A1	NH SSL	-1.1042	-0.8135	-1.1896	
+P3-L	NH	lining	CT19060_D8	NH SL	-0.8523	-0.3231	0.2746	-1.311
+P3-S	NH	sublining	CT19060_D8	NH SSL	-0.7201	-1.1403	0.3422	-1.6374
+P4-I	RA	immune_sublining	CT513_A1	RA immune SSL	0.3476	0.121	-0.0589	0.4854
+P4-L	RA	lining	CT513_A1	RA SL	0.434	0.4158	0.0461	0.7131
+P4-S	RA	fibrous_sublining	CT513_A1	RA fibrous SSL	0.4539	0.5548	0.4587	0.6908
+P5-I	RA	immune_sublining	CT514_A1	RA immune SSL	-0.1126	-0.7473	-0.2555	-0.298
+P5-L	RA	lining	CT514_A1	RA SL	-0.0773	-0.1899	0.6593	0.1792
+P5-S	RA	fibrous_sublining	CT514_A1	RA fibrous SSL	-0.0171	-0.2307	0.7846	0.1362
+P6-I	RA	immune_sublining	CT19060_A4	RA immune SSL	0.2452	-0.3941	-0.677	-0.2771
+P6-L	RA	lining	CT19060_A4	RA SL	0.2658	0.554	-0.8902	0.6826
+P6-S	RA	fibrous_sublining	CT19060_A4	RA fibrous SSL	0.1171	-0.6174	0.4263	-0.0547
+P7-L	RA	lining	CT510_A1	RA SL	0.2552	0.223	-0.0087	0.6882
+P7-S	RA	sublining	CT510_A1	RA fibrous SSL	-0.0533	-0.8506	0.2307	-0.0724
+P8-L	RA	lining	CT511_A1	RA SL	0.2356	1.4827	-0.1009	1.299
+P8-S	RA	sublining	CT511_A1	RA fibrous SSL	0.2315	0.4184	0.3562	0.369
+P9-I	RA	immune_sublining	CT21045_A15	RA immune SSL	0.3661	0.1396	-0.3674	0.3615
+P9-L	RA	lining	CT21045_A15	RA SL	0.5064	1.0234	-0.0204	0.8636
+P9-S	RA	fibrous_sublining	CT21045_A15	RA fibrous SSL	0.1633	-0.0799	0.9164	0.3091

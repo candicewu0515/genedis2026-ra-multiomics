@@ -1,0 +1,116 @@
+signature	gene	direction	log2FoldChange	stat	pvalue	padj
+primary_FDR	MT1H	up_in_active	6.05836	5.56658	0.0	0.00013
+primary_FDR	MT1G	up_in_active	4.51814	5.40413	0.0	0.00022
+primary_FDR	MT2A	up_in_active	3.08794	5.07088	0.0	0.00102
+primary_FDR	MT1F	up_in_active	2.54641	4.68257	0.0	0.00583
+primary_FDR	MT1L	up_in_active	3.18832	4.61001	0.0	0.00691
+primary_FDR	MT1X	up_in_active	2.48699	4.52115	1e-05	0.00791
+primary_FDR	PKM	up_in_active	0.81746	4.2048	3e-05	0.02689
+primary_FDR	APOL6	up_in_active	0.84242	4.14123	3e-05	0.02969
+primary_FDR	MT1E	up_in_active	2.98784	4.14075	3e-05	0.02969
+primary_FDR	PFKP	up_in_active	1.5119	4.07633	5e-05	0.03622
+primary_FDR	MT1M	up_in_active	3.71795	4.05288	5e-05	0.03719
+primary_FDR	PALM2AKAP2	up_in_active	2.20204	4.00264	6e-05	0.04169
+primary_FDR	IL4I1	up_in_active	1.95528	3.99455	6e-05	0.04169
+primary_FDR	SLAMF7	up_in_active	2.13895	3.97537	7e-05	0.04254
+primary_FDR	GBP5	up_in_active	2.15672	3.92361	9e-05	0.04987
+sensitivity_nominal50x50	MT1H	up_in_active	6.05836	5.56658	0.0	0.00013
+sensitivity_nominal50x50	MT1G	up_in_active	4.51814	5.40413	0.0	0.00022
+sensitivity_nominal50x50	MT2A	up_in_active	3.08794	5.07088	0.0	0.00102
+sensitivity_nominal50x50	MT1F	up_in_active	2.54641	4.68257	0.0	0.00583
+sensitivity_nominal50x50	MT1L	up_in_active	3.18832	4.61001	0.0	0.00691
+sensitivity_nominal50x50	MT1X	up_in_active	2.48699	4.52115	1e-05	0.00791
+sensitivity_nominal50x50	PKM	up_in_active	0.81746	4.2048	3e-05	0.02689
+sensitivity_nominal50x50	APOL6	up_in_active	0.84242	4.14123	3e-05	0.02969
+sensitivity_nominal50x50	MT1E	up_in_active	2.98784	4.14075	3e-05	0.02969
+sensitivity_nominal50x50	PFKP	up_in_active	1.5119	4.07633	5e-05	0.03622
+sensitivity_nominal50x50	MT1M	up_in_active	3.71795	4.05288	5e-05	0.03719
+sensitivity_nominal50x50	PALM2AKAP2	up_in_active	2.20204	4.00264	6e-05	0.04169
+sensitivity_nominal50x50	IL4I1	up_in_active	1.95528	3.99455	6e-05	0.04169
+sensitivity_nominal50x50	SLAMF7	up_in_active	2.13895	3.97537	7e-05	0.04254
+sensitivity_nominal50x50	GBP5	up_in_active	2.15672	3.92361	9e-05	0.04987
+sensitivity_nominal50x50	ANKRD22	up_in_active	2.76021	3.73752	0.00019	0.08792
+sensitivity_nominal50x50	NEU4	up_in_active	1.97188	3.70548	0.00021	0.08792
+sensitivity_nominal50x50	STAT1	up_in_active	1.40606	3.69819	0.00022	0.08792
+sensitivity_nominal50x50	PEA15	up_in_active	0.69627	3.67765	0.00024	0.08792
+sensitivity_nominal50x50	C15orf48	up_in_active	2.247	3.67353	0.00024	0.08792
+sensitivity_nominal50x50	CD40	up_in_active	1.00389	3.62585	0.00029	0.1022
+sensitivity_nominal50x50	INHBA	up_in_active	2.26386	3.56949	0.00036	0.12072
+sensitivity_nominal50x50	LGALS3	up_in_active	0.62928	3.56516	0.00036	0.12072
+sensitivity_nominal50x50	MMP19	up_in_active	1.57497	3.54481	0.00039	0.12635
+sensitivity_nominal50x50	CALR	up_in_active	0.56495	3.51435	0.00044	0.13343
+sensitivity_nominal50x50	IL32	up_in_active	2.29822	3.50388	0.00046	0.13482
+sensitivity_nominal50x50	RALA	up_in_active	1.39756	3.4887	0.00049	0.13576
+sensitivity_nominal50x50	PTPN12	up_in_active	0.50916	3.4799	0.0005	0.13576
+sensitivity_nominal50x50	CXCL11	up_in_active	2.79483	3.4756	0.00051	0.13576
+sensitivity_nominal50x50	ATF5	up_in_active	1.05091	3.47309	0.00051	0.13576
+sensitivity_nominal50x50	HAPLN3	up_in_active	2.13788	3.4469	0.00057	0.14429
+sensitivity_nominal50x50	ENO2	up_in_active	2.41189	3.44321	0.00057	0.14429
+sensitivity_nominal50x50	IL18BP	up_in_active	1.60785	3.39025	0.0007	0.16735
+sensitivity_nominal50x50	SLAMF9	up_in_active	2.50109	3.38864	0.0007	0.16735
+sensitivity_nominal50x50	STX4	up_in_active	0.53833	3.38357	0.00072	0.16735
+sensitivity_nominal50x50	HSD3B7	up_in_active	1.16429	3.34067	0.00084	0.19113
+sensitivity_nominal50x50	C1orf21	up_in_active	1.71102	3.32075	0.0009	0.20085
+sensitivity_nominal50x50	SH3BGRL3	up_in_active	0.55109	3.31396	0.00092	0.20141
+sensitivity_nominal50x50	NRIP3	up_in_active	1.32271	3.2843	0.00102	0.21919
+sensitivity_nominal50x50	CD274	up_in_active	1.94911	3.27957	0.00104	
+sensitivity_nominal50x50	ERO1A	up_in_active	1.53264	3.26199	0.00111	0.23051
+sensitivity_nominal50x50	GBP1	up_in_active	1.57657	3.2566	0.00113	0.23051
+sensitivity_nominal50x50	DHRS9	up_in_active	1.43783	3.25284	0.00114	0.23051
+sensitivity_nominal50x50	RGPD2	up_in_active	2.78352	3.24533	0.00117	
+sensitivity_nominal50x50	CXCL10	up_in_active	2.48933	3.23054	0.00124	0.23991
+sensitivity_nominal50x50	GIPR	up_in_active	2.6572	3.19229	0.00141	
+sensitivity_nominal50x50	SMOX	up_in_active	1.68105	3.18011	0.00147	0.28056
+sensitivity_nominal50x50	SRC	up_in_active	1.19434	3.15109	0.00163	0.30436
+sensitivity_nominal50x50	JAKMIP2	up_in_active	2.41863	3.12135	0.0018	
+sensitivity_nominal50x50	SDSL	up_in_active	0.91584	3.12052	0.00181	0.32594
+sensitivity_nominal50x50	DROSHA	up_in_remission	-0.88859	-3.69989	0.00022	0.08792
+sensitivity_nominal50x50	HERC2P2	up_in_remission	-1.10207	-3.68845	0.00023	0.08792
+sensitivity_nominal50x50	C15orf61	up_in_remission	-0.89722	-3.53455	0.00041	0.12738
+sensitivity_nominal50x50	ERCC2	up_in_remission	-0.84983	-3.20794	0.00134	
+sensitivity_nominal50x50	ZNF641	up_in_remission	-0.82789	-3.13705	0.00171	0.31361
+sensitivity_nominal50x50	WLS	up_in_remission	-1.38956	-3.01493	0.00257	0.35272
+sensitivity_nominal50x50	QPRT	up_in_remission	-1.96367	-2.98514	0.00283	0.36923
+sensitivity_nominal50x50	INPP4A	up_in_remission	-0.61261	-2.97283	0.00295	0.37488
+sensitivity_nominal50x50	TUSC1	up_in_remission	-1.17787	-2.94707	0.00321	
+sensitivity_nominal50x50	TAF1C	up_in_remission	-0.86034	-2.91592	0.00355	0.40156
+sensitivity_nominal50x50	S100A3	up_in_remission	-1.82119	-2.91553	0.00355	0.40156
+sensitivity_nominal50x50	HADH	up_in_remission	-0.52368	-2.90837	0.00363	0.40292
+sensitivity_nominal50x50	PLXDC1	up_in_remission	-1.87122	-2.90364	0.00369	0.40292
+sensitivity_nominal50x50	SMAD3	up_in_remission	-1.27179	-2.89774	0.00376	0.40292
+sensitivity_nominal50x50	TPTEP1	up_in_remission	-0.93352	-2.88829	0.00387	0.40311
+sensitivity_nominal50x50	LYNX1	up_in_remission	-1.06206	-2.8805	0.00397	
+sensitivity_nominal50x50	DPH5	up_in_remission	-0.69009	-2.87972	0.00398	0.40311
+sensitivity_nominal50x50	COL9A2	up_in_remission	-1.65481	-2.85406	0.00432	
+sensitivity_nominal50x50	TTC13	up_in_remission	-0.75369	-2.82236	0.00477	
+sensitivity_nominal50x50	EGFL7	up_in_remission	-1.77804	-2.80626	0.00501	0.44464
+sensitivity_nominal50x50	ZFAND1	up_in_remission	-0.53275	-2.79704	0.00516	0.44978
+sensitivity_nominal50x50	POU2F2	up_in_remission	-0.64513	-2.77327	0.00555	0.46431
+sensitivity_nominal50x50	LPAR6	up_in_remission	-0.72938	-2.75113	0.00594	0.47749
+sensitivity_nominal50x50	ZNF296	up_in_remission	-0.88051	-2.74841	0.00599	
+sensitivity_nominal50x50	AASDH	up_in_remission	-0.73354	-2.74542	0.00604	0.4784
+sensitivity_nominal50x50	CX3CR1	up_in_remission	-1.39588	-2.73276	0.00628	0.48463
+sensitivity_nominal50x50	CBY1	up_in_remission	-1.06276	-2.73098	0.00631	0.48463
+sensitivity_nominal50x50	NAV2	up_in_remission	-1.75227	-2.72389	0.00645	0.48463
+sensitivity_nominal50x50	SRR	up_in_remission	-0.79666	-2.71931	0.00654	
+sensitivity_nominal50x50	LRP3	up_in_remission	-1.12361	-2.69959	0.00694	
+sensitivity_nominal50x50	GPR34	up_in_remission	-1.00628	-2.6936	0.00707	0.50271
+sensitivity_nominal50x50	KLHDC2	up_in_remission	-0.61166	-2.68834	0.00718	0.50271
+sensitivity_nominal50x50	ASB9	up_in_remission	-0.98899	-2.67874	0.00739	
+sensitivity_nominal50x50	PRKCD	up_in_remission	-0.56415	-2.65752	0.00787	0.52262
+sensitivity_nominal50x50	GTPBP3	up_in_remission	-0.66174	-2.65329	0.00797	0.52262
+sensitivity_nominal50x50	TIMP3	up_in_remission	-2.2371	-2.63951	0.0083	0.52262
+sensitivity_nominal50x50	CENPC	up_in_remission	-0.64373	-2.63809	0.00834	0.52262
+sensitivity_nominal50x50	CADM1	up_in_remission	-1.54075	-2.63505	0.00841	0.52262
+sensitivity_nominal50x50	TNF	up_in_remission	-1.21793	-2.63201	0.00849	0.52262
+sensitivity_nominal50x50	DYNC2LI1	up_in_remission	-0.62328	-2.62948	0.00855	0.52262
+sensitivity_nominal50x50	GNG2	up_in_remission	-0.8539	-2.6166	0.00888	0.52262
+sensitivity_nominal50x50	SPATA6	up_in_remission	-0.8118	-2.61144	0.00902	0.52262
+sensitivity_nominal50x50	FMO5	up_in_remission	-0.94372	-2.59751	0.00939	
+sensitivity_nominal50x50	PDSS2	up_in_remission	-0.52519	-2.57194	0.01011	0.53958
+sensitivity_nominal50x50	PLD4	up_in_remission	-1.26067	-2.57184	0.01012	0.53958
+sensitivity_nominal50x50	MTND2P28	up_in_remission	-2.30133	-2.57017	0.01016	0.53958
+sensitivity_nominal50x50	SPATC1L	up_in_remission	-0.75949	-2.54781	0.01084	0.53958
+sensitivity_nominal50x50	RCL1	up_in_remission	-0.5968	-2.54391	0.01096	0.53958
+sensitivity_nominal50x50	ICAM3	up_in_remission	-1.64076	-2.53537	0.01123	0.53958
+sensitivity_nominal50x50	PPM1F	up_in_remission	-0.5949	-2.52151	0.01169	0.53958

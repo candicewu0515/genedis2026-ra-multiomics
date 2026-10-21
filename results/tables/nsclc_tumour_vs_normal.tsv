@@ -1,0 +1,3 @@
+cancer	n_pairs	median_tumour_minus_normal	p_wilcoxon
+LUAD	58	-1.658	5.19e-10
+LUSC	51	-2.104	1.323e-09

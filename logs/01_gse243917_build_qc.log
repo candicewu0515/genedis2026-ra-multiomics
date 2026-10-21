@@ -1,0 +1,31 @@
+         disease  lymphocytic_inflammation_grade  lining_hyperplasia_grade
+donor                                                                     
+BRI-1281      OA                               1                         1
+BRI-1385      RA                               2                         1
+BRI-1387      RA                               2                         2
+BRI-1389      RA                               2                         1
+BRI-1586      RA                               2                         1
+BRI-1588      RA                               2                         2
+BRI-1590      RA                               2                         3
+BRI-1592      RA                               4                         2
+BRI-1594      RA                               2                         1
+BRI-1607      RA                               4                         1
+BRI-1609      RA                               2                         2
+BRI-1611      RA                               3                         2
+          n_cells  ...  lining_hyperplasia_grade
+donor              ...                          
+BRI-1281     3691  ...                         1
+BRI-1385     3320  ...                         1
+BRI-1387     4111  ...                         2
+BRI-1389     3994  ...                         1
+BRI-1586      622  ...                         1
+BRI-1588      137  ...                         2
+BRI-1590     1226  ...                         3
+BRI-1592     1568  ...                         2
+BRI-1594     2351  ...                         1
+BRI-1607     2865  ...                         1
+BRI-1609     3572  ...                         2
+BRI-1611     4090  ...                         2
+
+[12 rows x 9 columns]
+Saved 31547 nuclei x 36601 genes; 0 fail floor QC, 27 scrublet-flagged

@@ -1,0 +1,5 @@
+gene_set	n_genes	path	lag	random_median	p_vs_random
+M-6 a priori IFN list	8	M-7 > M-8 > M-5 > M-2 > M-3 > M-1 > M-6	0.05263	-0.05263	0.1741
+M-4 RNA markers (same selection)	50	M-7 > M-8 > M-5 > M-2 > M-4	-0.3684	0	0.7015
+M-0 RNA markers (same selection)	50	M-7 > M-8 > M-5 > M-2 > M-0	0	-0.2105	0.4328
+M-5 RNA markers (same selection)	19	M-7 > M-8 > M-5	-1	0	1

@@ -1,0 +1,4 @@
+test	n	rho	p
+lymphocyte IFNG vs macrophage IFN-gamma programme	10	0.103	0.777
+lymphocyte IFNG vs M-6 share of macrophages	10	0.0	1.0
+IFNG expression vs RA GWAS enrichment across T/NK states	23	0.0613	0.7812

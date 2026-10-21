@@ -1,0 +1,29 @@
+R1 ...
+R2 ...
+R3/R4 ...
+R5 ...
+  R5 N_TOP=2000: T-cell enrichment 1.60, p = 0.0020
+  R5 N_TOP=4000: T-cell enrichment 1.59, p = 0.0010
+  R5 N_TOP=8000: T-cell enrichment 1.24, p = 0.0040
+R6 ...
+2026-10-20 14:34:33,430 [WARNING] Duplicated values found in preranked stats: 1.45% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+2026-10-20 14:34:34,111 [WARNING] Duplicated values found in preranked stats: 1.56% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  R6 ranking by stat: Hallmark NES rho(A, B) = -0.61
+2026-10-20 14:34:35,110 [WARNING] Duplicated values found in preranked stats: 5.02% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+2026-10-20 14:34:35,802 [WARNING] Duplicated values found in preranked stats: 8.65% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+  R6 ranking by log2FoldChange: Hallmark NES rho(A, B) = -0.55
+                                   analysis                                               metric  full_data    min    max  n_perturbations  fraction_meeting_rule                                                             note
+                 R1 signature (E-MTAB-8322)        fraction of the 15 FDR genes still FDR < 0.05      1.000  0.067  1.000               19                  0.895                                     rule: at least half retained
+                 R1 signature (E-MTAB-8322)          fraction of the 15 genes still up in active      1.000  1.000  1.000               19                  1.000                                    rule: all directions retained
+                 R1 signature (E-MTAB-8322) Spearman of genome-wide Wald statistics vs full data      1.000  0.925  0.990               19                  1.000                                                                 
+      R2 active RA vs healthy (E-MTAB-8322)                Mann-Whitney p, mac_frac_inflammatory      0.013  0.006  0.048               16                  1.000                                                                 
+      R2 active RA vs healthy (E-MTAB-8322)               Mann-Whitney p, mean_score_homeostatic      0.013  0.001  0.031               16                  1.000                                                                 
+       R3 RNA vs ATAC signature (GSE243917)                             donor-level Spearman rho      0.839  0.783  0.912               10                  1.000       rule: above the 95th percentile of random gene sets (0.69)
+          R4 signature transfer (GSE243917)       Spearman rho vs lymphocytic inflammation grade      0.434  0.311  0.593               10                  1.000                                         rule: direction positive
+R5 RA GWAS enrichment, T-cell peaks (25 kb)                 enrichment (loci hit / matched null)      1.590  1.236  1.604                2                  1.000                    perturbations: 2,000 and 8,000 specific peaks
+R5 RA GWAS enrichment, T-cell peaks (25 kb)                                          empirical p      0.001  0.002  0.004                2                  1.000                                                                 
+          R6 GSEA cross-contrast (Hallmark)                          Spearman rho of NES, A vs B     -0.613 -0.554 -0.554                1                  1.000 perturbation: rank by log2 fold change instead of Wald statistic

@@ -1,0 +1,33 @@
+CT_504_A-1 NH: 471 spots
+CT_23031_A-1 OA: 1753 spots
+CT_510_A-1 RA: 162 spots
+CT_502_A-1 NH: 233 spots
+CT_23031_A-6 OA: 1812 spots
+CT_511_A-1 RA: 442 spots
+CT_19060_D-8 NH: 1219 spots
+CT_23031_A-8 OA: 1422 spots
+CT_21045_A-15 RA: 2441 spots
+CT_513_A-1 RA: 1948 spots
+CT_514_A-1 RA: 483 spots
+CT_19060_A-4 RA: 1100 spots
+        block condition  n_spots  mean_ifn  pct_spots_ifn_high
+   CT_504_A-1        NH      471     0.040               5.520
+ CT_23031_A-1        OA     1753     0.063               4.963
+   CT_510_A-1        RA      162     0.087              10.494
+   CT_502_A-1        NH      233     0.040               7.296
+ CT_23031_A-6        OA     1812     0.259              30.022
+   CT_511_A-1        RA      442     0.098              18.326
+ CT_19060_D-8        NH     1219     0.063               4.430
+ CT_23031_A-8        OA     1422     0.386              55.556
+CT_21045_A-15        RA     2441     0.277              34.658
+   CT_513_A-1        RA     1948     0.245              29.261
+   CT_514_A-1        RA      483     0.324              43.478
+ CT_19060_A-4        RA     1100     0.459              75.636
+H1: IFN-high spot share RA median 32.0% vs NH 5.5% (6 vs 3, Mann-Whitney p = 0.024)
+        block  n_spots  rho_ifn_vs_lymphoid  random_median_lymphoid  pct_random_ge_lymphoid  rho_ifn_vs_IFNG_neighbourhood  random_median_IFNG  pct_random_ge_IFNG
+   CT_510_A-1      162                0.214                  -0.007                   0.010                         -0.037               0.012               0.720
+   CT_511_A-1      442                0.007                   0.006                   0.480                         -0.042              -0.028               0.705
+CT_21045_A-15     2441                0.007                  -0.031                   0.255                          0.036               0.001               0.045
+   CT_513_A-1     1948               -0.004                  -0.020                   0.350                          0.016              -0.005               0.230
+   CT_514_A-1      483                0.132                  -0.029                   0.090                         -0.002               0.002               0.520
+ CT_19060_A-4     1100                0.225                  -0.073                   0.005                          0.134              -0.017               0.000

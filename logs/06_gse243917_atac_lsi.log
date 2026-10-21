@@ -1,0 +1,20 @@
+/opt/homebrew/Cellar/micromamba/2.5.0_2/envs/genedis_ra/lib/python3.11/site-packages/muon/_core/preproc.py:32: FutureWarning: `__version__` is deprecated, use `importlib.metadata.version('scanpy')` instead
+  if Version(scanpy.__version__) < Version("1.10"):
+          n_nuclei  median_peaks  median_counts prep_batch
+donor                                                     
+BRI-1281      3690        8466.0        10136.5     highMT
+BRI-1385      3320        5278.0         5875.5     highMT
+BRI-1387      4100       10470.5        12442.5     highMT
+BRI-1389      3988        7802.0         9105.0     highMT
+BRI-1586       620       11474.0        14863.0      lowMT
+BRI-1588       137        7798.0        10255.0      lowMT
+BRI-1590      1226       10686.0        14185.0      lowMT
+BRI-1592      1568       10154.5        13125.5      lowMT
+BRI-1594      2351        9284.0        11884.0      lowMT
+BRI-1607      2861       11348.0        15216.0     highMT
+BRI-1609      3572        7937.5         9451.0     highMT
+BRI-1611      4087       10314.0        13746.0     highMT
+ATAC after QC: 31520 nuclei x 132479 peaks
+LSI |r| with depth, comps 1-5: [0.99 0.03 0.15 0.16 0.05]
+ATAC kNN transfer of author_ct: overall accuracy 0.978; ARI(ATAC leiden, author_ct) = 0.519
+ATAC kNN transfer of author_subtype: overall accuracy 0.603; ARI(ATAC leiden, author_subtype) = 0.355

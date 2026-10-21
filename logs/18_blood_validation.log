@@ -1,0 +1,15 @@
+Donors with >= 100 monocytes: 30 (15 RA); signature genes measured: 3/15 (MT2A, PKM, APOL6); IFN-gamma genes: 105
+hypothesis                                                       test  n  statistic     p                                                     note
+        H1     paired Wilcoxon RA vs matched control: signature_score 13     -0.082 0.455 statistic = median within-pair difference (RA - control)
+        H2                  Spearman signature_score vs das28crp (RA) 14     -0.037 0.899                                                      NaN
+        H2                      Spearman signature_score vs cdai (RA) 13      0.104 0.734                                                      NaN
+     batch          Kruskal signature_score across sequencing batches 30      5.004 0.082                                                      NaN
+        H1 paired Wilcoxon RA vs matched control: ifng_response_score 13     -0.073 0.414 statistic = median within-pair difference (RA - control)
+        H2              Spearman ifng_response_score vs das28crp (RA) 14      0.077 0.794                                                      NaN
+        H2                  Spearman ifng_response_score vs cdai (RA) 13      0.258 0.394                                                      NaN
+     batch      Kruskal ifng_response_score across sequencing batches 30      5.438 0.066                                                      NaN
+        H1    paired Wilcoxon RA vs matched control: frac_IFITM3_mono 13     -0.007 0.057 statistic = median within-pair difference (RA - control)
+        H2                 Spearman frac_IFITM3_mono vs das28crp (RA) 14     -0.402 0.154                                                      NaN
+        H2                     Spearman frac_IFITM3_mono vs cdai (RA) 13     -0.374 0.209                                                      NaN
+     batch         Kruskal frac_IFITM3_mono across sequencing batches 30      1.319 0.517                                                      NaN
+  confound  Mann-Whitney signature score, methotrexate yes vs no (RA) 14     34.000 0.228                                                      NaN
