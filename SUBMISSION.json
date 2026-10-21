@@ -13,7 +13,7 @@
   "submission_status": "materials prepared; submission email not sent",
   "reference_snapshot": "Open Targets 26.09 and saved API/GMT/eQTL inputs",
   "repository": "https://github.com/candicewu0515/genedis2026-ra-multiomics",
-  "release": "https://github.com/candicewu0515/genedis2026-ra-multiomics/releases/tag/v1.5-submission",
+  "release": "https://github.com/candicewu0515/genedis2026-ra-multiomics/releases/tag/v1.6-submission",
   "primary_report": "presentation/GeNeDis2026_submission_report.pdf",
   "methods_QC": "presentation/GeNeDis2026_methods_QC.pdf",
   "figure_atlas": "presentation/GeNeDis2026_figure_atlas.pdf",

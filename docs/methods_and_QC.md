@@ -105,13 +105,13 @@ CXCL13/B-cell and IFNG/macrophage spatial results are neighbourhood associations
 
 The tested full-analysis platform is macOS arm64 on an Apple M4 Max with 48 GB RAM. Python environments and package versions are pinned; the R/Seurat conversion session and external-tool hashes are recorded. MAGMA uses the tested macOS x86_64 build through Rosetta 2. The supplied downloader/tool-hash check is macOS-specific; Linux requires an appropriate MAGMA binary/download adaptation. Cross-platform numerical identity has not been certified.
 
-The scientific validation began with empty analysis intermediates/results, byte-verified public primary inputs and frozen reference inputs. All 43 ordered invocations completed. Independent branches were scheduled within the same clean project; any reuse was checked against exact code/input/output hashes. The recorded 2.78-hour elapsed run is platform-specific. Document restructuring and styling revisions do not rerun scientific calculations.
+The scientific validation began with empty analysis intermediates/results, byte-verified public primary inputs and frozen reference inputs. All 43 ordered invocations completed. Independent branches were scheduled within the same clean project; any reuse was checked against exact code/input/output hashes. The recorded 2.78-hour elapsed run is platform-specific. 
 
 The frozen reference archive preserves API/GMT/eQTL inputs, including Open Targets 26.09, with an archive hash and 1,904 per-file checks. Primary raw inputs have a 391-file hash record. The complete submission ZIP includes the frozen references but omits large primary raw files and intermediate models. A Git checkout restores the same pinned reference asset; large public inputs are fetched by the documented downloader.
 
-Install the two analysis environments, then use `bash scripts/verify_quick.sh` for a non-mutating extracted-package check. Full reconstruction uses `bash scripts/00_download.sh` followed by `bash scripts/run_all.sh`. Quick verification previously reproduced 112 result and 15 processed tables and regenerated all six figures in an isolated directory. Scientific-table equality is retained across document-only revisions; the final package manifest and release-download check accompany each frozen version.
+Install the two analysis environments, then use `bash scripts/verify_quick.sh` for a non-mutating extracted-package check. Full reconstruction uses `bash scripts/00_download.sh` followed by `bash scripts/run_all.sh`. Quick verification previously reproduced 112 result and 15 processed tables and regenerated all six figures in an isolated directory. The manifest records the size and checksum of each archived file.
 
-### Availability and limitations ledger
+### Available results
 
 | Output | Status | Main qualification |
 |---|---|---|
@@ -123,6 +123,6 @@ Install the two analysis environments, then use `bash scripts/verify_quick.sh` f
 | Chromatin-before-RNA timing and drug efficacy | Unavailable | Cross-sectional associations and single instruments cannot establish them |
 | Synovial-fluid and NSCLC transfer | Exploratory | Pooled therapies, unavailable response labels and negative primary survival tests |
 
-### Where to find the evidence
+### Data and code locations
 
-`docs/sources.tsv` holds provenance/access terms. `docs/evidence_map.tsv` defines scores. `data/processed/` and `results/tables/` contain features/results. `results/figures/main/` contains six original figure sets and source hashes; `presentation/GeNeDis2026_figure_atlas.pdf` is the separate figure atlas. Environments, raw/reference manifests and `logs/` support reconstruction. `docs/REVISION_VALIDATION.md` and the retained historical QC record document analysis history; they are supplementary records, not the main scientific narrative.
+`docs/sources.tsv` holds provenance/access terms. `docs/evidence_map.tsv` defines scores. `data/processed/` and `results/tables/` contain features/results. `results/figures/main/` contains six original figure sets and source hashes; `presentation/GeNeDis2026_figure_atlas.pdf` is the separate figure atlas. Environments, raw/reference manifests and `logs/` support reconstruction. `docs/REVISION_VALIDATION.md` and the retained historical QC record document analysis history; they record the original analyses and subsequent corrections.

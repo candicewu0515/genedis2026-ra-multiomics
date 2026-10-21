@@ -4,11 +4,11 @@
   "documents": {
     "report": {
       "pages": 5,
-      "sha256": "25c305a264f9fd5d37ac4932c07d64865faa87b82b1e2a6e8a554dfc954d3f60"
+      "sha256": "6b9b3270379c69e49a4f6af8efb1f780d3b4bcd4eef97f199401df11eab07e25"
     },
     "methods_QC": {
       "pages": 5,
-      "sha256": "49cdf3e8e1a5580c238bff80792cad8a03a1b674f095d563fb08ce77ea702b0e"
+      "sha256": "031d559982bc4bd39ef6f0ab9da19a97a60e65b276e601bdf251f22b52b9c566"
     }
   }
 }

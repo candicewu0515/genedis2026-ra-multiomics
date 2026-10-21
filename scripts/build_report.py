@@ -43,7 +43,7 @@ class Workflow(Flowable):
  def __init__(self):super().__init__();self.width=WIDTH;self.height=80
  def draw(self):
   c=self.canv;gap=13;bw=(WIDTH-2*gap)/3;bh=61
-  items=[('Open resources','RNA/ATAC · bulk · spatial','Protein · GWAS/QTL'),('Cohort-specific analysis','QC and measured features','Integration and model baselines'),('Evidence and delivery','Tables and source-linked results','Figure atlas and follow-up hypotheses')]
+  items=[('Open resources','RNA/ATAC · bulk · spatial','Protein · GWAS/QTL'),('Cohort processing','Cell and donor QC','Measured genes and state scores'),('Cross-cohort comparisons','Signature and association tests','Model baselines and random controls')]
   for i,(title,a,b) in enumerate(items):
    x=i*(bw+gap);c.setFillColor(colors.HexColor('#F0F0F0'));c.setStrokeColor(colors.HexColor('#AAAAAA'));c.setLineWidth(.45);c.roundRect(x,12,bw,bh,4,fill=1,stroke=1)
    c.setFillColor(INK);c.setFont('ReportArialBold',9.0);c.drawCentredString(x+bw/2,55,title)

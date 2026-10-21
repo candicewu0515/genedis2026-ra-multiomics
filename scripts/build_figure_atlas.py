@@ -23,9 +23,9 @@ tmp=Path(tempfile.mkdtemp(prefix='genedis_report_'))
 guide=json.loads((fig/'panel_guide.json').read_text())
 titles={'Fig1':'Study design, published atlas states and integration baselines',
 'Fig2':'Genetic association and spatial neighbourhoods',
-'Fig3':'Distinct discovery, IFN-programme and protein measurements',
+'Fig3':'Macrophage and IFN scores across tissue assays',
 'Fig4':'Candidate regulatory and expression-associated genetic evidence',
-'ExtData_Fig1':'Baselines, robustness and boundary findings',
+'ExtData_Fig1':'Classification, robustness and transfer tests',
 'ExtData_Fig2':'Exploratory synovial-fluid and NSCLC extensions'}
 writer=PdfWriter();W,H=A4;left=38;top=H-42;width=W-2*left
 for name,panels in guide.items():

@@ -31,9 +31,9 @@ def figure(name,title,notes):
  sl.shapes.add_picture(str(p),Inches(5.25+(7.7-w)/2), Inches(.9+(6.12-h)/2),width=Inches(w),height=Inches(h))
  return sl
 sl=slide('RA multi-omics evidence map','Individual submission')
-box(sl,.6,1.25,11.8,1.55,'Genetic association, macrophage states\nand the limits of evidence in public datasets',32,INK,True)
+box(sl,.6,1.25,11.8,1.55,'Genetic risk, macrophage states\nand tissue inflammation in rheumatoid arthritis',32,INK,True)
 box(sl,.65,3.35,11.6,1.1,'Xia Wu\nPhD student, University of Iowa\nxwu76@uiowa.edu',22,HEADING)
-box(sl,.65,5.65,11.5,.9,'Open data · Reproducible workflow · Nature-style data figures\nExploratory RA integration with an NSCLC extension',18,GREY)
+box(sl,.65,5.65,11.5,.9,'Paired RNA/ATAC · Bulk RNA · Spatial transcriptomics · Proteomics\nRA synovial tissue, with synovial-fluid and NSCLC comparisons',18,GREY)
 sl=slide('The scores used in this study','Score definitions')
 entries=[
  ('S1 · 15 discovery genes','From sorted active/remission macrophages. Used for exploratory transfer and anti-TNF change.'),
@@ -52,27 +52,27 @@ figure('Fig2','Genetic enrichment and spatial neighbourhood associations',[
  'S-LDSC and scDRS are complementary methods that use the same GWAS traits.',
  'More B cells sit near CXCL13-positive T cells in 4/4 sections.',
  'The empirical global-permutation P does not account for label clustering or tissue compartments.'])
-figure('Fig3','Separate discovery, tissue and treatment evidence',[
+figure('Fig3','Macrophage signatures across tissue and treatment cohorts',[
  'S1 maps to M-6. Its donor inflammation and bulk RA/OA validation tests are negative.',
  'S2 shows spatial and bulk disease-stage associations.',
  'Protein points and test use the same donor averages: 6 RA versus 3 healthy.',
  'S1 falls in good responders, but the change is not significantly different from nonresponders.'])
-figure('Fig4','Candidate regulators and expression-associated genetic estimates',[
- 'TF screen: two donors with M-6 and BH-adjusted gene-label permutations. Two-donor uncertainty remains.',
+figure('Fig4','Regulatory candidates and genetic associations',[
+ 'RNA TF tests use BH adjustment across 464 factors. M-6-bearing units come from two donors.',
  'IRF5 colocalisation supports a shared association signal.',
  'Wald ratios cannot estimate drug efficacy or rule out pleiotropy.',
  'Abatacept binds CD80/CD86. IL6ST is not IL6R, the target of tocilizumab.'])
-figure('ExtData_Fig1','Baselines and boundary findings',[
+figure('ExtData_Fig1','Classification and unsuccessful transfer tests',[
  'Classifiers fit all preprocessing on training data only and use repeated nested CV.',
  '199 label permutations repeat the same tuning and resampling as the observed model.',
  'Random controls match the number of retained prioritised genes in each training fold.',
- 'Limits in blood transfer, response prediction, deconvolution and trajectory are all reported.'])
+ 'Blood transfer, response prediction, deconvolution and trajectory analyses did not support further claims.'])
 figure('ExtData_Fig2','Exploratory transfer to synovial fluid and NSCLC',[
  'Fluid: 9 paired patients, two therapies pooled. No response labels are available.',
  'The M-6-like fraction falls in 7/9 patients, but the paired pseudobulk-score test is not significant.',
  'LuCA: the M-6 score is higher in tumour in 20/29 paired donors.',
  'Tph coupling P = 0.092. The primary TCGA survival tests are negative.'])
-sl=slide('Internal classifiers: final held-out performance','Nested CV')
+sl=slide('Classifier performance in nested cross-validation','Nested CV')
 df=pd.read_csv(root/'results/tables/classifier_baselines.tsv',sep='\t')
 names=['F0 covariates','F1 eight programme scores','F2 top-30 prioritised genes','F3 genome-wide elastic net']
 subtitle=box(sl,.6,.9,12,.75,'Mean AUC across 25 outer folds. All fitted transformations stay inside the training folds.\nF0 covariates · F1 programmes · F2 prioritised genes · F3 genome-wide',16,GREY)
@@ -85,10 +85,10 @@ for i,(task,g) in enumerate(df.groupby('task',sort=False)):
  random_note=g[g.model.str.startswith('F4')]['note'].iloc[0].split(';')[0]
  box(sl,x,5.1,5.7,1.1,note+'\n'+random_note,16,EMPHASIS)
 box(sl,.65,6.3,12,.5,'SD across correlated folds is not a confidence interval. No external clinical validation.',18,GREY)
-sl=slide('What the data support','Interpretation')
-box(sl,.65,1.15,12,5.5,'A reproducible map of complementary RA associations and candidate targets for follow-up.\nScore definitions, cohort independence and strength of evidence are kept separate.\nPublished states and original discoveries are clearly credited to their sources.\nCausal regulation, therapeutic efficacy and clinical prediction need further validation.',26)
-sl=slide('Reproducibility and submission contents','Validation')
-box(sl,.65,1.05,12,5.9,'The full pipeline was rerun from raw inputs in a separate project. Run logs and a comparison report come with the submission.\nSaved copies of the API/GMT/eQTL inputs keep the reference version, including Open Targets 26.09.\nA quick check verifies hashes, reruns three small analyses and draws six figures without the large raw/interim data.\nREADME · Sources · Code · Processed tables · QC report · Limits · Presentation · Manifest',23)
+sl=slide('Main findings','Interpretation')
+box(sl,.65,1.15,12,5.5,'RA heritability is enriched in T-cell chromatin; spatial and protein measurements show IFN-associated tissue patterns.\nThe S1 macrophage signature fails independent inflammation and bulk RA/OA tests.\nPrioritised genes do not outperform matched random gene sets in either classification task.\nShared samples and limited donor numbers restrict replication. Mechanisms and clinical utility remain untested.',26)
+sl=slide('Reproducing the analyses','Validation')
+box(sl,.65,1.05,12,5.9,'Full run: 43 ordered invocations in a clean analysis directory. Environments and external-tool versions are recorded.\nThe reference snapshot includes API/GMT/eQTL inputs and Open Targets 26.09, with per-file checksums.\nThe extracted-package check reproduced 112 result tables, 15 processed tables and six figures.\nSee README.md for installation and run commands; docs/sources.tsv lists accessions and access terms.',23)
 sl=slide('Sources and contact','Provenance')
 box(sl,.65,1.1,12,5.7,'Gupta et al., Nature Genetics 2023: GSE243917 atlas and author-defined states.\nAlivernini et al., Nature Medicine 2020: E-MTAB-8322 discovery cohort.\nGSE198520 / GSE89408: independent bulk cohorts.\nGSE347958 / GSE347797 / PXD062696: shared spatial/protein cohort.\nGSE296117 / LuCA / TCGA: exploratory extensions.\nAll accessions and licences: docs/sources.tsv\nXia Wu · PhD student, University of Iowa · xwu76@uiowa.edu',20)
 import datetime
