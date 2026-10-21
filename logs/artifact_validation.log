@@ -1,10 +1,10 @@
 {
   "status": "PASS",
   "checks": [
-    "PPTX embeds exactly the accepted six PNGs, verified by SHA-256",
+    "PPTX contains exactly the six final PNGs (SHA-256 checked)",
     "All 12 slides have objects within the slide bounds",
-    "Report 11 A4 pages; correct contact; no unfinished markers; six vector figure/caption pages",
-    "Six accepted figure PDFs and 600-dpi PNGs are readable"
+    "Five-page technical report and five-page Methods/QC appendix; correct contact; key model results; no internal audit in main narrative; separate six-page figure atlas",
+    "Six final figure PDFs and 600-dpi PNGs are readable"
   ],
   "figure_png_sha256": {
     "Fig1": "26cd27ff6c63d2e7434d7ede787223d428f1166cf3630280e77877fee40607df",

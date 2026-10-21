@@ -1,5 +1,6 @@
 # QC and model report: RA synovium single-cell module
 
+**Reading guide:** This is the retained detailed analysis history. Read `docs/methods_and_QC.md` or `presentation/GeNeDis2026_methods_QC.pdf` for the current consolidated methods/QC appendix, and `presentation/GeNeDis2026_submission_report.pdf` for the competition technical report.
 Generated 2026-10-18 and extended 2026-10-19/20 (sections 19–35) from the pipeline in `scripts/`; logs are in `logs/`.
 Section 36 item 16 describes an earlier run. The current revision and a fresh validation are recorded in docs/REVISION_VALIDATION.md. Where that record differs from the older runtime or classifier statements below, the record takes precedence. The current figure set is the Nature-inspired redesign; older diagnostic images have been removed. The integrated narrative and main figures are in `docs/story.md` and `results/figures/main/`.
 Each result has one of three status tags: **ready** (analysis available; not a claim of clinical validity), **exploratory** (direction-consistent but
